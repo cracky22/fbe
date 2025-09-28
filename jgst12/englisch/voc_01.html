@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Media Vokabeltrainer</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(rgba(10,10,30,0.85), rgba(10,10,30,0.95)), url('https://picsum.photos/1920/1080?blur=3') fixed;
+      background-size: cover;
+      color: #f0f0f0;
+      overflow-x: hidden;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #fff;
+      text-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+    }
+    .card {
+      background: rgba(30,30,40,0.85);
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+      margin: 1rem auto;
+      padding: 1.5rem;
+      width: 80%;
+      max-width: 600px;
+      transition: all 0.3s ease;
+    }
+    .card:hover {
+      transform: scale(1.02);
+    }
+    .solution {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.5s ease;
+      color: #ccc;
+      margin-top: 10px;
+    }
+    .card:active .solution,
+    .card:focus-within .solution {
+      max-height: 200px;
+    }
+    a {
+      display: block;
+      text-align: center;
+      margin: 2rem auto;
+      color: #66ccff;
+      text-decoration: none;
+      font-size: 1.2rem;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .quiz-container {
+      display: none;
+      text-align: center;
+      padding: 2rem;
+    }
+    .quiz-card {
+      background: rgba(40,40,60,0.85);
+      border-radius: 12px;
+      margin: 1rem auto;
+      padding: 1.5rem;
+      max-width: 600px;
+      box-shadow: 0 8px 20px rgba(0,0,0,.6);
+    }
+    .option {
+      display: block;
+      background: rgba(80,80,120,0.7);
+      margin: .5rem 0;
+      padding: .8rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .option:hover { background: rgba(100,100,160,0.9); }
+    .correct { background: rgba(50,150,80,0.9) !important; }
+    .wrong { background: rgba(180,50,50,0.9) !important; }
+    button {
+      margin-top: 1.5rem;
+      padding: .7rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      background: #3498db;
+      color: white;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+    button:hover { background: #1d6fa5; }
+  </style>
+</head>
+<body>
+  <header>Digital Media Landscape - Lernkarten</header>
+
+  <div id="flashcards"></div>
+
+  <a href="#" onclick="startQuiz()">Zum Trainingsmodus ➝</a>
+  <a href="/" style="display:block; text-align:center; margin-bottom:2rem; color:#aaa; text-decoration:none;">← Zurück zur Dateiliste</a>
+
+  <div id="quiz" class="quiz-container">
+    <h2>Trainingsmodus</h2>
+    <div id="quiz-card" class="quiz-card"></div>
+    <button onclick="nextQuestion()">Nächste Frage</button>
+    <button onclick="resetProgress()">Reset</button>
+  </div>
+
+  <script>
+    const vocab = [
+      {en:"access to information", de:"Zugang zu Informationen", info:"the freedom to get information"},
+      {en:"broadsheet", de:"(seriöse) Tageszeitung", info:"e.g. The Times, Süddeutsche Zeitung"},
+      {en:"in-depth and serious coverage", de:"gründliche und seriöse Berichterstattung", info:"opposite: gossip, shallow reporting"},
+      {en:"tabloid", de:"Boulevardzeitung", info:"e.g. The Sun, Bild"},
+      {en:"current affairs", de:"aktuelles Zeitgeschehen", info:"news stories that are happening right now"},
+      {en:"in real time", de:"in Echtzeit", info:"at the same time as events"},
+      {en:"to go viral", de:"sich rasant (im Internet) verbreiten", info:"to become popular very quickly"},
+      {en:"to shape public opinion", de:"die öffentliche Meinung formen", info:"to influence ideas about a topic"},
+      {en:"spread of fake news", de:"Verbreitung von Falschinformationen", info:"distribution of incorrect information"},
+      {en:"misinformation", de:"Fehlinformationen", info:"incorrect or misleading information"},
+      {en:"polarization", de:"Polarisierung", info:"having opposite opinions"},
+      {en:"algorithm", de:"Algorithmus", info:"e.g., Sum = S1+S2+S3"},
+      {en:"echo chamber", de:"Echokammer", info:"group of people with same opinions"},
+      {en:"bias", de:"(politische) Einstellung, Vorurteil, Tendenz", info:"the ideas and opinions we already have"},
+      {en:"to monetize sth", de:"aus etw ein Einkommen erzielen", info:"to make money from sth"},
+      {en:"privacy", de:"Privatsphäre", info:"keeping information to yourself"},
+      {en:"cyber security", de:"Cybersicherheit", info:"protecting systems from attacks"},
+      {en:"data", de:"Daten", info:"facts and statistics"},
+      {en:"screen time", de:"Bildschirmzeit", info:"amount of time spent online"},
+      {en:"online addiction", de:"Internet-Sucht", info:"I could not stop checking my phone"},
+      {en:"skills", de:"Fähigkeiten, Kenntnisse", info:"knowledge and abilities"},
+      {en:"cheating", de:"Betrug, Täuschung", info:"opposite: playing fair"},
+      {en:"plagiarism", de:"Plagiate, Diebstahl geistigen Eigentums", info:"copying sb else’s work"},
+      {en:"attention span", de:"Aufmerksamkeitsspanne", info:"how long sb can concentrate"},
+      {en:"critical thinking", de:"kritisches Denken", info:"understanding based on facts"},
+      {en:"to navigate sth", de:"sich in etw zurechtfinden", info:"to find your way through sth"},
+    ];
+    
+    const flashcardsContainer = document.getElementById("flashcards");
+    vocab.forEach(v => {
+      const card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML = `<strong>${v.en}</strong>
+        <div class="solution"><em>${v.de}</em><br>${v.info}</div>`;
+      flashcardsContainer.appendChild(card);
+    });
+
+    let quizIndex = 0;
+    let wrongAnswers = JSON.parse(localStorage.getItem('wrongAnswers')) || [];
+
+    function startQuiz() {
+      document.getElementById('flashcards').style.display = "none";
+      document.querySelector('a').style.display = "none";
+      document.getElementById('quiz').style.display = "block";
+      nextQuestion();
+    }
+
+    function nextQuestion() {
+      let pool = wrongAnswers.length > 0 ? wrongAnswers : [...Array(vocab.length).keys()];
+      quizIndex = pool[Math.floor(Math.random()*pool.length)];
+      let correct = vocab[quizIndex];
+      let options = [correct];
+      while (options.length < 3) {
+        let rnd = vocab[Math.floor(Math.random()*vocab.length)];
+        if (!options.includes(rnd)) options.push(rnd);
+      }
+      options.sort(() => Math.random()-0.5);
+      
+      const quizCard = document.getElementById("quiz-card");
+      quizCard.innerHTML = `<h3>${correct.de}<br><small>${correct.info}</small></h3>`;
+      options.forEach(opt => {
+        let div = document.createElement("div");
+        div.className="option";
+        div.textContent=opt.en;
+        div.onclick = ()=> {
+          if(opt.en===correct.en){
+            div.classList.add("correct");
+            wrongAnswers = wrongAnswers.filter(i=>i!==quizIndex);
+          } else {
+            div.classList.add("wrong");
+            if(!wrongAnswers.includes(quizIndex)) wrongAnswers.push(quizIndex);
+          }
+          localStorage.setItem('wrongAnswers', JSON.stringify(wrongAnswers));
+        }
+        quizCard.appendChild(div);
+      });
+    }
+
+    function resetProgress(){
+      wrongAnswers=[];
+      localStorage.removeItem('wrongAnswers');
+      alert("Progress zurückgesetzt!");
+    }
+  </script>
+</body>
+</html>
