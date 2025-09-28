@@ -1,0 +1,357 @@
+[
+  {
+    "en": "destination",
+    "de": "Reiseziel, Urlaubsort",
+    "info": "the place where sb/sth is going"
+  },
+  {
+    "en": "sunseeker",
+    "de": "Sonnenhungrige/r, Sonnenanbeter/in",
+    "info": "a person who enjoys warm weather"
+  },
+  {
+    "en": "culture vulture",
+    "de": "Kulturfanatiker/in, Kulturliebhaber/in",
+    "info": "a person who is interested in culture"
+  },
+  {
+    "en": "economic miracle",
+    "de": "Wirtschaftswunder",
+    "info": "an unexpected period of economic development and improvement"
+  },
+  {
+    "en": "neighbouring",
+    "de": "Nachbar-, angrenzend",
+    "info": "next to, surrounding"
+  },
+  {
+    "en": "air travel",
+    "de": "Flugreisen",
+    "info": "going from place to place by plane"
+  },
+  {
+    "en": "to give rise to sth",
+    "de": "Anlass zu etw geben, etw erzeugen",
+    "info": "to cause sth, to generate sth"
+  },
+  {
+    "en": "package holiday",
+    "de": "Pauschalurlaub",
+    "info": "a vacation with all travel, food and accommodation organised by a travel agent"
+  },
+  {
+    "en": "tour operator",
+    "de": "Reiseveranstalter/in",
+    "info": "a business which organizes travel, food, accommodation etc. for travelers"
+  },
+  {
+    "en": "in search of the sun",
+    "de": "sonnenhungrig",
+    "info": "wanting to spend time in the sunshine"
+  },
+  {
+    "en": "vacation",
+    "de": "Urlaub",
+    "info": "holiday"
+  },
+  {
+    "en": "a welcome change",
+    "de": "eine willkommene Abwechslung",
+    "info": "sth pleasant which is different to one's normal life"
+  },
+  {
+    "en": "a change of scenery",
+    "de": "Tapetenwechsel",
+    "info": "being in a different location"
+  },
+  {
+    "en": "to escape from sth",
+    "de": "einer Sache entfliehen",
+    "info": "to get away from sth"
+  },
+  {
+    "en": "to be keen to do sth",
+    "de": "etw unbedingt tun wollen",
+    "info": "to really want to do sth"
+  },
+  {
+    "en": "skiing holiday",
+    "de": "Skiurlaub",
+    "info": "vacation focused on skiing at resorts or mountainous areas"
+  },
+  {
+    "en": "to experience a new culture",
+    "de": "eine neue Kultur erleben",
+    "info": "to learn about different languages, people, customs, etc."
+  },
+  {
+    "en": "first-hand",
+    "de": "persönlich, mit eigenen Augen",
+    "info": "direct experience"
+  },
+  {
+    "en": "individual trip",
+    "de": "Individualreise",
+    "info": "a journey one organises oneself"
+  },
+  {
+    "en": "low-budget",
+    "de": "Billig-, günstig",
+    "info": "as cheap as possible"
+  },
+  {
+    "en": "backpacking trip",
+    "de": "Rucksackreise",
+    "info": "low cost, independent travel"
+  },
+  {
+    "en": "luxury spa holiday",
+    "de": "Luxus-Wellnessurlaub",
+    "info": "expensive wellness vacation"
+  },
+  {
+    "en": "mini-break",
+    "de": "Kurzurlaub",
+    "info": "a short vacation of a few days"
+  },
+  {
+    "en": "tent",
+    "de": "Zelt",
+    "info": "e.g. When we go camping we sleep in a tent."
+  },
+  {
+    "en": "self-catering apartment",
+    "de": "Ferienwohnung (für Selbstversorger)",
+    "info": "holiday flat where one can do one's own cooking"
+  },
+  {
+    "en": "all-inclusive hotel resort",
+    "de": "All-inclusive-Hotel",
+    "info": "hotel which serves breakfast, lunch and dinner"
+  },
+  {
+    "en": "travel agent",
+    "de": "Reisebüro",
+    "info": "a person or company that arranges flights, hotels, etc. for people going on holiday"
+  },
+  {
+    "en": "transport",
+    "de": "Beförderung, Verkehrsmittel",
+    "info": "e.g. bus, train, car, etc"
+  },
+  {
+    "en": "roughly",
+    "de": "ungefähr",
+    "info": "approximately, almost"
+  },
+  {
+    "en": "trillion",
+    "de": "Billion",
+    "info": "1,000,000,000,000"
+  },
+  {
+    "en": "mass tourism",
+    "de": "Massentourismus",
+    "info": "lots and lots of tourists in one place"
+  },
+  {
+    "en": "vital",
+    "de": "wesentlich, lebensnotwendig, unverzichtbar",
+    "info": "absolutely necessary"
+  },
+  {
+    "en": "source of income",
+    "de": "Einkommensquelle",
+    "info": "where sb's money comes from, e.g. work, investment, inheritance, etc."
+  },
+  {
+    "en": "economic growth",
+    "de": "Wirtschaftswachstum",
+    "info": "increase in wealth"
+  },
+  {
+    "en": "service industry",
+    "de": "Dienstleistungsbranche",
+    "info": "e.g. hospitality, gastronomy, tourism"
+  },
+  {
+    "en": "to cover sth",
+    "de": "etw abdecken, sich über etw erstrecken",
+    "info": "to include sth"
+  },
+  {
+    "en": "hotel chain",
+    "de": "Hotelkette",
+    "info": "e.g. Hilton, Radisson, Holiday Inn, etc"
+  },
+  {
+    "en": "cruise operator",
+    "de": "Kreuzfahrtreederei",
+    "info": "e.g. AIDA"
+  },
+  {
+    "en": "insurance",
+    "de": "Versicherung",
+    "info": "financial protection against loss or damage"
+  },
+  {
+    "en": "tour guide",
+    "de": "Reiseleiter/in, Fremdenführer/in",
+    "info": "sb who takes people on a trip or sightseeing"
+  },
+  {
+    "en": "service personnel",
+    "de": "Servicepersonal",
+    "info": "e.g. waiters, cleaners, receptionists, etc"
+  },
+  {
+    "en": "(holiday) resort",
+    "de": "Urlaubsort, Ferienort, Hotelanlage",
+    "info": "place to go on vacation"
+  },
+  {
+    "en": "recreational facilities",
+    "de": "Freizeiteinrichtungen, Erholungsmöglichkeiten",
+    "info": "e.g. hotels, swimming pool, theme parks, etc."
+  },
+  {
+    "en": "to cater to sb's needs",
+    "de": "jds Bedarf befriedigen, jds Bedürfnissen gerecht werden",
+    "info": "to fulfil sb's needs, to look after sb"
+  },
+  {
+    "en": "precious",
+    "de": "kostbar, wertvoll",
+    "info": "valuable"
+  },
+  {
+    "en": "local resources",
+    "de": "lokale Ressourcen",
+    "info": "features and factors of a particular area"
+  },
+  {
+    "en": "to create waste and pollution",
+    "de": "Müll und Umweltverschmutzung erzeugen",
+    "info": "to make the surroundings dirty"
+  },
+  {
+    "en": "to invest in the tourism infrastructure",
+    "de": "in die touristische Infrastruktur investieren",
+    "info": "to put money into the tourism industry"
+  },
+  {
+    "en": "to damage the landscape",
+    "de": "die Landschaft schädigen",
+    "info": "e.g. to cut down trees and create piles of garbage"
+  },
+  {
+    "en": "to conserve the natural heritage",
+    "de": "das Naturerbe bewahren/schützen",
+    "info": "<> to damage nature"
+  },
+  {
+    "en": "to maintain the biodiversity",
+    "de": "die Artenvielfalt erhalten",
+    "info": "to take care of all types of life on earth"
+  },
+  {
+    "en": "serious",
+    "de": "ernst, ernsthaft",
+    "info": "e.g. Why are you laughing? Please be serious."
+  },
+  {
+    "en": "way of life",
+    "de": "Lebensweise, Lebensart",
+    "info": "culture, traditions, lifestyle"
+  },
+  {
+    "en": "environmental damage",
+    "de": "Umweltschädigung, -schäden",
+    "info": "e.g. air and water pollution, industrial waste"
+  },
+  {
+    "en": "emission",
+    "de": "Ausstoß, Emission",
+    "info": "the production and output of sth"
+  },
+  {
+    "en": "greenhouse gases",
+    "de": "Treibhausgase",
+    "info": "e.g. carbon dioxide, methane, etc."
+  },
+  {
+    "en": "green tourism",
+    "de": "sanfter/nachhaltiger Tourismus",
+    "info": "tourism that does not harm the environment"
+  },
+  {
+    "en": "umbrella term",
+    "de": "Oberbegriff, Sammelbegriff",
+    "info": "a term covering a wide variety or category of things"
+  },
+  {
+    "en": "ecotourism",
+    "de": "Ökotourismus",
+    "info": "responsible travel to natural areas"
+  },
+  {
+    "en": "nature tourism",
+    "de": "Naturtourismus",
+    "info": "visiting areas to experience nature"
+  },
+  {
+    "en": "responsible tourism",
+    "de": "verantwortungsvoller Tourismus",
+    "info": "tourism with minimal negative impact"
+  },
+  {
+    "en": "to reduce sb's carbon footprint",
+    "de": "jds CO2-Bilanz reduzieren",
+    "info": "to personally cause as little harm as possible to the environment"
+  },
+  {
+    "en": "to save resources",
+    "de": "Ressourcen schonen",
+    "info": "e.g. not use too much water, not damage forests, etc."
+  },
+  {
+    "en": "to show respect for sb/sth",
+    "de": "jdn/etw respektieren",
+    "info": "to honour and appreciate sth"
+  },
+  {
+    "en": "tradition",
+    "de": "Tradition, Überlieferung, Brauch",
+    "info": "e.g. celebrating workers on 1 May"
+  },
+  {
+    "en": "as far as sb/sth is concerned",
+    "de": "was jdn/etw angeht",
+    "info": "e.g. As far as I'm concerned, this is the worst government ever."
+  },
+  {
+    "en": "backpacking",
+    "de": "Rucksackreisen",
+    "info": "travelling with only a rucksack as luggage"
+  },
+  {
+    "en": "cave",
+    "de": "Höhle",
+    "info": "n caveman"
+  },
+  {
+    "en": "to be on the lookout for sth",
+    "de": "nach etw Ausschau halten",
+    "info": "e.g. Make sure to be on the lookout for bears during your hike!"
+  },
+  {
+    "en": "aim",
+    "de": "Ziel, Zweck",
+    "info": "goal, purpose"
+  },
+  {
+    "en": "sustainable",
+    "de": "nachhaltig",
+    "info": "n sustainability"
+  }
+]
