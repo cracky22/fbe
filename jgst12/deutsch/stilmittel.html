@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Rhetorische Mittel – Lernkarten & Training</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    /* Allgemeines Layout */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: linear-gradient(180deg, #232526 45%, #414345 55%);
+      color: #eaeaea;
+      transition: background 0.4s;
+      min-height: 100vh;
+    }
+    .parallax {
+      position: relative;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 180px;
+      opacity: 0.7;
+      z-index: 1;
+    }
+    .parallax.one { background-image: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=2000&q=80'); }
+    .parallax.two { background-image: url('https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1800&q=80'); }
+    .container {
+      position: relative;
+      max-width: 900px;
+      margin: -90px auto 2rem auto;
+      padding: 2rem;
+      background: rgba(40,40,50,0.92);
+      border-radius: 24px;
+      box-shadow: 0 10px 32px rgba(10, 10, 26, 0.28);
+      z-index: 2;
+      min-height: 60vh;
+      backdrop-filter: blur(2px);
+    }
+    h1, h2 {
+      text-align: center;
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      margin-bottom: 1rem;
+      color: #d5cdf9;
+      text-shadow: 0 0 8px rgba(120,100,200,.2);
+    }
+    .dark-toggle {
+      position: fixed;
+      top: 21px;
+      right: 36px;
+      z-index: 1000;
+      background: rgba(35,35,40,0.95);
+      color: #c8c8fd;
+      border: none;
+      border-radius: 18px;
+      padding: 6px 21px;
+      box-shadow: 0 2px 8px rgba(18,18,18,.4);
+      cursor: pointer;
+      font-size: 1rem;
+      transition: background .25s;
+    }
+    .flashcard {
+      background: rgba(50,52,55,0.95);
+      margin: 1.3rem 0;
+      padding: 1rem 1.2rem;
+      border-radius: 14px;
+      box-shadow: 0 4px 16px rgba(45,53,75,0.17);
+      transition: box-shadow 0.25s;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .flashcard .answer {
+      max-height: 0;
+      opacity: 0;
+      transition: max-height 0.4s, opacity 0.35s;
+      overflow: hidden;
+    }
+    .flashcard.scrolled .answer {
+      max-height: 400px;
+      opacity: 1;
+      margin-top: .5rem;
+    }
+    .flashcard .question {
+      font-weight: 500;
+      letter-spacing: 0.01em;
+      font-size: 1.08rem;
+    }
+    .flashcard .answer {
+      font-size: .97rem;
+      color: #b8ffe3;
+      background: rgba(25,35,40,0.28);
+      padding: .6rem .7rem;
+      border-radius: 10px;
+    }
+    .section {
+      margin: 2.5rem 0 0 0;
+      padding-top: 2.5rem;
+      border-top: 1.5px solid #444;
+    }
+    .btn {
+      background: #5144b8;
+      color: #fff;
+      border: none;
+      border-radius: 14px;
+      padding: 9px 22px;
+      margin: .9rem .15rem;
+      font-size: 1rem;
+      cursor: pointer;
+      box-shadow: 0 3px 12px rgba(29,32,44,0.12);
+      transition: background 0.2s;
+    }
+    .btn:hover, .btn.active {
+      background: #36219f;
+    }
+    .btn.reset {
+      background: #73424d;
+      color: #f3bab6;
+    }
+    .btn.correct {
+      background: #27a772;
+      color: #e6ffe6;
+      box-shadow: 0 3px 18px rgba(39, 167, 114, 0.21);
+    }
+    .btn.incorrect {
+      background: #b04444;
+      color: #fddede;
+      box-shadow: 0 3px 18px rgba(182, 44, 44, 0.18);
+    }
+    .training-box {
+      background: rgba(38,38,52,.98);
+      box-shadow: 0 4px 28px rgba(25,27,35,0.25);
+      border-radius: 19px;
+      padding: 2rem 1.2rem;
+      max-width: 620px;
+      margin: 2.5rem auto;
+      color: #e1e8f9;
+      backdrop-filter: blur(1px);
+    }
+    .training-options .btn {
+      display: block;
+      width: 100%;
+      margin: .35rem auto;
+      text-align: left;
+      font-size: 1.09rem;
+    }
+    .training-status {
+      text-align: center;
+      margin-top: 1.2rem;
+      font-weight: 500;
+      font-size: 1.03rem;
+    }
+    @media (max-width: 700px) {
+      .container { max-width: 97vw; padding: 1.3rem; }
+      .training-box { padding: 1.2rem .5rem;}
+    }
+    /* Darkmode: body.dark */
+    body.dark {
+      background: linear-gradient(180deg, #161729 55%, #322755 45%);
+      color: #d8dafb;
+    }
+    body.dark .container { background: rgba(30,24,45,0.89);}
+    body.dark .flashcard { background: rgba(28,22,40,0.99);}
+    body.dark .flashcard .answer { background: rgba(55,44,88,0.21); color: #d5ebfa;}
+    body.dark .btn { background: #3931a8; }
+    body.dark .btn:hover, body.dark .btn.active { background: #836cff;}
+    body.dark .training-box { background: rgba(24,24,40,0.96); color: #cfdef7;}
+    body.dark .btn.correct { background: #28997e;}
+    body.dark .btn.incorrect { background: #c07474;}
+    body.dark .btn.reset { background: #a06682; color: #ffd6e8;}
+
+  </style>
+</head>
+<body>
+  <button class="dark-toggle" onclick="toggleDarkMode()">Darkmode</button>
+  <div class="parallax one"></div>
+  <div class="container">
+    <h1>Rhetorische Mittel: Lernkarten & Training</h1>
+    <h2>Lernkarten: Rhetorische Figuren</h2>
+    <div id="flashcards">
+      <!-- Dynamisch generiert -->
+    </div>
+    <div class="section">
+      <a href="#training" class="btn">Training starten →</a>
+    </div>
+    <div id="training" class="section">
+      <h2>Trainingsmodus</h2>
+      <div id="trainingbox" class="training-box">
+        <!-- Dynamisch -->
+      </div>
+      <button class="btn reset" onclick="resetTraining()">Training zurücksetzen</button>
+      <div class="training-status" id="trainingStatus"></div>
+    </div>
+  </div>
+  <div class="parallax two"></div>
+
+  <script>
+    // Datenstruktur: rhetorische Mittel
+    const cards = [
+      // Wortfiguren
+      {name:"Ausruf", beispiel:"Wehe dem Besiegten!", beschreibung:"Ausdruck eines Affekts durch Ausrufezeichen.", wirkung:"eindringlich, gefühlsverstärkend"},
+      {name:"Emphase", beispiel:"Das ist wirklich entscheidend!", beschreibung:"Verstärkung durch Hervorhebung eines allgemeinen Begriffs.", wirkung:"betonend, emotionalisierend"},
+      {name:"Euphemismus", beispiel:"Heimgang für Tod", beschreibung:"Beschönigende Umschreibung negativer Begriffe.", wirkung:"abmildernd, verfälschend"},
+      {name:"Hyperbel", beispiel:"Das habe ich dir unendlich oft gesagt!", beschreibung:"Übersteigerung bis ins Unwahrscheinliche.", wirkung:"emotionalisierend, drastisch"},
+      {name:"Ironie", beispiel:"Das hast du ja wunderbar gemacht.", beschreibung:"Gegenteil des Gemeinten ausdrücken.", wirkung:"spöttisch, distanzierend"},
+      {name:"Litotes", beispiel:"Nicht übel!", beschreibung:"Untertreibung durch doppelte Verneinung.", wirkung:"eindringlich, abschwächend"},
+      {name:"Metapher", beispiel:"Das Herz der Demokratie", beschreibung:"Bedeutungsübertragung durch Bildlichkeit.", wirkung:"anschaulich, verdichtend"},
+      {name:"Metonymie", beispiel:"Die Krone für den König", beschreibung:"Ersetzung durch einen verwandten Ausdruck.", wirkung:"anschaulich, prägnant"},
+      {name:"Neologismus", beispiel:"Datenautobahn", beschreibung:"Neue Wortschöpfung.", wirkung:"kreativ, modernisierend"},
+      {name:"Oxymoron", beispiel:"Eiskalte Sonne", beschreibung:"Vereinigung widersprüchlicher Begriffe.", wirkung:"paradox, überraschend"},
+      {name:"Paronomasie", beispiel:"Der Rheinstrom ist geworden zu einem Peinstrom.", beschreibung:"Spiel mit ähnlich klingenden Wörtern.", wirkung:"witzig, prägnant"},
+      {name:"Periphrase", beispiel:"Der Allmächtige für Gott", beschreibung:"Umschreibung durch charakteristische Merkmale.", wirkung:"anschaulich, edel"},
+      {name:"Personifikation", beispiel:"Die Zeit läuft davon.", beschreibung:"Gegenstände oder Abstrakta handeln menschlich.", wirkung:"bildhaft, lebendig"},
+      {name:"Pleonasmus", beispiel:"Nasser Regen", beschreibung:"Doppelte Ausdrucksweise desselben Sinns.", wirkung:"betonend, teils überflüssig"},
+      {name:"Synonym", beispiel:"Ross und Pferd", beschreibung:"Sinnverwandte Wörter.", wirkung:"anschaulich, variierend"},
+      {name:"Synonymie", beispiel:"Er war aufgebracht, verärgert, wütend.", beschreibung:"Häufung verwandter Wörter.", wirkung:"intensivierend"},
+      {name:"Symbol", beispiel:"Taube für Frieden", beschreibung:"Zeichen, das über sich hinausweist.", wirkung:"verdichtend, universell"},
+      {name:"Wortspiel", beispiel:"Wer andern eine Grube gräbt, hat meistens ein Bauunternehmen.", beschreibung:"Doppeldeutigkeiten oder Lautähnlichkeiten.", wirkung:"spielerisch, pointiert"},
+      {name:"Dysphemismus", beispiel:"Frass für Essen", beschreibung:"Abwertende, grobe Ausdrucksweise.", wirkung:"verletzend, drastisch"},
+
+      // Satzfiguren
+      {name:"Anapher", beispiel:"Keiner ruft. Keiner hört. Keiner kommt.", beschreibung:"Wiederholung am Satzanfang.", wirkung:"eindringlich, rhythmisch"},
+      {name:"Chiasmus", beispiel:"Ich schlafe am Tag, in der Nacht wache ich.", beschreibung:"Spiegelstruktur von Teilsätzen.", wirkung:"kunstvoll, pointiert"},
+      {name:"Ellipse", beispiel:"Ende gut – alles gut.", beschreibung:"Auslassung grammatikalisch nötiger Wörter.", wirkung:"verdichtend, prägnant"},
+      {name:"Inversion", beispiel:"Immer wieder kommt er zurück.", beschreibung:"Umstellung der Wortfolge.", wirkung:"hervorhebend, feierlich"},
+      {name:"Klimax", beispiel:"Er kam, sah und siegte.", beschreibung:"Steigerung bis zum Höhepunkt.", wirkung:"spannungssteigernd"},
+      {name:"Parallelismus", beispiel:"Heiß ist die Liebe, kalt ist der Schnee.", beschreibung:"Strukturwiederholung.", wirkung:"klar, einprägsam"},
+      {name:"Parenthese", beispiel:"Wir alle – und das sage ich bewusst – sind verantwortlich.", beschreibung:"Einschub im Satz.", wirkung:"kommunizierend, unterbrechend"},
+      {name:"Vergleich", beispiel:"Stark wie ein Löwe", beschreibung:"Verbindung durch 'wie' oder 'als'.", wirkung:"anschaulich, erklärend"},
+      {name:"Antiklimax", beispiel:"Kaiser, König, Edelmann.", beschreibung:"Abnehmende Steigerung.", wirkung:"effektvoll, ironisch"},
+      {name:"Asyndeton", beispiel:"Er kam, sah, siegte.", beschreibung:"Reihung ohne Bindewörter.", wirkung:"verdichtend, beschleunigend"},
+      {name:"Polysyndeton", beispiel:"Und er lachte und weinte und schrie.", beschreibung:"Reihung mit mehrfacher Konjunktion.", wirkung:"verstärkend, verzögernd"},
+      {name:"Aposiopese", beispiel:"Wenn ich dich in die Finger kriege…!", beschreibung:"Abbruch der Rede.", wirkung:"dramatisch, spannungsvoll"},
+      {name:"Hypotaxe", beispiel:"Weil der Regen so heftig war, dass die Straßen überschwemmt wurden, konnten wir nicht gehen.", beschreibung:"Verschachtelter Satzbau.", wirkung:"differenziert, reflektiert"},
+      {name:"Parataxe", beispiel:"Er kam. Er sah. Er siegte.", beschreibung:"Nebeneinander kurzer Hauptsätze.", wirkung:"klar, prägnant, feierlich"},
+      {name:"Exclamatio", beispiel:"O tempora! O mores!", beschreibung:"Übertriebener Ausruf mit Pathos.", wirkung:"eindringlich, rhetorisch"},
+
+      // Weitere Mittel
+      {name:"Alliteration", beispiel:"Veni, vidi, vici.", beschreibung:"Gleicher Anlaut mehrerer Wörter.", wirkung:"einprägsam, verbindend"},
+      {name:"Anrede", beispiel:"Liebe Kommilitoninnen und Kommilitonen!", beschreibung:"Direkte Ansprache.", wirkung:"einbeziehend"},
+      {name:"Antithese", beispiel:"Krieg und Frieden, Arm und Reich", beschreibung:"Kontrastierende Begriffe.", wirkung:"zugespitzt, eindringlich"},
+      {name:"Enumeratio", beispiel:"Ärzte, Lehrer, Richter", beschreibung:"Aufzählung von Begriffen.", wirkung:"verstärkend, konkretisierend"},
+      {name:"Kette", beispiel:"Angst führt zu Hass. Hass führt zu Gewalt.", beschreibung:"Wiederholung des letzten Wortes.", wirkung:"verbindend, kreisend"},
+      {name:"Paradoxon", beispiel:"Das einzig Beständige ist der Wandel.", beschreibung:"Scheinwiderspruch.", wirkung:"überraschend, tiefgründig"},
+      {name:"Rhetorische Frage", beispiel:"Wer glaubt das schon?", beschreibung:"Frage ohne Antworterwartung.", wirkung:"einbeziehend, provokativ"},
+      {name:"Stilbruch", beispiel:"Alter Schwede, das war episch!", beschreibung:"Mischung verschiedener Sprachebenen.", wirkung:"unterhaltend, irritierend"},
+      {name:"Zitat", beispiel:"Ich denke, also bin ich.", beschreibung:"Autorität wird herangezogen.", wirkung:"begründend, eindringlich"},
+      {name:"Onomatopoesie", beispiel:"Kikeriki, Peng", beschreibung:"Lautmalerei.", wirkung:"anschaulich, lebendig"},
+      {name:"Epipher", beispiel:"Nicht jetzt. Später vielleicht. Morgen vielleicht.", beschreibung:"Wiederholung am Satzende.", wirkung:"eindringlich, rhythmisch"},
+      {name:"Anadiplose", beispiel:"Ich fürchte, er wird schreien. Schreien wird er lauter.", beschreibung:"Wiederaufnahme am Satzanfang.", wirkung:"verbindend, Steigerungseffekt"},
+      {name:"Hendiadyoin", beispiel:"Hab und Gut", beschreibung:"Verbindung gleichbedeutender Wörter.", wirkung:"verstärkend, feierlich"},
+      {name:"Tautologie", beispiel:"Immer und ewig", beschreibung:"Wiederholung des Gleichen.", wirkung:"betonend, bestärkend"},
+      {name:"Synekdoche", beispiel:"Ein Dach über dem Kopf", beschreibung:"Teil fürs Ganze oder umgekehrt.", wirkung:"verdichtend, anschaulich"},
+      {name:"Pars pro toto", beispiel:"Ein Dach für Haus", beschreibung:"Unterfall der Synekdoche.", wirkung:"konkretisierend"},
+      {name:"Totum pro parte", beispiel:"Deutschland siegte", beschreibung:"Ganzes fürs Einzelne.", wirkung:"verallgemeinernd"},
+      {name:"Archaismus", beispiel:"Oheim für Onkel", beschreibung:"Verwendung veralteter Wörter.", wirkung:"bildend, historisierend"},
+      {name:"Allusion", beispiel:"Er war ein wahrer Don Quijote.", beschreibung:"Bezug auf bekannte Personen/Werke.", wirkung:"intertextuell, geistreich"},
+    ];
+
+    // LERNKARTEN: Anzeige
+    function displayFlashcards() {
+      const fc = document.getElementById('flashcards');
+      fc.innerHTML = '';
+      cards.forEach((card, i) => {
+        fc.innerHTML += `
+          <div class="flashcard" onwheel="revealSolution(this)">
+            <div class="question"><b>${card.name}</b></div>
+            <div class="answer">
+              <strong>Beschreibung:</strong> ${card.beschreibung}<br>
+              <strong>Wirkung:</strong> ${card.wirkung}<br>
+              <strong>Beispiel:</strong> ${card.beispiel}
+            </div>
+          </div>
+        `;
+      });
+      // Touch/Click für Mobile
+      document.querySelectorAll('.flashcard').forEach(card => {
+        card.onclick = function() { this.classList.toggle('scrolled'); };
+      });
+    }
+    function revealSolution(card) {
+      card.classList.add('scrolled');
+    }
+
+    // DARKMODE
+    function toggleDarkMode() {
+      document.body.classList.toggle('dark');
+      localStorage.setItem('darkmode', document.body.classList.contains('dark') ? '1' : '0');
+    }
+    window.addEventListener('DOMContentLoaded', () => {
+      displayFlashcards();
+      if(localStorage.getItem('darkmode')==='1')
+        document.body.classList.add('dark');
+      startTraining();
+    });
+
+    // TRAININGSMODUS
+    let trainingState = {toTrain:[], wrongAgain:[], index:0, done:0};
+
+    function startTraining() {
+      // Lade Trainingsdaten (Fehler etc.)
+      let data = localStorage.getItem('trainingState');
+      if(data) trainingState = JSON.parse(data);
+      if(!trainingState.toTrain.length) trainingState.toTrain = shuffle([...Array(cards.length).keys()]);
+      if(!Array.isArray(trainingState.wrongAgain)) trainingState.wrongAgain = [];
+      trainingState.done = trainingState.done || 0;
+      trainingState.index = trainingState.index || 0;
+      showTraining();
+    }
+    function shuffle(arr) {
+      for(let i=arr.length-1;i>0;i--) {
+        let j=Math.floor(Math.random()*(i+1));
+        [arr[i],arr[j]]=[arr[j],arr[i]];
+      }
+      return arr;
+    }
+    function showTraining() {
+      if(trainingState.toTrain.length===0 && trainingState.wrongAgain.length===0) {
+        document.getElementById('trainingbox').innerHTML = "<h3>💯 Glückwunsch!</h3> Du hast alle rhetorischen Figuren gemeistert.";
+        document.getElementById('trainingStatus').textContent = '';
+        return;
+      }
+      let fromWrong = trainingState.wrongAgain.length>0;
+      let idxList = fromWrong ? trainingState.wrongAgain : trainingState.toTrain;
+      let idx = idxList[0];
+      let card = cards[idx];
+      // Vorschläge generieren
+      let options = [idx];
+      while(options.length<3) {
+        let r = Math.floor(Math.random()*cards.length);
+        if(!options.includes(r)) options.push(r);
+      }
+      options = shuffle(options);
+      let html = `<strong>Beschreibung:</strong> ${card.beschreibung}<br>
+                  <strong>Wirkung:</strong> ${card.wirkung}<br>
+                  <strong>Beispiel:</strong> ${card.beispiel}<br>
+                  <div class="training-options">`;
+      options.forEach(op=>{
+        html += `<button class="btn" onclick="checkTraining(${op},${idx},this)">${cards[op].name}</button>`;
+      });
+      html += `</div>`;
+      document.getElementById('trainingbox').innerHTML = html;
+      document.getElementById('trainingStatus').textContent = `Fortschritt: ${trainingState.done}/${cards.length}`;
+    }
+    function checkTraining(chosen, solution, btn) {
+      let correct = chosen===solution;
+      btn.classList.add(correct?'correct':'incorrect');
+      setTimeout(()=>{
+        // Fortschritt updaten
+        let idxList = trainingState.wrongAgain.length>0 ? trainingState.wrongAgain : trainingState.toTrain;
+        let idx = idxList[0];
+        if(correct) {
+          idxList.shift();
+          trainingState.done = Math.min(trainingState.done+1, cards.length);
+        } else {
+          if(!trainingState.wrongAgain.includes(idx)) trainingState.wrongAgain.push(idx);
+          trainingState.toTrain = trainingState.toTrain.filter(id=>id!==idx);
+          idxList.shift();
+        }
+        localStorage.setItem('trainingState', JSON.stringify(trainingState));
+        showTraining();
+      }, 750);
+    }
+    function resetTraining() {
+      trainingState = {toTrain:shuffle([...Array(cards.length).keys()]),wrongAgain:[],index:0,done:0};
+      localStorage.removeItem('trainingState');
+      showTraining();
+    }
+  </script>
+</body>
+</html>
