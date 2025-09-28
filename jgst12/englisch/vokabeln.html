@@ -2,38 +2,199 @@
 <html lang="de">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Vokabeltrainer — Medien & Internet</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Vokabeltrainer</title>
   <style>
-    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#60a5fa;--success:#34d399}
-    *{box-sizing:border-box}
-    body{font-family:Inter,Segoe UI,Roboto,system-ui,Arial;background:linear-gradient(180deg,#071025 0%,#07172b 100%);color:#e6eef6;margin:0;padding:24px}
-    .wrap{max-width:960px;margin:0 auto}
-    header{display:flex;gap:16px;align-items:center;justify-content:space-between;margin-bottom:18px}
-    h1{margin:0;font-size:20px}
-    .controls{display:flex;gap:8px;align-items:center}
-    input[type=search]{padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:#06202f;color:inherit}
-    button{background:var(--accent);border:none;padding:8px 12px;border-radius:8px;color:#04203a;cursor:pointer;font-weight:600}
-    .card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));padding:14px;border-radius:10px;border:1px solid rgba(255,255,255,0.03)}
-    main{display:grid;grid-template-columns:1fr 360px;gap:16px}
-    ul.vocab{list-style:none;padding:0;margin:0;display:grid;gap:8px}
-    li.item{display:flex;justify-content:space-between;gap:8px;padding:10px;border-radius:8px;align-items:center}
-    .term{display:flex;flex-direction:column}
-    .en{font-weight:700}
-    .de{color:var(--muted);font-size:14px}
-    .info{font-size:13px;color:var(--muted)}
-    .sidebar{position:sticky;top:24px}
-    .mode-tab{display:flex;gap:6px;margin-bottom:10px}
-    .mode-tab button{background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,0.03);padding:6px 8px;border-radius:8px}
-    .mode-tab button.active{background:#07293f;color:#d6f0ff;border-color:rgba(255,255,255,0.06)}
-    .flashcard{height:220px;display:flex;align-items:center;justify-content:center;border-radius:10px;font-size:18px;text-align:center;padding:20px;user-select:none}
-    .controls-sm{display:flex;gap:8px;margin-top:10px}
-    .score{font-size:14px;color:var(--muted)}
-    .mc-list{display:flex;flex-direction:column;gap:8px;margin-top:10px}
-    .mc-list button{padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.03);text-align:left;background:transparent}
-    .show-info{font-size:13px;color:var(--muted);margin-top:8px}
-    footer{margin-top:18px;color:var(--muted);font-size:13px}
-    @media (max-width:900px){main{grid-template-columns:1fr;}.sidebar{position:relative;top:auto}}
+    :root {
+      --bg: #0f1724;
+      --card: #0b1220;
+      --muted: #9aa4b2;
+      --accent: #60a5fa;
+      --success: #34d399;
+      --error: #f56565;
+      --font-size-base: 16px;
+      --spacing-sm: 8px;
+      --spacing-md: 16px;
+      --spacing-lg: 24px;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: Inter, Segoe UI, Roboto, system-ui, Arial;
+      background: linear-gradient(180deg, #071025 0%, #07172b 100%);
+      color: #e6eef6;
+      margin: 0;
+      padding: var(--spacing-lg);
+      font-size: var(--font-size-base);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+    .wrap { max-width: 900px; margin: 0 auto; position: relative; }
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--spacing-md);
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: var(--spacing-md);
+    }
+    h1 { margin: 0; font-size: 1.5rem; }
+    .progress-bar {
+      background: rgba(255,255,255,0.06);
+      border-radius: 8px;
+      height: 8px;
+      margin-top: var(--spacing-sm);
+      position: relative;
+    }
+    .progress-fill { background: var(--accent); height: 100%; border-radius: 8px; transition: width 0.3s; }
+    .controls { display: flex; gap: var(--spacing-sm); align-items: center; flex-wrap: wrap; }
+    input[type=search] {
+      padding: var(--spacing-sm) 12px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.06);
+      background: #06202f;
+      color: inherit;
+      flex: 1;
+      min-width: 200px;
+    }
+    button {
+      background: var(--accent);
+      border: none;
+      padding: var(--spacing-sm) 12px;
+      border-radius: 8px;
+      color: #04203a;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background 0.2s;
+      touch-action: manipulation;
+    }
+    button:hover { background: #3b82f6; }
+    button:disabled { background: var(--muted); cursor: not-allowed; }
+    .card {
+      background: rgba(40,40,50,0.92);
+      padding: var(--spacing-md);
+      border-radius: 14px;
+      box-shadow: 0 4px 16px rgba(45,53,75,0.17);
+      backdrop-filter: blur(2px);
+    }
+    main { display: flex; flex-direction: column; gap: var(--spacing-md); }
+    ul.vocab {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: var(--spacing-sm);
+    }
+    li.item {
+      padding: 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s;
+      background: rgba(50,52,55,0.95);
+    }
+    li.item:hover { background: rgba(60,62,65,0.95); }
+    .term { display: flex; flex-direction: column; flex: 1; }
+    .en { font-weight: 700; font-size: 1.1rem; }
+    .de { color: var(--muted); font-size: 0.9rem; }
+    .info { font-size: 0.85rem; color: var(--muted); }
+    .details {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease-out;
+      margin-top: var(--spacing-sm);
+    }
+    .details.open { max-height: 300px; }
+    .details-content { padding: var(--spacing-sm); border-top: 1px solid rgba(255,255,255,0.03); }
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0,0,0,0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s, visibility 0.3s;
+    }
+    .overlay.active { opacity: 1; visibility: visible; }
+    .training-box {
+      background: rgba(38,38,52,0.98);
+      box-shadow: 0 4px 28px rgba(25,27,35,0.25);
+      border-radius: 19px;
+      padding: var(--spacing-md);
+      max-width: 620px;
+      width: 90%;
+      color: #e1e8f9;
+      backdrop-filter: blur(1px);
+      position: relative;
+    }
+    .close-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: none;
+      color: var(--muted);
+      font-size: 1.2rem;
+      cursor: pointer;
+      border: none;
+      padding: 8px;
+    }
+    .close-btn:hover { color: #fff; }
+    .flashcard {
+      height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      font-size: 1.25rem;
+      text-align: center;
+      padding: var(--spacing-md);
+      user-select: none;
+      background: rgba(50,52,55,0.95);
+    }
+    .controls-sm { display: flex; gap: var(--spacing-sm); margin-top: var(--spacing-sm); justify-content: center; flex-wrap: wrap; }
+    .controls-sm button { flex: 1; min-width: 80px; }
+    .score { font-size: 0.9rem; color: var(--muted); }
+    .mc-list {
+      display: flex;
+      flex-direction: column;
+      gap: var(--spacing-sm);
+      margin-top: var(--spacing-sm);
+    }
+    .mc-list button {
+      padding: 12px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.03);
+      text-align: left;
+      background: transparent;
+      color: inherit;
+      transition: border-color 0.2s;
+      cursor: pointer;
+    }
+    .mc-list button.correct { border-color: var(--success); background: rgba(52,211,153,0.1); }
+    .mc-list button.wrong { border-color: var(--error); background: rgba(245,101,101,0.1); }
+    .show-info { font-size: 0.85rem; color: var(--muted); margin-top: var(--spacing-sm); text-align: center; }
+    .checkbox-label { display: flex; align-items: center; gap: var(--spacing-sm); font-size: 0.9rem; color: var(--muted); margin-top: var(--spacing-sm); }
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      body { padding: var(--spacing-md); font-size: 14px; --font-size-base: 14px; }
+      header { flex-direction: column; align-items: stretch; }
+      .controls { justify-content: center; }
+      input[type=search] { min-width: auto; }
+      .flashcard { height: 180px; font-size: 1rem; }
+      button { padding: 10px 14px; }
+      .details.open { max-height: 500px; }
+      .training-box { width: 95%; }
+    }
+    @media (max-width: 480px) {
+      body { padding: var(--spacing-sm); }
+      h1 { font-size: 1.25rem; }
+      .controls-sm { flex-direction: column; }
+      .mc-list button { text-align: center; }
+    }
   </style>
 </head>
 <body>
@@ -41,12 +202,14 @@
     <header>
       <div>
         <h1>Vokabeltrainer</h1>
+        <a style="float: right;"href="/fbe">zurück</a>
         <div class="score" id="progressShort">0 / 0 gelernt</div>
+        <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
       </div>
       <div class="controls">
         <input id="search" type="search" placeholder="Suche (Englisch / Deutsch)" />
         <button id="startFlash">Flashcards</button>
-        <button id="startQuiz">Quiz (MC)</button>
+        <button id="startQuiz">Training</button>
         <button id="resetProgress">Zurücksetzen</button>
       </div>
     </header>
@@ -54,125 +217,169 @@
     <main>
       <section>
         <div class="card">
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:var(--spacing-sm)">
             <strong>Vokabeln</strong>
-            <div class="info">Klicke auf eine Vokabel, um Details zu sehen. Nutze den Trainingsmodus oben.</div>
+            <div class="info">Tippe auf eine Vokabel, um Details auszuklappen.</div>
           </div>
-
           <ul class="vocab" id="vocabList"></ul>
         </div>
-
-        <footer>Design: einfacher, fokussierter Übungsmodus. Dateien lokal öffnen — keine Daten gehen raus.</footer>
       </section>
-
-      <aside class="sidebar">
-        <div class="card">
-          <div class="mode-tab">
-            <button id="tabLearn" class="active">Lernen</button>
-            <button id="tabTrain">Training</button>
-          </div>
-
-          <div id="panelLearn">
-            <div class="show-info" id="detailInfo">Wähle eine Vokabel aus der Liste.</div>
-          </div>
-
-          <div id="panelTrain" style="display:none">
-            <div id="trainArea">
-              <div id="flashcardArea" style="display:none">
-                <div class="flashcard card" id="flashcard">—</div>
-                <div class="controls-sm">
-                  <button id="reveal">Antwort anzeigen</button>
-                  <button id="known">Hab ich</button>
-                  <button id="unknown">Nope</button>
-                </div>
-                <div class="show-info" id="flashInfo"></div>
-              </div>
-
-              <div id="quizArea" style="display:none">
-                <div id="quizQuestion" class="card flashcard" style="height:140px">—</div>
-                <div class="mc-list" id="mcList"></div>
-                <div class="controls-sm"><button id="nextQ">Nächste</button><div style="flex:1"></div><div id="quizScore" class="score">0/0</div></div>
-                <div class="show-info" id="quizInfo"></div>
-              </div>
-            </div>
-
-            <div style="margin-top:10px">
-              <label><input id="optionReverse" type="checkbox" /> Karte umdrehen (Deutsch → Englisch)</label>
-            </div>
-
-          </div>
-
-        </div>
-      </aside>
     </main>
+
+    <div class="overlay" id="trainingOverlay">
+      <div class="training-box">
+        <button class="close-btn" id="closeTraining">×</button>
+        <div id="trainArea">
+          <div id="flashcardArea" style="display:none">
+            <div class="flashcard card" id="flashcard"></div>
+            <div class="controls-sm">
+              <button id="reveal">Umdrehen</button>
+              <button id="known">Gelernt</button>
+              <button id="unknown">Noch nicht</button>
+            </div>
+            <div class="show-info" id="flashInfo"></div>
+          </div>
+
+          <div id="quizArea" style="display:none">
+            <div id="quizQuestion" class="card flashcard" style="height:140px">—</div>
+            <div class="mc-list" id="mcList"></div>
+            <div class="controls-sm">
+              <button id="nextQ" style="display:none">Nächste</button>
+              <div style="flex:1"></div>
+              <div id="quizScore" class="score">0/0</div>
+            </div>
+            <div class="show-info" id="quizInfo"></div>
+          </div>
+        </div>
+        <label class="checkbox-label">
+          <input id="optionReverse" type="checkbox" />
+          Umkehren (Deutsch → Englisch)
+        </label>
+      </div>
+    </div>
   </div>
 
   <script>
     let VOCABS = [];
+    let progress = JSON.parse(localStorage.getItem('vocabProgress') || '{}');
+    let openDetail = null;
+    let isFlipped = false;
 
-    function getFileParam(){
+    function getFileParam() {
       const params = new URLSearchParams(window.location.search);
-      return params.get('file') || 'vocabs.json';
+      return params.get('file');
     }
 
-    async function loadVocabs(){
+    function saveProgress() {
+      localStorage.setItem('vocabProgress', JSON.stringify(progress));
+      updateProgressUI();
+    }
+
+    function updateProgressUI() {
+      const learned = Object.values(progress).filter(v => v.known).length;
+      document.getElementById('progressShort').textContent = `${learned} / ${VOCABS.length} gelernt`;
+      document.getElementById('progressFill').style.width = `${(learned / VOCABS.length) * 100}%`;
+    }
+
+    async function loadVocabs() {
       const file = getFileParam();
-      const res = await fetch(file);
-      VOCABS = await res.json();
-      initApp();
+      if (!file) {
+        alert('Keine Datei angegeben. Füge ?file=deine-datei.json zur URL hinzu.');
+        return;
+      }
+      try {
+        const res = await fetch(file);
+        if (!res.ok) throw new Error('Datei nicht gefunden.');
+        VOCABS = await res.json();
+        initApp();
+      } catch (e) {
+        alert('Fehler beim Laden der Vokabeln: ' + e.message);
+      }
     }
 
-    function initApp(){
+    function initApp() {
       let filtered = VOCABS.slice();
-      let progress = JSON.parse(localStorage.getItem('vocabProgress') || '{}');
       const listEl = document.getElementById('vocabList');
       const searchEl = document.getElementById('search');
-      const detailInfo = document.getElementById('detailInfo');
-      const progressShort = document.getElementById('progressShort');
+      const trainingOverlay = document.getElementById('trainingOverlay');
+      const closeTraining = document.getElementById('closeTraining');
 
-      function saveProgress(){ localStorage.setItem('vocabProgress', JSON.stringify(progress)); updateProgressUI(); }
-      function resetProgress(){ if(confirm('Fortschritt wirklich zurücksetzen?')){ progress={}; saveProgress(); alert('Fortschritt zurückgesetzt.'); }}
+      function resetProgress() {
+        if (confirm('Fortschritt wirklich zurücksetzen?')) {
+          progress = {};
+          saveProgress();
+          renderList();
+          alert('Fortschritt zurückgesetzt.');
+        }
+      }
 
-      function updateProgressUI(){ const learned = Object.values(progress).filter(v=>v.known).length; progressShort.textContent = `${learned} / ${VOCABS.length} gelernt`; }
-
-      function renderList(){ listEl.innerHTML='';
-        filtered.forEach((v,i)=>{
-          const li = document.createElement('li'); li.className='item card';
-          const left = document.createElement('div'); left.className='term';
-          const en = document.createElement('div'); en.className='en'; en.textContent = v.en;
-          const de = document.createElement('div'); de.className='de'; de.textContent = v.de;
-          left.appendChild(en); left.appendChild(de);
+      function renderList() {
+        listEl.innerHTML = '';
+        filtered.forEach(v => {
+          const li = document.createElement('li');
+          li.className = 'item card';
+          const term = document.createElement('div');
+          term.className = 'term';
+          term.onclick = (e) => { e.stopPropagation(); showDetails(v, li); };
+          const en = document.createElement('div');
+          en.className = 'en';
+          en.textContent = v.en;
+          const de = document.createElement('div');
+          de.className = 'de';
+          de.textContent = v.de;
+          term.appendChild(en);
+          term.appendChild(de);
           const right = document.createElement('div');
-          const btn = document.createElement('button'); btn.textContent='Details'; btn.onclick = ()=> showDetails(v);
-          const tick = document.createElement('div'); tick.textContent = progress[v.en] && progress[v.en].known ? '✓' : '';
-          right.appendChild(btn); right.appendChild(tick);
-          li.appendChild(left); li.appendChild(right);
+          right.className = 'info';
+          right.textContent = progress[v.en] && progress[v.en].known ? '✓' : '';
+          const details = document.createElement('div');
+          details.className = 'details';
+          details.innerHTML = `
+            <div class="details-content">
+              <strong>${v.en}</strong>
+              <div class='de'>${v.de}</div>
+              <div class='info'>${v.info || 'Keine zusätzlichen Infos.'}</div>
+              <div class="controls-sm" style="margin-top: var(--spacing-sm);">
+                <button onclick="markKnown('${v.en}')">Als gelernt</button>
+                <button onclick="markUnknown('${v.en}')">Als ungelernte</button>
+              </div>
+            </div>`;
+          li.appendChild(term);
+          li.appendChild(right);
+          li.appendChild(details);
           listEl.appendChild(li);
-        })
+        });
       }
 
-      function showDetails(v){ detailInfo.innerHTML = `<strong>${v.en}</strong><div class='de'>${v.de}</div><div class='info'>${v.info}</div>`;
-        const markKnown = document.createElement('div'); markKnown.style.marginTop='8px';
-        markKnown.innerHTML = `<button id='markKnownBtn'>Als gelernt markieren</button> <button id='markUnknownBtn'>Als ungelernte markieren</button>`;
-        detailInfo.appendChild(markKnown);
-        document.getElementById('markKnownBtn').onclick = ()=>{ progress[v.en] = {known:true, ts:Date.now()}; saveProgress(); renderList(); };
-        document.getElementById('markUnknownBtn').onclick = ()=>{ progress[v.en] = {known:false, ts:Date.now()}; saveProgress(); renderList(); };
+      window.markKnown = function(en) {
+        progress[en] = { known: true, ts: Date.now() };
+        saveProgress();
+        renderList();
+      };
+
+      window.markUnknown = function(en) {
+        progress[en] = { known: false, ts: Date.now() };
+        saveProgress();
+        renderList();
+      };
+
+      function showDetails(v, li) {
+        if (openDetail && openDetail !== li) {
+          openDetail.querySelector('.details').classList.remove('open');
+        }
+        const details = li.querySelector('.details');
+        details.classList.toggle('open');
+        openDetail = details.classList.contains('open') ? li : null;
       }
 
-      searchEl.addEventListener('input', ()=>{
+      searchEl.addEventListener('input', () => {
         const q = searchEl.value.trim().toLowerCase();
-        filtered = VOCABS.filter(v=> v.en.toLowerCase().includes(q) || v.de.toLowerCase().includes(q));
+        filtered = VOCABS.filter(v => v.en.toLowerCase().includes(q) || v.de.toLowerCase().includes(q));
+        openDetail = null;
         renderList();
       });
 
       document.getElementById('resetProgress').addEventListener('click', resetProgress);
-
-      const tabLearn = document.getElementById('tabLearn');
-      const tabTrain = document.getElementById('tabTrain');
-      const panelLearn = document.getElementById('panelLearn');
-      const panelTrain = document.getElementById('panelTrain');
-      tabLearn.addEventListener('click', ()=>{ tabLearn.classList.add('active'); tabTrain.classList.remove('active'); panelLearn.style.display='block'; panelTrain.style.display='none'; });
-      tabTrain.addEventListener('click', ()=>{ tabTrain.classList.add('active'); tabLearn.classList.remove('active'); panelLearn.style.display='none'; panelTrain.style.display='block'; });
 
       const flashcardArea = document.getElementById('flashcardArea');
       const flashcardEl = document.getElementById('flashcard');
@@ -183,21 +390,65 @@
       const optionReverse = document.getElementById('optionReverse');
 
       let fcQueue = [];
-      function startFlashcards(){
+      function startFlashcards() {
         fcQueue = shuffle(VOCABS.slice());
-        document.getElementById('panelTrain').style.display='block';
-        flashcardArea.style.display='block';
-        document.getElementById('quizArea').style.display='none';
+        trainingOverlay.classList.add('active');
+        flashcardArea.style.display = 'block';
+        document.getElementById('quizArea').style.display = 'none';
         showNextCard();
       }
-      function showNextCard(){ if(fcQueue.length===0){ flashcardEl.textContent='Fertig! Du hast alle Karten gesehen.'; flashInfo.textContent='Wechsle die Option oder starte neu.'; return; }
-        const cur = fcQueue.pop(); flashcardEl.dataset.en = cur.en; flashcardEl.dataset.de = cur.de; flashcardEl.dataset.info = cur.info; flashcardEl.dataset.shown = 'front';
-        if(optionReverse.checked){ flashcardEl.textContent = cur.de; } else { flashcardEl.textContent = cur.en; }
-        flashInfo.textContent = `${VOCABS.length - fcQueue.length}/${VOCABS.length}`;
+
+      function showNextCard() {
+        if (fcQueue.length === 0) {
+          flashcardEl.textContent = 'Fertig! Alle Karten gesehen.';
+          flashInfo.textContent = 'Wechsle die Option oder starte neu.';
+          revealBtn.disabled = true;
+          knownBtn.disabled = true;
+          unknownBtn.disabled = true;
+          return;
+        }
+        const cur = fcQueue.pop();
+        const reverse = optionReverse.checked;
+        flashcardEl.textContent = reverse ? cur.de : cur.en;
+        flashcardEl.dataset.en = cur.en;
+        flashcardEl.dataset.de = cur.de;
+        flashcardEl.dataset.info = cur.info || '';
+        isFlipped = false;
+        flashInfo.textContent = `${VOCABS.length - fcQueue.length} / ${VOCABS.length}`;
+        revealBtn.disabled = false;
+        knownBtn.disabled = false;
+        unknownBtn.disabled = false;
+        revealBtn.textContent = 'Umdrehen';
       }
-      revealBtn.addEventListener('click', ()=>{ const en = flashcardEl.dataset.en; const de = flashcardEl.dataset.de; const info = flashcardEl.dataset.info; flashcardEl.textContent = (optionReverse.checked ? en + '\n\n' + info : de + '\n\n' + info); flashcardEl.dataset.shown='back'; });
-      knownBtn.addEventListener('click', ()=>{ const e = flashcardEl.dataset.en; progress[e] = {known:true, ts:Date.now()}; saveProgress(); renderList(); showNextCard(); });
-      unknownBtn.addEventListener('click', ()=>{ const e = flashcardEl.dataset.en; progress[e] = {known:false, ts:Date.now()}; saveProgress(); renderList(); showNextCard(); });
+
+      revealBtn.addEventListener('click', () => {
+        const reverse = optionReverse.checked;
+        const curEn = flashcardEl.dataset.en;
+        const curDe = flashcardEl.dataset.de;
+        const curInfo = flashcardEl.dataset.info;
+        if (!isFlipped) {
+          flashcardEl.textContent = reverse ? curEn : curDe;
+          revealBtn.textContent = 'Info zeigen';
+          isFlipped = true;
+        } else {
+          flashcardEl.innerHTML = (reverse ? curEn : curDe) + '<br><br><span class="info">' + curInfo + '</span>';
+          revealBtn.disabled = true;
+        }
+      });
+
+      knownBtn.addEventListener('click', () => {
+        progress[flashcardEl.dataset.en] = { known: true, ts: Date.now() };
+        saveProgress();
+        renderList();
+        showNextCard();
+      });
+
+      unknownBtn.addEventListener('click', () => {
+        progress[flashcardEl.dataset.en] = { known: false, ts: Date.now() };
+        saveProgress();
+        renderList();
+        showNextCard();
+      });
 
       const quizArea = document.getElementById('quizArea');
       const quizQuestion = document.getElementById('quizQuestion');
@@ -207,52 +458,91 @@
       const quizInfo = document.getElementById('quizInfo');
 
       let quizQueue = [];
-      let qIndex = 0, qCorrect=0, qTotal=0;
+      let qIndex = 0, qCorrect = 0, qTotal = 0;
 
-      function startQuiz(){
-        quizQueue = shuffle(VOCABS.slice()); qIndex=0; qCorrect=0; qTotal=0;
-        flashcardArea.style.display='none';
-        quizArea.style.display='block';
+      function startQuiz() {
+        quizQueue = shuffle(VOCABS.slice());
+        qIndex = 0;
+        qCorrect = 0;
+        qTotal = 0;
+        trainingOverlay.classList.add('active');
+        flashcardArea.style.display = 'none';
+        quizArea.style.display = 'block';
         showQuizQuestion();
       }
 
-      function showQuizQuestion(){
-        if(qIndex >= quizQueue.length){ quizQuestion.textContent = 'Quiz beendet.'; mcList.innerHTML=''; quizInfo.textContent = `Ergebnis: ${qCorrect}/${qTotal}`; return; }
+      function showQuizQuestion() {
+        nextQ.style.display = 'none';
+        quizInfo.textContent = '';
+        if (qIndex >= quizQueue.length) {
+          quizQuestion.textContent = 'Training beendet.';
+          mcList.innerHTML = '';
+          quizInfo.textContent = `Ergebnis: ${qCorrect} / ${qTotal}`;
+          return;
+        }
         const cur = quizQueue[qIndex];
         const reverse = optionReverse.checked;
         quizQuestion.textContent = reverse ? cur.de : cur.en;
-        const choices = [cur];
-        const others = VOCABS.filter(v=>v.en!==cur.en);
-        shuffle(others);
-        choices.push(...others.slice(0,3));
-        shuffle(choices);
-        mcList.innerHTML='';
-        choices.forEach(c=>{
+        let choices = [cur];
+        const others = shuffle(VOCABS.filter(v => v.en !== cur.en).slice(0, 3));
+        choices = shuffle([...choices, ...others]);
+        mcList.innerHTML = '';
+        choices.forEach(c => {
           const b = document.createElement('button');
           b.textContent = reverse ? c.en : c.de;
-          b.onclick = ()=>{ handleMCAnswer(c,enEquals(cur, c), c, cur); };
+          b.dataset.correct = c.en === cur.en;
+          b.onclick = () => handleMCAnswer(b);
           mcList.appendChild(b);
         });
-        quizInfo.textContent = '';
+        quizScore.textContent = `${qCorrect} / ${qTotal}`;
       }
 
-      function enEquals(a,b){ return a.en === b.en; }
-
-      function handleMCAnswer(choice, isCorrect, choiceObj, correctObj){
-        qTotal++; if(isCorrect) qCorrect++; quizScore.textContent = `${qCorrect}/${qTotal}`;
-        Array.from(mcList.children).forEach(btn=>{ if(btn.textContent === (optionReverse.checked ? correctObj.en : correctObj.de)){ btn.style.borderColor = 'var(--success)'; } });
-        quizInfo.textContent = isCorrect ? 'Richtig!' : `Falsch — richtige Antwort: ${ optionReverse.checked ? correctObj.en : correctObj.de }`;
-        qIndex++; setTimeout(showQuizQuestion, 900);
+      function handleMCAnswer(selectedBtn) {
+        const isCorrect = selectedBtn.dataset.correct === 'true';
+        qTotal++;
+        if (isCorrect) qCorrect++;
+        Array.from(mcList.children).forEach(btn => {
+          btn.disabled = true;
+          if (btn.dataset.correct === 'true') btn.classList.add('correct');
+          if (btn === selectedBtn && !isCorrect) btn.classList.add('wrong');
+        });
+        quizInfo.textContent = isCorrect ? 'Richtig!' : 'Falsch!';
+        quizScore.textContent = `${qCorrect} / ${qTotal}`;
+        nextQ.style.display = 'block';
       }
 
-      nextQ.addEventListener('click', ()=> showQuizQuestion());
+      nextQ.addEventListener('click', () => {
+        qIndex++;
+        showQuizQuestion();
+      });
 
-      function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+      function shuffle(a) {
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
 
-      document.getElementById('startFlash').addEventListener('click', ()=>{ tabTrain.click(); startFlashcards(); });
-      document.getElementById('startQuiz').addEventListener('click', ()=>{ tabTrain.click(); startQuiz(); });
+      document.getElementById('startFlash').addEventListener('click', startFlashcards);
+      document.getElementById('startQuiz').addEventListener('click', startQuiz);
+      closeTraining.addEventListener('click', () => {
+        trainingOverlay.classList.remove('active');
+        isFlipped = false;
+      });
+      trainingOverlay.addEventListener('click', (e) => {
+        if (e.target === trainingOverlay) {
+          trainingOverlay.classList.remove('active');
+          isFlipped = false;
+        }
+      });
+      optionReverse.addEventListener('change', () => {
+        if (flashcardArea.style.display === 'block') startFlashcards();
+        if (quizArea.style.display === 'block') startQuiz();
+      });
 
-      renderList(); updateProgressUI();
+      renderList();
+      updateProgressUI();
     }
 
     loadVocabs();
