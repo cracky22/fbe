@@ -1,0 +1,687 @@
+[
+  {
+    "en": "to struggle",
+    "de": "kämpfen, ringen",
+    "info": "to make a great effort"
+  },
+  {
+    "en": "inadequate",
+    "de": "unangemessen",
+    "info": "not good enough"
+  },
+  {
+    "en": "housing",
+    "de": "Unterkunft",
+    "info": "place to live"
+  },
+  {
+    "en": "proportion",
+    "de": "Anteil",
+    "info": "part of a whole"
+  },
+  {
+    "en": "these days",
+    "de": "heutzutage",
+    "info": "now"
+  },
+  {
+    "en": "skilled",
+    "de": "qualifiziert",
+    "info": "having expertise"
+  },
+  {
+    "en": "nurse",
+    "de": "Krankenschwester, Krankenpfleger",
+    "info": "healthcare worker"
+  },
+  {
+    "en": "carpenter",
+    "de": "Zimmermann, Tischler",
+    "info": "woodworker"
+  },
+  {
+    "en": "the outback",
+    "de": "Outback (austr. Hinterland)",
+    "info": "remote Australian interior"
+  },
+  {
+    "en": "agriculture",
+    "de": "Landwirtschaft",
+    "info": "farming"
+  },
+  {
+    "en": "mining",
+    "de": "Bergbau",
+    "info": "resource extraction"
+  },
+  {
+    "en": "to contact",
+    "de": "Sich in Verbindung halten, kontaktieren",
+    "info": "stay in touch"
+  },
+  {
+    "en": "education",
+    "de": "Ausbildung, Erziehung, Bildung",
+    "info": "learning process"
+  },
+  {
+    "en": "to be used to (+ ing)",
+    "de": "gewöhnt sein an",
+    "info": "familiar with"
+  },
+  {
+    "en": "knowledge",
+    "de": "Wissen, Kenntnisse",
+    "info": "information or skills"
+  },
+  {
+    "en": "to affect",
+    "de": "beeinflussen",
+    "info": "to influence"
+  },
+  {
+    "en": "daily",
+    "de": "täglich",
+    "info": "every day"
+  },
+  {
+    "en": "sense of community",
+    "de": "Gemeinschaftsgefühl",
+    "info": "feeling of belonging"
+  },
+  {
+    "en": "to look out for",
+    "de": "hier: aufpassen auf",
+    "info": "to take care of"
+  },
+  {
+    "en": "responsible (for)",
+    "de": "verantwortlich (für)",
+    "info": "in charge of"
+  },
+  {
+    "en": "to bring up",
+    "de": "aufziehen, großziehen",
+    "info": "to raise a child"
+  },
+  {
+    "en": "to raise",
+    "de": "hier: aufziehen, großziehen",
+    "info": "=↑"
+  },
+  {
+    "en": "point of view",
+    "de": "Standpunkt, Perspektive",
+    "info": "opinion or perspective"
+  },
+  {
+    "en": "respectful",
+    "de": "respektvoll",
+    "info": "opposite: disrespectful"
+  },
+  {
+    "en": "common",
+    "de": "gemeinsam; üblich",
+    "info": "it happens a lot"
+  },
+  {
+    "en": "respect",
+    "de": "Respekt",
+    "info": "not unusual"
+  },
+  {
+    "en": "to look up",
+    "de": "hier: aufschauen",
+    "info": "to admire"
+  },
+  {
+    "en": "to pass on",
+    "de": "weitergeben",
+    "info": "to share or transmit"
+  },
+  {
+    "en": "giant",
+    "de": "Riesen-, riesig",
+    "info": "very large"
+  },
+  {
+    "en": "organisation",
+    "de": "Vereinigung, Organisation",
+    "info": "structured group"
+  },
+  {
+    "en": "New Zealand",
+    "de": "Neuseeland",
+    "info": "Pacific island nation"
+  },
+  {
+    "en": "the Caribbean",
+    "de": "die Karibik",
+    "info": "tropical island region"
+  },
+  {
+    "en": "the Pacific Ocean",
+    "de": "der Pazifische Ozean",
+    "info": "largest ocean"
+  },
+  {
+    "en": "recent",
+    "de": "kürzlich; neueste, letzte",
+    "info": "happened lately"
+  },
+  {
+    "en": "head (of state)",
+    "de": "(Staats-) Oberhaupt",
+    "info": "national leader"
+  },
+  {
+    "en": "monarch",
+    "de": "Monarch, Monarchin",
+    "info": "king or queen"
+  },
+  {
+    "en": "sporting event",
+    "de": "Sportveranstaltung",
+    "info": "athletic competition"
+  },
+  {
+    "en": "to include",
+    "de": "einbeziehen; aufnehmen; einbinden",
+    "info": "to involve"
+  },
+  {
+    "en": "disability",
+    "de": "Behinderung, Unfähigkeit",
+    "info": "physical or mental limitation"
+  },
+  {
+    "en": "aim",
+    "de": "Ziel, Absicht",
+    "info": "goal"
+  },
+  {
+    "en": "terrorism",
+    "de": "Terrorismus",
+    "info": "violent acts for fear"
+  },
+  {
+    "en": "threat",
+    "de": "Bedrohung, Gefahr",
+    "info": "potential danger"
+  },
+  {
+    "en": "development",
+    "de": "Entwicklung",
+    "info": "growth or progress"
+  },
+  {
+    "en": "to create",
+    "de": "schaffen; erschaffen, kreieren",
+    "info": "to make"
+  },
+  {
+    "en": "climate change",
+    "de": "Klimawandel",
+    "info": "global weather shifts"
+  },
+  {
+    "en": "democracy",
+    "de": "Demokratie",
+    "info": "democratic"
+  },
+  {
+    "en": "human rights",
+    "de": "Menschenrechte",
+    "info": "basic freedoms"
+  },
+  {
+    "en": "gender",
+    "de": "Geschlecht(er-)",
+    "info": "male & female"
+  },
+  {
+    "en": "to develop",
+    "de": "(sich) Entwickeln",
+    "info": "to grow or evolve"
+  },
+  {
+    "en": "down under",
+    "de": "in Australien",
+    "info": "Australia or New Zealand"
+  },
+  {
+    "en": "continent",
+    "de": "Kontinent, Erdteil",
+    "info": "large landmass"
+  },
+  {
+    "en": "koala",
+    "de": "Koala",
+    "info": "Australian marsupial"
+  },
+  {
+    "en": "kangaroo",
+    "de": "Känguru",
+    "info": "hopping Australian animal"
+  },
+  {
+    "en": "off",
+    "de": "hier: vor",
+    "info": "near or by"
+  },
+  {
+    "en": "climate",
+    "de": "Klima",
+    "info": "weather conditions"
+  },
+  {
+    "en": "lifestyle",
+    "de": "Lebensart, Lifestyle",
+    "info": "way of living"
+  },
+  {
+    "en": "Aboriginal people",
+    "de": "die Aborigines",
+    "info": "indigenous Australians"
+  },
+  {
+    "en": "disease",
+    "de": "Krankheit",
+    "info": "illness"
+  },
+  {
+    "en": "creature",
+    "de": "Kreatur, Lebewesen",
+    "info": "living being"
+  },
+  {
+    "en": "plant",
+    "de": "Pflanze",
+    "info": "living organism"
+  },
+  {
+    "en": "connection",
+    "de": "Verbindung",
+    "info": "link or relationship"
+  },
+  {
+    "en": "meaning",
+    "de": "Bedeutung",
+    "info": "significance"
+  },
+  {
+    "en": "sacred",
+    "de": "heilig",
+    "info": "holy or revered"
+  },
+  {
+    "en": "to make a fuss",
+    "de": "einen Aufstand machen",
+    "info": "to cause trouble"
+  },
+  {
+    "en": "behaviour",
+    "de": "Verhalten",
+    "info": "actions or conduct"
+  },
+  {
+    "en": "to accept",
+    "de": "akzeptieren, annehmen",
+    "info": "to agree to"
+  },
+  {
+    "en": "belief",
+    "de": "Glaube, Überzeugung",
+    "info": "conviction or faith"
+  },
+  {
+    "en": "ignorant",
+    "de": "ignorant, unwissend",
+    "info": "lacking knowledge"
+  },
+  {
+    "en": "to ignore",
+    "de": "ignorieren, ausblenden/übersehen",
+    "info": "to disregard"
+  },
+  {
+    "en": "politeness",
+    "de": "Höflichkeit",
+    "info": "good manners"
+  },
+  {
+    "en": "to tolerate",
+    "de": "tolerieren, dulden",
+    "info": "to allow or endure"
+  },
+  {
+    "en": "rudeness",
+    "de": "Unhöflichkeit",
+    "info": "bad manners"
+  },
+  {
+    "en": "to appreciate",
+    "de": "schätzen, anerkennen",
+    "info": "to value"
+  },
+  {
+    "en": "tolerance",
+    "de": "Toleranz",
+    "info": "acceptance of differences"
+  },
+  {
+    "en": "nomadic",
+    "de": "nicht sesshafte",
+    "info": "wandering lifestyle"
+  },
+  {
+    "en": "to hunt",
+    "de": "jagen",
+    "info": "to chase animals"
+  },
+  {
+    "en": "to communicate",
+    "de": "kommunizieren",
+    "info": "to exchange information"
+  },
+  {
+    "en": "air conditioning",
+    "de": "Klimaanlage",
+    "info": "cooling system"
+  },
+  {
+    "en": "decoration",
+    "de": "Dekoration",
+    "info": "ornament or embellishment"
+  },
+  {
+    "en": "to plant",
+    "de": "pflanzen",
+    "info": "to put in soil"
+  },
+  {
+    "en": "to survive",
+    "de": "überleben",
+    "info": "to stay alive"
+  },
+  {
+    "en": "lady",
+    "de": "Dame, Frau",
+    "info": "polite term for woman"
+  },
+  {
+    "en": "frightened",
+    "de": "verängstigt",
+    "info": "scared or afraid"
+  },
+  {
+    "en": "brilliant",
+    "de": "toll, brillant, strahlend",
+    "info": "amazing"
+  },
+  {
+    "en": "to gleam",
+    "de": "schimmern",
+    "info": "to shine"
+  },
+  {
+    "en": "cluster",
+    "de": "Klumpen, Anhäufung",
+    "info": "group or bunch"
+  },
+  {
+    "en": "seashell",
+    "de": "Muschel",
+    "info": "shell from sea"
+  },
+  {
+    "en": "Aussie",
+    "de": "Australier, australisch",
+    "info": "Australian (slang)"
+  },
+  {
+    "en": "coat hanger",
+    "de": "Kleiderbügel",
+    "info": "for hanging clothes"
+  },
+  {
+    "en": "incredible",
+    "de": "unglaublich",
+    "info": "unbelievable or amazing"
+  },
+  {
+    "en": "to mention",
+    "de": "erwähnen",
+    "info": "to refer to"
+  },
+  {
+    "en": "Indonesia",
+    "de": "Indonesien",
+    "info": "Southeast Asian nation"
+  },
+  {
+    "en": "to get itchy feet",
+    "de": "Fernweh haben",
+    "info": "desire to travel"
+  },
+  {
+    "en": "trip",
+    "de": "hier: Reise",
+    "info": "journey or travel"
+  },
+  {
+    "en": "Speaking of sb/sth",
+    "de": "apropos, da wir gerade von jdm/sth sprechen",
+    "info": "regarding someone/something"
+  },
+  {
+    "en": "loads (of)",
+    "de": "jede Menge, Massenhaft",
+    "info": "lots of"
+  },
+  {
+    "en": "to depend (on)",
+    "de": "abhängen (von)",
+    "info": "to rely on"
+  },
+  {
+    "en": "harbour",
+    "de": "Hafen",
+    "info": "port for ships"
+  },
+  {
+    "en": "honest",
+    "de": "ehrlich",
+    "info": "truthful"
+  },
+  {
+    "en": "left",
+    "de": "übrig",
+    "info": "remaining"
+  },
+  {
+    "en": "to walk by",
+    "de": "vorbeilaufen",
+    "info": "to pass on foot"
+  },
+  {
+    "en": "card & bank",
+    "de": "Kreditkarte, Bankkarte",
+    "info": "payment cards"
+  },
+  {
+    "en": "mate",
+    "de": "Kumpel, Kamerad/in",
+    "info": "friend (informal)"
+  },
+  {
+    "en": "barbie",
+    "de": "Grill (Party)",
+    "info": "Australian BBQ (slang)"
+  },
+  {
+    "en": "by",
+    "de": "bei, an",
+    "info": "near or beside"
+  },
+  {
+    "en": "No way!",
+    "de": "hier: ich glaube nicht!",
+    "info": "expression of disbelief"
+  },
+  {
+    "en": "self-confident",
+    "de": "selbstsicher, selbstbewusst",
+    "info": "assured in oneself"
+  },
+  {
+    "en": "jealous",
+    "de": "eifersüchtig, neidisch",
+    "info": "envious or possessive"
+  },
+  {
+    "en": "to work out",
+    "de": "hier: sich entfalten, herauskommen",
+    "info": "to turn out well"
+  },
+  {
+    "en": "to put on",
+    "de": "hier: anziehen",
+    "info": "to wear"
+  },
+  {
+    "en": "wonder",
+    "de": "Wunder",
+    "info": "marvel or amazement"
+  },
+  {
+    "en": "earth",
+    "de": "die Erde, Boden",
+    "info": "planet or soil"
+  },
+  {
+    "en": "underwater",
+    "de": "Unterwasser",
+    "info": "below water surface"
+  },
+  {
+    "en": "reef",
+    "de": "Riff",
+    "info": "coral structure"
+  },
+  {
+    "en": "to stretch",
+    "de": "sich strecken, dehnen",
+    "info": "to extend"
+  },
+  {
+    "en": "ecosystem",
+    "de": "Ökosystem",
+    "info": "biological community"
+  },
+  {
+    "en": "coral",
+    "de": "Koralle",
+    "info": "marine animal structure"
+  },
+  {
+    "en": "turtle",
+    "de": "Schildkröte",
+    "info": "reptile with shell"
+  },
+  {
+    "en": "bleaching",
+    "de": "Bleichen, ausbleichen",
+    "info": "coral color loss"
+  },
+  {
+    "en": "stress",
+    "de": "hier: Stress, Belastung",
+    "info": "pressure or strain"
+  },
+  {
+    "en": "algae",
+    "de": "Alge",
+    "info": "simple aquatic plants"
+  },
+  {
+    "en": "snorkelling",
+    "de": "Schnorcheln",
+    "info": "swimming with a tube"
+  },
+  {
+    "en": "platform",
+    "de": "Platform, Bahnsteig",
+    "info": "raised surface"
+  },
+  {
+    "en": "to pollute",
+    "de": "verschmutzen, verunreinigen",
+    "info": "to contaminate"
+  },
+  {
+    "en": "oil spill",
+    "de": "Ölteppich",
+    "info": "oil leakage in water"
+  },
+  {
+    "en": "destination",
+    "de": "Ziel, Reiseziels",
+    "info": "place to go"
+  },
+  {
+    "en": "outside",
+    "de": "hier: außenhalb",
+    "info": "beyond or outdoors"
+  },
+  {
+    "en": "lane",
+    "de": "hier: Fahrbahn, Gasse",
+    "info": "narrow path or road"
+  },
+  {
+    "en": "to recover",
+    "de": "sich erholen",
+    "info": "to heal or regain"
+  },
+  {
+    "en": "government",
+    "de": "Regierung",
+    "info": "ruling authority"
+  },
+  {
+    "en": "to repair",
+    "de": "reparieren",
+    "info": "to fix"
+  },
+  {
+    "en": "solution",
+    "de": "Lösung",
+    "info": "answer to a problem"
+  },
+  {
+    "en": "consequence",
+    "de": "Konsequenz, Folge, Auswirkung",
+    "info": "result or effect"
+  },
+  {
+    "en": "whale shark",
+    "de": "Walhai",
+    "info": "largest fish species"
+  },
+  {
+    "en": "saltwater crocodile",
+    "de": "Salzwasserkrokodil",
+    "info": "large marine reptile"
+  },
+  {
+    "en": "dolphin",
+    "de": "Delfin",
+    "info": "intelligent marine mammal"
+  },
+  {
+    "en": "manta ray",
+    "de": "Teufelsrochen",
+    "info": "large flat sea creature"
+  }
+]
