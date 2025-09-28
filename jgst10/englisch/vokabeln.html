@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <link rel="icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/104385850" />
   <title>Vokabeltrainer</title>
   <style>
     :root {
@@ -202,7 +203,7 @@
     <header>
       <div>
         <h1>Vokabeltrainer</h1>
-        <a style="float: right;"href="/fbe">zurück</a>
+        <a style="float: right;" onclick="go_back();">zurück</a>
         <div class="score" id="progressShort">0 / 0 gelernt</div>
         <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
       </div>
@@ -261,7 +262,8 @@
 
   <script>
     let VOCABS = [];
-    let progress = JSON.parse(localStorage.getItem('vocabProgress') || '{}');
+    let file = getFileParam();
+    let progress = JSON.parse(localStorage.getItem('vocabProgress_' + file) || '{}');
     let openDetail = null;
     let isFlipped = false;
 
@@ -271,8 +273,14 @@
     }
 
     function saveProgress() {
-      localStorage.setItem('vocabProgress', JSON.stringify(progress));
+      let file = getFileParam();
+      localStorage.setItem('vocabProgress_' + file, JSON.stringify(progress));
       updateProgressUI();
+    }
+
+    function go_back() {
+      let file = getFileParam();
+      window.location.href = "/fbe#:~:text=" + file;
     }
 
     function updateProgressUI() {
