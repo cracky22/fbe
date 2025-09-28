@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Vokabeltrainer — Medien & Internet</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--accent:#60a5fa;--success:#34d399}
+    *{box-sizing:border-box}
+    body{font-family:Inter,Segoe UI,Roboto,system-ui,Arial;background:linear-gradient(180deg,#071025 0%,#07172b 100%);color:#e6eef6;margin:0;padding:24px}
+    .wrap{max-width:960px;margin:0 auto}
+    header{display:flex;gap:16px;align-items:center;justify-content:space-between;margin-bottom:18px}
+    h1{margin:0;font-size:20px}
+    .controls{display:flex;gap:8px;align-items:center}
+    input[type=search]{padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.06);background:#06202f;color:inherit}
+    button{background:var(--accent);border:none;padding:8px 12px;border-radius:8px;color:#04203a;cursor:pointer;font-weight:600}
+    .card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));padding:14px;border-radius:10px;border:1px solid rgba(255,255,255,0.03)}
+    main{display:grid;grid-template-columns:1fr 360px;gap:16px}
+    ul.vocab{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+    li.item{display:flex;justify-content:space-between;gap:8px;padding:10px;border-radius:8px;align-items:center}
+    .term{display:flex;flex-direction:column}
+    .en{font-weight:700}
+    .de{color:var(--muted);font-size:14px}
+    .info{font-size:13px;color:var(--muted)}
+    .sidebar{position:sticky;top:24px}
+    .mode-tab{display:flex;gap:6px;margin-bottom:10px}
+    .mode-tab button{background:transparent;color:var(--muted);border:1px solid rgba(255,255,255,0.03);padding:6px 8px;border-radius:8px}
+    .mode-tab button.active{background:#07293f;color:#d6f0ff;border-color:rgba(255,255,255,0.06)}
+    .flashcard{height:220px;display:flex;align-items:center;justify-content:center;border-radius:10px;font-size:18px;text-align:center;padding:20px;user-select:none}
+    .controls-sm{display:flex;gap:8px;margin-top:10px}
+    .score{font-size:14px;color:var(--muted)}
+    .mc-list{display:flex;flex-direction:column;gap:8px;margin-top:10px}
+    .mc-list button{padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.03);text-align:left;background:transparent}
+    .show-info{font-size:13px;color:var(--muted);margin-top:8px}
+    footer{margin-top:18px;color:var(--muted);font-size:13px}
+    @media (max-width:900px){main{grid-template-columns:1fr;}.sidebar{position:relative;top:auto}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Vokabeltrainer</h1>
+        <div class="score" id="progressShort">0 / 0 gelernt</div>
+      </div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="Suche (Englisch / Deutsch)" />
+        <button id="startFlash">Flashcards</button>
+        <button id="startQuiz">Quiz (MC)</button>
+        <button id="resetProgress">Zurücksetzen</button>
+      </div>
+    </header>
+
+    <main>
+      <section>
+        <div class="card">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+            <strong>Vokabeln</strong>
+            <div class="info">Klicke auf eine Vokabel, um Details zu sehen. Nutze den Trainingsmodus oben.</div>
+          </div>
+
+          <ul class="vocab" id="vocabList"></ul>
+        </div>
+
+        <footer>Design: einfacher, fokussierter Übungsmodus. Dateien lokal öffnen — keine Daten gehen raus.</footer>
+      </section>
+
+      <aside class="sidebar">
+        <div class="card">
+          <div class="mode-tab">
+            <button id="tabLearn" class="active">Lernen</button>
+            <button id="tabTrain">Training</button>
+          </div>
+
+          <div id="panelLearn">
+            <div class="show-info" id="detailInfo">Wähle eine Vokabel aus der Liste.</div>
+          </div>
+
+          <div id="panelTrain" style="display:none">
+            <div id="trainArea">
+              <div id="flashcardArea" style="display:none">
+                <div class="flashcard card" id="flashcard">—</div>
+                <div class="controls-sm">
+                  <button id="reveal">Antwort anzeigen</button>
+                  <button id="known">Hab ich</button>
+                  <button id="unknown">Nope</button>
+                </div>
+                <div class="show-info" id="flashInfo"></div>
+              </div>
+
+              <div id="quizArea" style="display:none">
+                <div id="quizQuestion" class="card flashcard" style="height:140px">—</div>
+                <div class="mc-list" id="mcList"></div>
+                <div class="controls-sm"><button id="nextQ">Nächste</button><div style="flex:1"></div><div id="quizScore" class="score">0/0</div></div>
+                <div class="show-info" id="quizInfo"></div>
+              </div>
+            </div>
+
+            <div style="margin-top:10px">
+              <label><input id="optionReverse" type="checkbox" /> Karte umdrehen (Deutsch → Englisch)</label>
+            </div>
+
+          </div>
+
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <script>
+    let VOCABS = [];
+
+    function getFileParam(){
+      const params = new URLSearchParams(window.location.search);
+      return params.get('file') || 'vocabs.json';
+    }
+
+    async function loadVocabs(){
+      const file = getFileParam();
+      const res = await fetch(file);
+      VOCABS = await res.json();
+      initApp();
+    }
+
+    function initApp(){
+      let filtered = VOCABS.slice();
+      let progress = JSON.parse(localStorage.getItem('vocabProgress') || '{}');
+      const listEl = document.getElementById('vocabList');
+      const searchEl = document.getElementById('search');
+      const detailInfo = document.getElementById('detailInfo');
+      const progressShort = document.getElementById('progressShort');
+
+      function saveProgress(){ localStorage.setItem('vocabProgress', JSON.stringify(progress)); updateProgressUI(); }
+      function resetProgress(){ if(confirm('Fortschritt wirklich zurücksetzen?')){ progress={}; saveProgress(); alert('Fortschritt zurückgesetzt.'); }}
+
+      function updateProgressUI(){ const learned = Object.values(progress).filter(v=>v.known).length; progressShort.textContent = `${learned} / ${VOCABS.length} gelernt`; }
+
+      function renderList(){ listEl.innerHTML='';
+        filtered.forEach((v,i)=>{
+          const li = document.createElement('li'); li.className='item card';
+          const left = document.createElement('div'); left.className='term';
+          const en = document.createElement('div'); en.className='en'; en.textContent = v.en;
+          const de = document.createElement('div'); de.className='de'; de.textContent = v.de;
+          left.appendChild(en); left.appendChild(de);
+          const right = document.createElement('div');
+          const btn = document.createElement('button'); btn.textContent='Details'; btn.onclick = ()=> showDetails(v);
+          const tick = document.createElement('div'); tick.textContent = progress[v.en] && progress[v.en].known ? '✓' : '';
+          right.appendChild(btn); right.appendChild(tick);
+          li.appendChild(left); li.appendChild(right);
+          listEl.appendChild(li);
+        })
+      }
+
+      function showDetails(v){ detailInfo.innerHTML = `<strong>${v.en}</strong><div class='de'>${v.de}</div><div class='info'>${v.info}</div>`;
+        const markKnown = document.createElement('div'); markKnown.style.marginTop='8px';
+        markKnown.innerHTML = `<button id='markKnownBtn'>Als gelernt markieren</button> <button id='markUnknownBtn'>Als ungelernte markieren</button>`;
+        detailInfo.appendChild(markKnown);
+        document.getElementById('markKnownBtn').onclick = ()=>{ progress[v.en] = {known:true, ts:Date.now()}; saveProgress(); renderList(); };
+        document.getElementById('markUnknownBtn').onclick = ()=>{ progress[v.en] = {known:false, ts:Date.now()}; saveProgress(); renderList(); };
+      }
+
+      searchEl.addEventListener('input', ()=>{
+        const q = searchEl.value.trim().toLowerCase();
+        filtered = VOCABS.filter(v=> v.en.toLowerCase().includes(q) || v.de.toLowerCase().includes(q));
+        renderList();
+      });
+
+      document.getElementById('resetProgress').addEventListener('click', resetProgress);
+
+      const tabLearn = document.getElementById('tabLearn');
+      const tabTrain = document.getElementById('tabTrain');
+      const panelLearn = document.getElementById('panelLearn');
+      const panelTrain = document.getElementById('panelTrain');
+      tabLearn.addEventListener('click', ()=>{ tabLearn.classList.add('active'); tabTrain.classList.remove('active'); panelLearn.style.display='block'; panelTrain.style.display='none'; });
+      tabTrain.addEventListener('click', ()=>{ tabTrain.classList.add('active'); tabLearn.classList.remove('active'); panelLearn.style.display='none'; panelTrain.style.display='block'; });
+
+      const flashcardArea = document.getElementById('flashcardArea');
+      const flashcardEl = document.getElementById('flashcard');
+      const revealBtn = document.getElementById('reveal');
+      const knownBtn = document.getElementById('known');
+      const unknownBtn = document.getElementById('unknown');
+      const flashInfo = document.getElementById('flashInfo');
+      const optionReverse = document.getElementById('optionReverse');
+
+      let fcQueue = [];
+      function startFlashcards(){
+        fcQueue = shuffle(VOCABS.slice());
+        document.getElementById('panelTrain').style.display='block';
+        flashcardArea.style.display='block';
+        document.getElementById('quizArea').style.display='none';
+        showNextCard();
+      }
+      function showNextCard(){ if(fcQueue.length===0){ flashcardEl.textContent='Fertig! Du hast alle Karten gesehen.'; flashInfo.textContent='Wechsle die Option oder starte neu.'; return; }
+        const cur = fcQueue.pop(); flashcardEl.dataset.en = cur.en; flashcardEl.dataset.de = cur.de; flashcardEl.dataset.info = cur.info; flashcardEl.dataset.shown = 'front';
+        if(optionReverse.checked){ flashcardEl.textContent = cur.de; } else { flashcardEl.textContent = cur.en; }
+        flashInfo.textContent = `${VOCABS.length - fcQueue.length}/${VOCABS.length}`;
+      }
+      revealBtn.addEventListener('click', ()=>{ const en = flashcardEl.dataset.en; const de = flashcardEl.dataset.de; const info = flashcardEl.dataset.info; flashcardEl.textContent = (optionReverse.checked ? en + '\n\n' + info : de + '\n\n' + info); flashcardEl.dataset.shown='back'; });
+      knownBtn.addEventListener('click', ()=>{ const e = flashcardEl.dataset.en; progress[e] = {known:true, ts:Date.now()}; saveProgress(); renderList(); showNextCard(); });
+      unknownBtn.addEventListener('click', ()=>{ const e = flashcardEl.dataset.en; progress[e] = {known:false, ts:Date.now()}; saveProgress(); renderList(); showNextCard(); });
+
+      const quizArea = document.getElementById('quizArea');
+      const quizQuestion = document.getElementById('quizQuestion');
+      const mcList = document.getElementById('mcList');
+      const nextQ = document.getElementById('nextQ');
+      const quizScore = document.getElementById('quizScore');
+      const quizInfo = document.getElementById('quizInfo');
+
+      let quizQueue = [];
+      let qIndex = 0, qCorrect=0, qTotal=0;
+
+      function startQuiz(){
+        quizQueue = shuffle(VOCABS.slice()); qIndex=0; qCorrect=0; qTotal=0;
+        flashcardArea.style.display='none';
+        quizArea.style.display='block';
+        showQuizQuestion();
+      }
+
+      function showQuizQuestion(){
+        if(qIndex >= quizQueue.length){ quizQuestion.textContent = 'Quiz beendet.'; mcList.innerHTML=''; quizInfo.textContent = `Ergebnis: ${qCorrect}/${qTotal}`; return; }
+        const cur = quizQueue[qIndex];
+        const reverse = optionReverse.checked;
+        quizQuestion.textContent = reverse ? cur.de : cur.en;
+        const choices = [cur];
+        const others = VOCABS.filter(v=>v.en!==cur.en);
+        shuffle(others);
+        choices.push(...others.slice(0,3));
+        shuffle(choices);
+        mcList.innerHTML='';
+        choices.forEach(c=>{
+          const b = document.createElement('button');
+          b.textContent = reverse ? c.en : c.de;
+          b.onclick = ()=>{ handleMCAnswer(c,enEquals(cur, c), c, cur); };
+          mcList.appendChild(b);
+        });
+        quizInfo.textContent = '';
+      }
+
+      function enEquals(a,b){ return a.en === b.en; }
+
+      function handleMCAnswer(choice, isCorrect, choiceObj, correctObj){
+        qTotal++; if(isCorrect) qCorrect++; quizScore.textContent = `${qCorrect}/${qTotal}`;
+        Array.from(mcList.children).forEach(btn=>{ if(btn.textContent === (optionReverse.checked ? correctObj.en : correctObj.de)){ btn.style.borderColor = 'var(--success)'; } });
+        quizInfo.textContent = isCorrect ? 'Richtig!' : `Falsch — richtige Antwort: ${ optionReverse.checked ? correctObj.en : correctObj.de }`;
+        qIndex++; setTimeout(showQuizQuestion, 900);
+      }
+
+      nextQ.addEventListener('click', ()=> showQuizQuestion());
+
+      function shuffle(a){ for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; }
+
+      document.getElementById('startFlash').addEventListener('click', ()=>{ tabTrain.click(); startFlashcards(); });
+      document.getElementById('startQuiz').addEventListener('click', ()=>{ tabTrain.click(); startQuiz(); });
+
+      renderList(); updateProgressUI();
+    }
+
+    loadVocabs();
+  </script>
+</body>
+</html>
