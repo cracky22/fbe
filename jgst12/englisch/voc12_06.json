@@ -1,0 +1,427 @@
+[
+  {
+    "en": "access to information",
+    "de": "Zugang zu Informationen",
+    "info": "the freedom to get information"
+  },
+  {
+    "en": "broadsheet",
+    "de": "(seriöse) Tageszeitung",
+    "info": "e.g. The Times, Süddeutsche Zeitung"
+  },
+  {
+    "en": "in-depth and serious coverage",
+    "de": "gründliche und seriöse Berichterstattung",
+    "info": "<> gossip, shallow reporting"
+  },
+  {
+    "en": "tabloid",
+    "de": "Boulevardzeitung",
+    "info": "e.g. The Sun, Bild"
+  },
+  {
+    "en": "current affairs",
+    "de": "aktuelles Zeitgeschehen",
+    "info": "news stories that are happening right now"
+  },
+  {
+    "en": "in real time",
+    "de": "in Echtzeit",
+    "info": "at the same time as events actually happen"
+  },
+  {
+    "en": "to go viral",
+    "de": "sich rasant (im Internet) verbreiten",
+    "info": "to become popular on the internet very quickly"
+  },
+  {
+    "en": "to shape public opinion",
+    "de": "die öffentliche Meinung formen",
+    "info": "to form the ideas people have about a topic"
+  },
+  {
+    "en": "spread of fake news",
+    "de": "Verbreitung von Falschinformationen",
+    "info": "distribution of incorrect information"
+  },
+  {
+    "en": "misinformation",
+    "de": "Fehlinformationen, Falschinformationen",
+    "info": "incorrect or misleading information"
+  },
+  {
+    "en": "polarization",
+    "de": "Polarisierung",
+    "info": "having opposite opinions"
+  },
+  {
+    "en": "algorithm",
+    "de": "Algorithmus",
+    "info": "e.g. (Sum = S1+S2+S3)"
+  },
+  {
+    "en": "echo chamber",
+    "de": "Echokammer, Hallraum",
+    "info": "group of people online all with the same ideas and opinions"
+  },
+  {
+    "en": "bias",
+    "de": "(politische) Einstellung(en), Vorurteil(e), Tendenz(en)",
+    "info": "the ideas and opinions we already have"
+  },
+  {
+    "en": "to monetize sth",
+    "de": "aus etw ein Einkommen erzielen",
+    "info": "to make money from sth"
+  },
+  {
+    "en": "privacy",
+    "de": "Privatsphäre",
+    "info": "keeping of information to yourself"
+  },
+  {
+    "en": "cyber security",
+    "de": "Cybersicherheit",
+    "info": "protecting systems and networks from digital attacks"
+  },
+  {
+    "en": "data",
+    "de": "Daten",
+    "info": "facts and statistics"
+  },
+  {
+    "en": "screen time",
+    "de": "Bildschirmzeit",
+    "info": "the amount of time spent online"
+  },
+  {
+    "en": "online addiction",
+    "de": "Internet-Sucht",
+    "info": "e.g. I could not stop checking my phone because I had an internet addiction"
+  },
+  {
+    "en": "skills",
+    "de": "Fähigkeiten, Kenntnisse",
+    "info": "knowledge and abilities"
+  },
+  {
+    "en": "cheating",
+    "de": "Betrug, Täuschung",
+    "info": "<> playing fair"
+  },
+  {
+    "en": "plagiarism",
+    "de": "Plagiate, Diebstahl geistigen Eigentums",
+    "info": "copying sb else’s work"
+  },
+  {
+    "en": "attention span",
+    "de": "Aufmerksamkeitsspanne",
+    "info": "how long sb can concentrate"
+  },
+  {
+    "en": "critical thinking",
+    "de": "kritisches Denken",
+    "info": "understanding situations based on facts and information"
+  },
+  {
+    "en": "to navigate sth",
+    "de": "sich in etw zurechtfinden, etw bewältigen",
+    "info": "to find your way through sth"
+  },
+  {
+    "en": "the public realm",
+    "de": "die Öffentlichkeit, der öffentliche Raum",
+    "info": "<> private, confidential"
+  },
+  {
+    "en": "civil rights",
+    "de": "Bürgerrechte",
+    "info": "rights and freedoms that citizens have"
+  },
+  {
+    "en": "to outline sth",
+    "de": "etw darstellen, etw skizzieren",
+    "info": "to give a (short) description of sth"
+  },
+  {
+    "en": "assault (on sb/sth)",
+    "de": "Angriff (auf jdn/etw)",
+    "info": "attack (on sb/sth)"
+  },
+  {
+    "en": "to seek to do sth",
+    "de": "versuchen, etw zu tun",
+    "info": "to try to do sth"
+  },
+  {
+    "en": "to exploit sth",
+    "de": "etw ausnutzen, etw ausbeuten",
+    "info": "to use sth in a way that helps you"
+  },
+  {
+    "en": "sensitive data",
+    "de": "vertrauliche Daten",
+    "info": "private information"
+  },
+  {
+    "en": "to reveal sth",
+    "de": "etw aufdecken, etw enthüllen",
+    "info": "to show sth that was hidden before"
+  },
+  {
+    "en": "extent",
+    "de": "Ausmaß, Umfang",
+    "info": "amount, scale"
+  },
+  {
+    "en": "to purchase sth",
+    "de": "etw kaufen, etw käuflich erwerben",
+    "info": "to buy sth"
+  },
+  {
+    "en": "to surveil sb/sth",
+    "de": "jdn/etw überwachen",
+    "info": "n surveillance"
+  },
+  {
+    "en": "to compile sth",
+    "de": "etw (Daten usw.) zusammenstellen",
+    "info": "n compilation"
+  },
+  {
+    "en": "likelihood",
+    "de": "Wahrscheinlichkeit",
+    "info": "probability of sth happening"
+  },
+  {
+    "en": "to build a legal case",
+    "de": "Beweismaterial zusammentragen, ermitteln",
+    "info": "e.g. The lawyers built a legal case against him in the weeks before the trial."
+  },
+  {
+    "en": "subpoena",
+    "de": "gerichtliche Vorladung",
+    "info": "a legal requirement to attend court as a witness"
+  },
+  {
+    "en": "to weaponise sth against sb",
+    "de": "etw als Waffe gegen jdn nutzen, etw gegen jdn verwenden",
+    "info": "n weapon"
+  },
+  {
+    "en": "to commit to sth",
+    "de": "sich zu etw verpflichten, sich für etw engagieren",
+    "info": "to promise to do sth"
+  },
+  {
+    "en": "to obtain sth",
+    "de": "etw erhalten, etw bekommen",
+    "info": "to get sth, to receive sth"
+  },
+  {
+    "en": "citizenship",
+    "de": "Bürgersein, staatsbürgerliches Selbstverständnis",
+    "info": "e.g. He holds dual citizenship in the UK and Germany."
+  },
+  {
+    "en": "to set boundaries",
+    "de": "Grenzen ziehen",
+    "info": "e.g. When raising children, it is important to set clear boundaries."
+  },
+  {
+    "en": "targeted",
+    "de": "zielgerichtet, gezielt",
+    "info": "n target; v to target sb/sth"
+  },
+  {
+    "en": "revenge",
+    "de": "Rache",
+    "info": "act of hurting sb in return for them hurting you"
+  },
+  {
+    "en": "decency",
+    "de": "Anstand, gute Sitten",
+    "info": "adj decent"
+  },
+  {
+    "en": "to bring a lawsuit against sb",
+    "de": "jdn verklagen, Klage gegen jdn einreichen",
+    "info": "to sue sb"
+  },
+  {
+    "en": "harm",
+    "de": "Schaden",
+    "info": "phr to inflict harm upon sb/sth"
+  },
+  {
+    "en": "violation",
+    "de": "Verletzung, Verstoß",
+    "info": "action that breaks a law or a contract"
+  },
+  {
+    "en": "harassment",
+    "de": "Belästigung",
+    "info": "v to harass sb"
+  },
+  {
+    "en": "empirical proof",
+    "de": "empirische Beweise",
+    "info": "evidence based on fact and experience"
+  },
+  {
+    "en": "civil liberties",
+    "de": "bürgerliche Freiheitsrechte",
+    "info": "the rights people have under a constitution"
+  },
+  {
+    "en": "confession",
+    "de": "Geständnis",
+    "info": "v to confess sth (to sb)"
+  },
+  {
+    "en": "unaccustomed",
+    "de": "ungewohnt",
+    "info": "phr to be unaccustomed to sth"
+  },
+  {
+    "en": "to approach sb",
+    "de": "an jdn/etw herantreten, sich jdm/etw nähern",
+    "info": "to walk up to sb/sth, to get closer to sb/sth"
+  },
+  {
+    "en": "to dispel sth",
+    "de": "etw zerstreuen, etw widerlegen",
+    "info": "e.g. The actor released a statement to dispel any rumours about his marriage."
+  },
+  {
+    "en": "to show promise",
+    "de": "vielversprechend sein",
+    "info": "e.g. Your work shows real promise."
+  },
+  {
+    "en": "pleasurable",
+    "de": "angenehm",
+    "info": "n pleasure"
+  },
+  {
+    "en": "occasion",
+    "de": "Gelegenheit",
+    "info": "phr on special occasions"
+  },
+  {
+    "en": "to call sth out",
+    "de": "etw anprangern",
+    "info": "e.g. I called out his lies in front of everybody."
+  },
+  {
+    "en": "curious(ly)",
+    "de": "neugierig",
+    "info": "interested in many things"
+  },
+  {
+    "en": "to cross/exceed a threshold",
+    "de": "eine Schwelle überschreiten",
+    "info": "e.g. As soon as your income exceeds a certain threshold, they raise your taxes."
+  },
+  {
+    "en": "to do justice to sb/sth",
+    "de": "jdm/einer Sache gerecht werden",
+    "info": "e.g. She is more beautiful in person — the photo doesn't do her justice!"
+  },
+  {
+    "en": "surgeon",
+    "de": "Chirurg/in",
+    "info": "a doctor who operates on patients"
+  },
+  {
+    "en": "brief",
+    "de": "kurz",
+    "info": "<> long"
+  },
+  {
+    "en": "to be oblivious of sth",
+    "de": "etw nicht wahrnehmen, etw vergessen",
+    "info": "to not be aware of sth"
+  },
+  {
+    "en": "to have bigger fish to fry",
+    "de": "Wichtigeres zu tun haben",
+    "info": "to have better things to do"
+  },
+  {
+    "en": "innocent(ly)",
+    "de": "unschuldig, in gutem Glauben",
+    "info": "with good intentions"
+  },
+  {
+    "en": "to conduct sth",
+    "de": "etw durchführen",
+    "info": "e.g. to conduct an experiment/research"
+  },
+  {
+    "en": "to betray sb/sth",
+    "de": "jdn/etw verraten",
+    "info": "n betrayal"
+  },
+  {
+    "en": "resentful",
+    "de": "verbittert, verärgert",
+    "info": "n resentment; v to resent sb/sth"
+  },
+  {
+    "en": "to occur",
+    "de": "stattfinden, geschehen",
+    "info": "to happen, to take place"
+  },
+  {
+    "en": "perception",
+    "de": "Wahrnehmung",
+    "info": "v to perceive"
+  },
+  {
+    "en": "to relate to sb/sth",
+    "de": "etw mit jdm/etw anfangen können",
+    "info": "to find a connection with sb/sth"
+  },
+  {
+    "en": "to debunk sth",
+    "de": "etw entlarven, etw widerlegen",
+    "info": "to prove sth wrong"
+  },
+  {
+    "en": "endorsement",
+    "de": "Produktwerbung durch Prominente",
+    "info": "celebrity support of a brand or product"
+  },
+  {
+    "en": "obsession (with)",
+    "de": "Besessenheit (von etw)",
+    "info": "v to be obsessed with sth"
+  },
+  {
+    "en": "doom",
+    "de": "Untergang, Verderben",
+    "info": "e.g. He fell off a bridge to his doom."
+  },
+  {
+    "en": "to consent",
+    "de": "zustimmen, einwilligen",
+    "info": "agree"
+  },
+  {
+    "en": "to rid sb of sth",
+    "de": "jdn von etw befreien",
+    "info": "to free sb of sth"
+  },
+  {
+    "en": "to host sth",
+    "de": "etw veranstalten, etw ausrichten",
+    "info": "to organize an event"
+  },
+  {
+    "en": "to get accustomed to sth",
+    "de": "sich an etw gewöhnen",
+    "info": "to accustom oneself to sth"
+  }
+]
