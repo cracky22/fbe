@@ -1,0 +1,237 @@
+[
+  {
+    "en": "to prosecute sb",
+    "de": "jdn strafrechtlich verfolgen",
+    "info": "officially charge sb with a crime in court"
+  },
+  {
+    "en": "shoplifting",
+    "de": "Ladendiebstahl",
+    "info": "taking things from a shop without paying"
+  },
+  {
+    "en": "underage",
+    "de": "minderjährig, von/durch Minderjährige",
+    "info": "e.g. it is illegal to sell alcohol to underage customers"
+  },
+  {
+    "en": "(criminal) offence",
+    "de": "Straftat",
+    "info": "e.g. murdering another person is a criminal offence"
+  },
+  {
+    "en": "to commit a crime",
+    "de": "ein Verbrechen / eine Straftat begehen",
+    "info": "e.g. to murder sb, to steal sth"
+  },
+  {
+    "en": "severe punishment",
+    "de": "harte Strafe",
+    "info": "e.g. 20 years in prison"
+  },
+  {
+    "en": "manslaughter",
+    "de": "Totschlag",
+    "info": "killing sb without intention"
+  },
+  {
+    "en": "assault",
+    "de": "Körperverletzung",
+    "info": "hurting/injuring sb else's body"
+  },
+  {
+    "en": "domestic abuse",
+    "de": "häusliche Gewalt",
+    "info": "violence within the home"
+  },
+  {
+    "en": "sexual offence",
+    "de": "Sexualstraftat",
+    "info": "e.g. rape, exhibitionism"
+  },
+  {
+    "en": "hate speech",
+    "de": "Anstachelung zum Hass, Hassrede(n)",
+    "info": "to say bad things in public about sb else"
+  },
+  {
+    "en": "criminal damage",
+    "de": "Sachbeschädigung",
+    "info": "damage to sb's things, on purpose"
+  },
+  {
+    "en": "arson",
+    "de": "Brandstiftung",
+    "info": "burning down sth, e.g. a building"
+  },
+  {
+    "en": "burglary",
+    "de": "Einbruchdiebstahl",
+    "info": "taking things from sb's home"
+  },
+  {
+    "en": "robbery",
+    "de": "Raub, Raubüberfall",
+    "info": "taking things without permission"
+  },
+  {
+    "en": "drug smuggling",
+    "de": "Drogenschmuggel",
+    "info": "taking drugs into another country"
+  },
+  {
+    "en": "drug trafficking",
+    "de": "Rauschgifthandel",
+    "info": "growing, processing, distributing and selling drugs"
+  },
+  {
+    "en": "drunk driving",
+    "de": "Trunkenheit am Steuer",
+    "info": "driving a car after drinking alcohol"
+  },
+  {
+    "en": "hit-and-run accident",
+    "de": "Unfall mit Fahrerflucht",
+    "info": "to hit sb with a car then drive away"
+  },
+  {
+    "en": "criminal record",
+    "de": "Eintrag ins Strafregister, Vorstrafe(n)",
+    "info": "summary of crimes sb has committed"
+  },
+  {
+    "en": "fraud",
+    "de": "Betrug",
+    "info": "crime of deceiving people in order to get their money"
+  },
+  {
+    "en": "white-collar crime",
+    "de": "Wirtschaftskriminalität",
+    "info": "e.g. wage theft, insider trading, bribery"
+  },
+  {
+    "en": "money laundering",
+    "de": "Geldwäsche",
+    "info": "moving stolen money so that it seems it was gained legally"
+  },
+  {
+    "en": "tax evasion",
+    "de": "Steuerhinterziehung",
+    "info": "not paying taxes"
+  },
+  {
+    "en": "online scam",
+    "de": "Betrug(smasche) im Internet",
+    "info": "cheating people out of money on the internet"
+  },
+  {
+    "en": "identity theft",
+    "de": "Identitätsdiebstahl",
+    "info": "stealing of sb's personal information"
+  },
+  {
+    "en": "to accuse sb of sth",
+    "de": "jdn einer Sache anklagen/beschuldigen",
+    "info": "e.g. 'You stole my bag!'"
+  },
+  {
+    "en": "to try sb",
+    "de": "jdn vor Gericht stellen",
+    "info": "legal process to find if sb is guilty"
+  },
+  {
+    "en": "criminal court",
+    "de": "Strafgericht(shof)",
+    "info": "place where criminal process happens"
+  },
+  {
+    "en": "jury",
+    "de": "Geschworene (pl.), Jury",
+    "info": "12 people who decide on a criminal case"
+  },
+  {
+    "en": "repeat offender",
+    "de": "Wiederholungstäter/in",
+    "info": "sb who commits the same crime many times"
+  },
+  {
+    "en": "prison sentence",
+    "de": "Freiheitsstrafe",
+    "info": "how long sb will spend in prison"
+  },
+  {
+    "en": "convicted criminal",
+    "de": "verurteilte/r Straftäter/in",
+    "info": "sb found guilty of a crime"
+  },
+  {
+    "en": "to serve a sentence",
+    "de": "eine Strafe verbüßen",
+    "info": "to spend time in prison"
+  },
+  {
+    "en": "suspended sentence",
+    "de": "Bewährungsstrafe",
+    "info": "punishment will take place at a later time"
+  },
+  {
+    "en": "community service",
+    "de": "Sozialstunden",
+    "info": "working for the community as punishment for a crime"
+  },
+  {
+    "en": "first-time offender",
+    "de": "Ersttäter/in, nicht Vorbestrafte/r",
+    "info": "sb who has never committed a crime before"
+  },
+  {
+    "en": "on probation",
+    "de": "auf/zur Bewährung ausgesetzt",
+    "info": "being on a period of supervision instead of prison"
+  },
+  {
+    "en": "reduced sentence",
+    "de": "Strafmilderung, vermindertes Strafmaß",
+    "info": "getting less time in prison"
+  },
+  {
+    "en": "juvenile delinquency",
+    "de": "Jugendkriminalität",
+    "info": "young people behaving irresponsibly"
+  },
+  {
+    "en": "to break the law",
+    "de": "das Gesetz übertreten",
+    "info": "to do sth that is illegal"
+  },
+  {
+    "en": "truancy",
+    "de": "Schuleschwänzen",
+    "info": "not going to school"
+  },
+  {
+    "en": "petty crime",
+    "de": "Kleinkriminalität",
+    "info": "crime that is not very serious, e.g. stealing a chocolate bar"
+  },
+  {
+    "en": "prison service",
+    "de": "Justizvollzugsdienst",
+    "info": "e.g. He works as a guard for the prison service"
+  },
+  {
+    "en": "to impose sth on sb",
+    "de": "jdm etw auferlegen, jdm etw aufzwingen",
+    "info": "to force sth on sb"
+  },
+  {
+    "en": "to sentence sb to sth",
+    "de": "jdn zu etw verurteilen",
+    "info": "e.g. The bank manager was sentenced to four years in prison for fraud"
+  },
+  {
+    "en": "prison term",
+    "de": "Haftstrafe, Gefängnisstrafe",
+    "info": "prison sentence"
+  }
+]
