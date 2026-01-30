@@ -2453,5 +2453,280 @@
     "en": "prison term",
     "de": "Haftstrafe, Gefängnisstrafe",
     "info": "prison sentence"
-  }
+  },
+  {
+    "en": "vaping",
+    "de": "Dampfen, Rauchen von E-Zigaretten",
+    "info": "the act of using e-cigarettes"
+  },
+  {
+    "en": "to market sth",
+    "de": "etw vermarkten",
+    "info": "to advertise something to a particular group"
+  },
+  { "en": "vape", "de": "E-Zigarette", "info": "an electronic cigarette" },
+  {
+    "en": "to be addictive",
+    "de": "süchtig machen",
+    "info": "to make somebody unable to stop using something"
+  },
+  {
+    "en": "to be addicted to sth",
+    "de": "nach etw süchtig sein, von etw abhängig sein",
+    "info": "to be dependent on something"
+  },
+  {
+    "en": "to quit (sth)",
+    "de": "(mit etw) aufhören",
+    "info": "to stop doing something"
+  },
+  {
+    "en": "to grapple with sth",
+    "de": "mit etw kämpfen",
+    "info": "to struggle with something"
+  },
+  {
+    "en": "general practitioner",
+    "de": "Allgemeinärzt/in, Hausarzt/-ärztin",
+    "info": "a doctor who is usually the first point of contact"
+  },
+  { "en": "tobacco", "de": "Tabak", "info": "a product used for smoking" },
+  {
+    "en": "to be at a loss",
+    "de": "ratlos sein",
+    "info": "not knowing what to do or think"
+  },
+  {
+    "en": "(drug) habit",
+    "de": "Sucht, Abhängigkeit",
+    "info": "a strong physical need to keep taking drugs"
+  },
+  {
+    "en": "to arrest sb",
+    "de": "jdn verhaften",
+    "info": "for the police to stop someone"
+  },
+  {
+    "en": "convenience store",
+    "de": "Spätkauf, Laden um die Ecke",
+    "info": "a small shop selling everyday items"
+  },
+  { "en": "caution", "de": "Verweis", "info": "legal warning" },
+  {
+    "en": "to reprimand sb",
+    "de": "jdn verwarnen, zurechtweisen",
+    "info": "to officially tell someone they have done something wrong"
+  },
+  {
+    "en": "to raid sb/sth",
+    "de": "eine Razzia bei jdm/etw durchführen",
+    "info": "to enter a place suddenly, especially by police"
+  },
+  {
+    "en": "to resort to sth",
+    "de": "auf etw zurückgreifen",
+    "info": "to use something as a last option"
+  },
+  { "en": "federal", "de": "Bundes-", "info": "relating to a federal system" },
+  {
+    "en": "public consultation",
+    "de": "öffentliches Anhörungsverfahren",
+    "info": "asking the public for opinions on important matters"
+  },
+  {
+    "en": "distorted",
+    "de": "verzerrt",
+    "info": "changed out of normal shape"
+  },
+  {
+    "en": "(drug) withdrawal",
+    "de": "Entzug",
+    "info": "the process of stopping drugs"
+  },
+  {
+    "en": "to expel sb from school",
+    "de": "jdn von der Schule verweisen",
+    "info": "to officially remove a student"
+  },
+  {
+    "en": "to detox",
+    "de": "entgiften",
+    "info": "to stop taking harmful substances"
+  },
+  {
+    "en": "(drug) user",
+    "de": "(Drogen-)Konsument/in",
+    "info": "a person who uses drugs"
+  },
+  {
+    "en": "supplier",
+    "de": "Lieferant/in, Anbieter/in",
+    "info": "a person or company that provides something"
+  },
+  { "en": "to soar", "de": "sprunghaft ansteigen", "info": "to rise suddenly" },
+  {
+    "en": "medical practitioner",
+    "de": "Mediziner/in, praktische/r Arzt/Ärztin",
+    "info": "a medical professional"
+  },
+  {
+    "en": "to wreck sth",
+    "de": "etw zerstören",
+    "info": "to destroy something"
+  },
+  {
+    "en": "to be subjected to sth",
+    "de": "einer Sache ausgesetzt sein",
+    "info": "to experience something unpleasant"
+  },
+  {
+    "en": "enquiry",
+    "de": "Untersuchung, Anhörung",
+    "info": "official research"
+  },
+  { "en": "headed by", "de": "unter der Leitung von", "info": "led by" },
+  {
+    "en": "regulatory body",
+    "de": "Aufsichtsbehörde",
+    "info": "organization that sets and checks standards"
+  },
+  {
+    "en": "therapeutic",
+    "de": "therapeutisch, heil-",
+    "info": "relating to treatment"
+  },
+  {
+    "en": "customs",
+    "de": "Zoll",
+    "info": "border checks on goods entering or leaving a country"
+  },
+  { "en": "loophole", "de": "Schlupfloch", "info": "a gap in law or rules" },
+  { "en": "talk", "de": "Vortrag", "info": "speech, presentation" },
+  {
+    "en": "registered nurse",
+    "de": "examinierte/r Krankenpfleger/-schwester",
+    "info": "qualified professional caring for the sick"
+  },
+  { "en": "to doubt sth", "de": "etw anzweifeln", "info": "to not be certain" },
+  {
+    "en": "to sprout",
+    "de": "keimen, sprießen",
+    "info": "seeds start to grow"
+  },
+  { "en": "breasts", "de": "Brüste", "info": "plural" },
+  { "en": "chest", "de": "Brust, Brustkorb", "info": "upper part of torso" },
+  {
+    "en": "to fuss",
+    "de": "Wirbel machen, sich aufregen",
+    "info": "make a fuss"
+  },
+  {
+    "en": "to shoot sb",
+    "de": "jdn anschießen / erschießen",
+    "info": "hit with a bullet"
+  },
+  {
+    "en": "to cuss under one's breath",
+    "de": "leise vor sich hin fluchen",
+    "info": "curse quietly"
+  },
+  {
+    "en": "to maneuver sth",
+    "de": "etw manövrieren",
+    "info": "move carefully"
+  },
+  { "en": "busted", "de": "kaputt", "info": "broken" },
+  { "en": "fool", "de": "Depp, Idiot", "info": "make a fool of sb" },
+  { "en": "to blink", "de": "blinzeln", "info": "close eyes briefly" },
+  { "en": "to blind sb", "de": "jdn blenden", "info": "shine bright light" },
+  { "en": "to crank", "de": "kurbeln", "info": "turn in circles" },
+  { "en": "handle", "de": "Griff, Hebel", "info": "door handle" },
+  { "en": "to beam", "de": "strahlen", "info": "emit light / smile" },
+  { "en": "registration", "de": "(Kfz-)Zulassung", "info": "register sth" },
+  {
+    "en": "proof of insurance",
+    "de": "Versicherungsnachweis",
+    "info": "evidence car is insured"
+  },
+  { "en": "to plead", "de": "flehentlich bitten", "info": "pp pleaded/pled" },
+  { "en": "to groan", "de": "stöhnen, ächzen", "info": "make groaning sound" },
+  { "en": "to pound", "de": "hämmern, pochen", "info": "hit repeatedly" },
+  {
+    "en": "instruction",
+    "de": "Anweisung",
+    "info": "statement telling what to do"
+  },
+  { "en": "to echo", "de": "widerhallen", "info": "sound coming back" },
+  {
+    "en": "(police) badge",
+    "de": "Polizeimarke",
+    "info": "officer identification"
+  },
+  {
+    "en": "buzz cut",
+    "de": "Bürstenhaarschnitt",
+    "info": "very short haircut"
+  },
+  { "en": "scar", "de": "Narbe", "info": "mark after injury" },
+  {
+    "en": "None of your business.",
+    "de": "Das geht dich nichts an.",
+    "info": "impolite way to refuse info"
+  },
+  { "en": "tail light", "de": "Rücklicht", "info": "rear light" },
+  { "en": "to yank", "de": "zerren", "info": "grab forcefully" },
+  {
+    "en": "to pin sb against sth",
+    "de": "jdn gegen etw drücken",
+    "info": "hold and push"
+  },
+  { "en": "dashboard", "de": "Armaturenbrett", "info": "front car panel" },
+  { "en": "to bark", "de": "bellen", "info": "dog sound" },
+  { "en": "to shake", "de": "zittern", "info": "tremble" },
+  { "en": "to pat sb down", "de": "jdn abtasten", "info": "body search" },
+  { "en": "patrol car", "de": "Streifenwagen", "info": "police car" },
+  { "en": "to jerk", "de": "ruckartig zucken", "info": "sudden movement" },
+  { "en": "to splatter", "de": "spritzen", "info": "splash" },
+  { "en": "to gasp", "de": "nach Luft ringen", "info": "breathe in shock" },
+  { "en": "stunned", "de": "fassungslos", "info": "unable to react" },
+  {
+    "en": "ear-splitting scream",
+    "de": "markerschütternder Schrei",
+    "info": "very loud scream"
+  },
+  {
+    "en": "to emerge from sth",
+    "de": "aus etw hervorkommen",
+    "info": "come out of"
+  },
+  {
+    "en": "gut",
+    "de": "Eingeweide, Darm",
+    "info": "also: have the guts = Mut haben"
+  },
+  { "en": "throat", "de": "Kehle", "info": "frog in your throat" },
+  { "en": "bleeding", "de": "Blutung", "info": "to bleed" },
+  { "en": "to utter sth", "de": "etw von sich geben", "info": "say" },
+  { "en": "to stiffen", "de": "erstarren", "info": "become rigid" },
+  { "en": "narrator", "de": "Erzähler/in", "info": "person telling story" },
+  { "en": "torch", "de": "Taschenlampe", "info": "flashlight (AE)" },
+  { "en": "to steady oneself", "de": "Halt finden", "info": "regain balance" },
+  { "en": "even so", "de": "und doch", "info": "nevertheless" },
+  {
+    "en": "to carry drugs",
+    "de": "Drogen mit sich führen",
+    "info": "be in possession"
+  },
+  { "en": "sex education", "de": "Sexualaufklärung", "info": "school subject" },
+  {
+    "en": "nursing profession",
+    "de": "Pflegeberuf(e)",
+    "info": "job in nursing"
+  },
+  { "en": "to make a fuss", "de": "Wirbel machen", "info": "complain loudly" },
+  { "en": "remark", "de": "Bemerkung", "info": "comment" },
+  { "en": "drunkenness", "de": "Trunkenheit", "info": "state of being drunk" },
+  { "en": "disrespect", "de": "Respektlosigkeit", "info": "lack of respect" },
+  { "en": "impatience", "de": "Ungeduld", "info": "opposite of patience" },
+  { "en": "hatred", "de": "Hass", "info": "opposite of love" }
 ]
