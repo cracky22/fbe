@@ -2728,5 +2728,135 @@
   { "en": "drunkenness", "de": "Trunkenheit", "info": "state of being drunk" },
   { "en": "disrespect", "de": "Respektlosigkeit", "info": "lack of respect" },
   { "en": "impatience", "de": "Ungeduld", "info": "opposite of patience" },
-  { "en": "hatred", "de": "Hass", "info": "opposite of love" }
+  { "en": "hatred", "de": "Hass", "info": "opposite of love" },
+  {
+    "en": "science literacy",
+    "de": "wissenschaftliche Bildung, Wissenschaftskompetenz",
+    "info": "the teaching of basic scientific concepts"
+  },
+  {
+    "en": "emerging",
+    "de": "aufkommend, neu auftretend",
+    "info": "e.g. Emerging technologies may finally solve long-standing problems."
+  },
+  {
+    "en": "exploration",
+    "de": "Erforschung, Entdeckung",
+    "info": "travelling around a place in order to learn about it"
+  },
+  { "en": "space", "de": "Weltraum", "info": "n spaceship" },
+  {
+    "en": "progress",
+    "de": "vorankommen, Fortschritte machen",
+    "info": "to move forward"
+  },
+  {
+    "en": "landmark",
+    "de": "Meilenstein",
+    "info": "e.g. Face recognition was a landmark in the development of AI."
+  },
+  {
+    "en": "arrival",
+    "de": "Aufkommen, Erscheinen",
+    "info": "e.g. the arrival of the personal computer in the 80s"
+  },
+  {
+    "en": "arms race",
+    "de": "Wettrüsten",
+    "info": "e.g. The USA and the Soviet Union were engaged in a nuclear arms race during the Cold War."
+  },
+  {
+    "en": "mature",
+    "de": "reif, ausgereift",
+    "info": "e.g. He's mature enough now to live on his own."
+  },
+  {
+    "en": "theoretical foundation",
+    "de": "theoretische Grundlage",
+    "info": "e.g. The course first establishes a solid theoretical foundation before moving on to practical applications."
+  },
+  {
+    "en": "pale",
+    "de": "verblassen",
+    "info": "e.g. My achievements pale next to my millionaire brother's."
+  },
+  {
+    "en": "computer-assisted",
+    "de": "computergestützt",
+    "info": "e.g. The market for computer-assisted language learning has exploded in popularity."
+  },
+  {
+    "en": "personal computing age",
+    "de": "PC-Zeitalter",
+    "info": "time when people started to own a PC"
+  },
+  {
+    "en": "the disabled",
+    "de": "Behinderte, Menschen mit Behinderung",
+    "info": "n disability"
+  },
+  {
+    "en": "lead the way",
+    "de": "führend sein, Vorreiter/in sein",
+    "info": "to be the best"
+  },
+  {
+    "en": "proving ground",
+    "de": "Versuchsgelände, Teststrecke",
+    "info": "testing site"
+  },
+  {
+    "en": "drive by wire",
+    "de": "Drive-by-Wire",
+    "info": "electronic replacement for mechanical method of driving"
+  },
+  {
+    "en": "spark of fire",
+    "de": "Feuerfunke, Zündfunke",
+    "info": "e.g. It provided the spark of fire she needed to motivate herself to finish the project."
+  },
+  {
+    "en": "engage with sb/sth",
+    "de": "sich mit jdm/etw auseinandersetzen",
+    "info": "to deal with sb/sth"
+  },
+  { "en": "the human race", "de": "die Menschheit", "info": "humanity" },
+  {
+    "en": "advocate sth",
+    "de": "etw befürworten, sich für etw aussprechen",
+    "info": "to support sth, to be in favour of sth"
+  },
+  {
+    "en": "be scientifically literate",
+    "de": "kompetent mit Wissenschaft umgehen können",
+    "info": "to have a basic understanding of scientific concepts"
+  },
+  {
+    "en": "advanced",
+    "de": "fortschrittlich, modern, hochentwickelt",
+    "info": "ahead in complexity, knowledge, skill, etc"
+  },
+  { "en": "application", "de": "Anwendung", "info": "v to apply sth to sth" },
+  {
+    "en": "the thrill and wonder of sth",
+    "de": "die faszinierende Welt von etw",
+    "info": "e.g. The science teacher watched as her pupils discovered the thrill and wonder of chemistry."
+  },
+  {
+    "en": "be sb's main priority",
+    "de": "jds Hauptanliegen sein",
+    "info": "e.g. He left his demanding job after deciding that his family was his main priority."
+  },
+  {
+    "en": "by-product",
+    "de": "Nebenprodukt, Abfallprodukt",
+    "info": "e.g. When making butter, the by-product buttermilk is also created."
+  },
+  {
+    "en": "special needs pl",
+    "de": "Förderbedarf, Behinderung(en)",
+    "info": "e.g. a disability, a learning difficulty, etc"
+  },
+  { "en": "stable", "de": "stabil", "info": "steady, solid" },
+  { "en": "capable", "de": "kompetent, fähig", "info": "<> incapable" }
 ]
