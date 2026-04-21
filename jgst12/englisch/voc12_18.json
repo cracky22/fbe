@@ -1,0 +1,591 @@
+[
+  { "en": "volunteering", "de": "ehrenamtliche Tätigkeit(en)", "info": "" },
+  { "en": "summer job", "de": "Ferienjob", "info": "" },
+  { "en": "benefit", "de": "Vorteil, Nutzen", "info": "" },
+  { "en": "apprenticeship", "de": "Lehre, Ausbildung", "info": "" },
+  { "en": "gamification", "de": "Gamifizierung", "info": "" },
+  {
+    "en": "extracurricular activity",
+    "de": "außerschulische Aktivität, AG",
+    "info": ""
+  },
+  { "en": "internship", "de": "Praktikum", "info": "" },
+  { "en": "to throw a dice", "de": "würfeln", "info": "" },
+  { "en": "counter", "de": "Spielmarke, Spielfigur", "info": "" },
+  { "en": "square", "de": "(Brettspiel:) Feld", "info": "" },
+  { "en": "saying", "de": "Sprichwort", "info": "" },
+  {
+    "en": "All work and no play makes Jack a dull boy.",
+    "de": "etwa: Arbeiten allein macht nicht glücklich.",
+    "info": ""
+  },
+  { "en": "to imply", "de": "besagen, andeuten", "info": "" },
+  { "en": "to take time off", "de": "sich frei nehmen", "info": "" },
+  {
+    "en": "an integral part of life",
+    "de": "ein wesentlicher Lebensbestandteil",
+    "info": ""
+  },
+  { "en": "workforce", "de": "Belegschaft, Arbeitnehmerschaft", "info": "" },
+  { "en": "heavy workload", "de": "hohe Arbeitsbelastung", "info": "" },
+  { "en": "revision", "de": "Lernen (für eine Prüfung)", "info": "" },
+  { "en": "besides", "de": "außer, neben", "info": "" },
+  { "en": "syllabus", "de": "Lehrplan", "info": "" },
+  {
+    "en": "to get a place in university",
+    "de": "einen Studienplatz bekommen",
+    "info": ""
+  },
+  { "en": "to enter (a career)", "de": "(eine Laufbahn) beginnen", "info": "" },
+  { "en": "vocational training", "de": "Berufsausbildung", "info": "" },
+  {
+    "en": "to take advantage of sth",
+    "de": "etw (für sich) nutzen, etw ausnutzen",
+    "info": ""
+  },
+  { "en": "indispensable", "de": "unerlässlich", "info": "" },
+  { "en": "well-being", "de": "Wohl, Wohlergehen", "info": "" },
+  {
+    "en": "to engage in sth",
+    "de": "etw betreiben, einer Sache nachgehen, etw tun",
+    "info": ""
+  },
+  {
+    "en": "sedentary leisure activities",
+    "de": "Freizeitbeschäftigungen im Sitzen",
+    "info": "pl"
+  },
+  { "en": "to sb's heart's content", "de": "nach Herzenslust", "info": "" },
+  { "en": "to unwind", "de": "abschalten, sich entspannen", "info": "" },
+  { "en": "to recover from sth", "de": "sich von etw erholen", "info": "" },
+  { "en": "daily routine", "de": "Tagesablauf, Alltagstrott", "info": "" },
+  { "en": "in turn", "de": "wiederum, im Gegenzug", "info": "" },
+  { "en": "academic performance", "de": "schulische Leistung(en)", "info": "" },
+  { "en": "university admission", "de": "Universitätszulassung", "info": "" },
+  { "en": "to be linked to sth", "de": "mit etw verknüpft sein", "info": "" },
+  {
+    "en": "non-academic pursuit",
+    "de": "außerschulische/-universitäre Beschäftigung",
+    "info": ""
+  },
+  {
+    "en": "essential (to sb/sth)",
+    "de": "wesentlich, unerlässlich (für jdn/etw)",
+    "info": ""
+  },
+  {
+    "en": "to join sb/sth",
+    "de": "sich jdm/etw anschließen, bei jdm/etw mitmachen",
+    "info": ""
+  },
+  { "en": "to enrol in sth", "de": "sich für etw anmelden", "info": "" },
+  { "en": "to pursue a hobby", "de": "einem Hobby nachgehen", "info": "" },
+  { "en": "mandatory optional subject", "de": "Wahlpflichtfach", "info": "" },
+  { "en": "woodworking", "de": "Tischlern, Holzarbeiten", "info": "" },
+  { "en": "beekeeping", "de": "Imkerei", "info": "" },
+  { "en": "opportunity", "de": "Möglichkeit", "info": "" },
+  { "en": "book club", "de": "Lesegruppe", "info": "" },
+  { "en": "to look down upon sth", "de": "etw geringschätzen", "info": "" },
+  {
+    "en": "to stimulate creativity",
+    "de": "die Kreativität fördern",
+    "info": ""
+  },
+  {
+    "en": "to improve reflexes and memory",
+    "de": "Reflexe und das Gedächtnis verbessern",
+    "info": ""
+  },
+  { "en": "to foster teamwork", "de": "Zusammenarbeit fördern", "info": "" },
+  { "en": "downside", "de": "Nachteil", "info": "" },
+  {
+    "en": "attention-span disorder",
+    "de": "Aufmerksamkeitsstörung",
+    "info": ""
+  },
+  { "en": "couch potato", "de": "Stubenhocker", "info": "" },
+  { "en": "lazy", "de": "faul", "info": "" },
+  { "en": "isolated", "de": "vereinsamt", "info": "" },
+  { "en": "to take a gap year", "de": "ein Jahr Auszeit nehmen", "info": "" },
+  { "en": "employment", "de": "Arbeit, Beschäftigung", "info": "" },
+  { "en": "social interaction", "de": "sozialer Umgang, Kontakt", "info": "" },
+  { "en": "life satisfaction", "de": "Lebenszufriedenheit", "info": "" },
+  {
+    "en": "to build self-esteem",
+    "de": "das Selbstwertgefühl stärken",
+    "info": ""
+  },
+  {
+    "en": "to gibe back to society",
+    "de": "der Gesellschaft etw zurückgeben",
+    "info": "typo: should be 'to give back to society'"
+  },
+  {
+    "en": "to get involved in charity work",
+    "de": "sich ehrenamtlich engagieren",
+    "info": ""
+  },
+  { "en": "impoverished", "de": "verarmt, arm", "info": "" },
+  {
+    "en": "to be part and parcel of sth",
+    "de": "wesentlicher Bestandteil von etw sein",
+    "info": ""
+  },
+  { "en": "sensible", "de": "vernünftig", "info": "" },
+  {
+    "en": "to prevent sb from doing sth",
+    "de": "verhindern, dass jd etw tut",
+    "info": ""
+  },
+  { "en": "to fit sth", "de": "zu etw passen", "info": "" },
+  { "en": "impact", "de": "Einfluss", "info": "" },
+  { "en": "in nature", "de": "dem Wesen nach", "info": "" },
+  {
+    "en": "to dismiss sb/sth (as sth)",
+    "de": "jdn/etw abqualifizieren, jdn/etw als etw abtun",
+    "info": ""
+  },
+  { "en": "recovery", "de": "Erholung, Genesung", "info": "" },
+  { "en": "engagement", "de": "Teilnahme, Teilhabe", "info": "" },
+  { "en": "enjoyment", "de": "Vergnügen, Freude", "info": "" },
+  { "en": "counterbalance", "de": "Gegengewicht", "info": "" },
+  {
+    "en": "to pressurize sb/sth",
+    "de": "jdn/etw unter Druck setzen",
+    "info": ""
+  },
+  { "en": "worth noting", "de": "erwähnenswert", "info": "" },
+  { "en": "improvement", "de": "Verbesserung", "info": "" },
+  { "en": "societal", "de": "gesellschaftlich", "info": "" },
+  { "en": "depressed", "de": "niedergeschlagen", "info": "" },
+  { "en": "beneficial", "de": "vorteilhaft, positiv", "info": "" },
+  { "en": "worthwhile", "de": "sinnvoll, lohnend", "info": "" },
+  { "en": "rewarding", "de": "erfüllend, befriedigend", "info": "" },
+  { "en": "in moderation", "de": "in Maßen, maßvoll", "info": "" },
+  { "en": "goodwill", "de": "Wohlwollen, guter Wille", "info": "" },
+  { "en": "cynical", "de": "zynisch", "info": "" },
+  { "en": "overburdened", "de": "überbeansprucht, überlastet", "info": "" },
+  { "en": "continually", "de": "ständig, andauernd", "info": "" },
+  { "en": "on top of sth", "de": "zusätzlich zu etw", "info": "" },
+  { "en": "lecture", "de": "Vorlesung", "info": "" },
+  { "en": "assignment", "de": "Hausaufgabe, Hausarbeit", "info": "" },
+  {
+    "en": "no easy feat",
+    "de": "keine leichte Sache, anspruchsvolle Aufgabe",
+    "info": ""
+  },
+  { "en": "pastime", "de": "Zeitvertreib", "info": "" },
+  { "en": "to de-stress", "de": "Stress abbauen", "info": "" },
+  {
+    "en": "to catch up on sth",
+    "de": "etw (Versäumtes) nachholen",
+    "info": ""
+  },
+  { "en": "to curl up", "de": "sich (aufs Sofa) kuscheln", "info": "" },
+  { "en": "entertaining", "de": "unterhaltsam", "info": "" },
+  { "en": "soothing", "de": "beruhigend, entspannend", "info": "" },
+  { "en": "like-minded", "de": "gleichgesinnt", "info": "" },
+  { "en": "tap", "de": "Tippen, Antippen", "info": "" },
+  { "en": "to keep up with sth", "de": "an etw dranbleiben", "info": "" },
+  { "en": "current", "de": "aktuell", "info": "" },
+  { "en": "gatherung", "de": "Beisammensein, Zusammenkunft", "info": "" },
+  { "en": "to swipe", "de": "wischen", "info": "" },
+  { "en": "the latest craze", "de": "der letzte Schrei", "info": "" },
+  { "en": "dominance", "de": "Vorherrschaft, Dominanz", "info": "" },
+  { "en": "to lower sth", "de": "etw senken", "info": "" },
+  { "en": "level", "de": "Niveau", "info": "" },
+  {
+    "en": "when the going gets tough",
+    "de": "wenn es hart auf hart kommt",
+    "info": ""
+  },
+  { "en": "to ditch sth", "de": "etw wegschmeißen", "info": "" },
+  { "en": "to have a blast", "de": "einen Mordsspaß haben", "info": "" },
+  { "en": "various", "de": "verschiedene/r", "info": "" },
+  { "en": "to put sth on", "de": "etw veranstalten", "info": "" },
+  { "en": "bearable", "de": "erträglich", "info": "" },
+  { "en": "to hit the gym", "de": "ins Fitness-Studio gehen", "info": "" },
+  {
+    "en": "the way forward",
+    "de": "der richtige Weg, die beste Lösung",
+    "info": ""
+  },
+  {
+    "en": "to be conscious of sth",
+    "de": "sich einer Sache bewusst sein",
+    "info": ""
+  },
+  { "en": "multitude", "de": "Vielzahl", "info": "" },
+  { "en": "to let off steam", "de": "Dampf ablassen", "info": "" },
+  {
+    "en": "the tip of the iceberg",
+    "de": "die Spitze des Eisbergs",
+    "info": ""
+  },
+  { "en": "continuously", "de": "kontinuierlich, ununterbrochen", "info": "" },
+  {
+    "en": "to be at a loss for sth",
+    "de": "um etw verlegen sein, etw nicht finden",
+    "info": ""
+  },
+  { "en": "ranking order", "de": "Rangfolge", "info": "" },
+  {
+    "en": "to give equal importance to sth",
+    "de": "einer Sache gleiche Bedeutung beimessen",
+    "info": ""
+  },
+  { "en": "to handle sth", "de": "mit etw umgehen", "info": "" },
+  {
+    "en": "to get to grips with sth",
+    "de": "mit etw zurechtkommen",
+    "info": ""
+  },
+  { "en": "to partake of sth", "de": "an etw teilhaben", "info": "" },
+  {
+    "en": "to get round to doing sth",
+    "de": "dazu kommen, etw zu tun",
+    "info": ""
+  },
+  { "en": "to access sth", "de": "auf etw zugreifen", "info": "" },
+  {
+    "en": "to dedicate sth to sth",
+    "de": "etw einer Sache widmen",
+    "info": ""
+  },
+  { "en": "to discourage sth", "de": "von etw abraten", "info": "" },
+  { "en": "spread", "de": "Ausbreitung, Verbreitung", "info": "" },
+  { "en": "temporary(-ily)", "de": "vorübergehend", "info": "" },
+  {
+    "en": "equivalent",
+    "de": "Entsprechung, Übesetzung",
+    "info": "typo: should be 'Übersetzung'"
+  },
+  { "en": "contrary", "de": "entgegengesetzt, gegenteilig", "info": "" },
+  { "en": "convenient", "de": "praktisch, bequem", "info": "" },
+  { "en": "solitary", "de": "einsam, einzelgängerisch", "info": "" },
+  { "en": "widespread", "de": "(weit)verbreitet", "info": "" },
+  {
+    "en": "to make the most of sth",
+    "de": "das Beste aus etw machen, etw ausschöpfen",
+    "info": ""
+  },
+  { "en": "to enhance sth", "de": "etw verbessern, etw stärken", "info": "" },
+  {
+    "en": "to take sth into consideration",
+    "de": "etw berücksichtigen, etw beachten",
+    "info": ""
+  },
+  {
+    "en": "to determine sth",
+    "de": "etw bestimmen, etw festlegen",
+    "info": ""
+  },
+  { "en": "careers adviser", "de": "Berufsberater/in", "info": "" },
+  { "en": "to lean", "de": "(sich) lehnen", "info": "" },
+  {
+    "en": "daunting",
+    "de": "beängstigend, einschückternd",
+    "info": "typo: should be 'einschüchternd'"
+  },
+  { "en": "degree", "de": "(Universitäts-)Abschluss", "info": "" },
+  { "en": "costly", "de": "kostspielig, teuer", "info": "" },
+  {
+    "en": "earning potential",
+    "de": "Verdientmöglichkeiten",
+    "info": "better: 'Verdienstmöglichkeiten'"
+  },
+  { "en": "to shake sth off", "de": "etw abschütteln", "info": "" },
+  { "en": "drudgery", "de": "Plackerei, Drecksarbeit", "info": "" },
+  {
+    "en": "to come on stream",
+    "de": "hinzukommen, verfügbar sein/werden",
+    "info": ""
+  },
+  { "en": "fierce", "de": "heftig, hart, erbarmungslos", "info": "" },
+  {
+    "en": "apprentice",
+    "de": "Auszubildene/r",
+    "info": "typo: should be 'Auszubildende/r'"
+  },
+  { "en": "graduate", "de": "(Hoch-)Schulabsolvent/in", "info": "" },
+  { "en": "to aim for sth", "de": "etw anstreben", "info": "" },
+  { "en": "at sea", "de": "auf See", "info": "" },
+  { "en": "debt(s)", "de": "Schulden", "info": "" },
+  { "en": "annual salary", "de": "Jahresgehalt", "info": "" },
+  { "en": "tax-free", "de": "steuerfrei", "info": "" },
+  {
+    "en": "to compare with sth",
+    "de": "sich mit etw vergleichen lassen",
+    "info": ""
+  },
+  { "en": "to be up to sth", "de": "etw anstellen, etw machen", "info": "" },
+  { "en": "promotion", "de": "Werbung", "info": "" },
+  { "en": "recruitment", "de": "Personalbeschaffung", "info": "" },
+  { "en": "to regret sth", "de": "etw bereuen, etw bedauern", "info": "" },
+  { "en": "(tuition)fees", "de": "Studiengebühren", "info": "pl" },
+  { "en": "fashion industry", "de": "Modebranche", "info": "" },
+  {
+    "en": "to qualify as sth",
+    "de": "eine Ausbildung zu etw machen",
+    "info": ""
+  },
+  { "en": "instructor", "de": "Lehrer/in", "info": "" },
+  {
+    "en": "sb is itching to do sth",
+    "de": "jdm juckt es in den Fingern, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to put sth down to sth",
+    "de": "etw einer Sache zuschreiben",
+    "info": ""
+  },
+  { "en": "(job) interview", "de": "Vorstellungsgespräch", "info": "" },
+  { "en": "agency", "de": "Agentur, Behörde", "info": "" },
+  { "en": "fast-paced", "de": "rasant, hektisch", "info": "" },
+  { "en": "guinea pig", "de": "Versuchskaninchen", "info": "" },
+  { "en": "unsupervised", "de": "unbeaufsichtigt", "info": "" },
+  { "en": "on the flipside", "de": "andererseits", "info": "" },
+  { "en": "doubt", "de": "Zweifel", "info": "" },
+  { "en": "to miss out on sth", "de": "sich etw entgehen lassen", "info": "" },
+  { "en": "housing", "de": "Wohnungen, Unterkünfte", "info": "" },
+  { "en": "snobbery", "de": "Snobismus, Dünkel", "info": "" },
+  { "en": "smugness", "de": "Selbstgefälligkeit, Arroganz", "info": "" },
+  { "en": "engineering firm", "de": "Ingenieurbetrieb", "info": "" },
+  { "en": "undergraduate degree", "de": "Bachelor-Abschluss", "info": "" },
+  { "en": "post-graduate degree", "de": "Promotion, Diplom", "info": "" },
+  { "en": "well-established", "de": "etabliert", "info": "" },
+  { "en": "area of knowledge", "de": "Wissensgebiet", "info": "" },
+  {
+    "en": "to evaluate sth",
+    "de": "etw beurteilen, etw einschätzen",
+    "info": ""
+  },
+  { "en": "to value sth", "de": "etw schätzen", "info": "" },
+  { "en": "second to none", "de": "mehr als alles andere", "info": "" },
+  { "en": "mapping", "de": "Kartierung", "info": "" },
+  {
+    "en": "to hone one's skills",
+    "de": "sich verbessern, sich weiterentwickeln",
+    "info": ""
+  },
+  { "en": "to reject sb/sth", "de": "jdn/etw ablehnen", "info": "" },
+  { "en": "in favour of sb/sth", "de": "zugunsten von jdm/etw", "info": "" },
+  { "en": "consultancy", "de": "Unternehmensberatung", "info": "" },
+  { "en": "accountancy", "de": "Rechnungswesen", "info": "" },
+  { "en": "nerve-racking", "de": "nervenaufreibend", "info": "" },
+  { "en": "refugee", "de": "Flüchtling", "info": "" },
+  {
+    "en": "public sector",
+    "de": "öffentliche Hand, staatliche Einrichtungen",
+    "info": ""
+  },
+  { "en": "social care", "de": "Sozialfürsorge, Sozialwesen", "info": "" },
+  { "en": "local government", "de": "Kommunalverwaltung", "info": "" },
+  { "en": "to put sth off", "de": "etw aufschieben", "info": "" },
+  { "en": "to view sth", "de": "etw betrachten, etw sehen", "info": "" },
+  {
+    "en": "to monitor sb/sth (for sth)",
+    "de": "jdn/etw (auf etw hin) überwachen",
+    "info": ""
+  },
+  { "en": "superior", "de": "Vorgesetzte/r", "info": "" },
+  { "en": "to take out a loan", "de": "einen Kredit aufnehmen", "info": "" },
+  {
+    "en": "superior (to sb/sth)",
+    "de": "(jdm/einer Sache) überlegen",
+    "info": ""
+  },
+  { "en": "to shape sth", "de": "etw formen", "info": "" },
+  { "en": "to benefit sb", "de": "jdm nützen", "info": "" },
+  {
+    "en": "to acknowledge sth",
+    "de": "etw anerkennen, etw zugeben",
+    "info": ""
+  },
+  { "en": "concerning", "de": "in Bezug auf", "info": "" },
+  { "en": "shared", "de": "gemeinsam (genutzt)", "info": "" },
+  { "en": "unfounded", "de": "unbegründet, gegenstandslos", "info": "" },
+  {
+    "en": "to graduate",
+    "de": "den (Schul-/Universitäts-) Abschluss machen",
+    "info": ""
+  },
+  {
+    "en": "to be in two minds",
+    "de": "unschlüssig sein, hin- und hergerissen sein",
+    "info": ""
+  },
+  { "en": "expenses", "de": "Ausgaben, Aufwendungen", "info": "pl" },
+  { "en": "to privatize sth", "de": "etw privatisieren", "info": "" },
+  { "en": "counselor", "de": "Berater/in", "info": "" },
+  { "en": "soon-to-be", "de": "künftig", "info": "" },
+  { "en": "freshman", "de": "Studienanfänger/in", "info": "" },
+  { "en": "dead-end job", "de": "Tätigkeit ohne Aufstiegschancen", "info": "" },
+  {
+    "en": "to consider sth",
+    "de": "über etw nachdenken, etw in Erwägung ziehen",
+    "info": ""
+  },
+  { "en": "to insist", "de": "darauf bestehen", "info": "" },
+  { "en": "beyond sth", "de": "jenseits von etw", "info": "" },
+  { "en": "to struggle", "de": "kämpfen, sich abmühen", "info": "" },
+  { "en": "to drop out", "de": "aufhören, aussteigen", "info": "" },
+  {
+    "en": "to place emphasis on sth",
+    "de": "großen Wert auf etw legen",
+    "info": ""
+  },
+  { "en": "pre-requisite", "de": "Voraussetzung, Bedingung", "info": "" },
+  { "en": "stability", "de": "Stabilität", "info": "" },
+  { "en": "trade school", "de": "Berufsschule", "info": "" },
+  { "en": "requirement", "de": "Voraussetzung", "info": "" },
+  { "en": "trade", "de": "Handel, Gewerbe", "info": "" },
+  { "en": "plumbing", "de": "Klempnerei", "info": "" },
+  { "en": "stigma", "de": "Makel, Stigma", "info": "" },
+  {
+    "en": "to be a failure",
+    "de": "ein/e Versager/in sein, keinen Erfolg haben",
+    "info": ""
+  },
+  { "en": "straight-A student", "de": "Einserschüler/in", "info": "" },
+  { "en": "plumber", "de": "Installateur/in", "info": "" },
+  { "en": "student loan", "de": "Studienkredit", "info": "" },
+  { "en": "debt-free", "de": "schuldenfrei", "info": "" },
+  {
+    "en": "to have one's pick",
+    "de": "sich etw aussuchen (können)",
+    "info": ""
+  },
+  { "en": "employer", "de": "Arbeitgeber/in", "info": "" },
+  { "en": "license", "de": "Lizenz, Zulassung, Erlaubnis", "info": "" },
+  {
+    "en": "to take stock",
+    "de": "Bestandsaufnahme machen, Bilanz ziehen",
+    "info": ""
+  },
+  { "en": "to explore sth", "de": "etw erkunden, etw entdecken", "info": "" },
+  {
+    "en": "to pressure sb into doing sth",
+    "de": "jdn dazu drängen, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to consider sb/sth sth",
+    "de": "jdn/etw für etw halten/erachten",
+    "info": ""
+  },
+  { "en": "hefty", "de": "happig, heftig", "info": "" },
+  {
+    "en": "to be in demand",
+    "de": "nachgefragt werden, gesucht werden",
+    "info": ""
+  },
+  { "en": "proposal", "de": "Vorschlag, Angebot", "info": "" },
+  { "en": "duration", "de": "Dauer, Länge", "info": "" },
+  { "en": "disadvantaged", "de": "benachteiligt", "info": "" },
+  { "en": "turtle", "de": "Schildkröte", "info": "" },
+  { "en": "fixed", "de": "fest, feststehend", "info": "" },
+  { "en": "to date back", "de": "zurückgehen, stammen aus", "info": "" },
+  { "en": "population", "de": "Bestand, Population", "info": "" },
+  { "en": "conservation", "de": "Naturschutz, Umweltschutz", "info": "" },
+  { "en": "nesting season", "de": "Nistzeit, Brutzeit", "info": "" },
+  { "en": "to observe sb/sth", "de": "jdn/etw beobachten", "info": "" },
+  {
+    "en": "to patrol sth",
+    "de": "etw abpatroullieren, etw abgehen",
+    "info": "typo: should be 'abpatrouillieren'"
+  },
+  { "en": "to hatch", "de": "schlüpfen", "info": "" },
+  { "en": "to incubate", "de": "bebrütet werden, reifen", "info": "" },
+  { "en": "to gather sth", "de": "etw sammeln", "info": "" },
+  { "en": "to feed data into sth", "de": "Daten in etw eingeben", "info": "" },
+  { "en": "to restore sth", "de": "etw sanieren", "info": "" },
+  { "en": "coastline", "de": "Küste", "info": "" },
+  { "en": "small-scale", "de": "klein, in kleinem Umfang", "info": "" },
+  { "en": "crystal", "de": "kristallklar", "info": "" },
+  { "en": "unspoiled", "de": "unberührt", "info": "" },
+  { "en": "orphan", "de": "Waise", "info": "" },
+  { "en": "host family", "de": "Gastfamilie", "info": "" },
+  { "en": "povery", "de": "Armut", "info": "typo: should be 'poverty'" },
+  {
+    "en": "to deprive sb of sth",
+    "de": "jdn einer Sache berauben",
+    "info": ""
+  },
+  {
+    "en": "healthcare",
+    "de": "Gesundheitswesen, medizinische Versorgung",
+    "info": ""
+  },
+  { "en": "orphanage", "de": "Waisenhaus", "info": "" },
+  { "en": "variety", "de": "Vielzahl, Auswahl", "info": "" },
+  { "en": "prospects", "de": "(Zukunfts-)Aussichten", "info": "pl" },
+  { "en": "to neglect sb/sth", "de": "jdn/etw vernachlässigen", "info": "" },
+  { "en": "invaluable", "de": "von unschätzbarem Wert", "info": "" },
+  { "en": "construction", "de": "Bau", "info": "" },
+  { "en": "in the wake of", "de": "infolge", "info": "" },
+  { "en": "devastating", "de": "verheerend", "info": "" },
+  { "en": "earthquake", "de": "Erdbeben", "info": "" },
+  { "en": "to strike sb/sth", "de": "jdn/etw treffen", "info": "" },
+  { "en": "supervision", "de": "Aufsicht, Leitung", "info": "" },
+  { "en": "civil engineer", "de": "Bauingenieur/in", "info": "" },
+  { "en": "skilled mason", "de": "ausgebildete/r Maurer/in", "info": "" },
+  { "en": "onsite", "de": "vor Ort", "info": "" },
+  { "en": "to dig trenches", "de": "Gräben ausheben", "info": "" },
+  { "en": "previous", "de": "früher, vorig", "info": "" },
+  { "en": "socializing", "de": "Geselligkeit", "info": "" },
+  { "en": "World Heritage Site", "de": "Weltkulturerbe", "info": "" },
+  { "en": "meaningful", "de": "bedeutsam, wichtig", "info": "" },
+  { "en": "resumè", "de": "Lebenslauf", "info": "spelling: résumé" },
+  { "en": "to make an impact (on sth)", "de": "etw bewirken", "info": "" },
+  {
+    "en": "to work alongside sb",
+    "de": "an der Seite von jdm arbeiten",
+    "info": ""
+  },
+  {
+    "en": "NGO (non-governmental organization)",
+    "de": "Hilfsorganisation",
+    "info": ""
+  },
+  { "en": "empowerment", "de": "Stärkung", "info": "" },
+  { "en": "to marginalize sb", "de": "jdn ausgrenzen", "info": "" },
+  {
+    "en": "to implement sth",
+    "de": "etz (in die Tat) umsetzen, etw durchführen",
+    "info": "typo: should be 'etw'"
+  },
+  { "en": "to operate sth", "de": "etw betreiben", "info": "" },
+  {
+    "en": "to be willing to do sth",
+    "de": "bereit/willens sein, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to do harm to sb/sth",
+    "de": "jdm/einer Sache Schaden zufügen",
+    "info": ""
+  },
+  { "en": "havoc", "de": "Chaos, Verwüstung", "info": "" },
+  { "en": "addiction", "de": "Sucht", "info": "" },
+  { "en": "to deal with sth", "de": "etw bewältigen", "info": "" },
+  { "en": "challenge", "de": "Herausforderung", "info": "" },
+  { "en": "random", "de": "beliebig, zufällig", "info": "" },
+  { "en": "chance", "de": "Zufall", "info": "" },
+  { "en": "disappointment", "de": "Enttäuschung", "info": "" },
+  { "en": "to occupy sth", "de": "etw besetzen", "info": "" },
+  { "en": "remote", "de": "fern, entlegen", "info": "" },
+  { "en": "steady(-ily)", "de": "stetig, beständig", "info": "" },
+  { "en": "valid", "de": "gültig, berechtigt", "info": "" },
+  { "en": "leaflet", "de": "Merkblatt, Broschüre", "info": "" },
+  {
+    "en": "commercial enterprise",
+    "de": "Wirschaftsunternehmen",
+    "info": "typo: should be 'Wirtschaftsunternehmen'"
+  },
+  { "en": "in print", "de": "in gedruckter Form", "info": "" },
+  { "en": "to visualize sth", "de": "etw veranschaulichen", "info": "" },
+  { "en": "catchy", "de": "einprägsam, prägnant", "info": "" },
+  { "en": "buzzword", "de": "(aktuelles) Schlagwort", "info": "" }
+]

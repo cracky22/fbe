@@ -1,0 +1,543 @@
+[
+  { "en": "dark tourism", "de": "Katastrophentourismus", "info": "" },
+  { "en": "genealogy", "de": "Ahnenforschung, Genealogie", "info": "" },
+  { "en": "holidaymaker", "de": "Urlauber/in", "info": "" },
+  {
+    "en": "requirements (pl)",
+    "de": "Bedarf, Anforderungen, Wünsche",
+    "info": ""
+  },
+  { "en": "destination", "de": "Urlaubsort, Reiseziel", "info": "" },
+  { "en": "sunseeker", "de": "Sonnenhungrige/r", "info": "" },
+  { "en": "culture vulture", "de": "Kulturfanatiker/in", "info": "" },
+  { "en": "economic miracle", "de": "Wirtschaftswunder", "info": "" },
+  { "en": "neighbouring", "de": "Nachbar-, angrenzend", "info": "" },
+  { "en": "air travel", "de": "Flugreisen", "info": "" },
+  {
+    "en": "to give rise to sth",
+    "de": "Anlass zu etw geben, etw erzeugen",
+    "info": ""
+  },
+  { "en": "package holiday", "de": "Pauschalurlaub", "info": "" },
+  { "en": "tour operator", "de": "Reiseveranstalter/in", "info": "" },
+  { "en": "in search of the sun", "de": "sonnenhungrig", "info": "" },
+  { "en": "vacation", "de": "Urlaub", "info": "" },
+  {
+    "en": "a welcome change",
+    "de": "eine willkommene Abwechslung",
+    "info": ""
+  },
+  { "en": "a change of scenery", "de": "Tapetenwechsel", "info": "" },
+  { "en": "to escape from sth", "de": "einer Sache entfliehen", "info": "" },
+  {
+    "en": "to be keen to do sth",
+    "de": "etw unbedingt tun wollen",
+    "info": ""
+  },
+  { "en": "skiing holiday", "de": "Skiurlaub", "info": "" },
+  {
+    "en": "to experience a new culture",
+    "de": "eine neue Kultur erleben",
+    "info": ""
+  },
+  { "en": "first-hand", "de": "persönlich, mit eigenen Augen", "info": "" },
+  { "en": "individual trip", "de": "Individualreise", "info": "" },
+  { "en": "low-budget", "de": "Billig-, günstig", "info": "" },
+  { "en": "backpacking trip", "de": "Rucksackreise", "info": "" },
+  { "en": "luxury spa holiday", "de": "Luxus-Wellnesurlaub", "info": "" },
+  { "en": "mini-break", "de": "Kurzurlaub", "info": "" },
+  { "en": "tent", "de": "Zelt", "info": "" },
+  {
+    "en": "self-catering apartment",
+    "de": "Ferienwohnung (für Selbstversorger)",
+    "info": ""
+  },
+  {
+    "en": "all-inclusive hotel resort",
+    "de": "All-inclusive-Hotel",
+    "info": ""
+  },
+  { "en": "travel agent", "de": "Reisebüro", "info": "" },
+  { "en": "transport", "de": "Beförderung, Verkehrsmittel", "info": "" },
+  { "en": "roughly", "de": "ungefähr", "info": "" },
+  { "en": "trillion", "de": "Billion", "info": "" },
+  { "en": "mass tourism", "de": "Massentourismus", "info": "" },
+  {
+    "en": "vital",
+    "de": "wesentlich, lebensnotwendig, unverzichtbar",
+    "info": ""
+  },
+  { "en": "source of income", "de": "Einkommensquelle", "info": "" },
+  { "en": "economic growth", "de": "Wirtschaftswachstum", "info": "" },
+  { "en": "service industry", "de": "Dienstleisungsbranche", "info": "" },
+  {
+    "en": "to cover sth",
+    "de": "etw abdecken, sich über etw erstrecken",
+    "info": ""
+  },
+  { "en": "hotel chain", "de": "Hotelkette", "info": "" },
+  { "en": "cruise operator", "de": "Kreuzfahrtreederei", "info": "" },
+  { "en": "insurance", "de": "Versicherung", "info": "" },
+  { "en": "tour guide", "de": "Reiseleiter/in", "info": "" },
+  { "en": "service personnel", "de": "Servicepersonal", "info": "" },
+  {
+    "en": "(holiday) resort",
+    "de": "Urlaubsort, Ferienort, Hotelanlage",
+    "info": ""
+  },
+  {
+    "en": "recreational facilities (pl)",
+    "de": "Freizeiteinrichtungen",
+    "info": ""
+  },
+  {
+    "en": "to cater to sb's needs",
+    "de": "jds. Bedarf befriedigen",
+    "info": ""
+  },
+  { "en": "precious", "de": "kostbar, wertvoll", "info": "" },
+  { "en": "local resources (pl)", "de": "lokale Ressourcen", "info": "" },
+  {
+    "en": "to create waste and pollution",
+    "de": "Müll und Umweltveschmutzung erzeugen",
+    "info": ""
+  },
+  {
+    "en": "to invest in the tourism infrastructure",
+    "de": "in die touristische Infrastruktur investieren",
+    "info": ""
+  },
+  {
+    "en": "to damage the landscape",
+    "de": "die Landschaft schädigen",
+    "info": ""
+  },
+  {
+    "en": "to conserve the natural heritage",
+    "de": "das Naturerbe bewahren/schützen",
+    "info": ""
+  },
+  {
+    "en": "to maintain the biodiversity",
+    "de": "die Artenvielfalt erhalten",
+    "info": ""
+  },
+  { "en": "serious", "de": "ernst, ernsthaft", "info": "" },
+  { "en": "way of life", "de": "Lebensweise, Lebensart", "info": "" },
+  { "en": "environmental damage", "de": "Umweltschädigung", "info": "" },
+  { "en": "emission", "de": "Ausstoß, Emission", "info": "" },
+  { "en": "greenhouse gases (pl)", "de": "Treibhausgase", "info": "" },
+  { "en": "green tourism", "de": "sanfter/nachhaltiger Tourismus", "info": "" },
+  { "en": "umbrella term", "de": "Oberbegriff, Sammelbegriff", "info": "" },
+  { "en": "ecotourism", "de": "Ökotourismus", "info": "" },
+  { "en": "nature tourism", "de": "Naturtourismus", "info": "" },
+  {
+    "en": "responsible tourism",
+    "de": "verantwortungsvoller Tourismus",
+    "info": ""
+  },
+  {
+    "en": "to reduce sb's carbon footprint",
+    "de": "jds CO2-Bilanz reduzieren",
+    "info": ""
+  },
+  { "en": "to save resources", "de": "Ressourcen schonen", "info": "" },
+  {
+    "en": "to show respect for sb/sth",
+    "de": "jdn/etw respektieren",
+    "info": ""
+  },
+  { "en": "tradition", "de": "Tradition, Überlieferung, Brauch", "info": "" },
+  {
+    "en": "as far as sb/sth is concerned",
+    "de": "was jdn/etw angeht",
+    "info": ""
+  },
+  { "en": "backpacking", "de": "Rucksackreisen", "info": "" },
+  { "en": "cave", "de": "Höhle", "info": "" },
+  {
+    "en": "to be on the lookout for sth",
+    "de": "nach etw Ausschau halten",
+    "info": ""
+  },
+  { "en": "aim", "de": "Ziel, Zweck", "info": "" },
+  { "en": "sustainable", "de": "nachhaltig", "info": "" },
+  {
+    "en": "to let one's hair down",
+    "de": "sich austoben, die Sau rauslassen",
+    "info": ""
+  },
+  { "en": "sunbathing", "de": "Sonnenbaden", "info": "" },
+  { "en": "to interact with sb", "de": "mit jdm kommunizieren", "info": "" },
+  { "en": "to curb sth", "de": "etw zügeln, etw eindämmen", "info": "" },
+  { "en": "antisocial", "de": "nicht sozialverträglich, asozial", "info": "" },
+  { "en": "establishment", "de": "Betrieb, Geschäft", "info": "" },
+  { "en": "seaside", "de": "am Meer", "info": "" },
+  { "en": "patron", "de": "Gast (im Restaurant)", "info": "" },
+  {
+    "en": "to crack down on sth",
+    "de": "gegen etw hart vorgehen, energisch durchgreifen",
+    "info": ""
+  },
+  { "en": "shirtless", "de": "ohne Hemd", "info": "" },
+  { "en": "football jersey", "de": "Fußballtrikot", "info": "" },
+  { "en": "move", "de": "Schritt, Aktion", "info": "" },
+  { "en": "to prompt sth", "de": "etw auslösen", "info": "" },
+  { "en": "flood", "de": "Flut, Schwemme", "info": "" },
+  { "en": "seemingly", "de": "anscheinend", "info": "" },
+  { "en": "charms (pl)", "de": "Vorzüge, Reize", "info": "" },
+  { "en": "arrival", "de": "Ankunft, Eintreffen", "info": "" },
+  { "en": "seafront", "de": "Meeresufer, Uferpromenade", "info": "" },
+  { "en": "unfortunate", "de": "bedauerlich", "info": "" },
+  { "en": "companion", "de": "Freund/in", "info": "" },
+  { "en": "sidewalk", "de": "Gehweg", "info": "" },
+  { "en": "law", "de": "Gesetz(e), Recht", "info": "" },
+  {
+    "en": "to clamp down on sth",
+    "de": "gegen etw schaft vorgehen",
+    "info": ""
+  },
+  { "en": "alcohol-fulled", "de": "durch Alkohol angeheizt", "info": "" },
+  { "en": "to call for sth", "de": "etw fordern, etw verlangen", "info": "" },
+  { "en": "to grant sb sth", "de": "jdm etw gewähren", "info": "" },
+  {
+    "en": "to charge sb sth (for sth)",
+    "de": "etw von jdm einfordern",
+    "info": ""
+  },
+  { "en": "fine", "de": "Geldstrafe, Bußgeld", "info": "" },
+  { "en": "on the spot", "de": "an Ort und Stelle", "info": "" },
+  { "en": "official", "de": "Amtsträger/in", "info": "" },
+  { "en": "entrepreneur", "de": "Unternehmer/in", "info": "" },
+  { "en": "to apply sth (to sth)", "de": "etw (auf etw) anwenden", "info": "" },
+  { "en": "to remain", "de": "bleiben", "info": "" },
+  {
+    "en": "to be committed to sth",
+    "de": "sich für etw engagieren, sich zu etw verpflichten",
+    "info": ""
+  },
+  {
+    "en": "to combat sth",
+    "de": "etw bekämpfen, gegen etw kämpfen",
+    "info": ""
+  },
+  { "en": "owner", "de": "Besitzer/in", "info": "" },
+  { "en": "politician", "de": "Politiker/in", "info": "" },
+  { "en": "to back sb/sth", "de": "Politiker/in", "info": "" },
+  { "en": "to be aimed at sth", "de": "auf etw abzielen", "info": "" },
+  { "en": "resident", "de": "Bewohner/in", "info": "" },
+  {
+    "en": "to propose sth",
+    "de": "etw vorschlagen, etw beantragen",
+    "info": ""
+  },
+  { "en": "mechanism", "de": "Mechanismus", "info": "" },
+  { "en": "to buy sth out", "de": "etw aufkaufen, etw loskaufen", "info": "" },
+  { "en": "quantity", "de": "Menge", "info": "" },
+  {
+    "en": "to be in charge of sth",
+    "de": "für etw zuständig sein",
+    "info": ""
+  },
+  { "en": "to approve sth", "de": "etw genehmigen, etw zulassen", "info": "" },
+  { "en": "measure", "de": "Maßnahme", "info": "" },
+  { "en": "to drop", "de": "zurückgehen, sinken", "info": "" },
+  { "en": "figures (pl)", "de": "Zahlen", "info": "" },
+  { "en": "to account for sth", "de": "etw ausmachen", "info": "" },
+  {
+    "en": "to employ sb",
+    "de": "jdn beschäftigen, jdn einstellen",
+    "info": ""
+  },
+  {
+    "en": "to strike a balance",
+    "de": "das richtige Verhältnis finden, ein Gleichgewicht schaffen",
+    "info": ""
+  },
+  { "en": "mounting", "de": "zunehmend", "info": "" },
+  { "en": "disorder", "de": "Störung", "info": "" },
+  { "en": "residential flat", "de": "Miet- oder Eigentumswohnung", "info": "" },
+  { "en": "to convert sth", "de": "etw umwandeln", "info": "" },
+  { "en": "traveller", "de": "Reisende/r", "info": "" },
+  { "en": "to criticise sb/sth", "de": "jdn/etw kritisieren", "info": "" },
+  { "en": "narrow-minded", "de": "engstirnig", "info": "" },
+  {
+    "en": "to be up against sb/sth",
+    "de": "es mit jdm/etw zu tun haben",
+    "info": ""
+  },
+  { "en": "classist", "de": "klassendiskriminierend", "info": "" },
+  {
+    "en": "to take issue with sth",
+    "de": "mit etw nicht einverstanden sein",
+    "info": ""
+  },
+  { "en": "assumption", "de": "Annahme, Unterstellung", "info": "" },
+  {
+    "en": "to exclude sb",
+    "de": "jdn ausschließen, jdn ausgrenzen",
+    "info": ""
+  },
+  { "en": "to rent sth", "de": "etw mieten", "info": "" },
+  { "en": "authorities (pl)", "de": "Behörden", "info": "" },
+  {
+    "en": "badly-behaved",
+    "de": "sich nicht angemessen verhaltend",
+    "info": ""
+  },
+  { "en": "quality newspaper", "de": "seriöse Tageszeitung", "info": "" },
+  {
+    "en": "to cut back on sth",
+    "de": "etw mindern, etw zurückschrauben",
+    "info": ""
+  },
+  { "en": "affordable", "de": "günstig, erschwinglich", "info": "" },
+  { "en": "to rent sth out to sb", "de": "etw an jdn vermieten", "info": "" },
+  { "en": "uncertain", "de": "unklar, ungewiss", "info": "" },
+  { "en": "in practice", "de": "praktisch, in der Praxis", "info": "" },
+  { "en": "livelihood", "de": "Lebensgrundlage, Lebensunterhalt", "info": "" },
+  {
+    "en": "to depend on sb/sth",
+    "de": "von jdm/etw abhängen, auf jdn/etw ankommen",
+    "info": ""
+  },
+  { "en": "intoxicated", "de": "berauscht, betrunken", "info": "" },
+  { "en": "regulation", "de": "Regelung, Vorschrift", "info": "" },
+  { "en": "to enforce sth", "de": "etw (per Gesetz) durchsetzen", "info": "" },
+  { "en": "to weigh sth up", "de": "etw abwägen", "info": "" },
+  { "en": "flooding", "de": "Hochwasser", "info": "" },
+  { "en": "square", "de": "Platz", "info": "" },
+  { "en": "pigeon", "de": "Taube", "info": "" },
+  { "en": "to wait in line", "de": "anstehen, Schlange stehen", "info": "" },
+  { "en": "queue", "de": "Warteschlange", "info": "" },
+  { "en": "mac", "de": "Regenmantel", "info": "" },
+  { "en": "rubber boots (pl)", "de": "Gummistiefel", "info": "" },
+  { "en": "to wade", "de": "waten", "info": "" },
+  { "en": "to cover sth", "de": "etw bedecken", "info": "" },
+  {
+    "en": "to affect sb/sth",
+    "de": "jdn/etw betreffen, jdn/etw treffen",
+    "info": ""
+  },
+  { "en": "lagoon", "de": "Lagune", "info": "" },
+  { "en": "inhabitant", "de": "Einwohner/in", "info": "" },
+  {
+    "en": "to cause sb/sth to do sth",
+    "de": "dazu führen, dass jd/etw etw tut",
+    "info": ""
+  },
+  { "en": "rent", "de": "Miete", "info": "" },
+  { "en": "to disappear", "de": "verschwinden", "info": "" },
+  { "en": "theme park", "de": "Freizeitpark, Themenpark", "info": "" },
+  { "en": "to carry sb/sth", "de": "jdn/etw befördern", "info": "" },
+  { "en": "passenger", "de": "Passagier/in, Fahrgast", "info": "" },
+  { "en": "sudden", "de": "plötzlich, abrupt", "info": "" },
+  { "en": "damage (to sth)", "de": "Schaden, Schäden (an etw)", "info": "" },
+  {
+    "en": "similar (to sb/sth)",
+    "de": "(jdm/einer Sache) ähnlich",
+    "info": ""
+  },
+  {
+    "en": "to tackle sth",
+    "de": "etw (Problem usw.) angehen, etw bekämpfen",
+    "info": ""
+  },
+  { "en": "to charge sth on sth", "de": "etw für etw verlangen", "info": "" },
+  { "en": "tax", "de": "Steuer", "info": "" },
+  { "en": "to suffer from sth", "de": "unter etw leiden", "info": "" },
+  {
+    "en": "to face sth",
+    "de": "mit etw konfrontiert sein/werden, einer Sache gegenüberstehen",
+    "info": ""
+  },
+  { "en": "population", "de": "Bevölkerung", "info": "" },
+  { "en": "overtourism", "de": "übermäßiger Massentourismus", "info": "" },
+  { "en": "overcrowding", "de": "Ansturm, zu viele Menschen", "info": "" },
+  {
+    "en": "facilities (pl)",
+    "de": "Einrichtung(en), Anlage(n), Ausstattung",
+    "info": ""
+  },
+  { "en": "lawmaker", "de": "Gesetzgeber", "info": "" },
+  { "en": "legislation", "de": "Gesetzgebung, Gesetz(e)", "info": "" },
+  {
+    "en": "Representative",
+    "de": "Mitglied des Repräsentantenhauses",
+    "info": ""
+  },
+  {
+    "en": "traveler patterns (pl)",
+    "de": "Reiseverhalten, Reisegewohnheiten",
+    "info": ""
+  },
+  { "en": "push", "de": "Verstoß", "info": "" },
+  { "en": "once-obscure", "de": "früher/ehemals unbekannt", "info": "" },
+  { "en": "rope", "de": "Seil", "info": "" },
+  { "en": "swing", "de": "Schaukel", "info": "" },
+  { "en": "crush", "de": "Andrang, Gedränge", "info": "" },
+  { "en": "to ruin sth", "de": "etw zerstören, etw ruinieren", "info": "" },
+  { "en": "the likes of you (pl)", "de": "Leute wie Sie/ihr", "info": "" },
+  { "en": "victim", "de": "Opfer", "info": "" },
+  { "en": "global warming", "de": "Erderwärumg", "info": "" },
+  {
+    "en": "to be on a slippery slope",
+    "de": "direkt auf etw zusteuern, in etw hineinschlittern",
+    "info": ""
+  },
+  { "en": "Alpine", "de": "Alpen-, in den Alpen", "info": "" },
+  { "en": "diverse", "de": "vielfältig, unterschiedlich, divers", "info": "" },
+  { "en": "significant(ly)", "de": "erheblich, bedeutend", "info": "" },
+  { "en": "balancing act", "de": "Belanceakt", "info": "" },
+  { "en": "to address sth", "de": "etw angehen, etw ansprechen", "info": "" },
+  { "en": "to preserve sth", "de": "etw bewahren, etw schützen", "info": "" },
+  { "en": "operations (pl)", "de": "Betrieb", "info": "" },
+  { "en": "heating", "de": "Erwärmung", "info": "" },
+  { "en": "lack (of sth)", "de": "Mangel (an etw)", "info": "" },
+  { "en": "reliable", "de": "zuverlässig", "info": "" },
+  { "en": "snowfall", "de": "Schneemenge, Schneefall", "info": "" },
+  {
+    "en": "unsustainable",
+    "de": "nicht nachhaltig, nicht aufrechtzuerhalten",
+    "info": ""
+  },
+  { "en": "virtually", "de": "praktisch, quasi", "info": "" },
+  { "en": "quarter", "de": "Lager, betroffene Seite", "info": "" },
+  { "en": "unviable", "de": "unrentabel, nicht überlebensfähig", "info": "" },
+  { "en": "market share", "de": "Marktanteil", "info": "" },
+  {
+    "en": "to rely on sb/sth",
+    "de": "auf jdn/etw angewiesen sein",
+    "info": ""
+  },
+  { "en": "reliability", "de": "Zuverlässigkeit", "info": "" },
+  {
+    "en": "to diversify sth",
+    "de": "etw ausweiten, etw diversifizieren",
+    "info": ""
+  },
+  { "en": "rock climbing", "de": "Klettern", "info": "" },
+  { "en": "trekking", "de": "(längere) Wandertouren", "info": "" },
+  { "en": "hiking", "de": "Wandern", "info": "" },
+  { "en": "trail", "de": "(Wander-) Weg", "info": "" },
+  {
+    "en": "to pose a challenge",
+    "de": "eine Herausforderung darstellen",
+    "info": ""
+  },
+  { "en": "ski resort", "de": "Wintersportort", "info": "" },
+  { "en": "revenue(s)", "de": "Einkommen, Einkünfte", "info": "" },
+  {
+    "en": "to stimulate businesses",
+    "de": "wirtschaftliche Impulse geben",
+    "info": ""
+  },
+  { "en": "environmental degradation", "de": "Umweltzerstörung", "info": "" },
+  { "en": "to maintain sth", "de": "etw aufrechterhalten", "info": "" },
+  { "en": "snow coverage", "de": "Schneedecke", "info": "" },
+  { "en": "consistent", "de": "gleichmäßig, gleichbleibend", "info": "" },
+  { "en": "to construct sth", "de": "etw bauen, etw errichten", "info": "" },
+  { "en": "clearing", "de": "Rodung", "info": "" },
+  { "en": "slope", "de": "Hang, Abhang", "info": "" },
+  {
+    "en": "(electrical) transmission line",
+    "de": "Überlandleitung",
+    "info": ""
+  },
+  { "en": "soil erosion", "de": "Bodenerosion", "info": "" },
+  { "en": "deforestation", "de": "Entwaldung", "info": "" },
+  { "en": "fragmentation", "de": "Zerschneidung, Fragmentierung", "info": "" },
+  { "en": "habitat", "de": "Lebensraum", "info": "" },
+  {
+    "en": "intervention (on sth)",
+    "de": "Eingriff(e) (in etw), Intervention",
+    "info": ""
+  },
+  {
+    "en": "to place a strain on sth",
+    "de": "etw belasten, eine Belastung für etw darstellen",
+    "info": ""
+  },
+  {
+    "en": "transportation",
+    "de": "Beförderung, Transport, Verkehr",
+    "info": ""
+  },
+  { "en": "to generate sth", "de": "etw erzeugen", "info": "" },
+  {
+    "en": "crucial (to sb/sth)",
+    "de": "entscheidend, äußerst wichtig (für jdn/etw)",
+    "info": ""
+  },
+  { "en": "preservation", "de": "Schutz, Erhalt", "info": "" },
+  {
+    "en": "to be up to sb",
+    "de": "an jdm liegen, jds. Aufgabe/Entscheidung sein",
+    "info": ""
+  },
+  { "en": "practices (pl)", "de": "Praktiken", "info": "" },
+  { "en": "it remains to be seen", "de": "es bleibt abzuwarten", "info": "" },
+  {
+    "en": "to adapt (to sth)",
+    "de": "sich (an etw) anpassen, sich an etw gewöhnen",
+    "info": ""
+  },
+  { "en": "investment", "de": "Investition", "info": "" },
+  { "en": "critic", "de": "Kritiker/in", "info": "" },
+  { "en": "cable car", "de": "Seilbahn", "info": "" },
+  { "en": "to alter sth", "de": "etw verändern, etw ändern", "info": "" },
+  { "en": "underlying", "de": "zugrundeliegend, Grund-", "info": "" },
+  { "en": "to deserve sth", "de": "etw verdienen", "info": "" },
+  { "en": "countryside", "de": "ländliche Gegend(en), Land", "info": "" },
+  { "en": "tulip", "de": "Tulpe", "info": "" },
+  { "en": "scores (pl)", "de": "Dutzende", "info": "" },
+  { "en": "uniqueness", "de": "Einzigartigkeit", "info": "" },
+  { "en": "causeway", "de": "Damm", "info": "" },
+  { "en": "horse caravan", "de": "Pferdewagen, Planwagen", "info": "" },
+  { "en": "lush", "de": "üppig", "info": "" },
+  { "en": "hospitality", "de": "Bewirtung, Gastfreundschaft", "info": "" },
+  { "en": "trusty", "de": "treu, zuverlässig", "info": "" },
+  { "en": "marine conservation", "de": "Meeresschutz(gebiet)", "info": "" },
+  { "en": "blue whale", "de": "Blauwahl", "info": "" },
+  { "en": "to breed", "de": "sich paaren, sich vermehren", "info": "" },
+  { "en": "to flock", "de": "(in Scharen) strömen", "info": "" },
+  { "en": "to disturb", "de": "stören", "info": "" },
+  { "en": "to educate sb", "de": "jdn aufklären, jdn informieren", "info": "" },
+  { "en": "nature reserve", "de": "Naturschutzgebiet", "info": "" },
+  {
+    "en": "to teem with sth",
+    "de": "von etw wimmeln, reich an etw sein",
+    "info": ""
+  },
+  { "en": "sprawling", "de": "ausgedehnt, großflächig", "info": "" },
+  {
+    "en": "to aim to do sth",
+    "de": "etw tun wollen; sich vornehmen, etw zu tun",
+    "info": ""
+  },
+  { "en": "carbon neutral", "de": "CO2-neutral", "info": "" },
+  { "en": "dolphin", "de": "Delfin", "info": "" },
+  { "en": "agritourism", "de": "Agrotourismus, Landtourismus", "info": "" },
+  { "en": "rustic", "de": "urig, rustikal", "info": "" },
+  { "en": "via", "de": "mittels, per, über", "info": "" },
+  { "en": "thick layer", "de": "dicke Schicht", "info": "" },
+  { "en": "tourist board", "de": "Fremdenverkehrsamt", "info": "" },
+  { "en": "council", "de": "Stadtverwaltung, Stadtrat", "info": "" },
+  { "en": "phenomenon", "de": "Phänomen", "info": "" },
+  { "en": "to kick the bucket", "de": "den Löffel abgeben", "info": "" },
+  { "en": "humorous", "de": "witzig, humorvoll", "info": "" },
+  { "en": "blog entry", "de": "Blog-Eintrag, -Beitrag", "info": "" },
+  { "en": "criteria (pl)", "de": "Kriterien", "info": "" },
+  { "en": "endangered", "de": "bedroht, gefährdet", "info": "" },
+  {
+    "en": "controversy",
+    "de": "Auseinandersetzung(en), Kontroverse",
+    "info": ""
+  },
+  {
+    "en": "to be in favour of sth",
+    "de": "etw befürworten, für etw sein",
+    "info": ""
+  },
+  { "en": "to oppose sth", "de": "gegen etw sein, etw ablehen", "info": "" }
+]

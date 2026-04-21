@@ -2858,5 +2858,5942 @@
     "info": "e.g. a disability, a learning difficulty, etc"
   },
   { "en": "stable", "de": "stabil", "info": "steady, solid" },
-  { "en": "capable", "de": "kompetent, fähig", "info": "<> incapable" }
+  { "en": "capable", "de": "kompetent, fähig", "info": "<> incapable" },
+  { "en": "volunteering", "de": "ehrenamtliche Tätigkeit(en)", "info": "" },
+  { "en": "summer job", "de": "Ferienjob", "info": "" },
+  { "en": "benefit", "de": "Vorteil, Nutzen", "info": "" },
+  { "en": "apprenticeship", "de": "Lehre, Ausbildung", "info": "" },
+  { "en": "gamification", "de": "Gamifizierung", "info": "" },
+  {
+    "en": "extracurricular activity",
+    "de": "außerschulische Aktivität, AG",
+    "info": ""
+  },
+  { "en": "internship", "de": "Praktikum", "info": "" },
+  { "en": "to throw a dice", "de": "würfeln", "info": "" },
+  { "en": "counter", "de": "Spielmarke, Spielfigur", "info": "" },
+  { "en": "square", "de": "(Brettspiel:) Feld", "info": "" },
+  { "en": "saying", "de": "Sprichwort", "info": "" },
+  {
+    "en": "All work and no play makes Jack a dull boy.",
+    "de": "etwa: Arbeiten allein macht nicht glücklich.",
+    "info": ""
+  },
+  { "en": "to imply", "de": "besagen, andeuten", "info": "" },
+  { "en": "to take time off", "de": "sich frei nehmen", "info": "" },
+  {
+    "en": "an integral part of life",
+    "de": "ein wesentlicher Lebensbestandteil",
+    "info": ""
+  },
+  { "en": "workforce", "de": "Belegschaft, Arbeitnehmerschaft", "info": "" },
+  { "en": "heavy workload", "de": "hohe Arbeitsbelastung", "info": "" },
+  { "en": "revision", "de": "Lernen (für eine Prüfung)", "info": "" },
+  { "en": "besides", "de": "außer, neben", "info": "" },
+  { "en": "syllabus", "de": "Lehrplan", "info": "" },
+  {
+    "en": "to get a place in university",
+    "de": "einen Studienplatz bekommen",
+    "info": ""
+  },
+  { "en": "to enter (a career)", "de": "(eine Laufbahn) beginnen", "info": "" },
+  { "en": "vocational training", "de": "Berufsausbildung", "info": "" },
+  {
+    "en": "to take advantage of sth",
+    "de": "etw (für sich) nutzen, etw ausnutzen",
+    "info": ""
+  },
+  { "en": "indispensable", "de": "unerlässlich", "info": "" },
+  { "en": "well-being", "de": "Wohl, Wohlergehen", "info": "" },
+  {
+    "en": "to engage in sth",
+    "de": "etw betreiben, einer Sache nachgehen, etw tun",
+    "info": ""
+  },
+  {
+    "en": "sedentary leisure activities",
+    "de": "Freizeitbeschäftigungen im Sitzen",
+    "info": "pl"
+  },
+  { "en": "to sb's heart's content", "de": "nach Herzenslust", "info": "" },
+  { "en": "to unwind", "de": "abschalten, sich entspannen", "info": "" },
+  { "en": "to recover from sth", "de": "sich von etw erholen", "info": "" },
+  { "en": "daily routine", "de": "Tagesablauf, Alltagstrott", "info": "" },
+  { "en": "in turn", "de": "wiederum, im Gegenzug", "info": "" },
+  { "en": "academic performance", "de": "schulische Leistung(en)", "info": "" },
+  { "en": "university admission", "de": "Universitätszulassung", "info": "" },
+  { "en": "to be linked to sth", "de": "mit etw verknüpft sein", "info": "" },
+  {
+    "en": "non-academic pursuit",
+    "de": "außerschulische/-universitäre Beschäftigung",
+    "info": ""
+  },
+  {
+    "en": "essential (to sb/sth)",
+    "de": "wesentlich, unerlässlich (für jdn/etw)",
+    "info": ""
+  },
+  {
+    "en": "to join sb/sth",
+    "de": "sich jdm/etw anschließen, bei jdm/etw mitmachen",
+    "info": ""
+  },
+  { "en": "to enrol in sth", "de": "sich für etw anmelden", "info": "" },
+  { "en": "to pursue a hobby", "de": "einem Hobby nachgehen", "info": "" },
+  { "en": "mandatory optional subject", "de": "Wahlpflichtfach", "info": "" },
+  { "en": "woodworking", "de": "Tischlern, Holzarbeiten", "info": "" },
+  { "en": "beekeeping", "de": "Imkerei", "info": "" },
+  { "en": "opportunity", "de": "Möglichkeit", "info": "" },
+  { "en": "book club", "de": "Lesegruppe", "info": "" },
+  { "en": "to look down upon sth", "de": "etw geringschätzen", "info": "" },
+  {
+    "en": "to stimulate creativity",
+    "de": "die Kreativität fördern",
+    "info": ""
+  },
+  {
+    "en": "to improve reflexes and memory",
+    "de": "Reflexe und das Gedächtnis verbessern",
+    "info": ""
+  },
+  { "en": "to foster teamwork", "de": "Zusammenarbeit fördern", "info": "" },
+  { "en": "downside", "de": "Nachteil", "info": "" },
+  {
+    "en": "attention-span disorder",
+    "de": "Aufmerksamkeitsstörung",
+    "info": ""
+  },
+  { "en": "couch potato", "de": "Stubenhocker", "info": "" },
+  { "en": "lazy", "de": "faul", "info": "" },
+  { "en": "isolated", "de": "vereinsamt", "info": "" },
+  { "en": "to take a gap year", "de": "ein Jahr Auszeit nehmen", "info": "" },
+  { "en": "employment", "de": "Arbeit, Beschäftigung", "info": "" },
+  { "en": "social interaction", "de": "sozialer Umgang, Kontakt", "info": "" },
+  { "en": "life satisfaction", "de": "Lebenszufriedenheit", "info": "" },
+  {
+    "en": "to build self-esteem",
+    "de": "das Selbstwertgefühl stärken",
+    "info": ""
+  },
+  {
+    "en": "to gibe back to society",
+    "de": "der Gesellschaft etw zurückgeben",
+    "info": "typo: should be 'to give back to society'"
+  },
+  {
+    "en": "to get involved in charity work",
+    "de": "sich ehrenamtlich engagieren",
+    "info": ""
+  },
+  { "en": "impoverished", "de": "verarmt, arm", "info": "" },
+  {
+    "en": "to be part and parcel of sth",
+    "de": "wesentlicher Bestandteil von etw sein",
+    "info": ""
+  },
+  { "en": "sensible", "de": "vernünftig", "info": "" },
+  {
+    "en": "to prevent sb from doing sth",
+    "de": "verhindern, dass jd etw tut",
+    "info": ""
+  },
+  { "en": "to fit sth", "de": "zu etw passen", "info": "" },
+  { "en": "impact", "de": "Einfluss", "info": "" },
+  { "en": "in nature", "de": "dem Wesen nach", "info": "" },
+  {
+    "en": "to dismiss sb/sth (as sth)",
+    "de": "jdn/etw abqualifizieren, jdn/etw als etw abtun",
+    "info": ""
+  },
+  { "en": "recovery", "de": "Erholung, Genesung", "info": "" },
+  { "en": "engagement", "de": "Teilnahme, Teilhabe", "info": "" },
+  { "en": "enjoyment", "de": "Vergnügen, Freude", "info": "" },
+  { "en": "counterbalance", "de": "Gegengewicht", "info": "" },
+  {
+    "en": "to pressurize sb/sth",
+    "de": "jdn/etw unter Druck setzen",
+    "info": ""
+  },
+  { "en": "worth noting", "de": "erwähnenswert", "info": "" },
+  { "en": "improvement", "de": "Verbesserung", "info": "" },
+  { "en": "societal", "de": "gesellschaftlich", "info": "" },
+  { "en": "depressed", "de": "niedergeschlagen", "info": "" },
+  { "en": "beneficial", "de": "vorteilhaft, positiv", "info": "" },
+  { "en": "worthwhile", "de": "sinnvoll, lohnend", "info": "" },
+  { "en": "rewarding", "de": "erfüllend, befriedigend", "info": "" },
+  { "en": "in moderation", "de": "in Maßen, maßvoll", "info": "" },
+  { "en": "goodwill", "de": "Wohlwollen, guter Wille", "info": "" },
+  { "en": "cynical", "de": "zynisch", "info": "" },
+  { "en": "overburdened", "de": "überbeansprucht, überlastet", "info": "" },
+  { "en": "continually", "de": "ständig, andauernd", "info": "" },
+  { "en": "on top of sth", "de": "zusätzlich zu etw", "info": "" },
+  { "en": "lecture", "de": "Vorlesung", "info": "" },
+  { "en": "assignment", "de": "Hausaufgabe, Hausarbeit", "info": "" },
+  {
+    "en": "no easy feat",
+    "de": "keine leichte Sache, anspruchsvolle Aufgabe",
+    "info": ""
+  },
+  { "en": "pastime", "de": "Zeitvertreib", "info": "" },
+  { "en": "to de-stress", "de": "Stress abbauen", "info": "" },
+  {
+    "en": "to catch up on sth",
+    "de": "etw (Versäumtes) nachholen",
+    "info": ""
+  },
+  { "en": "to curl up", "de": "sich (aufs Sofa) kuscheln", "info": "" },
+  { "en": "entertaining", "de": "unterhaltsam", "info": "" },
+  { "en": "soothing", "de": "beruhigend, entspannend", "info": "" },
+  { "en": "like-minded", "de": "gleichgesinnt", "info": "" },
+  { "en": "tap", "de": "Tippen, Antippen", "info": "" },
+  { "en": "to keep up with sth", "de": "an etw dranbleiben", "info": "" },
+  { "en": "current", "de": "aktuell", "info": "" },
+  { "en": "gatherung", "de": "Beisammensein, Zusammenkunft", "info": "" },
+  { "en": "to swipe", "de": "wischen", "info": "" },
+  { "en": "the latest craze", "de": "der letzte Schrei", "info": "" },
+  { "en": "dominance", "de": "Vorherrschaft, Dominanz", "info": "" },
+  { "en": "to lower sth", "de": "etw senken", "info": "" },
+  { "en": "level", "de": "Niveau", "info": "" },
+  {
+    "en": "when the going gets tough",
+    "de": "wenn es hart auf hart kommt",
+    "info": ""
+  },
+  { "en": "to ditch sth", "de": "etw wegschmeißen", "info": "" },
+  { "en": "to have a blast", "de": "einen Mordsspaß haben", "info": "" },
+  { "en": "various", "de": "verschiedene/r", "info": "" },
+  { "en": "to put sth on", "de": "etw veranstalten", "info": "" },
+  { "en": "bearable", "de": "erträglich", "info": "" },
+  { "en": "to hit the gym", "de": "ins Fitness-Studio gehen", "info": "" },
+  {
+    "en": "the way forward",
+    "de": "der richtige Weg, die beste Lösung",
+    "info": ""
+  },
+  {
+    "en": "to be conscious of sth",
+    "de": "sich einer Sache bewusst sein",
+    "info": ""
+  },
+  { "en": "multitude", "de": "Vielzahl", "info": "" },
+  { "en": "to let off steam", "de": "Dampf ablassen", "info": "" },
+  {
+    "en": "the tip of the iceberg",
+    "de": "die Spitze des Eisbergs",
+    "info": ""
+  },
+  { "en": "continuously", "de": "kontinuierlich, ununterbrochen", "info": "" },
+  {
+    "en": "to be at a loss for sth",
+    "de": "um etw verlegen sein, etw nicht finden",
+    "info": ""
+  },
+  { "en": "ranking order", "de": "Rangfolge", "info": "" },
+  {
+    "en": "to give equal importance to sth",
+    "de": "einer Sache gleiche Bedeutung beimessen",
+    "info": ""
+  },
+  { "en": "to handle sth", "de": "mit etw umgehen", "info": "" },
+  {
+    "en": "to get to grips with sth",
+    "de": "mit etw zurechtkommen",
+    "info": ""
+  },
+  { "en": "to partake of sth", "de": "an etw teilhaben", "info": "" },
+  {
+    "en": "to get round to doing sth",
+    "de": "dazu kommen, etw zu tun",
+    "info": ""
+  },
+  { "en": "to access sth", "de": "auf etw zugreifen", "info": "" },
+  {
+    "en": "to dedicate sth to sth",
+    "de": "etw einer Sache widmen",
+    "info": ""
+  },
+  { "en": "to discourage sth", "de": "von etw abraten", "info": "" },
+  { "en": "spread", "de": "Ausbreitung, Verbreitung", "info": "" },
+  { "en": "temporary(-ily)", "de": "vorübergehend", "info": "" },
+  {
+    "en": "equivalent",
+    "de": "Entsprechung, Übesetzung",
+    "info": "typo: should be 'Übersetzung'"
+  },
+  { "en": "contrary", "de": "entgegengesetzt, gegenteilig", "info": "" },
+  { "en": "convenient", "de": "praktisch, bequem", "info": "" },
+  { "en": "solitary", "de": "einsam, einzelgängerisch", "info": "" },
+  { "en": "widespread", "de": "(weit)verbreitet", "info": "" },
+  {
+    "en": "to make the most of sth",
+    "de": "das Beste aus etw machen, etw ausschöpfen",
+    "info": ""
+  },
+  { "en": "to enhance sth", "de": "etw verbessern, etw stärken", "info": "" },
+  {
+    "en": "to take sth into consideration",
+    "de": "etw berücksichtigen, etw beachten",
+    "info": ""
+  },
+  {
+    "en": "to determine sth",
+    "de": "etw bestimmen, etw festlegen",
+    "info": ""
+  },
+  { "en": "careers adviser", "de": "Berufsberater/in", "info": "" },
+  { "en": "to lean", "de": "(sich) lehnen", "info": "" },
+  {
+    "en": "daunting",
+    "de": "beängstigend, einschückternd",
+    "info": "typo: should be 'einschüchternd'"
+  },
+  { "en": "degree", "de": "(Universitäts-)Abschluss", "info": "" },
+  { "en": "costly", "de": "kostspielig, teuer", "info": "" },
+  {
+    "en": "earning potential",
+    "de": "Verdientmöglichkeiten",
+    "info": "better: 'Verdienstmöglichkeiten'"
+  },
+  { "en": "to shake sth off", "de": "etw abschütteln", "info": "" },
+  { "en": "drudgery", "de": "Plackerei, Drecksarbeit", "info": "" },
+  {
+    "en": "to come on stream",
+    "de": "hinzukommen, verfügbar sein/werden",
+    "info": ""
+  },
+  { "en": "fierce", "de": "heftig, hart, erbarmungslos", "info": "" },
+  {
+    "en": "apprentice",
+    "de": "Auszubildene/r",
+    "info": "typo: should be 'Auszubildende/r'"
+  },
+  { "en": "graduate", "de": "(Hoch-)Schulabsolvent/in", "info": "" },
+  { "en": "to aim for sth", "de": "etw anstreben", "info": "" },
+  { "en": "at sea", "de": "auf See", "info": "" },
+  { "en": "debt(s)", "de": "Schulden", "info": "" },
+  { "en": "annual salary", "de": "Jahresgehalt", "info": "" },
+  { "en": "tax-free", "de": "steuerfrei", "info": "" },
+  {
+    "en": "to compare with sth",
+    "de": "sich mit etw vergleichen lassen",
+    "info": ""
+  },
+  { "en": "to be up to sth", "de": "etw anstellen, etw machen", "info": "" },
+  { "en": "promotion", "de": "Werbung", "info": "" },
+  { "en": "recruitment", "de": "Personalbeschaffung", "info": "" },
+  { "en": "to regret sth", "de": "etw bereuen, etw bedauern", "info": "" },
+  { "en": "(tuition)fees", "de": "Studiengebühren", "info": "pl" },
+  { "en": "fashion industry", "de": "Modebranche", "info": "" },
+  {
+    "en": "to qualify as sth",
+    "de": "eine Ausbildung zu etw machen",
+    "info": ""
+  },
+  { "en": "instructor", "de": "Lehrer/in", "info": "" },
+  {
+    "en": "sb is itching to do sth",
+    "de": "jdm juckt es in den Fingern, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to put sth down to sth",
+    "de": "etw einer Sache zuschreiben",
+    "info": ""
+  },
+  { "en": "(job) interview", "de": "Vorstellungsgespräch", "info": "" },
+  { "en": "agency", "de": "Agentur, Behörde", "info": "" },
+  { "en": "fast-paced", "de": "rasant, hektisch", "info": "" },
+  { "en": "guinea pig", "de": "Versuchskaninchen", "info": "" },
+  { "en": "unsupervised", "de": "unbeaufsichtigt", "info": "" },
+  { "en": "on the flipside", "de": "andererseits", "info": "" },
+  { "en": "doubt", "de": "Zweifel", "info": "" },
+  { "en": "to miss out on sth", "de": "sich etw entgehen lassen", "info": "" },
+  { "en": "housing", "de": "Wohnungen, Unterkünfte", "info": "" },
+  { "en": "snobbery", "de": "Snobismus, Dünkel", "info": "" },
+  { "en": "smugness", "de": "Selbstgefälligkeit, Arroganz", "info": "" },
+  { "en": "engineering firm", "de": "Ingenieurbetrieb", "info": "" },
+  { "en": "undergraduate degree", "de": "Bachelor-Abschluss", "info": "" },
+  { "en": "post-graduate degree", "de": "Promotion, Diplom", "info": "" },
+  { "en": "well-established", "de": "etabliert", "info": "" },
+  { "en": "area of knowledge", "de": "Wissensgebiet", "info": "" },
+  {
+    "en": "to evaluate sth",
+    "de": "etw beurteilen, etw einschätzen",
+    "info": ""
+  },
+  { "en": "to value sth", "de": "etw schätzen", "info": "" },
+  { "en": "second to none", "de": "mehr als alles andere", "info": "" },
+  { "en": "mapping", "de": "Kartierung", "info": "" },
+  {
+    "en": "to hone one's skills",
+    "de": "sich verbessern, sich weiterentwickeln",
+    "info": ""
+  },
+  { "en": "to reject sb/sth", "de": "jdn/etw ablehnen", "info": "" },
+  { "en": "in favour of sb/sth", "de": "zugunsten von jdm/etw", "info": "" },
+  { "en": "consultancy", "de": "Unternehmensberatung", "info": "" },
+  { "en": "accountancy", "de": "Rechnungswesen", "info": "" },
+  { "en": "nerve-racking", "de": "nervenaufreibend", "info": "" },
+  { "en": "refugee", "de": "Flüchtling", "info": "" },
+  {
+    "en": "public sector",
+    "de": "öffentliche Hand, staatliche Einrichtungen",
+    "info": ""
+  },
+  { "en": "social care", "de": "Sozialfürsorge, Sozialwesen", "info": "" },
+  { "en": "local government", "de": "Kommunalverwaltung", "info": "" },
+  { "en": "to put sth off", "de": "etw aufschieben", "info": "" },
+  { "en": "to view sth", "de": "etw betrachten, etw sehen", "info": "" },
+  {
+    "en": "to monitor sb/sth (for sth)",
+    "de": "jdn/etw (auf etw hin) überwachen",
+    "info": ""
+  },
+  { "en": "superior", "de": "Vorgesetzte/r", "info": "" },
+  { "en": "to take out a loan", "de": "einen Kredit aufnehmen", "info": "" },
+  {
+    "en": "superior (to sb/sth)",
+    "de": "(jdm/einer Sache) überlegen",
+    "info": ""
+  },
+  { "en": "to shape sth", "de": "etw formen", "info": "" },
+  { "en": "to benefit sb", "de": "jdm nützen", "info": "" },
+  {
+    "en": "to acknowledge sth",
+    "de": "etw anerkennen, etw zugeben",
+    "info": ""
+  },
+  { "en": "concerning", "de": "in Bezug auf", "info": "" },
+  { "en": "shared", "de": "gemeinsam (genutzt)", "info": "" },
+  { "en": "unfounded", "de": "unbegründet, gegenstandslos", "info": "" },
+  {
+    "en": "to graduate",
+    "de": "den (Schul-/Universitäts-) Abschluss machen",
+    "info": ""
+  },
+  {
+    "en": "to be in two minds",
+    "de": "unschlüssig sein, hin- und hergerissen sein",
+    "info": ""
+  },
+  { "en": "expenses", "de": "Ausgaben, Aufwendungen", "info": "pl" },
+  { "en": "to privatize sth", "de": "etw privatisieren", "info": "" },
+  { "en": "counselor", "de": "Berater/in", "info": "" },
+  { "en": "soon-to-be", "de": "künftig", "info": "" },
+  { "en": "freshman", "de": "Studienanfänger/in", "info": "" },
+  { "en": "dead-end job", "de": "Tätigkeit ohne Aufstiegschancen", "info": "" },
+  {
+    "en": "to consider sth",
+    "de": "über etw nachdenken, etw in Erwägung ziehen",
+    "info": ""
+  },
+  { "en": "to insist", "de": "darauf bestehen", "info": "" },
+  { "en": "beyond sth", "de": "jenseits von etw", "info": "" },
+  { "en": "to struggle", "de": "kämpfen, sich abmühen", "info": "" },
+  { "en": "to drop out", "de": "aufhören, aussteigen", "info": "" },
+  {
+    "en": "to place emphasis on sth",
+    "de": "großen Wert auf etw legen",
+    "info": ""
+  },
+  { "en": "pre-requisite", "de": "Voraussetzung, Bedingung", "info": "" },
+  { "en": "stability", "de": "Stabilität", "info": "" },
+  { "en": "trade school", "de": "Berufsschule", "info": "" },
+  { "en": "requirement", "de": "Voraussetzung", "info": "" },
+  { "en": "trade", "de": "Handel, Gewerbe", "info": "" },
+  { "en": "plumbing", "de": "Klempnerei", "info": "" },
+  { "en": "stigma", "de": "Makel, Stigma", "info": "" },
+  {
+    "en": "to be a failure",
+    "de": "ein/e Versager/in sein, keinen Erfolg haben",
+    "info": ""
+  },
+  { "en": "straight-A student", "de": "Einserschüler/in", "info": "" },
+  { "en": "plumber", "de": "Installateur/in", "info": "" },
+  { "en": "student loan", "de": "Studienkredit", "info": "" },
+  { "en": "debt-free", "de": "schuldenfrei", "info": "" },
+  {
+    "en": "to have one's pick",
+    "de": "sich etw aussuchen (können)",
+    "info": ""
+  },
+  { "en": "employer", "de": "Arbeitgeber/in", "info": "" },
+  { "en": "license", "de": "Lizenz, Zulassung, Erlaubnis", "info": "" },
+  {
+    "en": "to take stock",
+    "de": "Bestandsaufnahme machen, Bilanz ziehen",
+    "info": ""
+  },
+  { "en": "to explore sth", "de": "etw erkunden, etw entdecken", "info": "" },
+  {
+    "en": "to pressure sb into doing sth",
+    "de": "jdn dazu drängen, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to consider sb/sth sth",
+    "de": "jdn/etw für etw halten/erachten",
+    "info": ""
+  },
+  { "en": "hefty", "de": "happig, heftig", "info": "" },
+  {
+    "en": "to be in demand",
+    "de": "nachgefragt werden, gesucht werden",
+    "info": ""
+  },
+  { "en": "proposal", "de": "Vorschlag, Angebot", "info": "" },
+  { "en": "duration", "de": "Dauer, Länge", "info": "" },
+  { "en": "disadvantaged", "de": "benachteiligt", "info": "" },
+  { "en": "turtle", "de": "Schildkröte", "info": "" },
+  { "en": "fixed", "de": "fest, feststehend", "info": "" },
+  { "en": "to date back", "de": "zurückgehen, stammen aus", "info": "" },
+  { "en": "population", "de": "Bestand, Population", "info": "" },
+  { "en": "conservation", "de": "Naturschutz, Umweltschutz", "info": "" },
+  { "en": "nesting season", "de": "Nistzeit, Brutzeit", "info": "" },
+  { "en": "to observe sb/sth", "de": "jdn/etw beobachten", "info": "" },
+  {
+    "en": "to patrol sth",
+    "de": "etw abpatroullieren, etw abgehen",
+    "info": "typo: should be 'abpatrouillieren'"
+  },
+  { "en": "to hatch", "de": "schlüpfen", "info": "" },
+  { "en": "to incubate", "de": "bebrütet werden, reifen", "info": "" },
+  { "en": "to gather sth", "de": "etw sammeln", "info": "" },
+  { "en": "to feed data into sth", "de": "Daten in etw eingeben", "info": "" },
+  { "en": "to restore sth", "de": "etw sanieren", "info": "" },
+  { "en": "coastline", "de": "Küste", "info": "" },
+  { "en": "small-scale", "de": "klein, in kleinem Umfang", "info": "" },
+  { "en": "crystal", "de": "kristallklar", "info": "" },
+  { "en": "unspoiled", "de": "unberührt", "info": "" },
+  { "en": "orphan", "de": "Waise", "info": "" },
+  { "en": "host family", "de": "Gastfamilie", "info": "" },
+  { "en": "povery", "de": "Armut", "info": "typo: should be 'poverty'" },
+  {
+    "en": "to deprive sb of sth",
+    "de": "jdn einer Sache berauben",
+    "info": ""
+  },
+  {
+    "en": "healthcare",
+    "de": "Gesundheitswesen, medizinische Versorgung",
+    "info": ""
+  },
+  { "en": "orphanage", "de": "Waisenhaus", "info": "" },
+  { "en": "variety", "de": "Vielzahl, Auswahl", "info": "" },
+  { "en": "prospects", "de": "(Zukunfts-)Aussichten", "info": "pl" },
+  { "en": "to neglect sb/sth", "de": "jdn/etw vernachlässigen", "info": "" },
+  { "en": "invaluable", "de": "von unschätzbarem Wert", "info": "" },
+  { "en": "construction", "de": "Bau", "info": "" },
+  { "en": "in the wake of", "de": "infolge", "info": "" },
+  { "en": "devastating", "de": "verheerend", "info": "" },
+  { "en": "earthquake", "de": "Erdbeben", "info": "" },
+  { "en": "to strike sb/sth", "de": "jdn/etw treffen", "info": "" },
+  { "en": "supervision", "de": "Aufsicht, Leitung", "info": "" },
+  { "en": "civil engineer", "de": "Bauingenieur/in", "info": "" },
+  { "en": "skilled mason", "de": "ausgebildete/r Maurer/in", "info": "" },
+  { "en": "onsite", "de": "vor Ort", "info": "" },
+  { "en": "to dig trenches", "de": "Gräben ausheben", "info": "" },
+  { "en": "previous", "de": "früher, vorig", "info": "" },
+  { "en": "socializing", "de": "Geselligkeit", "info": "" },
+  { "en": "World Heritage Site", "de": "Weltkulturerbe", "info": "" },
+  { "en": "meaningful", "de": "bedeutsam, wichtig", "info": "" },
+  { "en": "resumè", "de": "Lebenslauf", "info": "spelling: résumé" },
+  { "en": "to make an impact (on sth)", "de": "etw bewirken", "info": "" },
+  {
+    "en": "to work alongside sb",
+    "de": "an der Seite von jdm arbeiten",
+    "info": ""
+  },
+  {
+    "en": "NGO (non-governmental organization)",
+    "de": "Hilfsorganisation",
+    "info": ""
+  },
+  { "en": "empowerment", "de": "Stärkung", "info": "" },
+  { "en": "to marginalize sb", "de": "jdn ausgrenzen", "info": "" },
+  {
+    "en": "to implement sth",
+    "de": "etz (in die Tat) umsetzen, etw durchführen",
+    "info": "typo: should be 'etw'"
+  },
+  { "en": "to operate sth", "de": "etw betreiben", "info": "" },
+  {
+    "en": "to be willing to do sth",
+    "de": "bereit/willens sein, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to do harm to sb/sth",
+    "de": "jdm/einer Sache Schaden zufügen",
+    "info": ""
+  },
+  { "en": "havoc", "de": "Chaos, Verwüstung", "info": "" },
+  { "en": "addiction", "de": "Sucht", "info": "" },
+  { "en": "to deal with sth", "de": "etw bewältigen", "info": "" },
+  { "en": "challenge", "de": "Herausforderung", "info": "" },
+  { "en": "random", "de": "beliebig, zufällig", "info": "" },
+  { "en": "chance", "de": "Zufall", "info": "" },
+  { "en": "disappointment", "de": "Enttäuschung", "info": "" },
+  { "en": "to occupy sth", "de": "etw besetzen", "info": "" },
+  { "en": "remote", "de": "fern, entlegen", "info": "" },
+  { "en": "steady(-ily)", "de": "stetig, beständig", "info": "" },
+  { "en": "valid", "de": "gültig, berechtigt", "info": "" },
+  { "en": "leaflet", "de": "Merkblatt, Broschüre", "info": "" },
+  {
+    "en": "commercial enterprise",
+    "de": "Wirschaftsunternehmen",
+    "info": "typo: should be 'Wirtschaftsunternehmen'"
+  },
+  { "en": "in print", "de": "in gedruckter Form", "info": "" },
+  { "en": "to visualize sth", "de": "etw veranschaulichen", "info": "" },
+  { "en": "catchy", "de": "einprägsam, prägnant", "info": "" },
+  { "en": "buzzword", "de": "(aktuelles) Schlagwort", "info": "" },
+  { "en": "dark tourism", "de": "Katastrophentourismus", "info": "" },
+  { "en": "genealogy", "de": "Ahnenforschung, Genealogie", "info": "" },
+  { "en": "holidaymaker", "de": "Urlauber/in", "info": "" },
+  {
+    "en": "requirements (pl)",
+    "de": "Bedarf, Anforderungen, Wünsche",
+    "info": ""
+  },
+  { "en": "destination", "de": "Urlaubsort, Reiseziel", "info": "" },
+  { "en": "sunseeker", "de": "Sonnenhungrige/r", "info": "" },
+  { "en": "culture vulture", "de": "Kulturfanatiker/in", "info": "" },
+  { "en": "economic miracle", "de": "Wirtschaftswunder", "info": "" },
+  { "en": "neighbouring", "de": "Nachbar-, angrenzend", "info": "" },
+  { "en": "air travel", "de": "Flugreisen", "info": "" },
+  {
+    "en": "to give rise to sth",
+    "de": "Anlass zu etw geben, etw erzeugen",
+    "info": ""
+  },
+  { "en": "package holiday", "de": "Pauschalurlaub", "info": "" },
+  { "en": "tour operator", "de": "Reiseveranstalter/in", "info": "" },
+  { "en": "in search of the sun", "de": "sonnenhungrig", "info": "" },
+  { "en": "vacation", "de": "Urlaub", "info": "" },
+  {
+    "en": "a welcome change",
+    "de": "eine willkommene Abwechslung",
+    "info": ""
+  },
+  { "en": "a change of scenery", "de": "Tapetenwechsel", "info": "" },
+  { "en": "to escape from sth", "de": "einer Sache entfliehen", "info": "" },
+  {
+    "en": "to be keen to do sth",
+    "de": "etw unbedingt tun wollen",
+    "info": ""
+  },
+  { "en": "skiing holiday", "de": "Skiurlaub", "info": "" },
+  {
+    "en": "to experience a new culture",
+    "de": "eine neue Kultur erleben",
+    "info": ""
+  },
+  { "en": "first-hand", "de": "persönlich, mit eigenen Augen", "info": "" },
+  { "en": "individual trip", "de": "Individualreise", "info": "" },
+  { "en": "low-budget", "de": "Billig-, günstig", "info": "" },
+  { "en": "backpacking trip", "de": "Rucksackreise", "info": "" },
+  { "en": "luxury spa holiday", "de": "Luxus-Wellnesurlaub", "info": "" },
+  { "en": "mini-break", "de": "Kurzurlaub", "info": "" },
+  { "en": "tent", "de": "Zelt", "info": "" },
+  {
+    "en": "self-catering apartment",
+    "de": "Ferienwohnung (für Selbstversorger)",
+    "info": ""
+  },
+  {
+    "en": "all-inclusive hotel resort",
+    "de": "All-inclusive-Hotel",
+    "info": ""
+  },
+  { "en": "travel agent", "de": "Reisebüro", "info": "" },
+  { "en": "transport", "de": "Beförderung, Verkehrsmittel", "info": "" },
+  { "en": "roughly", "de": "ungefähr", "info": "" },
+  { "en": "trillion", "de": "Billion", "info": "" },
+  { "en": "mass tourism", "de": "Massentourismus", "info": "" },
+  {
+    "en": "vital",
+    "de": "wesentlich, lebensnotwendig, unverzichtbar",
+    "info": ""
+  },
+  { "en": "source of income", "de": "Einkommensquelle", "info": "" },
+  { "en": "economic growth", "de": "Wirtschaftswachstum", "info": "" },
+  { "en": "service industry", "de": "Dienstleisungsbranche", "info": "" },
+  {
+    "en": "to cover sth",
+    "de": "etw abdecken, sich über etw erstrecken",
+    "info": ""
+  },
+  { "en": "hotel chain", "de": "Hotelkette", "info": "" },
+  { "en": "cruise operator", "de": "Kreuzfahrtreederei", "info": "" },
+  { "en": "insurance", "de": "Versicherung", "info": "" },
+  { "en": "tour guide", "de": "Reiseleiter/in", "info": "" },
+  { "en": "service personnel", "de": "Servicepersonal", "info": "" },
+  {
+    "en": "(holiday) resort",
+    "de": "Urlaubsort, Ferienort, Hotelanlage",
+    "info": ""
+  },
+  {
+    "en": "recreational facilities (pl)",
+    "de": "Freizeiteinrichtungen",
+    "info": ""
+  },
+  {
+    "en": "to cater to sb's needs",
+    "de": "jds. Bedarf befriedigen",
+    "info": ""
+  },
+  { "en": "precious", "de": "kostbar, wertvoll", "info": "" },
+  { "en": "local resources (pl)", "de": "lokale Ressourcen", "info": "" },
+  {
+    "en": "to create waste and pollution",
+    "de": "Müll und Umweltveschmutzung erzeugen",
+    "info": ""
+  },
+  {
+    "en": "to invest in the tourism infrastructure",
+    "de": "in die touristische Infrastruktur investieren",
+    "info": ""
+  },
+  {
+    "en": "to damage the landscape",
+    "de": "die Landschaft schädigen",
+    "info": ""
+  },
+  {
+    "en": "to conserve the natural heritage",
+    "de": "das Naturerbe bewahren/schützen",
+    "info": ""
+  },
+  {
+    "en": "to maintain the biodiversity",
+    "de": "die Artenvielfalt erhalten",
+    "info": ""
+  },
+  { "en": "serious", "de": "ernst, ernsthaft", "info": "" },
+  { "en": "way of life", "de": "Lebensweise, Lebensart", "info": "" },
+  { "en": "environmental damage", "de": "Umweltschädigung", "info": "" },
+  { "en": "emission", "de": "Ausstoß, Emission", "info": "" },
+  { "en": "greenhouse gases (pl)", "de": "Treibhausgase", "info": "" },
+  { "en": "green tourism", "de": "sanfter/nachhaltiger Tourismus", "info": "" },
+  { "en": "umbrella term", "de": "Oberbegriff, Sammelbegriff", "info": "" },
+  { "en": "ecotourism", "de": "Ökotourismus", "info": "" },
+  { "en": "nature tourism", "de": "Naturtourismus", "info": "" },
+  {
+    "en": "responsible tourism",
+    "de": "verantwortungsvoller Tourismus",
+    "info": ""
+  },
+  {
+    "en": "to reduce sb's carbon footprint",
+    "de": "jds CO2-Bilanz reduzieren",
+    "info": ""
+  },
+  { "en": "to save resources", "de": "Ressourcen schonen", "info": "" },
+  {
+    "en": "to show respect for sb/sth",
+    "de": "jdn/etw respektieren",
+    "info": ""
+  },
+  { "en": "tradition", "de": "Tradition, Überlieferung, Brauch", "info": "" },
+  {
+    "en": "as far as sb/sth is concerned",
+    "de": "was jdn/etw angeht",
+    "info": ""
+  },
+  { "en": "backpacking", "de": "Rucksackreisen", "info": "" },
+  { "en": "cave", "de": "Höhle", "info": "" },
+  {
+    "en": "to be on the lookout for sth",
+    "de": "nach etw Ausschau halten",
+    "info": ""
+  },
+  { "en": "aim", "de": "Ziel, Zweck", "info": "" },
+  { "en": "sustainable", "de": "nachhaltig", "info": "" },
+  {
+    "en": "to let one's hair down",
+    "de": "sich austoben, die Sau rauslassen",
+    "info": ""
+  },
+  { "en": "sunbathing", "de": "Sonnenbaden", "info": "" },
+  { "en": "to interact with sb", "de": "mit jdm kommunizieren", "info": "" },
+  { "en": "to curb sth", "de": "etw zügeln, etw eindämmen", "info": "" },
+  { "en": "antisocial", "de": "nicht sozialverträglich, asozial", "info": "" },
+  { "en": "establishment", "de": "Betrieb, Geschäft", "info": "" },
+  { "en": "seaside", "de": "am Meer", "info": "" },
+  { "en": "patron", "de": "Gast (im Restaurant)", "info": "" },
+  {
+    "en": "to crack down on sth",
+    "de": "gegen etw hart vorgehen, energisch durchgreifen",
+    "info": ""
+  },
+  { "en": "shirtless", "de": "ohne Hemd", "info": "" },
+  { "en": "football jersey", "de": "Fußballtrikot", "info": "" },
+  { "en": "move", "de": "Schritt, Aktion", "info": "" },
+  { "en": "to prompt sth", "de": "etw auslösen", "info": "" },
+  { "en": "flood", "de": "Flut, Schwemme", "info": "" },
+  { "en": "seemingly", "de": "anscheinend", "info": "" },
+  { "en": "charms (pl)", "de": "Vorzüge, Reize", "info": "" },
+  { "en": "arrival", "de": "Ankunft, Eintreffen", "info": "" },
+  { "en": "seafront", "de": "Meeresufer, Uferpromenade", "info": "" },
+  { "en": "unfortunate", "de": "bedauerlich", "info": "" },
+  { "en": "companion", "de": "Freund/in", "info": "" },
+  { "en": "sidewalk", "de": "Gehweg", "info": "" },
+  { "en": "law", "de": "Gesetz(e), Recht", "info": "" },
+  {
+    "en": "to clamp down on sth",
+    "de": "gegen etw schaft vorgehen",
+    "info": ""
+  },
+  { "en": "alcohol-fulled", "de": "durch Alkohol angeheizt", "info": "" },
+  { "en": "to call for sth", "de": "etw fordern, etw verlangen", "info": "" },
+  { "en": "to grant sb sth", "de": "jdm etw gewähren", "info": "" },
+  {
+    "en": "to charge sb sth (for sth)",
+    "de": "etw von jdm einfordern",
+    "info": ""
+  },
+  { "en": "fine", "de": "Geldstrafe, Bußgeld", "info": "" },
+  { "en": "on the spot", "de": "an Ort und Stelle", "info": "" },
+  { "en": "official", "de": "Amtsträger/in", "info": "" },
+  { "en": "entrepreneur", "de": "Unternehmer/in", "info": "" },
+  { "en": "to apply sth (to sth)", "de": "etw (auf etw) anwenden", "info": "" },
+  { "en": "to remain", "de": "bleiben", "info": "" },
+  {
+    "en": "to be committed to sth",
+    "de": "sich für etw engagieren, sich zu etw verpflichten",
+    "info": ""
+  },
+  {
+    "en": "to combat sth",
+    "de": "etw bekämpfen, gegen etw kämpfen",
+    "info": ""
+  },
+  { "en": "owner", "de": "Besitzer/in", "info": "" },
+  { "en": "politician", "de": "Politiker/in", "info": "" },
+  { "en": "to back sb/sth", "de": "Politiker/in", "info": "" },
+  { "en": "to be aimed at sth", "de": "auf etw abzielen", "info": "" },
+  { "en": "resident", "de": "Bewohner/in", "info": "" },
+  {
+    "en": "to propose sth",
+    "de": "etw vorschlagen, etw beantragen",
+    "info": ""
+  },
+  { "en": "mechanism", "de": "Mechanismus", "info": "" },
+  { "en": "to buy sth out", "de": "etw aufkaufen, etw loskaufen", "info": "" },
+  { "en": "quantity", "de": "Menge", "info": "" },
+  {
+    "en": "to be in charge of sth",
+    "de": "für etw zuständig sein",
+    "info": ""
+  },
+  { "en": "to approve sth", "de": "etw genehmigen, etw zulassen", "info": "" },
+  { "en": "measure", "de": "Maßnahme", "info": "" },
+  { "en": "to drop", "de": "zurückgehen, sinken", "info": "" },
+  { "en": "figures (pl)", "de": "Zahlen", "info": "" },
+  { "en": "to account for sth", "de": "etw ausmachen", "info": "" },
+  {
+    "en": "to employ sb",
+    "de": "jdn beschäftigen, jdn einstellen",
+    "info": ""
+  },
+  {
+    "en": "to strike a balance",
+    "de": "das richtige Verhältnis finden, ein Gleichgewicht schaffen",
+    "info": ""
+  },
+  { "en": "mounting", "de": "zunehmend", "info": "" },
+  { "en": "disorder", "de": "Störung", "info": "" },
+  { "en": "residential flat", "de": "Miet- oder Eigentumswohnung", "info": "" },
+  { "en": "to convert sth", "de": "etw umwandeln", "info": "" },
+  { "en": "traveller", "de": "Reisende/r", "info": "" },
+  { "en": "to criticise sb/sth", "de": "jdn/etw kritisieren", "info": "" },
+  { "en": "narrow-minded", "de": "engstirnig", "info": "" },
+  {
+    "en": "to be up against sb/sth",
+    "de": "es mit jdm/etw zu tun haben",
+    "info": ""
+  },
+  { "en": "classist", "de": "klassendiskriminierend", "info": "" },
+  {
+    "en": "to take issue with sth",
+    "de": "mit etw nicht einverstanden sein",
+    "info": ""
+  },
+  { "en": "assumption", "de": "Annahme, Unterstellung", "info": "" },
+  {
+    "en": "to exclude sb",
+    "de": "jdn ausschließen, jdn ausgrenzen",
+    "info": ""
+  },
+  { "en": "to rent sth", "de": "etw mieten", "info": "" },
+  { "en": "authorities (pl)", "de": "Behörden", "info": "" },
+  {
+    "en": "badly-behaved",
+    "de": "sich nicht angemessen verhaltend",
+    "info": ""
+  },
+  { "en": "quality newspaper", "de": "seriöse Tageszeitung", "info": "" },
+  {
+    "en": "to cut back on sth",
+    "de": "etw mindern, etw zurückschrauben",
+    "info": ""
+  },
+  { "en": "affordable", "de": "günstig, erschwinglich", "info": "" },
+  { "en": "to rent sth out to sb", "de": "etw an jdn vermieten", "info": "" },
+  { "en": "uncertain", "de": "unklar, ungewiss", "info": "" },
+  { "en": "in practice", "de": "praktisch, in der Praxis", "info": "" },
+  { "en": "livelihood", "de": "Lebensgrundlage, Lebensunterhalt", "info": "" },
+  {
+    "en": "to depend on sb/sth",
+    "de": "von jdm/etw abhängen, auf jdn/etw ankommen",
+    "info": ""
+  },
+  { "en": "intoxicated", "de": "berauscht, betrunken", "info": "" },
+  { "en": "regulation", "de": "Regelung, Vorschrift", "info": "" },
+  { "en": "to enforce sth", "de": "etw (per Gesetz) durchsetzen", "info": "" },
+  { "en": "to weigh sth up", "de": "etw abwägen", "info": "" },
+  { "en": "flooding", "de": "Hochwasser", "info": "" },
+  { "en": "square", "de": "Platz", "info": "" },
+  { "en": "pigeon", "de": "Taube", "info": "" },
+  { "en": "to wait in line", "de": "anstehen, Schlange stehen", "info": "" },
+  { "en": "queue", "de": "Warteschlange", "info": "" },
+  { "en": "mac", "de": "Regenmantel", "info": "" },
+  { "en": "rubber boots (pl)", "de": "Gummistiefel", "info": "" },
+  { "en": "to wade", "de": "waten", "info": "" },
+  { "en": "to cover sth", "de": "etw bedecken", "info": "" },
+  {
+    "en": "to affect sb/sth",
+    "de": "jdn/etw betreffen, jdn/etw treffen",
+    "info": ""
+  },
+  { "en": "lagoon", "de": "Lagune", "info": "" },
+  { "en": "inhabitant", "de": "Einwohner/in", "info": "" },
+  {
+    "en": "to cause sb/sth to do sth",
+    "de": "dazu führen, dass jd/etw etw tut",
+    "info": ""
+  },
+  { "en": "rent", "de": "Miete", "info": "" },
+  { "en": "to disappear", "de": "verschwinden", "info": "" },
+  { "en": "theme park", "de": "Freizeitpark, Themenpark", "info": "" },
+  { "en": "to carry sb/sth", "de": "jdn/etw befördern", "info": "" },
+  { "en": "passenger", "de": "Passagier/in, Fahrgast", "info": "" },
+  { "en": "sudden", "de": "plötzlich, abrupt", "info": "" },
+  { "en": "damage (to sth)", "de": "Schaden, Schäden (an etw)", "info": "" },
+  {
+    "en": "similar (to sb/sth)",
+    "de": "(jdm/einer Sache) ähnlich",
+    "info": ""
+  },
+  {
+    "en": "to tackle sth",
+    "de": "etw (Problem usw.) angehen, etw bekämpfen",
+    "info": ""
+  },
+  { "en": "to charge sth on sth", "de": "etw für etw verlangen", "info": "" },
+  { "en": "tax", "de": "Steuer", "info": "" },
+  { "en": "to suffer from sth", "de": "unter etw leiden", "info": "" },
+  {
+    "en": "to face sth",
+    "de": "mit etw konfrontiert sein/werden, einer Sache gegenüberstehen",
+    "info": ""
+  },
+  { "en": "population", "de": "Bevölkerung", "info": "" },
+  { "en": "overtourism", "de": "übermäßiger Massentourismus", "info": "" },
+  { "en": "overcrowding", "de": "Ansturm, zu viele Menschen", "info": "" },
+  {
+    "en": "facilities (pl)",
+    "de": "Einrichtung(en), Anlage(n), Ausstattung",
+    "info": ""
+  },
+  { "en": "lawmaker", "de": "Gesetzgeber", "info": "" },
+  { "en": "legislation", "de": "Gesetzgebung, Gesetz(e)", "info": "" },
+  {
+    "en": "Representative",
+    "de": "Mitglied des Repräsentantenhauses",
+    "info": ""
+  },
+  {
+    "en": "traveler patterns (pl)",
+    "de": "Reiseverhalten, Reisegewohnheiten",
+    "info": ""
+  },
+  { "en": "push", "de": "Verstoß", "info": "" },
+  { "en": "once-obscure", "de": "früher/ehemals unbekannt", "info": "" },
+  { "en": "rope", "de": "Seil", "info": "" },
+  { "en": "swing", "de": "Schaukel", "info": "" },
+  { "en": "crush", "de": "Andrang, Gedränge", "info": "" },
+  { "en": "to ruin sth", "de": "etw zerstören, etw ruinieren", "info": "" },
+  { "en": "the likes of you (pl)", "de": "Leute wie Sie/ihr", "info": "" },
+  { "en": "victim", "de": "Opfer", "info": "" },
+  { "en": "global warming", "de": "Erderwärumg", "info": "" },
+  {
+    "en": "to be on a slippery slope",
+    "de": "direkt auf etw zusteuern, in etw hineinschlittern",
+    "info": ""
+  },
+  { "en": "Alpine", "de": "Alpen-, in den Alpen", "info": "" },
+  { "en": "diverse", "de": "vielfältig, unterschiedlich, divers", "info": "" },
+  { "en": "significant(ly)", "de": "erheblich, bedeutend", "info": "" },
+  { "en": "balancing act", "de": "Belanceakt", "info": "" },
+  { "en": "to address sth", "de": "etw angehen, etw ansprechen", "info": "" },
+  { "en": "to preserve sth", "de": "etw bewahren, etw schützen", "info": "" },
+  { "en": "operations (pl)", "de": "Betrieb", "info": "" },
+  { "en": "heating", "de": "Erwärmung", "info": "" },
+  { "en": "lack (of sth)", "de": "Mangel (an etw)", "info": "" },
+  { "en": "reliable", "de": "zuverlässig", "info": "" },
+  { "en": "snowfall", "de": "Schneemenge, Schneefall", "info": "" },
+  {
+    "en": "unsustainable",
+    "de": "nicht nachhaltig, nicht aufrechtzuerhalten",
+    "info": ""
+  },
+  { "en": "virtually", "de": "praktisch, quasi", "info": "" },
+  { "en": "quarter", "de": "Lager, betroffene Seite", "info": "" },
+  { "en": "unviable", "de": "unrentabel, nicht überlebensfähig", "info": "" },
+  { "en": "market share", "de": "Marktanteil", "info": "" },
+  {
+    "en": "to rely on sb/sth",
+    "de": "auf jdn/etw angewiesen sein",
+    "info": ""
+  },
+  { "en": "reliability", "de": "Zuverlässigkeit", "info": "" },
+  {
+    "en": "to diversify sth",
+    "de": "etw ausweiten, etw diversifizieren",
+    "info": ""
+  },
+  { "en": "rock climbing", "de": "Klettern", "info": "" },
+  { "en": "trekking", "de": "(längere) Wandertouren", "info": "" },
+  { "en": "hiking", "de": "Wandern", "info": "" },
+  { "en": "trail", "de": "(Wander-) Weg", "info": "" },
+  {
+    "en": "to pose a challenge",
+    "de": "eine Herausforderung darstellen",
+    "info": ""
+  },
+  { "en": "ski resort", "de": "Wintersportort", "info": "" },
+  { "en": "revenue(s)", "de": "Einkommen, Einkünfte", "info": "" },
+  {
+    "en": "to stimulate businesses",
+    "de": "wirtschaftliche Impulse geben",
+    "info": ""
+  },
+  { "en": "environmental degradation", "de": "Umweltzerstörung", "info": "" },
+  { "en": "to maintain sth", "de": "etw aufrechterhalten", "info": "" },
+  { "en": "snow coverage", "de": "Schneedecke", "info": "" },
+  { "en": "consistent", "de": "gleichmäßig, gleichbleibend", "info": "" },
+  { "en": "to construct sth", "de": "etw bauen, etw errichten", "info": "" },
+  { "en": "clearing", "de": "Rodung", "info": "" },
+  { "en": "slope", "de": "Hang, Abhang", "info": "" },
+  {
+    "en": "(electrical) transmission line",
+    "de": "Überlandleitung",
+    "info": ""
+  },
+  { "en": "soil erosion", "de": "Bodenerosion", "info": "" },
+  { "en": "deforestation", "de": "Entwaldung", "info": "" },
+  { "en": "fragmentation", "de": "Zerschneidung, Fragmentierung", "info": "" },
+  { "en": "habitat", "de": "Lebensraum", "info": "" },
+  {
+    "en": "intervention (on sth)",
+    "de": "Eingriff(e) (in etw), Intervention",
+    "info": ""
+  },
+  {
+    "en": "to place a strain on sth",
+    "de": "etw belasten, eine Belastung für etw darstellen",
+    "info": ""
+  },
+  {
+    "en": "transportation",
+    "de": "Beförderung, Transport, Verkehr",
+    "info": ""
+  },
+  { "en": "to generate sth", "de": "etw erzeugen", "info": "" },
+  {
+    "en": "crucial (to sb/sth)",
+    "de": "entscheidend, äußerst wichtig (für jdn/etw)",
+    "info": ""
+  },
+  { "en": "preservation", "de": "Schutz, Erhalt", "info": "" },
+  {
+    "en": "to be up to sb",
+    "de": "an jdm liegen, jds. Aufgabe/Entscheidung sein",
+    "info": ""
+  },
+  { "en": "practices (pl)", "de": "Praktiken", "info": "" },
+  { "en": "it remains to be seen", "de": "es bleibt abzuwarten", "info": "" },
+  {
+    "en": "to adapt (to sth)",
+    "de": "sich (an etw) anpassen, sich an etw gewöhnen",
+    "info": ""
+  },
+  { "en": "investment", "de": "Investition", "info": "" },
+  { "en": "critic", "de": "Kritiker/in", "info": "" },
+  { "en": "cable car", "de": "Seilbahn", "info": "" },
+  { "en": "to alter sth", "de": "etw verändern, etw ändern", "info": "" },
+  { "en": "underlying", "de": "zugrundeliegend, Grund-", "info": "" },
+  { "en": "to deserve sth", "de": "etw verdienen", "info": "" },
+  { "en": "countryside", "de": "ländliche Gegend(en), Land", "info": "" },
+  { "en": "tulip", "de": "Tulpe", "info": "" },
+  { "en": "scores (pl)", "de": "Dutzende", "info": "" },
+  { "en": "uniqueness", "de": "Einzigartigkeit", "info": "" },
+  { "en": "causeway", "de": "Damm", "info": "" },
+  { "en": "horse caravan", "de": "Pferdewagen, Planwagen", "info": "" },
+  { "en": "lush", "de": "üppig", "info": "" },
+  { "en": "hospitality", "de": "Bewirtung, Gastfreundschaft", "info": "" },
+  { "en": "trusty", "de": "treu, zuverlässig", "info": "" },
+  { "en": "marine conservation", "de": "Meeresschutz(gebiet)", "info": "" },
+  { "en": "blue whale", "de": "Blauwahl", "info": "" },
+  { "en": "to breed", "de": "sich paaren, sich vermehren", "info": "" },
+  { "en": "to flock", "de": "(in Scharen) strömen", "info": "" },
+  { "en": "to disturb", "de": "stören", "info": "" },
+  { "en": "to educate sb", "de": "jdn aufklären, jdn informieren", "info": "" },
+  { "en": "nature reserve", "de": "Naturschutzgebiet", "info": "" },
+  {
+    "en": "to teem with sth",
+    "de": "von etw wimmeln, reich an etw sein",
+    "info": ""
+  },
+  { "en": "sprawling", "de": "ausgedehnt, großflächig", "info": "" },
+  {
+    "en": "to aim to do sth",
+    "de": "etw tun wollen; sich vornehmen, etw zu tun",
+    "info": ""
+  },
+  { "en": "carbon neutral", "de": "CO2-neutral", "info": "" },
+  { "en": "dolphin", "de": "Delfin", "info": "" },
+  { "en": "agritourism", "de": "Agrotourismus, Landtourismus", "info": "" },
+  { "en": "rustic", "de": "urig, rustikal", "info": "" },
+  { "en": "via", "de": "mittels, per, über", "info": "" },
+  { "en": "thick layer", "de": "dicke Schicht", "info": "" },
+  { "en": "tourist board", "de": "Fremdenverkehrsamt", "info": "" },
+  { "en": "council", "de": "Stadtverwaltung, Stadtrat", "info": "" },
+  { "en": "phenomenon", "de": "Phänomen", "info": "" },
+  { "en": "to kick the bucket", "de": "den Löffel abgeben", "info": "" },
+  { "en": "humorous", "de": "witzig, humorvoll", "info": "" },
+  { "en": "blog entry", "de": "Blog-Eintrag, -Beitrag", "info": "" },
+  { "en": "criteria (pl)", "de": "Kriterien", "info": "" },
+  { "en": "endangered", "de": "bedroht, gefährdet", "info": "" },
+  {
+    "en": "controversy",
+    "de": "Auseinandersetzung(en), Kontroverse",
+    "info": ""
+  },
+  {
+    "en": "to be in favour of sth",
+    "de": "etw befürworten, für etw sein",
+    "info": ""
+  },
+  { "en": "to oppose sth", "de": "gegen etw sein, etw ablehen", "info": "" },
+  { "en": "scientist", "de": "(Natur-) Wissenschaftler/in", "info": "" },
+  { "en": "mural", "de": "Wandmalerei", "info": "" },
+  { "en": "humidity", "de": "Luftfeuchtigkeit", "info": "" },
+  { "en": "to pave sth", "de": "etw pflastern, etw asphaltieren", "info": "" },
+  { "en": "spot", "de": "Fleck", "info": "" },
+  { "en": "to deal with sth", "de": "sich mit etw befassen", "info": "" },
+  { "en": "to convey sth", "de": "etw vermitteln", "info": "" },
+  { "en": "anxious", "de": "ängstlich, verängstigt", "info": "" },
+  { "en": "apathetic", "de": "teilnahmslos, apathisch", "info": "" },
+  { "en": "exhausted", "de": "erschöpft", "info": "" },
+  { "en": "furious", "de": "wütend, fuchsteufelswild", "info": "" },
+  { "en": "hopeful", "de": "zuversichtlich", "info": "" },
+  { "en": "numb", "de": "benommen, betäubt, starr", "info": "" },
+  { "en": "overwhelmed", "de": "überwältigt, überfordert", "info": "" },
+  { "en": "stressed out", "de": "gestresst", "info": "" },
+  {
+    "en": "pressing challenges (pl)",
+    "de": "dringliche Herausforderungen, dringende Aufgaben",
+    "info": ""
+  },
+  { "en": "contributor", "de": "(beitragender) Faktor", "info": "" },
+  { "en": "toxic", "de": "giftig, (äußerst) schädlich", "info": "" },
+  { "en": "carbon dioxide", "de": "Kohlenstoffdioxid", "info": "" },
+  { "en": "methane", "de": "Methan", "info": "" },
+  { "en": "commonly", "de": "gemeinhin, üblicherweise", "info": "" },
+  {
+    "en": "to associate sth with sth",
+    "de": "etw mit etw in Verbindung bringen",
+    "info": ""
+  },
+  { "en": "fossil fuels (pl)", "de": "fossile Brennstoffe", "info": "" },
+  { "en": "to trap sth", "de": "etw einschließen, etw einfangen", "info": "" },
+  { "en": "to intensify sth", "de": "etw intensivieren", "info": "" },
+  { "en": "greenhouse effect", "de": "Treibhauseffekt", "info": "" },
+  {
+    "en": "extreme weather events (pl)",
+    "de": "extreme Wetterbedingungen",
+    "info": ""
+  },
+  { "en": "drought", "de": "Dürre", "info": "" },
+  { "en": "flood", "de": "Hochwassere", "info": "" },
+  { "en": "frequent(ly)", "de": "häufig", "info": "" },
+  { "en": "melting", "de": "Abschmelzen", "info": "" },
+  { "en": "polar ice caps (pl)", "de": "Polarkappen", "info": "" },
+  { "en": "glacier", "de": "Glletscher", "info": "" },
+  {
+    "en": "rising sea levels (pl)",
+    "de": "steigender Meerespiegel",
+    "info": ""
+  },
+  { "en": "to pose a threat", "de": "eine Bedrohung darstellen", "info": "" },
+  { "en": "coastal region", "de": "Küstengebiet", "info": "" },
+  { "en": "water shortage", "de": "Wassermangel", "info": "" },
+  {
+    "en": "shifting weather patterns (pl)",
+    "de": "veränderte Wetterabläufe",
+    "info": ""
+  },
+  { "en": "evaporation", "de": "Verdunstung", "info": "" },
+  { "en": "depletion", "de": "Erschöpfung (von Ressourcen)", "info": "" },
+  { "en": "freshwater resources (pl)", "de": "Süßwasservorkommen", "info": "" },
+  { "en": "arid regions (pl)", "de": "Trockengebiete", "info": "" },
+  { "en": "uninhabitable", "de": "unbewohnbar", "info": "" },
+  { "en": "climate refugee", "de": "Klimaflüchtling", "info": "" },
+  {
+    "en": "to displace sb from sth",
+    "de": "jdn aus etw vertreiben",
+    "info": ""
+  },
+  {
+    "en": "to exacerbate sth",
+    "de": "etw verschlimmern, etw verschärfen",
+    "info": ""
+  },
+  { "en": "inequality", "de": "Ungleichheit, Unterschied(e)", "info": "" },
+  { "en": "overpopulation", "de": "Überbevölkerung", "info": "" },
+  { "en": "demand (for sth)", "de": "Nachfrage (nach etw)", "info": "" },
+  { "en": "consequently", "de": "folglich", "info": "" },
+  { "en": "to endanger sth", "de": "etw bedrohen", "info": "" },
+  { "en": "ecosystem", "de": "Ökosystem", "info": "" },
+  { "en": "vulnerable", "de": "gefährdet, verwundbar, anfällig", "info": "" },
+  { "en": "to vanish", "de": "verschwinden, verlorengehen", "info": "" },
+  { "en": "extinction", "de": "Aussterben, Ausrottung", "info": "" },
+  { "en": "species (pl species)", "de": "Art, Gattung", "info": "" },
+  { "en": "biodiversity", "de": "Artenvielfalt", "info": "" },
+  { "en": "to mitigate sth", "de": "etw lindern, etw mildern", "info": "" },
+  {
+    "en": "to transition from sth to sth",
+    "de": "von etw auf etw umstellen",
+    "info": ""
+  },
+  {
+    "en": "renewable energy source",
+    "de": "erneuerbare Energiequelle",
+    "info": ""
+  },
+  { "en": "solar panel", "de": "Solarmodul", "info": "" },
+  { "en": "wind turbine", "de": "Windkraftanlage", "info": "" },
+  {
+    "en": "hydroelectric power station",
+    "de": "Wasserkraftanlage",
+    "info": ""
+  },
+  { "en": "to harness sth", "de": "etw nutzbar machen", "info": "" },
+  { "en": "energy transition", "de": "Energiewende", "info": "" },
+  { "en": "affluent", "de": "reich, wohlhabend", "info": "" },
+  {
+    "en": "fossil-fuel reliant",
+    "de": "auf fossile Energieträger angewiesen",
+    "info": ""
+  },
+  { "en": "energy consumption", "de": "Energieverbrauch", "info": "" },
+  {
+    "en": "to be of paramount importance",
+    "de": "von allerhöchster Wichtigkeit sein, von größter Bedeutung sein",
+    "info": ""
+  },
+  { "en": "prediction", "de": "Vorhersage", "info": "" },
+  { "en": "to indicate sth", "de": "etw erkennen lassen", "info": "" },
+  {
+    "en": "advancements (pl)",
+    "de": "Fortschritte, Weiterentwicklungen",
+    "info": ""
+  },
+  { "en": "electric vehicle", "de": "Elektrofahrzeug", "info": "" },
+  { "en": "public transport", "de": "öffentliche Verkehrsmittel", "info": "" },
+  { "en": "carbon emissions (pl)", "de": "Kohlendioxid-Ausstoß", "info": "" },
+  {
+    "en": "emission trading system",
+    "de": "Emissionshandelssystem",
+    "info": ""
+  },
+  { "en": "to emit sth", "de": "etw ausstoßen", "info": "" },
+  {
+    "en": "to incentivize sb to do sth",
+    "de": "jdm Anreize bieten, etw zu tun",
+    "info": ""
+  },
+  { "en": "nuclear power", "de": "Kernkraft, Kernenergie", "info": "" },
+  { "en": "largely", "de": "überwiegend, weitgehend", "info": "" },
+  { "en": "controversial", "de": "umstritten", "info": "" },
+  { "en": "nuclear waste", "de": "Atommüll", "info": "" },
+  {
+    "en": "land and water pollution",
+    "de": "Boden- und Wasserveerschmutzung",
+    "info": ""
+  },
+  { "en": "waste", "de": "Müll, Abfall", "info": "" },
+  { "en": "improper", "de": "falsch, unsachgemäß", "info": "" },
+  { "en": "waste disposal", "de": "Müll-, Abfallentsorgung", "info": "" },
+  { "en": "contamination", "de": "Verseuchung, Kontaminierung", "info": "" },
+  { "en": "landfill", "de": "Mülldeponie", "info": "" },
+  { "en": "incineration", "de": "Müllverbrennung", "info": "" },
+  { "en": "accumulation", "de": "Ansammlung, Anhäufung", "info": "" },
+  {
+    "en": "marine life",
+    "de": "Tier- und Pflanzenwelt des Meeres",
+    "info": ""
+  },
+  { "en": "recycling", "de": "Wiederverwertung, Recycling", "info": "" },
+  { "en": "reusing", "de": "Wiederverwendung", "info": "" },
+  { "en": "circular economy", "de": "Kreislaufwirtschaft", "info": "" },
+  { "en": "plant", "de": "Pflanze", "info": "" },
+  { "en": "Anthropocene", "de": "Anthropozän", "info": "" },
+  { "en": "Paleozoic (Era)", "de": "Erdaltertum, Paläozoikum", "info": "" },
+  { "en": "Mesozoic (Era)", "de": "Erdmittelalter, Mesozoikum", "info": "" },
+  { "en": "Cenozoic (Era)", "de": "Erdneuzeit, Känozoikum", "info": "" },
+  {
+    "en": "to constitute sth",
+    "de": "etw darstellen, etw begründen",
+    "info": ""
+  },
+  { "en": "distinct", "de": "eigenständig", "info": "" },
+  { "en": "geological age", "de": "Erdzeitalter", "info": "" },
+  { "en": "as opposed to", "de": "im Gegensatz zu", "info": "" },
+  { "en": "conservationist", "de": "Natur-/Umweltschützer/in", "info": "" },
+  { "en": "rubbish-strewn", "de": "mit Müll übersät", "info": "" },
+  { "en": "devastation", "de": "Verwüstung, Zerstörung", "info": "" },
+  { "en": "insurmountable", "de": "unüberwindbar", "info": "" },
+  { "en": "numbness", "de": "Benommenheit, Starre", "info": "" },
+  { "en": "dire", "de": "düster, schlimm, furchtbar", "info": "" },
+  { "en": "to lack sth", "de": "etw nicht haben", "info": "" },
+  { "en": "psychic numbing", "de": "emotionale Erstarrung", "info": "" },
+  { "en": "empathy", "de": "Mitgefühl, Einfühlung(svermögen)", "info": "" },
+  { "en": "loss", "de": "Verlust", "info": "" },
+  { "en": "mourning", "de": "Trauer", "info": "" },
+  { "en": "puppy", "de": "Welpe", "info": "" },
+  { "en": "infuriating", "de": "empörend, unerhört", "info": "" },
+  { "en": "to intervene", "de": "eingreifen", "info": "" },
+  { "en": "slaughterhouse", "de": "Schlachthof", "info": "" },
+  { "en": "essence", "de": "Wesen, Kern, Quintessenz", "info": "" },
+  { "en": "ineffective", "de": "unwirksam", "info": "" },
+  { "en": "to bury sth", "de": "etw vergraben", "info": "" },
+  { "en": "to refuse sth", "de": "etw ablehen", "info": "" },
+  { "en": "straw", "de": "Stohhalm", "info": "" },
+  { "en": "environmentalism", "de": "Umweltschutz", "info": "" },
+  { "en": "ever so slightly", "de": "ein klein wenig", "info": "" },
+  { "en": "to take centre stage", "de": "im Rampenlicht stehen", "info": "" },
+  { "en": "entry point", "de": "Einstieg", "info": "" },
+  { "en": "profound", "de": "tiefgreifend", "info": "" },
+  { "en": "epoch", "de": "Epoche, Zeitalter", "info": "" },
+  { "en": "force", "de": "Macht, Kraft, Gewalt", "info": "" },
+  { "en": "on a planetary scale", "de": "weltweit", "info": "" },
+  { "en": "hypothetical", "de": "hypothetisch", "info": "" },
+  { "en": "disposable", "de": "Einweg-, Wegwerf-", "info": "" },
+  { "en": "durable", "de": "langlebig, haltbar", "info": "" },
+  { "en": "legacy", "de": "Vermächtnis, Erbe", "info": "" },
+  { "en": "thin-skinned", "de": "dünnhäutig", "info": "" },
+  { "en": "fragile", "de": "empfindlich, verletzlich", "info": "" },
+  { "en": "imperishable", "de": "unvergänglich, haltbar", "info": "" },
+  { "en": "durability", "de": "Langlebigkeit, Haltbarkeit", "info": "" },
+  { "en": "hardy", "de": "robust, widerstandsfähig", "info": "" },
+  { "en": "high volumes (pl)", "de": "große Mengen", "info": "" },
+  { "en": "inevitable", "de": "unvermeidlich", "info": "" },
+  { "en": "misleading", "de": "irreführend", "info": "" },
+  { "en": "to decompose", "de": "sich zersetzen, verwesen", "info": "" },
+  { "en": "absence", "de": "Abwesenheit", "info": "" },
+  { "en": "vision", "de": "Blickfeld", "info": "" },
+  {
+    "en": "to lurk (around)",
+    "de": "lauern, sich versteckt halten",
+    "info": ""
+  },
+  { "en": "terrestrial layer", "de": "Erdschicht, Ablagerung", "info": "" },
+  {
+    "en": "to memorialize sth",
+    "de": "an etw erinnern, etw ein Denkmal setzen",
+    "info": ""
+  },
+  { "en": "to stick around", "de": "dableiben", "info": "" },
+  { "en": "to lodge oneself", "de": "sich einnisten", "info": "" },
+  { "en": "stomach", "de": "Magen, Bauch", "info": "" },
+  { "en": "to blame sb/sth", "de": "jdm/etw die Schuld geben", "info": "" },
+  { "en": "wrongdoing", "de": "Fehlverhalten, Verbrechen", "info": "" },
+  { "en": "consumerism", "de": "Konsumdenken, Konsum", "info": "" },
+  {
+    "en": "to be the beating heart of sth",
+    "de": "das Herzstück von etw sein, Dreh- und Angelpunkt von etw sein",
+    "info": ""
+  },
+  { "en": "ravenous", "de": "unbändig, gefräßig, ausgehungert", "info": "" },
+  { "en": "desperate(ly)", "de": "verzweifelt", "info": "" },
+  { "en": "insatiable", "de": "unersättlich", "info": "" },
+  { "en": "satisfaction", "de": "Zufriedenheit, Befriedigung", "info": "" },
+  { "en": "ultimately", "de": "letztlich, im Endeffekt", "info": "" },
+  {
+    "en": "to embark on a journey",
+    "de": "sich auf eine Reise begeben",
+    "info": ""
+  },
+  { "en": "messy", "de": "chaotisch, dreckig", "info": "" },
+  { "en": "capability", "de": "Fähigkeit, Möglichkeit", "info": "" },
+  { "en": "destruction", "de": "Zerstörung", "info": "" },
+  { "en": "state", "de": "Zustand", "info": "" },
+  {
+    "en": "to revert to sth",
+    "de": "in etw zurückfallen, zu etw zurückkehren",
+    "info": ""
+  },
+  { "en": "reward", "de": "Belohnung, Lohn", "info": "" },
+  { "en": "notion", "de": "Gedanke, Begriff, Idee", "info": "" },
+  { "en": "annoyed", "de": "genervt, verärgert", "info": "" },
+  { "en": "merely", "de": "bloß, nur, lediglich", "info": "" },
+  { "en": "deceptive", "de": "trügerisch", "info": "" },
+  {
+    "en": "to be unaware of sth",
+    "de": "etw nicht kennen, sich einer Sache nicht bewusst sein",
+    "info": ""
+  },
+  {
+    "en": "to assure sb sth",
+    "de": "jdm etw zusichern, jdm etw versichern",
+    "info": ""
+  },
+  { "en": "to condemn sb/sth", "de": "jdn/etw verurteilen", "info": "" },
+  { "en": "essentially", "de": "im Wesentlichen", "info": "" },
+  { "en": "consumerist society", "de": "Konsumgesellschaft", "info": "" },
+  {
+    "en": "to assess sth",
+    "de": "etw beurteilen, etw bewerten, etw einschätzen",
+    "info": ""
+  },
+  { "en": "inherent part", "de": "fester Bestandteil", "info": "" },
+  { "en": "nevertheless", "de": "trotzdem, dennoch", "info": "" },
+  { "en": "to reexamine sth", "de": "etw (erneut) überprüfen", "info": "" },
+  {
+    "en": "ecologically conscious",
+    "de": "umweltbewusst, ökobewusst",
+    "info": ""
+  },
+  { "en": "to demand sth", "de": "etw fordern", "info": "" },
+  {
+    "en": "to prioritize sth",
+    "de": "einer Sache Vorrang einräumen",
+    "info": ""
+  },
+  { "en": "implementation", "de": "Umsetzung, Einführung", "info": "" },
+  {
+    "en": "to emphasize sth",
+    "de": "etw betonen, etw herausstellen",
+    "info": ""
+  },
+  { "en": "significance", "de": "Bedeutung", "info": "" },
+  { "en": "suitability", "de": "Tauglichkeit, Eignung", "info": "" },
+  { "en": "feasibility", "de": "Machbarkeit", "info": "" },
+  { "en": "circumstances (pl)", "de": "Umstände", "info": "" },
+  { "en": "flea market", "de": "Flohmarkt", "info": "" },
+  {
+    "en": "to raise money",
+    "de": "Geld beschaffen, Spenden sammeln",
+    "info": ""
+  },
+  {
+    "en": "to come to mind",
+    "de": "jdm einfallen, jdm in den Sinn kommen",
+    "info": ""
+  },
+  {
+    "en": "to be on the verge of sth",
+    "de": "am Rande von etw stehen, kurz vor etw stehen",
+    "info": ""
+  },
+  { "en": "convergence", "de": "Zusammentreffen, Zusammenlaufen", "info": "" },
+  { "en": "contaminated", "de": "verseucht", "info": "" },
+  { "en": "hurricane", "de": "Orkan, Wirbelsturm", "info": "" },
+  { "en": "century", "de": "Jahrhundert", "info": "" },
+  { "en": "grim outlook", "de": "düstere Aussichten", "info": "" },
+  { "en": "head-on", "de": "frontal, direkt, offen", "info": "" },
+  { "en": "under consideration", "de": "in Betracht kommend", "info": "" },
+  { "en": "lasting", "de": "dauerhaft", "info": "" },
+  { "en": "to delay sth", "de": "etw aufhalten, etw verzögern", "info": "" },
+  {
+    "en": "to be preferable to sth",
+    "de": "einer Sache vorzuziehen sein, besser als etw sein",
+    "info": ""
+  },
+  { "en": "estimation", "de": "Schätzung", "info": "" },
+  { "en": "to drown", "de": "ertrinken, absaufen", "info": "" },
+  { "en": "tidal flooding", "de": "Gezeiten", "info": "" },
+  { "en": "to estimate", "de": "schätzen", "info": "" },
+  { "en": "property", "de": "Immobilie(n)", "info": "" },
+  { "en": "pace", "de": "Tempo", "info": "" },
+  { "en": "to hasten", "de": "(sich) beschleunigen", "info": "" },
+  { "en": "inch", "de": "Zoll", "info": "" },
+  { "en": "rate", "de": "Tempo", "info": "" },
+  { "en": "landmark", "de": "Wahrzeichen", "info": "" },
+  { "en": "to dub sth", "de": "etw nennen", "info": "" },
+  { "en": "multi-faceted", "de": "facettenreich, mehrdimensional", "info": "" },
+  { "en": "to be under way", "de": "im Gange sein, laufen", "info": "" },
+  { "en": "to elevate sth", "de": "etw anheben, etw erhöhen", "info": "" },
+  { "en": "sea wall", "de": "Ufermauer", "info": "" },
+  {
+    "en": "high capacity",
+    "de": "mit/von hoher Kapazität, Hochleistungs-",
+    "info": ""
+  },
+  { "en": "drainage", "de": "Entwässerung", "info": "" },
+  {
+    "en": "to alleviate sth",
+    "de": "etw abschwächen, etw lindern",
+    "info": ""
+  },
+  { "en": "approach", "de": "Herangehensweise, Ansatz", "info": "" },
+  { "en": "to tilt towards sth", "de": "auf etw hinauslaufen", "info": "" },
+  { "en": "managed retreat", "de": "geordneter Rückzug", "info": "" },
+  { "en": "to abandon sth", "de": "etw verlassen, etw aufgeben", "info": "" },
+  { "en": "cost-benefit ratio", "de": "Kosten-Nutzen-Verhältnis", "info": "" },
+  { "en": "to seep", "de": "sickern, versickern", "info": "" },
+  { "en": "porous", "de": "porös", "info": "" },
+  { "en": "runoff", "de": "Abwasser, Regenwasserabfluss", "info": "" },
+  { "en": "to worsen sth", "de": "etw verschlimmern", "info": "" },
+  { "en": "department", "de": "Ministerium", "info": "" },
+  { "en": "adequate(ly)", "de": "angemessen, ausreichend", "info": "" },
+  {
+    "en": "to meet beneficial needs",
+    "de": "den Nutzbedarf erfüllen",
+    "info": ""
+  },
+  { "en": "reasonable", "de": "vernünftig, nachvollziehbar", "info": "" },
+  { "en": "comprehensive", "de": "umfassend", "info": "" },
+  { "en": "restoration", "de": "Sanierung, Wiederherstellung", "info": "" },
+  {
+    "en": "to authorize sth",
+    "de": "etw bewilligen, etw genehmigen",
+    "info": ""
+  },
+  { "en": "(storage) reservoir", "de": "Stausee", "info": "" },
+  {
+    "en": "key component",
+    "de": "wesentlicher/zentraler Bestandteil",
+    "info": ""
+  },
+  { "en": "congressional", "de": "Kongress-", "info": "" },
+  { "en": "to earmark sth for sth", "de": "etw für etw vorsehen", "info": "" },
+  { "en": "to lease", "de": "pachten", "info": "" },
+  {
+    "en": "to stall",
+    "de": "zum Stillstand kommen, stehen bleiben",
+    "info": ""
+  },
+  { "en": "amid", "de": "inmitten, bei", "info": "" },
+  { "en": "funding", "de": "Finanzierung", "info": "" },
+  { "en": "wrangles (pl)", "de": "Debatten", "info": "" },
+  { "en": "to mark landfall", "de": "das Festland erreichen", "info": "" },
+  { "en": "panhandle", "de": "Pfannenstiel", "info": "" },
+  { "en": "cyclone", "de": "Orkantief, Zyklon", "info": "" },
+  { "en": "season", "de": "Jahreszeit, Saison", "info": "" },
+  {
+    "en": "to combine",
+    "de": "zusammenkommen, sich zusammenschließen",
+    "info": ""
+  },
+  { "en": "alley", "de": "Alle, Weg, Durchgang", "info": "" },
+  { "en": "to tame sb/sth", "de": "jdn/etw zähmen", "info": "" },
+  { "en": "mitigation", "de": "Schadensbegrenzung, Eindämmung", "info": "" },
+  {
+    "en": "building/construction codes (pl)",
+    "de": "Bauvorschriften",
+    "info": ""
+  },
+  { "en": "defense", "de": "Verteidigung", "info": "" },
+  { "en": "statewide", "de": "landesweit", "info": "" },
+  { "en": "criticism", "de": "Kritik", "info": "" },
+  { "en": "lobbyist", "de": "Interessenvertreter/in", "info": "" },
+  { "en": "sway", "de": "Einfluss, Macht", "info": "" },
+  {
+    "en": "to devastate sth",
+    "de": "etw vernichten, etw zerstören",
+    "info": ""
+  },
+  { "en": "inventory", "de": "Bestand, Verzeichnis", "info": "" },
+  { "en": "to track sth", "de": "etw (nach)verfolgen", "info": "" },
+  {
+    "en": "to be set to do sth",
+    "de": "etw (voraussichtlich) tun werden",
+    "info": ""
+  },
+  { "en": "beloved", "de": "innig geliebt", "info": "" },
+  { "en": "manatee", "de": "Seekuh", "info": "" },
+  {
+    "en": "to be at risk of extinction",
+    "de": "vom Aussterben bedroht sein",
+    "info": ""
+  },
+  { "en": "acidic", "de": "sauer", "info": "" },
+  { "en": "food stocks (pl)", "de": "Nahrungsmittelbestände", "info": "" },
+  { "en": "deadly", "de": "tödlich", "info": "" },
+  { "en": "incalculable", "de": "unzählig, unüberschaubar", "info": "" },
+  { "en": "piecemeal approach", "de": "stückweises Vorgehen", "info": "" },
+  {
+    "en": "federally funded",
+    "de": "aus Bundesmitteln finanziert",
+    "info": ""
+  },
+  { "en": "Noah's ark", "de": "Arche Noah", "info": "" },
+  { "en": "coral", "de": "Koralle", "info": "" },
+  { "en": "chunk", "de": "(großes) Stücl, Block", "info": "" },
+  { "en": "venue", "de": "Standort, Veranstaltungsort", "info": "" },
+  { "en": "disease", "de": "Krankheit", "info": "" },
+  { "en": "blue-green algae (pl)", "de": "Blaualgen", "info": "" },
+  { "en": "to choke", "de": "ersticken, verstopfen", "info": "" },
+  { "en": "inland waterway", "de": "Binnenwasserstraße", "info": "" },
+  { "en": "watering hole", "de": "Wasserstelle, Wasserloch", "info": "" },
+  { "en": "herd", "de": "Herde", "info": "" },
+  { "en": "to retreat", "de": "sich zurückziehen", "info": "" },
+  {
+    "en": "higher ground",
+    "de": "höhere Lage(n), höhergelegene Gebiete",
+    "info": ""
+  },
+  {
+    "en": "merits (pl)",
+    "de": "sachlicher Gehalt, Vorzüge, Vorteile",
+    "info": ""
+  },
+  { "en": "ethics (pl)", "de": "Ethik, Moral", "info": "" },
+  { "en": "to relocate sb/sth", "de": "jdn/etw umsiedeln", "info": "" },
+  { "en": "gentrification", "de": "Gentrifizierung", "info": "" },
+  { "en": "speculator", "de": "Spekulant/in", "info": "" },
+  { "en": "(property) developer", "de": "Bauunternehmer/in", "info": "" },
+  {
+    "en": "to eye sth",
+    "de": "begehrliche Blicke auf etw richten",
+    "info": ""
+  },
+  { "en": "working-class area", "de": "Arbeitergegend", "info": "" },
+  { "en": "to push sb out", "de": "jdn verdrängen", "info": "" },
+  { "en": "upscale", "de": "gehoben, exklusiv", "info": "" },
+  { "en": "(property) development", "de": "Bauprojekt", "info": "" },
+  { "en": "displacement", "de": "Verdängung, Vertreibung", "info": "" },
+  { "en": "revitalization", "de": "Wiederbelebung, Neubelebung", "info": "" },
+  { "en": "innumerable", "de": "zahllos, unzählig", "info": "" },
+  { "en": "to fix an issue", "de": "ein Problem lösen", "info": "" },
+  { "en": "questionable", "de": "fraglich", "info": "" },
+  { "en": "to be at stake", "de": "auf dem Spiel stehen", "info": "" },
+  { "en": "to assign sb to sth", "de": "jdm etw zuteilen", "info": "" },
+  { "en": "to rotate", "de": "drehen", "info": "" },
+  { "en": "procedure", "de": "Vorgang, Verfahren", "info": "" },
+  {
+    "en": "fresh water supply",
+    "de": "Trinkwasserversorgung, -vorrat",
+    "info": ""
+  },
+  { "en": "to derive sth from sth", "de": "etw aus etw gewinnen", "info": "" },
+  { "en": "severe", "de": "schwer, heftig, ernst", "info": "" },
+  { "en": "aftermath", "de": "Folge(n), Auswirkungen, Schäden", "info": "" },
+  { "en": "homeowner", "de": "Hausbesitzer/in", "info": "" },
+  { "en": "value", "de": "Wert", "info": "" },
+  { "en": "utopian", "de": "utopisch", "info": "" },
+  { "en": "fundamental", "de": "grundlegend", "info": "" },
+  { "en": "to imagine sth", "de": "sich etw vorstellen", "info": "" },
+  { "en": "unworkable", "de": "undurchführbar", "info": "" },
+  { "en": "to map sth out", "de": "etw planen, etw skizzieren", "info": "" },
+  { "en": "back deck", "de": "Holzterrasse (hinter dem Haus)", "info": "" },
+  { "en": "mist", "de": "Dunst", "info": "" },
+  { "en": "circular", "de": "kreisrund", "info": "" },
+  {
+    "en": "to power sth",
+    "de": "etw mit Strom versorgen, etw antreiben",
+    "info": ""
+  },
+  { "en": "to quit", "de": "kündigen", "info": "" },
+  {
+    "en": "to launch sth",
+    "de": "etw (Aktion usw.) starten, etw gründen",
+    "info": ""
+  },
+  { "en": "fleet", "de": "Flotte, Fuhrpark", "info": "" },
+  { "en": "timely", "de": "zeitnah", "info": "" },
+  { "en": "giant leap", "de": "Riesenschritt", "info": "" },
+  { "en": "battery", "de": "Akku", "info": "" },
+  { "en": "massive(ly)", "de": "groß, gewaltig, massiv", "info": "" },
+  { "en": "maintenance", "de": "Unterhaltung, Wartung", "info": "" },
+  { "en": "to rip sth out", "de": "etw herausreißen", "info": "" },
+  { "en": "gas furnace", "de": "Ölkessel, Ölbrenner", "info": "" },
+  { "en": "heat pump", "de": "Wärmepumpe", "info": "" },
+  { "en": "to shut sth down", "de": "etw stilllegen", "info": "" },
+  { "en": "power plant/station", "de": "Kraftwerk", "info": "" },
+  { "en": "coal", "de": "Kohle", "info": "" },
+  { "en": "expansion", "de": "Erweiterung, Ausweiterung", "info": "" },
+  { "en": "solar farm", "de": "Solarpark", "info": "" },
+  { "en": "wind farm", "de": "Windpark", "info": "" },
+  { "en": "installation", "de": "Anlage", "info": "" },
+  { "en": "to fuel sth", "de": "etw befeuern, etw antreiben", "info": "" },
+  { "en": "startling", "de": "erstaunlich, erschreckend", "info": "" },
+  { "en": "mode", "de": "Modus, Betriebsmodus", "info": "" },
+  { "en": "holdout", "de": "Verweigerer/in, Widerstandsnest", "info": "" },
+  { "en": "natural gas", "de": "Erdgas", "info": "" },
+  { "en": "to capture carbon", "de": "Kohlenstoff binden", "info": "" },
+  {
+    "en": "to bite the bullet",
+    "de": "in den sauren Apfel beißen",
+    "info": ""
+  },
+  { "en": "to sequester", "de": "binden, sequestrieren", "info": "" },
+  { "en": "freight truck", "de": "Güterlastwagen", "info": "" },
+  { "en": "inefficient", "de": "ineffizient, unwirtschaftlich", "info": "" },
+  { "en": "fuzzy", "de": "unscharf", "info": "" },
+  { "en": "wire", "de": "Draht", "info": "" },
+  { "en": "to tap into sth", "de": "etw anzapfen, etw nutzen", "info": "" },
+  { "en": "hydrogen", "de": "Wasserstoff", "info": "" },
+  { "en": "social disruption", "de": "soziale Spannungen", "info": "" },
+  { "en": "transformation", "de": "(tiefgreifender) Wandel", "info": "" },
+  { "en": "to ignore sb/sth", "de": "jdn/etw ignorieren", "info": "" },
+  {
+    "en": "sense of accomplishment",
+    "de": "Erfolgsgefühl; das Gefühl, etw erreicht zu haben",
+    "info": ""
+  },
+  { "en": "chimney", "de": "Schornstein", "info": "" },
+  { "en": "artifact", "de": "(menschengemachter) Gegenstand", "info": "" },
+  { "en": "touching", "de": "rührend, bewegend", "info": "" },
+  {
+    "en": "to be appreciative of sth",
+    "de": "etw schätzen, etw zu schätzen wissen",
+    "info": ""
+  },
+  { "en": "place of residence", "de": "Wohnsitz", "info": "" },
+  { "en": "place of origin", "de": "Heimatort, Herkunftsort", "info": "" },
+  { "en": "to provoke sth", "de": "etw hervorrufen, etw auslösen", "info": "" },
+  { "en": "means of transport", "de": "Transportmittel", "info": "" },
+  {
+    "en": "sth is lost on sb",
+    "de": "jd kann mit etw nichts anfangen",
+    "info": ""
+  },
+  { "en": "disappearance", "de": "Verschwinden, Aussterben", "info": "" },
+  { "en": "precision", "de": "Genauigkeit, Präzision", "info": "" },
+  { "en": "vivid", "de": "anschaulich, lebendig", "info": "" },
+  { "en": "detrimental", "de": "abträglich, schädlich", "info": "" },
+  { "en": "array", "de": "Reihe", "info": "" },
+  { "en": "genuine(ly)", "de": "wirklich, echt, ernsthaft", "info": "" },
+  {
+    "en": "attitude (to sth)",
+    "de": "Einstellung, Haltung (zu etw)",
+    "info": ""
+  },
+  { "en": "to embrace sth", "de": "etw annehmen", "info": "" },
+  {
+    "en": "household appliance",
+    "de": "Elektrogerät, Haushaltsgerät",
+    "info": ""
+  },
+  { "en": "diligent", "de": "gewissenhaft, eifrig", "info": "" },
+  { "en": "ardent", "de": "leidenschaftlich, glühend", "info": "" },
+  { "en": "urgent", "de": "dringend", "info": "" },
+  { "en": "human-induced", "de": "von Menschen herbeigeführt", "info": "" },
+  { "en": "immediate", "de": "direkt, unmittelbar", "info": "" },
+  { "en": "concerted", "de": "gemeinschaftlich, abgestimmt", "info": "" },
+  { "en": "indisputably", "de": "unbestreitbar", "info": "" },
+  { "en": "substantial", "de": "bedeutend, erheblich", "info": "" },
+  { "en": "undeniably", "de": "unleugbar", "info": "" },
+  { "en": "consensus", "de": "Übereinstimmung, Konsens", "info": "" },
+  { "en": "apparent", "de": "offensichtlich, augenscheinlich", "info": "" },
+  { "en": "ferocious", "de": "heftig, wild", "info": "" },
+  {
+    "en": "to wreak havoc",
+    "de": "verheerenden Schaden anrichten",
+    "info": ""
+  },
+  { "en": "content creator", "de": "Medianschaffende/r", "info": "" },
+  { "en": "apology", "de": "Entschuldigung", "info": "" },
+  { "en": "in silence", "de": "still", "info": "" },
+  { "en": "to redirect sth", "de": "etw in andere Bahnen lenken", "info": "" },
+  {
+    "en": "to incorporate sth",
+    "de": "etw integrieren, etw einbinden",
+    "info": ""
+  },
+  { "en": "performance", "de": "Darbietung, Aufführung", "info": "" },
+  {
+    "en": "to be caught up in sth",
+    "de": "in etw gefangen sein, sich in etw verzetteln",
+    "info": ""
+  },
+  { "en": "desert", "de": "Wüste", "info": "" },
+  { "en": "gorgeous", "de": "umwerfend schön", "info": "" },
+  { "en": "to purify sth", "de": "etw reinigen, etw klären", "info": "" },
+  { "en": "to cure sb/sth", "de": "jdn/etw heilen", "info": "" },
+  { "en": "greed", "de": "Gier", "info": "" },
+  { "en": "bulletproof", "de": "kugelsicher, schussfest", "info": "" },
+  { "en": "to fool sb", "de": "jdn hereinlegen, jdn täuschen", "info": "" },
+  { "en": "to chase sth", "de": "etw verfolgen, etw (nach)jagen", "info": "" },
+  { "en": "to turn out", "de": "sich herausstellen", "info": "" },
+  { "en": "messed up", "de": "durcheinander, kaputt", "info": "" },
+  { "en": "to waste sth", "de": "etw verschwenden", "info": "" },
+  { "en": "to depict sth", "de": "etw abbilden, etw darstellen", "info": "" },
+  { "en": "communal", "de": "in einer Gemeinschaft", "info": "" },
+  {
+    "en": "to dictate sth",
+    "de": "etw diktieren, etw vorschreiben",
+    "info": ""
+  },
+  { "en": "to be fortunate", "de": "(das) Glück haben", "info": "" },
+  {
+    "en": "to shape one's own lifestyle",
+    "de": "das Leben nach den eigenen Vorstellungen gestalten",
+    "info": ""
+  },
+  { "en": "colleague", "de": "Kollege/-in", "info": "" },
+  {
+    "en": "lifestyle decisions pl",
+    "de": "Entscheidung in Bezug auf di eigene Lebensweise",
+    "info": ""
+  },
+  { "en": "goods pl", "de": "Ware(n), Güter", "info": "" },
+  { "en": "services pl", "de": "Dienstleistungen", "info": "" },
+  {
+    "en": "individual action",
+    "de": "Einzelaktion, individuelle Maßnahme",
+    "info": ""
+  },
+  {
+    "en": "to be conditioned by sth",
+    "de": "durch etw bedingt sein",
+    "info": ""
+  },
+  {
+    "en": "family background",
+    "de": "(familiäre) Herkunft, Familienverhältnisse",
+    "info": ""
+  },
+  { "en": "role model", "de": "Vorbild", "info": "" },
+  {
+    "en": "to inspire sb to do sth",
+    "de": "jdn dazu anregen/inspirieren, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to rebel against sb/sth",
+    "de": "gegen jdn/etw rebellieren",
+    "info": ""
+  },
+  {
+    "en": "to emancipate oneself from sth",
+    "de": "sich von etw emanzipieren",
+    "info": ""
+  },
+  {
+    "en": "traditional stereotype",
+    "de": "hergebrachtes Rollenbild",
+    "info": ""
+  },
+  { "en": "prejudice", "de": "Vorurteil(e)", "info": "" },
+  { "en": "social norm", "de": "gesellschaftliche Norm", "info": "" },
+  {
+    "en": "to adopt an alternative lifestyle",
+    "de": "anders leben",
+    "info": ""
+  },
+  {
+    "en": "to live up to one's dreams",
+    "de": "nicht den eigenen Wunschvorstellungen gerecht werden",
+    "info": ""
+  },
+  { "en": "belief", "de": "Überzeugung, Glaube", "info": "" },
+  { "en": "family unit", "de": "Familienverbund", "info": "" },
+  { "en": "nuclear family", "de": "Kernfamilie, Kleinfamilie", "info": "" },
+  { "en": "divorce", "de": "Scheidung", "info": "" },
+  { "en": "rare", "de": "selten", "info": "" },
+  { "en": "family model", "de": "Familienmodell", "info": "" },
+  { "en": "separation", "de": "Trennung", "info": "" },
+  { "en": "remarriage", "de": "Wiederheirat, erneutes Heiraten", "info": "" },
+  { "en": "blended family", "de": "Patchworkfamilie", "info": "" },
+  { "en": "step-parents pl", "de": "Stiefeltern", "info": "" },
+  { "en": "halb-siblings pl", "de": "Halbgeschwister", "info": "" },
+  { "en": "single-parent family", "de": "Einelternfamilie", "info": "" },
+  { "en": "same-sex marriage", "de": "gleichgeschlechtliche Ehe", "info": "" },
+  { "en": "generational conflict", "de": "Generationenkonflikt", "info": "" },
+  {
+    "en": "caregiver",
+    "de": "Bezugsperson, Erziehungsberechtigte/r",
+    "info": ""
+  },
+  { "en": "identity", "de": "Identität", "info": "" },
+  {
+    "en": "to be opposed to sth",
+    "de": "einer Sache entgegenstehen, sich nicht mit etw vereinbaren lassen",
+    "info": ""
+  },
+  { "en": "sexuality", "de": "Sexualität", "info": "" },
+  { "en": "in spite of", "de": "trotz", "info": "" },
+  { "en": "close-knit community", "de": "enge Gemeinschaft", "info": "" },
+  { "en": "loyalty", "de": "Loyalität, Bindung", "info": "" },
+  { "en": "solidarity", "de": "Solidarität", "info": "" },
+  { "en": "family ties pl", "de": "Familienbande", "info": "" },
+  { "en": "aim in life", "de": "Lebensziel", "info": "" },
+  {
+    "en": "to live in harmony with sth",
+    "de": "im Einklang mit etw leben",
+    "info": ""
+  },
+  { "en": "to make sth up", "de": "etw ausmachen", "info": "" },
+  {
+    "en": "to be opposed to sth",
+    "de": "sich einer Sache widersetzen, gegen etw sein",
+    "info": ""
+  },
+  { "en": "radical change", "de": "Umbruch, radikaler Wandel", "info": "" },
+  { "en": "as a result", "de": "deshalb, aufgrund dessen", "info": "" },
+  { "en": "pressure to conform", "de": "Anpassungsdruck", "info": "" },
+  { "en": "respectability", "de": "soziales Ansehen", "info": "" },
+  { "en": "to question values", "de": "Werte infrage stellen", "info": "" },
+  { "en": "fulfilling", "de": "erfüllend", "info": "" },
+  { "en": "to leave one's comfort zone", "de": "Neues wagen", "info": "" },
+  {
+    "en": "to struggle with sth",
+    "de": "mit etw zu kämpfen haben",
+    "info": ""
+  },
+  {
+    "en": "to be supportive of sb/sth",
+    "de": "jdn/etw unterstützen",
+    "info": ""
+  },
+  { "en": "well-off", "de": "wohlhabend", "info": "" },
+  { "en": "to step off sth", "de": "aus etw aussteigen", "info": "" },
+  { "en": "hamster wheel", "de": "Hamsterrad", "info": "" },
+  { "en": "by force", "de": "gezwungenermaßen, zwangsweise", "info": "" },
+  { "en": "by choice", "de": "freiwillig, aus freien Stücken", "info": "" },
+  {
+    "en": "to examine sb/sth with great scrutiny",
+    "de": "etw sehr genau überprüfen/untersuchen",
+    "info": ""
+  },
+  { "en": "fancy", "de": "ausgefallen, raffiniert, teuer", "info": "" },
+  { "en": "detour", "de": "Umweg, Abstecher", "info": "" },
+  {
+    "en": "to be on track to do sth",
+    "de": "auf dem besten Weg sein, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "(school) administrator",
+    "de": "Schulleiter/in, Fachbereichsleiter/in",
+    "info": ""
+  },
+  { "en": "hairdresser", "de": "Friseur/in", "info": "" },
+  { "en": "six-figure", "de": "sechsstellig", "info": "" },
+  {
+    "en": "to question sth",
+    "de": "etw in Frage stellen, etw anzweifeln",
+    "info": ""
+  },
+  { "en": "obligation", "de": "Verpflichtung", "info": "" },
+  { "en": "discontentment", "de": "Unzufriedenheit", "info": "" },
+  { "en": "hollowness", "de": "Leere, Sinnlosigkeit", "info": "" },
+  { "en": "release", "de": "Entspannung, Ventil", "info": "" },
+  { "en": "trajectory", "de": "Bahn, Weg", "info": "" },
+  { "en": "to set sth in motion", "de": "etw in Bewegung setzen", "info": "" },
+  { "en": "stroller", "de": "Buggy, Kinderwagen", "info": "" },
+  { "en": "to scheme", "de": "planen, Pläne schmieden", "info": "" },
+  {
+    "en": "to cling to sth",
+    "de": "sich an etw klammern, an etw festhalten",
+    "info": ""
+  },
+  { "en": "status", "de": "Ansehen, (soziale) Stellung", "info": "" },
+  { "en": "joy", "de": "Freude", "info": "" },
+  { "en": "fragility", "de": "Zerbrechlichkeit, Brüchigkeit", "info": "" },
+  { "en": "to crumble", "de": "zerbröseln, zerbröckeln", "info": "" },
+  { "en": "apocalypse", "de": "Weltuntergang, Apokalypse", "info": "" },
+  {
+    "en": "to connect with sb",
+    "de": "mit jdm in Kontakt kommen, sich mit jdm (intensiv) austauschen",
+    "info": ""
+  },
+  { "en": "to devise a plan", "de": "einen Plan ausarbeiten", "info": "" },
+  { "en": "escape", "de": "Flucht, Entkommen", "info": "" },
+  { "en": "nest egg", "de": "finanzielles Polster, Notgroschen", "info": "" },
+  { "en": "to confront sth", "de": "sich einer Sache stellen", "info": "" },
+  {
+    "en": "to walk away from sth",
+    "de": "sich von etw verabschieden, etw verlassen",
+    "info": ""
+  },
+  {
+    "en": "to set out",
+    "de": "aufbrechen, sich auf den Weg machen",
+    "info": ""
+  },
+  { "en": "budget", "de": "billig, preiswert", "info": "" },
+  { "en": "to camp", "de": "zelten", "info": "" },
+  {
+    "en": "to unlearn sth",
+    "de": "etw (absichtlich) vergessen, sich etw abgewöhnen",
+    "info": ""
+  },
+  { "en": "unease", "de": "Unbehagen", "info": "" },
+  { "en": "revelation", "de": "Offenbarung, Erkenntnis", "info": "" },
+  { "en": "anxiety", "de": "Angst", "info": "" },
+  { "en": "realization", "de": "Erkenntnis, Einsicht", "info": "" },
+  {
+    "en": "to live one's heart's desire",
+    "de": "leben, wie es das Herz begehrt",
+    "info": ""
+  },
+  {
+    "en": "confidence",
+    "de": "Selbstbewusstsein, Selbstvertrauen",
+    "info": ""
+  },
+  { "en": "approval-seeking", "de": "Suche/Jagd nach Anerkennung", "info": "" },
+  { "en": "people-pleasing", "de": "Gefallsucht", "info": "" },
+  { "en": "to wander", "de": "umherstreifen", "info": "" },
+  { "en": "retreat", "de": "Einkehr, Rückzug(sort)", "info": "" },
+  { "en": "ridge", "de": "Gebirgskamm", "info": "" },
+  { "en": "to volunteer", "de": "ehrenamtlich arbeiten", "info": "" },
+  { "en": "to come across sth", "de": "auf etw stoßen", "info": "" },
+  { "en": "to intrigue sb", "de": "jdn faszinieren", "info": "" },
+  { "en": "stunning", "de": "atemberaubend", "info": "" },
+  { "en": "homestead", "de": "Gehöft", "info": "" },
+  { "en": "caked", "de": "verkrustet", "info": "" },
+  { "en": "to forage", "de": "nach Essbarem suchen", "info": "" },
+  { "en": "to knead dough", "de": "Teig kneten", "info": "" },
+  { "en": "cabin", "de": "Hütte", "info": "" },
+  { "en": "to strum", "de": "Gitarre spielen, klampfen", "info": "" },
+  { "en": "to pluck", "de": "(Saiten) zupfen", "info": "" },
+  { "en": "to fiddle", "de": "Geige spielen, fiedeln", "info": "" },
+  { "en": "to fish", "de": "angeln, fischen", "info": "" },
+  { "en": "to fret over sth", "de": "sich über etw aufregen", "info": "" },
+  { "en": "world affairs pl", "de": "Weltgeschehen", "info": "" },
+  { "en": "quarantine", "de": "Quarantäne", "info": "" },
+  { "en": "tangible", "de": "greifbar, konkret, handfest", "info": "" },
+  { "en": "education", "de": "Lernen, Unterricht, Schulbildung", "info": "" },
+  { "en": "confinement", "de": "Eingesperrtsein, Enge", "info": "" },
+  { "en": "abstraction", "de": "Abstraktion", "info": "" },
+  { "en": "reciprocal", "de": "gegenseitig, wechselseitig", "info": "" },
+  { "en": "opposite", "de": "Gegenteil", "info": "" },
+  { "en": "groundedness", "de": "Bodenständigkeit, Erdung", "info": "" },
+  { "en": "connectedness", "de": "Verbundenheit", "info": "" },
+  { "en": "intentional", "de": "absichtsvoll, beabsichtigt", "info": "" },
+  { "en": "to fulfil sth", "de": "etw erfüllen", "info": "" },
+  { "en": "physiotherapist", "de": "Physiotherapeut/in", "info": "" },
+  { "en": "lecturer (in sth)", "de": "Dozent/in (für etw)", "info": "" },
+  {
+    "en": "pursuit (of sth)",
+    "de": "Streben (nach etw), Verfolgung (von etw)",
+    "info": ""
+  },
+  { "en": "to refer to sth", "de": "sich auf etw beziehen", "info": "" },
+  {
+    "en": "to take sb's mind off sth",
+    "de": "jdn von etw ablenken",
+    "info": ""
+  },
+  { "en": "for apart", "de": "weit (voneinander) entfernt", "info": "" },
+  { "en": "joint(ly)", "de": "gemeinsam", "info": "" },
+  {
+    "en": "as sb sees fit",
+    "de": "nach den eigenen Vorstellungen",
+    "info": ""
+  },
+  { "en": "set", "de": "festgelegt, bestimmt", "info": "" },
+  { "en": "upkeep", "de": "Instandhaltung, Pflege", "info": "" },
+  { "en": "residential area", "de": "Wohngegend, Wohngebiet", "info": "" },
+  { "en": "company", "de": "Gesellschaft", "info": "" },
+  {
+    "en": "to apply (to sb for sth)",
+    "de": "sich (bei jdm für/um etw) bewerben",
+    "info": ""
+  },
+  { "en": "studio apartment", "de": "Einzeimmerwohnung", "info": "" },
+  { "en": "lounge", "de": "Wohnzimmer", "info": "" },
+  { "en": "laundry", "de": "Waschküche", "info": "" },
+  { "en": "rooftop", "de": "Dachterrasse", "info": "" },
+  { "en": "up-market", "de": "gehoben, exklusiv", "info": "" },
+  { "en": "housing crisis", "de": "Immobilienkrise", "info": "" },
+  {
+    "en": "let alone",
+    "de": "geschweige denn, ganz zu schweigen von",
+    "info": ""
+  },
+  {
+    "en": "to start on the property ladder",
+    "de": "eine erste Immobilie erwerben",
+    "info": ""
+  },
+  { "en": "collaborative", "de": "gemeinsam, zusammenarbeitend", "info": "" },
+  { "en": "to grow sth", "de": "etw (Pflanzen) anbauen", "info": "" },
+  { "en": "to raise animals", "de": "Tiere züchten, Tiere halten", "info": "" },
+  { "en": "contribution", "de": "Beitrag", "info": "" },
+  { "en": "self-sufficiency", "de": "Autarkie, Selbstversorgung", "info": "" },
+  { "en": "energy preservation", "de": "Energiesparen", "info": "" },
+  { "en": "waste avoidance", "de": "Müllvermeidung", "info": "" },
+  { "en": "to hand sth down to sb", "de": "jdm etw vererben", "info": "" },
+  { "en": "plot of land", "de": "Grundstück, Parzelle", "info": "" },
+  { "en": "to start from scratch", "de": "bei null anfangen", "info": "" },
+  {
+    "en": "to be ready to do sth",
+    "de": "bereit sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "to lend", "de": "(ver)leihen, borgen", "info": "" },
+  { "en": "permission", "de": "Erlaubnis, Genehmigung", "info": "" },
+  { "en": "opposition", "de": "Widerstand", "info": "" },
+  {
+    "en": "to protest sth",
+    "de": "gegen etw protestieren, gegen etw demonstrieren",
+    "info": ""
+  },
+  { "en": "commune", "de": "Kommune", "info": "" },
+  {
+    "en": "to put up with sb/sth",
+    "de": "jdn/etw ertragen, sich mit jdm/etw abfinden",
+    "info": ""
+  },
+  { "en": "argument", "de": "Streit, Auseinandersetzung", "info": "" },
+  {
+    "en": "to be passionate about sth",
+    "de": "sich leidenschaftlich für etw begeisten",
+    "info": ""
+  },
+  { "en": "to starve to death", "de": "verhungern", "info": "" },
+  { "en": "outsider", "de": "Außenseiter/in", "info": "" },
+  { "en": "dignity", "de": "Würde", "info": "" },
+  {
+    "en": "to be endowed with sth",
+    "de": "mit etw ausgestattet sein, etw besitzen",
+    "info": ""
+  },
+  { "en": "reason", "de": "Vernunft, Verstand", "info": "" },
+  { "en": "conscience", "de": "Gewissen", "info": "" },
+  { "en": "spirit", "de": "Geist", "info": "" },
+  { "en": "brotherhood", "de": "Brüderlichkeit", "info": "" },
+  {
+    "en": "to be entitled to sth",
+    "de": "Anspruch auf etw haben, zu etw berechtigt sein",
+    "info": ""
+  },
+  { "en": "to set sth forth", "de": "etw darlegen, etw verkünden", "info": "" },
+  { "en": "distinction", "de": "Unterscheidung, Abgrenzung", "info": "" },
+  { "en": "origin", "de": "Herkunft, Ursprung", "info": "" },
+  { "en": "property", "de": "Eigentum, Besitz", "info": "" },
+  { "en": "unreasonable", "de": "überzogen, unvernünftig", "info": "" },
+  {
+    "en": "dislike (for sb/sth)",
+    "de": "Abneigung (gegen jdn/etw)",
+    "info": ""
+  },
+  { "en": "custom", "de": "Sitte, Brauch", "info": "" },
+  { "en": "boarding school", "de": "Internat", "info": "" },
+  { "en": "grand", "de": "herrschaftlich, stattlich, grandios", "info": "" },
+  { "en": "modest(ly)", "de": "schlicht, bescheiden", "info": "" },
+  { "en": "wreath", "de": "Kranz", "info": "" },
+  { "en": "evergreen", "de": "immergrüne Pflanze", "info": "" },
+  { "en": "Jew", "de": "Jude/Jüdin", "info": "" },
+  { "en": "envy", "de": "Neid", "info": "" },
+  { "en": "villiger", "de": "Dorfbewohner/in", "info": "" },
+  { "en": "gift-wrapped", "de": "als Geschenk verpackt", "info": "" },
+  { "en": "kinky", "de": "(Haar:) kraus, gekräuselt", "info": "" },
+  { "en": "hooked nose", "de": "Hakennase", "info": "" },
+  { "en": "vile", "de": "niederträchtig, abscheulich", "info": "" },
+  { "en": "chancellor", "de": "Kanzler/in", "info": "" },
+  { "en": "candlelight", "de": "Kerzenlicht", "info": "" },
+  { "en": "dressed up", "de": "feingemacht, fein angezogen", "info": "" },
+  {
+    "en": "to sip sth",
+    "de": "an etw nippen, etw in kleinen Schlücken trinken",
+    "info": ""
+  },
+  { "en": "Christmas carol", "de": "Weihnachtslied", "info": "" },
+  { "en": "tablecloth", "de": "Tischdecke", "info": "" },
+  { "en": "china", "de": "Porzellan", "info": "" },
+  { "en": "servant", "de": "Bedienstete/r", "info": "" },
+  { "en": "maid", "de": "Hausangestellte, Hausmädchen", "info": "" },
+  { "en": "to appear", "de": "auftauchen, erscheinen", "info": "" },
+  { "en": "crisp", "de": "(Wäsche:) faltenfrei, gestärkt", "info": "" },
+  { "en": "apron", "de": "Schürze", "info": "" },
+  { "en": "to pause", "de": "innehalten", "info": "" },
+  {
+    "en": "to announce sth",
+    "de": "etw verkünden, etw ankündigen",
+    "info": ""
+  },
+  { "en": "to figure sth out", "de": "etw herausfinden", "info": "" },
+  {
+    "en": "uncomfortable",
+    "de": "unangenehm, unbehaglich, peinlich",
+    "info": ""
+  },
+  { "en": "stage", "de": "Phase, Stadium, Etappe", "info": "" },
+  { "en": "to guess", "de": "vermuten", "info": "" },
+  {
+    "en": "to persist with sth",
+    "de": "etw unbeirrt fortsetzen, mit etw unbeirrt weitermachen",
+    "info": ""
+  },
+  { "en": "to shrug", "de": "mit den Achseln zucken", "info": "" },
+  { "en": "to sigh", "de": "seufzen", "info": "" },
+  { "en": "test tube", "de": "Reagenzglas", "info": "" },
+  {
+    "en": "artificial insemination",
+    "de": "künstliche Befruchtung",
+    "info": ""
+  },
+  {
+    "en": "to get oneself involved in sth",
+    "de": "sich in etw hineinziehen lassen",
+    "info": ""
+  },
+  {
+    "en": "Where do we go from home?",
+    "de": "Was machen wir hier jetzt?",
+    "info": ""
+  },
+  { "en": "to weep", "de": "weinen, schluchzen", "info": "" },
+  { "en": "sympathetic", "de": "mitfühlend, verständnisvoll", "info": "" },
+  { "en": "To be continued.", "de": "Fortsetzung folgt.", "info": "" },
+  {
+    "en": "to become acquainted",
+    "de": "miteinander bekannt werden, sich kennenlernen",
+    "info": ""
+  },
+  { "en": "inexpensive", "de": "günstig, billig", "info": "" },
+  { "en": "tenement building", "de": "Mietshaus", "info": "" },
+  { "en": "out of place", "de": "fehl am Platz", "info": "" },
+  { "en": "to iron", "de": "bügeln", "info": "" },
+  {
+    "en": "to wave sb farewell",
+    "de": "jdm zum Abschied zuwinken",
+    "info": ""
+  },
+  { "en": "disgusting", "de": "ekelhaft, widerlich", "info": "" },
+  { "en": "irony", "de": "Ironie", "info": "" },
+  { "en": "to take sth personally", "de": "etw persönlich nehmen", "info": "" },
+  {
+    "en": "to be delighted",
+    "de": "sich (sehr) freuen, erfreut sein",
+    "info": ""
+  },
+  { "en": "straight", "de": "hetero(sexuell)", "info": "" },
+  { "en": "test-tube baby", "de": "Retortenbaby", "info": "" },
+  { "en": "horrors pl", "de": "Schrecken", "info": "" },
+  { "en": "ethnic minority", "de": "ethnische Minderheit", "info": "" },
+  { "en": "rural", "de": "ländlich", "info": "" },
+  { "en": "sensitivity", "de": "Empfindlichkeit(en)", "info": "" },
+  {
+    "en": "to take sth into account",
+    "de": "etw berücksichtigen, etw beachten",
+    "info": ""
+  },
+  { "en": "cookery course", "de": "Kochkurs", "info": "" },
+  { "en": "to imply sth", "de": "etw nahelegen, etw beinhalten", "info": "" },
+  { "en": "interchangeably", "de": "austauschbar, synonym", "info": "" },
+  {
+    "en": "to be scared for one's life",
+    "de": "Angst um sein Leben haben",
+    "info": ""
+  },
+  { "en": "relief", "de": "(große) Erleichterung", "info": "" },
+  {
+    "en": "to remember sth fondly",
+    "de": "gern an etw zurückdenken, sich gern an etw erinnern",
+    "info": ""
+  },
+  {
+    "en": "to be rife with sth",
+    "de": "voll von etw sein, voller ... sein",
+    "info": ""
+  },
+  { "en": "to pave the way", "de": "den Weg ebnen", "info": "" },
+  { "en": "to manifest", "de": "sich zeigen, sichtbar werden", "info": "" },
+  { "en": "findings pl", "de": "Ergebnisse", "info": "" },
+  { "en": "concise", "de": "prägnant, kurz (und bündig)", "info": "" },
+  { "en": "fluent(ly)", "de": "(Sprache:) fließend", "info": "" },
+  {
+    "en": "to centre around sth",
+    "de": "sich um etw drehen, etw zum Gegenstand haben",
+    "info": ""
+  },
+  { "en": "depressing", "de": "deprimierend", "info": "" },
+  { "en": "hatch", "de": "Luke, Tür", "info": "" },
+  { "en": "same", "de": "bei Verstand, geistig gesund", "info": "" },
+  { "en": "preschool", "de": "Kindergarten, Vorschule", "info": "" },
+  { "en": "magical", "de": "märchenhaft, zauberhaft", "info": "" },
+  { "en": "setting", "de": "Schauplatz, Rahmen", "info": "" },
+  { "en": "to log in/on", "de": "sich einloggen", "info": "" },
+  { "en": "storybook", "de": "Märchenbuch, Bilderbuch", "info": "" },
+  {
+    "en": "to force sb to do sth",
+    "de": "jdn dazu zwingen, etw zu tun",
+    "info": ""
+  },
+  { "en": "to suck", "de": "ätzend/Scheiße sein", "info": "informell" },
+  { "en": "accurate(ly)", "de": "ganau, präzise, korrekt", "info": "" },
+  {
+    "en": "to reflect sth",
+    "de": "etw widerspiegeln, etw wiedergeben",
+    "info": ""
+  },
+  { "en": "similarity", "de": "Ähnlichkeit, Gemeinsamkeit", "info": "" },
+  { "en": "to revolutionize sth", "de": "etw revolutionieren", "info": "" },
+  { "en": "connectivity", "de": "Vernetzung, Vernetztheit", "info": "" },
+  { "en": "to be mindful of sb/sth", "de": "auf jdn/etw achten", "info": "" },
+  {
+    "en": "to transform sth",
+    "de": "etw verwandeln, etw umwandeln, etw (grundlegend) verändern",
+    "info": ""
+  },
+  {
+    "en": "access to information",
+    "de": "Zugang zu Informationen",
+    "info": ""
+  },
+  { "en": "to rely on sb/sth", "de": "sich auf jdn/etw verlassen", "info": "" },
+  { "en": "broadsheet newspaper", "de": "(seriöse) Tageszeitung", "info": "" },
+  {
+    "en": "in-depth and serious coverage",
+    "de": "gründliche und seriöse Berichterstattung",
+    "info": ""
+  },
+  { "en": "tabloid", "de": "Boulevardzeitung", "info": "" },
+  {
+    "en": "sensationalized coverage",
+    "de": "Sensationsberichterstattung",
+    "info": ""
+  },
+  {
+    "en": "current affairs (pl)",
+    "de": "aktuelles Zeitgeschehen, Tagesgeschehen",
+    "info": ""
+  },
+  { "en": "in real time", "de": "in Echtzeit", "info": "" },
+  { "en": "platform", "de": "Plattform", "info": "" },
+  {
+    "en": "to go viral",
+    "de": "sich rasant (im Internet) verbreiten",
+    "info": ""
+  },
+  {
+    "en": "to shape public opinion",
+    "de": "die öffentliche Meinung formen",
+    "info": ""
+  },
+  {
+    "en": "democratization of news and media",
+    "de": "Demokratisierung der Nachrichten und Medien",
+    "info": ""
+  },
+  { "en": "citizen participation", "de": "Bürgerbeteiligung", "info": "" },
+  {
+    "en": "information gathering",
+    "de": "Informationsbeschaffung, Sammeln von Informationnen",
+    "info": ""
+  },
+  {
+    "en": "tool for mobilizing people",
+    "de": "Instrument, um Menschen zu mobilisieren",
+    "info": ""
+  },
+  { "en": "to lead to concerns", "de": "Anlass zu Bedenken geben", "info": "" },
+  {
+    "en": "spread of fake news",
+    "de": "Verbreitung von Falschinformationen",
+    "info": ""
+  },
+  {
+    "en": "misinformation",
+    "de": "Fehlinformationen, Falschinformationen",
+    "info": ""
+  },
+  { "en": "polarization", "de": "Polarisierung", "info": "" },
+  { "en": "algorithm", "de": "Algorithmus", "info": "" },
+  {
+    "en": "to personlize content",
+    "de": "Inhalte individuell zuschneiden",
+    "info": "Schreibweise: to personalize content"
+  },
+  { "en": "echo chamber", "de": "Hallraum", "info": "eigentlich: Echokammer" },
+  {
+    "en": "to reinforce sth",
+    "de": "etw (ver)stärken, etw untermauern",
+    "info": ""
+  },
+  {
+    "en": "bias",
+    "de": "(politische) Einstellung(en), Vorurteil(e)",
+    "info": ""
+  },
+  {
+    "en": "exposure (to sth)",
+    "de": "Kontakt (zu etw), Berührung (mit etw)",
+    "info": ""
+  },
+  {
+    "en": "to monetize sth",
+    "de": "aus etw ein Einkommen erzielen, etw zu Geld machen",
+    "info": ""
+  },
+  { "en": "readily", "de": "bereitwillig", "info": "" },
+  { "en": "privacy", "de": "Privatsphäre, Datenschutz", "info": "" },
+  { "en": "cyber security", "de": "Cybersicherheit", "info": "" },
+  {
+    "en": "to be vulnerable to sth",
+    "de": "anfällig für etw sein, einer Sache schutzlos ausgesetzt sein",
+    "info": ""
+  },
+  { "en": "misuse", "de": "Missbrauch", "info": "" },
+  {
+    "en": "face-to-face interaction",
+    "de": "persönlicher Kontakt/Austausch",
+    "info": ""
+  },
+  { "en": "screen time", "de": "Bildschirmzeit", "info": "" },
+  { "en": "online addiction", "de": "Internet-Sucht", "info": "" },
+  { "en": "online harassment", "de": "Belästigung im Internet", "info": "" },
+  { "en": "cyberbullying", "de": "Mobbing im Internet", "info": "" },
+  { "en": "depression", "de": "Depression(en)", "info": "" },
+  { "en": "unattainable", "de": "unerreichbar", "info": "" },
+  {
+    "en": "feeling of inadequacy",
+    "de": "Gefühl der Unzulänglichkeit",
+    "info": ""
+  },
+  { "en": "low self-esteem", "de": "geringes Selbstwertgefühl", "info": "" },
+  { "en": "entertainment industry", "de": "Unterhaltungsbranche", "info": "" },
+  {
+    "en": "to disrupt sth",
+    "de": "etw stören, etw nachhaltig beeinträchtigen",
+    "info": ""
+  },
+  {
+    "en": "traditional distribution models (pl)",
+    "de": "herkömmliche Vertriebs-/ Verbreitungsmodelle",
+    "info": ""
+  },
+  { "en": "commercial break", "de": "Werbeunterbrechung", "info": "" },
+  { "en": "binge-watching", "de": "Serienmarathon", "info": "" },
+  { "en": "accessible", "de": "zugänglich", "info": "" },
+  {
+    "en": "to gain a qualification",
+    "de": "einen Abschluss erwerben",
+    "info": ""
+  },
+  { "en": "cheating", "de": "Betrug, Täuschung", "info": "" },
+  {
+    "en": "plagiarism",
+    "de": "Plagiate, Diebstahl geistigen Eigentums",
+    "info": ""
+  },
+  { "en": "to raise concerns", "de": "Bedenken aufwerfen", "info": "" },
+  { "en": "attention span", "de": "Aufmerksamkeitsspanne", "info": "" },
+  {
+    "en": "critical thinking skills (pl)",
+    "de": "Fähigkeit zu kritischem Denken",
+    "info": ""
+  },
+  { "en": "to navigate sth", "de": "sich in etw zurechtfinden", "info": "" },
+  { "en": "ever-changing", "de": "sich ständig wandelnd", "info": "" },
+  { "en": "undeniable", "de": "unbestreitbar", "info": "" },
+  { "en": "thereby", "de": "dadurch, damit", "info": "" },
+  { "en": "to be intended for sth", "de": "für etw gedacht sein", "info": "" },
+  { "en": "to bring sth about", "de": "etw herbeiführen", "info": "" },
+  { "en": "audience", "de": "Zielgruppe, Publikum", "info": "" },
+  { "en": "to sustain sth", "de": "etw aufrechterhalten", "info": "" },
+  { "en": "search history", "de": "Suchverlauf", "info": "" },
+  { "en": "the public realm", "de": "die Öffentlichkeit", "info": "" },
+  { "en": "to misuse", "de": "missbrauchen", "info": "" },
+  { "en": "professor of law", "de": "Juraprofessor/in", "info": "" },
+  { "en": "school of law", "de": "juristische Fakultät", "info": "" },
+  { "en": "civil rights (pl)", "de": "Bürgerrechte", "info": "" },
+  {
+    "en": "to outline sth",
+    "de": "etw darstellen, etw skizzieren",
+    "info": ""
+  },
+  { "en": "assault (on sb/sth)", "de": "Angriff (auf jdn/etw)", "info": "" },
+  { "en": "spying", "de": "Spionage, Ausspähen", "info": "" },
+  { "en": "Inc.", "de": "GmbH, AG", "info": "" },
+  { "en": "to seek to do sth", "de": "versuchen, etw zu tun", "info": "" },
+  { "en": "to exploit sth", "de": "etw ausnutzen", "info": "" },
+  { "en": "sensitive data (pl)", "de": "vertrauliche Daten", "info": "" },
+  { "en": "intimate", "de": "intim", "info": "" },
+  { "en": "to reveal sth", "de": "etw aufdecken, etw enthüllen", "info": "" },
+  { "en": "extent", "de": "Ausmaß", "info": "" },
+  {
+    "en": "to purchase sth",
+    "de": "etw kaufen, etw käuflich erwerben",
+    "info": ""
+  },
+  { "en": "(third) party", "de": "Dritte/r, Partei", "info": "" },
+  { "en": "to surveil sb/sth", "de": "jdn/etw überwachen", "info": "" },
+  { "en": "innermost", "de": "innerste/r/s", "info": "" },
+  { "en": "to compile sth", "de": "etw zusammenstellen", "info": "" },
+  { "en": "data point", "de": "Messwert, Datenpunkt", "info": "" },
+  { "en": "rape", "de": "Vergewaltigung", "info": "" },
+  { "en": "abortion", "de": "Abtreibung", "info": "" },
+  {
+    "en": "to score sb on sth",
+    "de": "jdn (mit Punkten) nach etw bewerten",
+    "info": ""
+  },
+  { "en": "likelihood", "de": "Wahrscheinlichkeit", "info": "" },
+  { "en": "employment service", "de": "Arbeitsvermittlung", "info": "" },
+  {
+    "en": "insurance provider",
+    "de": "Versicherungsanbieter, Versicherer",
+    "info": ""
+  },
+  {
+    "en": "to interview for sth",
+    "de": "Vorstellungsgespräche für etw führen",
+    "info": ""
+  },
+  { "en": "life insurance", "de": "Lebensversicherung", "info": "" },
+  {
+    "en": "law enforcement",
+    "de": "Polizei, Strafverfolgungsbehörden",
+    "info": ""
+  },
+  {
+    "en": "to build a legal case",
+    "de": "Beweismaterial zusammentragen",
+    "info": ""
+  },
+  { "en": "subpoena", "de": "gerichtliche Vorladung", "info": "" },
+  {
+    "en": "to criminalise sth",
+    "de": "etw unter Strafe stellen, etw kriminalisieren",
+    "info": ""
+  },
+  {
+    "en": "to weaponise sth against sb",
+    "de": "etw als Waffe gegen jdn nutzen",
+    "info": ""
+  },
+  { "en": "state line", "de": "Staats-/Landesgrenze", "info": "" },
+  { "en": "drugstore", "de": "Drogerie", "info": "" },
+  { "en": "medication", "de": "Arzneimittel", "info": "" },
+  { "en": "sanitary pad", "de": "Damenbinde", "info": "" },
+  { "en": "purchase", "de": "Kauf, Einkauf", "info": "" },
+  { "en": "discount", "de": "Rabatt", "info": "" },
+  { "en": "purchase history", "de": "Kaufhistorie", "info": "" },
+  { "en": "pregnancy", "de": "Schwangerschaft", "info": "" },
+  { "en": "termination", "de": "Schwangerschaftsabbruch", "info": "" },
+  {
+    "en": "to commit to sth",
+    "de": "sich zu etw verpflichten, sich für etw engagieren",
+    "info": ""
+  },
+  { "en": "to step in", "de": "einschreiten", "info": "" },
+  { "en": "collection", "de": "Erhebung (von Daten)", "info": "" },
+  { "en": "sale", "de": "Verkauf", "info": "" },
+  { "en": "commitment", "de": "Verpflichtung", "info": "" },
+  { "en": "reproductive health", "de": "Fortpflanzungsmedizin", "info": "" },
+  { "en": "to obtain sth", "de": "etw erhalten, etw bekommen", "info": "" },
+  { "en": "at the core", "de": "im Kern", "info": "" },
+  {
+    "en": "to afford sth (to) sb",
+    "de": "jdm etw bieten, jdm etw gewähren",
+    "info": ""
+  },
+  { "en": "to document sth", "de": "etw dokumentieren", "info": "" },
+  {
+    "en": "citizenship",
+    "de": "Bürgersein, staatsbürgerliches Selbstverständnis",
+    "info": ""
+  },
+  { "en": "to set boundaries", "de": "Grenzen ziehen", "info": "" },
+  { "en": "oxygen", "de": "Sauerstoff", "info": "" },
+  { "en": "shell", "de": "Hülse, Panzer", "info": "" },
+  { "en": "targeted", "de": "zielgerichtet, gezielt", "info": "" },
+  { "en": "revenge", "de": "Rache", "info": "" },
+  { "en": "at the heart of sth", "de": "im Zentrum von etw", "info": "" },
+  { "en": "moderation", "de": "Moderieren", "info": "" },
+  { "en": "decency", "de": "Anstand, gute Sitten", "info": "" },
+  {
+    "en": "to bring a lawsuit against sb",
+    "de": "jdn verklagen, Klage gegen jdn einreichen",
+    "info": ""
+  },
+  { "en": "harm", "de": "Schaden", "info": "" },
+  { "en": "consent", "de": "Einwilligung", "info": "" },
+  { "en": "to subscribe (to) sth", "de": "etw abonnieren", "info": "" },
+  {
+    "en": "Too bad.",
+    "de": "Dumm gelaufen. Pech gehabt.",
+    "info": "umgangssprachlich"
+  },
+  { "en": "shield", "de": "Schutz, Schutzschild", "info": "" },
+  { "en": "to recognise sb/sth", "de": "jdn/etw anerkennen", "info": "" },
+  { "en": "violation", "de": "Verletzung, Verstoß", "info": "" },
+  { "en": "harassment", "de": "Belästigung", "info": "" },
+  { "en": "to chase sb off", "de": "jdn verjagen", "info": "" },
+  { "en": "empirical proof", "de": "empirische Beweise", "info": "" },
+  {
+    "en": "civil liberties (pl)",
+    "de": "bürgerliche Freiheitsrechte",
+    "info": ""
+  },
+  { "en": "legal", "de": "gesetzlich, rechtlich", "info": "" },
+  { "en": "careless", "de": "leichtsinnig, gleichgültig", "info": "" },
+  { "en": "shaming", "de": "Bloßstellung", "info": "" },
+  { "en": "embarrassment", "de": "Peinlichkeit", "info": "" },
+  { "en": "kindness", "de": "Liebenswürdigkeit", "info": "" },
+  {
+    "en": "cruelty",
+    "de": "Prämisse, Grundannahme",
+    "info": "Fehler: cruelty = Grausamkeit"
+  },
+  { "en": "rectangle", "de": "Rechteck", "info": "" },
+  { "en": "vulnerability", "de": "Schwäche, Angriffspunkt", "info": "" },
+  {
+    "en": "to expose sb to sth",
+    "de": "jdn einer Sache aussetzen",
+    "info": ""
+  },
+  { "en": "explicit(ly)", "de": "ausdrücklich, deutlich", "info": "" },
+  { "en": "to direct sth at sb", "de": "etw an/auf jdn richten", "info": "" },
+  {
+    "en": "to urge sb to do sth",
+    "de": "jdn dringend auffordern, etw zu tun",
+    "info": ""
+  },
+  { "en": "draft", "de": "Entwurf", "info": "" },
+  { "en": "visible", "de": "sichtbar", "info": "" },
+  { "en": "instance", "de": "Beispiel", "info": "" },
+  { "en": "sb involved", "de": "Beteiligte/r", "info": "" },
+  { "en": "breach", "de": "Verletzung", "info": "" },
+  {
+    "en": "to fail to do sth",
+    "de": "es nicht schaffen, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to be considered sth",
+    "de": "als etw gelten, als etw angesehen werden",
+    "info": ""
+  },
+  { "en": "(medical) procedure", "de": "(medizinischer) Eingriff", "info": "" },
+  { "en": "to acquire sth", "de": "etw erwerben", "info": "" },
+  { "en": "legal steps (pl)", "de": "rechtliche Schritte", "info": "" },
+  {
+    "en": "to average sth",
+    "de": "einen Durchschnitt von etw erreichen",
+    "info": ""
+  },
+  { "en": "confession", "de": "Geständnis", "info": "" },
+  { "en": "overall", "de": "insgesamt, Gesamt-", "info": "" },
+  { "en": "medical practice", "de": "Arzttätigkeit, Arztpraxis", "info": "" },
+  { "en": "unaccustomed", "de": "ungewohnt", "info": "" },
+  { "en": "to approach sb", "de": "an jdn/etw herantreten", "info": "" },
+  { "en": "newfound", "de": "neuentdeckt", "info": "" },
+  { "en": "spare time", "de": "Freizeit", "info": "" },
+  {
+    "en": "to test one's chops",
+    "de": "sich ausprobieren",
+    "info": "idiomatisch"
+  },
+  { "en": "to dispel sth", "de": "etw zerstreuen, etw widerlegen", "info": "" },
+  { "en": "to show promise", "de": "vielversprechend sein", "info": "" },
+  {
+    "en": "pleasurable",
+    "de": "durchsickern",
+    "info": "Fehler: pleasurable = angenehm, vergnüglich"
+  },
+  { "en": "to prod sb", "de": "jdn antreiben, jdn drängen", "info": "" },
+  { "en": "occasion", "de": "Gelegenheit", "info": "" },
+  { "en": "accidentally", "de": "aus Versehen", "info": "" },
+  {
+    "en": "to violate guidelines",
+    "de": "gegen Richtlinien verstoßen",
+    "info": ""
+  },
+  { "en": "hint", "de": "Hinweis", "info": "" },
+  { "en": "wannabe", "de": "Möchtegern", "info": "umgangssprachlich" },
+  { "en": "eye surgery", "de": "Augenoperation(en)", "info": "" },
+  { "en": "purgatory", "de": "Fegefeuer", "info": "" },
+  { "en": "to free sb", "de": "jdn befreien", "info": "" },
+  { "en": "penalty box", "de": "Strafbank", "info": "Eishockey" },
+  { "en": "to refer to sth", "de": "etw bezeichnen", "info": "" },
+  { "en": "pre-existing", "de": "bereits vorhanden", "info": "" },
+  { "en": "to call sth out", "de": "etw anprangern", "info": "" },
+  { "en": "dubious", "de": "zweifelhaft", "info": "" },
+  {
+    "en": "curious(ly)",
+    "de": "neugirig",
+    "info": "Rechtschreibung: neugierig"
+  },
+  { "en": "lo and behold", "de": "(und) siehe da", "info": "" },
+  {
+    "en": "to cross/exceed a threshold",
+    "de": "eine Schwelle überschreiten",
+    "info": ""
+  },
+  { "en": "orbit", "de": "Umlaufbahn, Sphären", "info": "" },
+  {
+    "en": "to do justice to sb/sth",
+    "de": "jdm/einer Sache gerecht werden",
+    "info": ""
+  },
+  { "en": "elated feeling", "de": "Hochgefühl", "info": "" },
+  { "en": "share", "de": "Anteil", "info": "" },
+  { "en": "surgeon", "de": "Chirurg/in", "info": "" },
+  { "en": "to swarm", "de": "wimmeln", "info": "" },
+  { "en": "addict", "de": "Süchtige/r", "info": "" },
+  {
+    "en": "in the envelope of darkness",
+    "de": "im Schutz der Dunkelheit",
+    "info": ""
+  },
+  {
+    "en": "to swipe sth",
+    "de": "etw klauen, etw stibitzen",
+    "info": "umgangssprachlich"
+  },
+  { "en": "manic(ally)", "de": "manisch", "info": "" },
+  {
+    "en": "to knock sth back",
+    "de": "sich etw hinter die Binde gießen",
+    "info": "umgangssprachlich"
+  },
+  { "en": "off the coast", "de": "vor der Küste", "info": "" },
+  { "en": "milestone", "de": "Marke", "info": "" },
+  { "en": "brief", "de": "kurz", "info": "" },
+  { "en": "to sense sth", "de": "etw spüren", "info": "" },
+  { "en": "to be oblivious of sth", "de": "etw nicht wahrnehmen", "info": "" },
+  { "en": "to bring sth up", "de": "etw ansprechen", "info": "" },
+  {
+    "en": "to have bigger fish to fry",
+    "de": "Wichtigeres zu tun haben",
+    "info": "Redewendung"
+  },
+  { "en": "to set one's sights on sth", "de": "etw anpeilen", "info": "" },
+  { "en": "to gnaw at sb", "de": "an jdm nagen", "info": "" },
+  {
+    "en": "to floor the gas pedal",
+    "de": "das Gaspedad durchtreten",
+    "info": "Rechtschreibung: Gaspedal"
+  },
+  { "en": "innocent(ly)", "de": "unschuldig, in gutem Glauben", "info": "" },
+  { "en": "to be subsumed by sth", "de": "in etw aufgehen", "info": "" },
+  {
+    "en": "breaking point",
+    "de": "Tiefpunkt",
+    "info": "eigentlich eher: Bruchpunkt/Belastungsgrenze"
+  },
+  { "en": "to attempt to do sth", "de": "versuchen, etw zu tun", "info": "" },
+  { "en": "to conduct sth", "de": "etw durchführen", "info": "" },
+  { "en": "to betray sb/sth", "de": "jdn/etw verraten", "info": "" },
+  { "en": "resentful", "de": "verbittert", "info": "" },
+  { "en": "to refuse to do sth", "de": "sich weigern, etw zu tun", "info": "" },
+  { "en": "to catch up with sb", "de": "jdn einholen", "info": "" },
+  { "en": "to accuse sb of sth", "de": "jdm etw vorwerfen", "info": "" },
+  { "en": "agonizing", "de": "qualvoll, unerträglich", "info": "" },
+  { "en": "neglectful", "de": "pflichtvergessen", "info": "" },
+  { "en": "learned helplessness", "de": "erlernte Hilflosigkeit", "info": "" },
+  { "en": "no matter", "de": "egal (wie), ganz gleich", "info": "" },
+  { "en": "to set in", "de": "(Zustand usw.:) eintreten", "info": "" },
+  { "en": "to occur", "de": "stattfinden, geschehen", "info": "" },
+  {
+    "en": "to be guilty of sth",
+    "de": "sich einer Sache schuldig machen",
+    "info": ""
+  },
+  {
+    "en": "profusely",
+    "de": "wortreich, ausgiebig",
+    "info": "oft: überschwänglich (z.B. apologize profusely)"
+  },
+  {
+    "en": "to beg sb's forgiveness",
+    "de": "jdn um Vergebung bitten",
+    "info": ""
+  },
+  { "en": "once", "de": "sobald", "info": "" },
+  { "en": "to resume", "de": "wieder beginnen, weitergehen", "info": "" },
+  {
+    "en": "to put sb/sth first",
+    "de": "jdn/etw an die erste Stelle setzen",
+    "info": ""
+  },
+  {
+    "en": "recovered alcoholic",
+    "de": "trockene/r Alkoholiker/in",
+    "info": ""
+  },
+  { "en": "perception", "de": "Wahrnehmung", "info": "" },
+  {
+    "en": "to relate to sb/sth",
+    "de": "etw mit jdm/etw anfangen können",
+    "info": ""
+  },
+  {
+    "en": "to encounter sth",
+    "de": "auf etw stoßen, einer Sache begegnen",
+    "info": ""
+  },
+  { "en": "to ban sb from sth", "de": "jdn von etw ausschließen", "info": "" },
+  { "en": "apparently", "de": "anscheinend", "info": "" },
+  { "en": "CEO", "de": "Geschäftsführer/in", "info": "" },
+  { "en": "to outbid sb", "de": "jdn überbieten", "info": "" },
+  {
+    "en": "to have a lot of time on one's hands",
+    "de": "viel Zeit (zur Verfügung) haben",
+    "info": ""
+  },
+  { "en": "to debunk sth", "de": "etw entlarven", "info": "" },
+  { "en": "skin moisturizer", "de": "Feuchtigkeitscreme", "info": "" },
+  { "en": "endorsement", "de": "Produktwerbung", "info": "" },
+  { "en": "duet", "de": "Duett, Duo", "info": "" },
+  { "en": "to collaborate", "de": "zusammenarbeiten", "info": "" },
+  { "en": "troubled", "de": "problembeladen", "info": "" },
+  { "en": "domain", "de": "Bereich", "info": "" },
+  { "en": "obsession (with sth)", "de": "Besessenheit (von etw)", "info": "" },
+  { "en": "to censor", "de": "zensieren", "info": "" },
+  { "en": "to stage sth", "de": "etw veranstalten", "info": "" },
+  { "en": "clarity", "de": "Klarheit", "info": "" },
+  { "en": "in adversity", "de": "unter widrigen Umständen", "info": "" },
+  { "en": "producer", "de": "Produzent/in", "info": "" },
+  { "en": "road trip", "de": "Reise, Ausflug (mit dem Auto)", "info": "" },
+  { "en": "to be rooted in sth", "de": "in etw verwurzelt sein", "info": "" },
+  {
+    "en": "it's all roses and daisies",
+    "de": "es herrscht eitel Sonnenschein",
+    "info": "idiomatisch"
+  },
+  {
+    "en": "to remenber distinctly",
+    "de": "sich ganz genau erinnern",
+    "info": "Schreibweise: to remember distinctly"
+  },
+  { "en": "brutality", "de": "Gewalt, Brutalität", "info": "" },
+  { "en": "murder", "de": "Mord", "info": "" },
+  { "en": "to become normalized", "de": "(völlig) normal werden", "info": "" },
+  { "en": "randomly", "de": "zufällig", "info": "" },
+  { "en": "to gun sb down", "de": "jdn niederschießen", "info": "" },
+  { "en": "to tap dance", "de": "steptanzen", "info": "" },
+  { "en": "demoralizing", "de": "demoralisierend", "info": "" },
+  { "en": "hellish", "de": "teuflisch", "info": "" },
+  { "en": "to break up", "de": "(Beziehung:) Schluss machen", "info": "" },
+  { "en": "presence", "de": "Anwesenheit, Vorhandensein", "info": "" },
+  { "en": "doom", "de": "Untegang", "info": "Rechtschreibung: Untergang" },
+  { "en": "anthropologist", "de": "Anthropologe/in", "info": "" },
+  { "en": "intimacy", "de": "Intimität, intime Kenntnis", "info": "" },
+  { "en": "to rule the day", "de": "die Lage beherrschen", "info": "" },
+  { "en": "understatement", "de": "Untertreibung", "info": "" },
+  { "en": "takeaway", "de": "Kernaussage", "info": "" },
+  {
+    "en": "to be designed to do sth",
+    "de": "dazu gedacht sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "confirmation", "de": "Bestätigung", "info": "" },
+  { "en": "to consent", "de": "zustimmen, einwilligen", "info": "" },
+  { "en": "to inculcate sth in sb", "de": "jdm etw einimpfen", "info": "" },
+  { "en": "to refresh", "de": "(Website) aktualisieren", "info": "" },
+  { "en": "ethicist", "de": "Ethiker/in", "info": "" },
+  {
+    "en": "to jockey for sth",
+    "de": "jdn von etw befreien",
+    "info": "Fehler: to jockey for = um etw konkurrieren/positionieren"
+  },
+  { "en": "to rid sb of sth", "de": "jdn von etw befreien", "info": "" },
+  {
+    "en": "to be a legitimate threat to sth",
+    "de": "eine handfeste Bedrohung für etw darstellen",
+    "info": ""
+  },
+  { "en": "in the meantime", "de": "in der Zwischenzeit", "info": "" },
+  { "en": "to run up against sth", "de": "gegen etw anrennen", "info": "" },
+  { "en": "to host sth", "de": "etw veranstalten", "info": "" },
+  { "en": "to recall sb/sth", "de": "sich an jdn/etw erinnern", "info": "" },
+  { "en": "to pooh-pooh sth", "de": "etw verächtlich abtun", "info": "" },
+  { "en": "to resonate with sb", "de": "bei jdm Widerhall finden", "info": "" },
+  { "en": "allure", "de": "Reiz", "info": "" },
+  { "en": "from the jump", "de": "von Anfang an", "info": "umgangssprachlich" },
+  {
+    "en": "to get accustomed to sth",
+    "de": "sich an etw gewöhnen",
+    "info": ""
+  },
+  { "en": "feature", "de": "Funktion", "info": "" },
+  { "en": "to task sb with sth", "de": "jdn mit etw beauftragen", "info": "" },
+  { "en": "main speaker", "de": "Hauptredner/in", "info": "" },
+  {
+    "en": "to be fit to do sth",
+    "de": "fähig/geeignet sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "cause", "de": "(gute) Sache, Anliegen", "info": "" },
+  { "en": "irrespective of sth", "de": "ungeachtet einer Sache", "info": "" },
+  { "en": "to exemplify sth", "de": "beispielhaft für etw stehen", "info": "" },
+  { "en": "to proliferate", "de": "sich stark ausbreiten", "info": "" },
+  { "en": "to undermine sth", "de": "etw untergraben", "info": "" },
+  { "en": "trustworthiness", "de": "Glaubwürdigkeit", "info": "" },
+  { "en": "media literacy", "de": "Medienkompetenz", "info": "" },
+  { "en": "inherently", "de": "an (und für) sich, von Natur aus", "info": "" },
+  { "en": "invention", "de": "Erfindung", "info": "" },
+  {
+    "en": "to put sth into practice",
+    "de": "etw in die Praxis umsetzen",
+    "info": ""
+  },
+  { "en": "coherent", "de": "stimmig, schlüssig", "info": "" },
+  { "en": "pamphlet", "de": "Informationsbroschüre", "info": "" },
+  { "en": "to distribute sth", "de": "etw verteilen", "info": "" },
+  { "en": "detox", "de": "Entzug, Entgiftung", "info": "" },
+  { "en": "multiculturalism", "de": "Multikulturalismus", "info": "" },
+  { "en": "untrue", "de": "unzutreffend, unwahr", "info": "" },
+  { "en": "border security", "de": "Grenzschutz", "info": "" },
+  { "en": "House of Representatives", "de": "Repräsentantenhaus", "info": "" },
+  { "en": "Senate", "de": "Senat", "info": "" },
+  { "en": "astonishing", "de": "erstaunlich", "info": "" },
+  { "en": "to found sth", "de": "etw gründen", "info": "" },
+  { "en": "immigrant", "de": "Einwanderer/in", "info": "" },
+  { "en": "lyrics", "de": "Liedtext", "info": "plural" },
+  { "en": "migration", "de": "Auswanderung, Migration", "info": "" },
+  {
+    "en": "multicultural society",
+    "de": "multikulturelle Gesellschaft",
+    "info": ""
+  },
+  { "en": "pluralistic", "de": "pluralistisch", "info": "" },
+  { "en": "driving force", "de": "treibende Kraft", "info": "" },
+  { "en": "to relocate", "de": "umziehen, woanders hinziehen", "info": "" },
+  { "en": "to settle", "de": "sich niederlassen", "info": "" },
+  {
+    "en": "to range from ... to ...",
+    "de": "von ... bis ... reichen",
+    "info": ""
+  },
+  { "en": "consideration", "de": "Überlegung, Aspekt", "info": "" },
+  {
+    "en": "limited job opportunities",
+    "de": "begrenzte Arbeitsmöglichkeiten",
+    "info": "plural"
+  },
+  {
+    "en": "economically affluent country",
+    "de": "wirtschaftlich wohlhabendes Land",
+    "info": ""
+  },
+  {
+    "en": "to line the streets",
+    "de": "die Staße säumen, Spalier stehen",
+    "info": ""
+  },
+  {
+    "en": "to actively recruit foreign workers",
+    "de": "aktiv ausländische Arbeitskräfte anwerben",
+    "info": ""
+  },
+  { "en": "guest worker programme", "de": "Gastarbeiterprogramm", "info": "" },
+  {
+    "en": "to initiate sth",
+    "de": "etw in Gang setzen, etw initiieren",
+    "info": ""
+  },
+  { "en": "migrant worker", "de": "Wanderarbeitnehmer/in", "info": "" },
+  {
+    "en": "to counteract demographic shifts",
+    "de": "dam demographischen Wandel entgegenwirken",
+    "info": ""
+  },
+  { "en": "aging society", "de": "alternde Gesellschaft", "info": "" },
+  {
+    "en": "shrinking workforce",
+    "de": "schrumpfende Erwerbsbevölkerung",
+    "info": ""
+  },
+  { "en": "retiree", "de": "Rentner/in", "info": "" },
+  { "en": "sought-after", "de": "begehrt, gesucht", "info": "" },
+  { "en": "willingness", "de": "Bereitschaft", "info": "" },
+  {
+    "en": "to undertake sth",
+    "de": "etw übernehmen, etw durchführen",
+    "info": ""
+  },
+  { "en": "agriculture", "de": "Landwirtschaft", "info": "" },
+  { "en": "geriatric care", "de": "Altenpflege", "info": "" },
+  { "en": "host country", "de": "Gastland, Aufnahmeland", "info": "" },
+  { "en": "failure", "de": "Unterlassung, Unterlassen", "info": "" },
+  { "en": "to remain untapped", "de": "ungenutzt bleiben", "info": "" },
+  { "en": "mass migration", "de": "Massenmigration", "info": "" },
+  { "en": "to trigger sth", "de": "etw auslösen", "info": "" },
+  { "en": "push factor", "de": "Migrationsursache", "info": "" },
+  { "en": "political turmoil", "de": "politische Unruhen", "info": "" },
+  { "en": "religious persecution", "de": "religiöse Verfolgung", "info": "" },
+  {
+    "en": "political oppression",
+    "de": "politische Unterdrückung",
+    "info": ""
+  },
+  {
+    "en": "large-scale conflicts",
+    "de": "großräumige Konflikte, schwere Kriege",
+    "info": "plural"
+  },
+  { "en": "asylum seeker", "de": "Asylsuchende/r", "info": "" },
+  { "en": "safety", "de": "Sicherheit", "info": "" },
+  { "en": "political freedom", "de": "politische Freiheit", "info": "" },
+  { "en": "compelling", "de": "zwingend, entscheidend", "info": "" },
+  { "en": "pull factor", "de": "Anreiz, Pull-Faktor", "info": "" },
+  { "en": "perilous journey", "de": "(lebens)gefährliche Reise", "info": "" },
+  {
+    "en": "to fall victim to sb/sth",
+    "de": "jdm/etw zum Opfer fallen",
+    "info": ""
+  },
+  { "en": "ruthless", "de": "skrupellos", "info": "" },
+  { "en": "human trafficker", "de": "Menschenhändler/in", "info": "" },
+  { "en": "to exploit sb's plight", "de": "jds Notlage ausnutzen", "info": "" },
+  { "en": "racism", "de": "Rassismus", "info": "" },
+  { "en": "bigotry", "de": "Engstirnigkeit", "info": "" },
+  { "en": "xenophobia", "de": "Fremdenfeindlichkeit", "info": "" },
+  { "en": "resentment", "de": "Feindseligkeit", "info": "" },
+  { "en": "to perpetuate sth", "de": "etw aufrecht erhalten", "info": "" },
+  {
+    "en": "a burden on society",
+    "de": "eine Belastung für die Gesellschaft",
+    "info": ""
+  },
+  { "en": "to overload sth", "de": "etw überlasten", "info": "" },
+  { "en": "entrepreneurial", "de": "unternehmerisch (denkend)", "info": "" },
+  {
+    "en": "to establish a business",
+    "de": "ein Unternehmen gründen",
+    "info": ""
+  },
+  {
+    "en": "to contribute to society's prosperity",
+    "de": "zum Wohlstand der Gesellschaft beitragen",
+    "info": ""
+  },
+  {
+    "en": "to be a drain on public resources",
+    "de": "die Staatskasse belasten",
+    "info": ""
+  },
+  { "en": "open-door policy", "de": "Politik der offenen Tür", "info": "" },
+  {
+    "en": "to curb the influx of migrants",
+    "de": "den Zustrom von Migranten eindämmen",
+    "info": ""
+  },
+  { "en": "quota", "de": "Quote", "info": "" },
+  {
+    "en": "long-established",
+    "de": "alteingesessen, seit Langem bestehend",
+    "info": ""
+  },
+  { "en": "citizenship", "de": "Staatsbürgerschaft", "info": "" },
+  {
+    "en": "to face scrutiny",
+    "de": "genau/kritisch beäugt werden",
+    "info": ""
+  },
+  { "en": "attire", "de": "Kleidung", "info": "" },
+  { "en": "to integrate", "de": "sich integrieren", "info": "" },
+  {
+    "en": "to assimilate",
+    "de": "(sich) assimilieren, sich anpassen",
+    "info": ""
+  },
+  {
+    "en": "to relinquish sth",
+    "de": "etw aufgeben, auf etw verzichten",
+    "info": ""
+  },
+  { "en": "racial tensions", "de": "ethnische Spannungen", "info": "plural" },
+  { "en": "sense of alienation", "de": "Gefühl der Entfremdung", "info": "" },
+  { "en": "uncertainty", "de": "Ungewissheit, Unsicherheit", "info": "" },
+  { "en": "nationalism", "de": "Nationalismus", "info": "" },
+  {
+    "en": "to be rampant",
+    "de": "um sich greifen, an der Tagesordnung sein",
+    "info": ""
+  },
+  { "en": "to be on the rise", "de": "auf dem Vormarsch sein", "info": "" },
+  { "en": "melting pot", "de": "Schmelztiegel", "info": "" },
+  { "en": "outdated", "de": "überholt, veraltet", "info": "" },
+  { "en": "asset", "de": "Pluspunkt, Vorteil", "info": "" },
+  { "en": "to cherish sth", "de": "etw wertschätzen, etw lieben", "info": "" },
+  { "en": "ethnic group", "de": "ethnische Gruppe", "info": "" },
+  {
+    "en": "mixed-race background",
+    "de": "gemischtethnische Herkunft",
+    "info": ""
+  },
+  { "en": "successive", "de": "aufeinanderfolgend", "info": "" },
+  {
+    "en": "call for more inclusivity",
+    "de": "Ruf nach mehr Inklusivität",
+    "info": ""
+  },
+  { "en": "pervasive", "de": "weit verbreitete, allgegenwärtig", "info": "" },
+  { "en": "myth", "de": "Mythos", "info": "" },
+  { "en": "Interior Minister", "de": "Innenminister/in", "info": "" },
+  { "en": "to cut down on sth", "de": "etw reduzieren", "info": "" },
+  { "en": "criminal", "de": "Verbrecher/in", "info": "" },
+  { "en": "deplorable", "de": "beklagenswert, betrüblich", "info": "" },
+  {
+    "en": "to punish sb/sth",
+    "de": "(religiöser) Glaube",
+    "info": "⚠️ seems wrong translation"
+  },
+  { "en": "cruel", "de": "grausam, brutal", "info": "" },
+  { "en": "unpleasant", "de": "unangenehm", "info": "" },
+  { "en": "historian", "de": "Historiker/in", "info": "" },
+  { "en": "to confront sb", "de": "jdm entgegentreten", "info": "" },
+  { "en": "to expel sb", "de": "jdn ausweisen", "info": "" },
+  { "en": "to strain sb/sth", "de": "jdn/etw strapazieren", "info": "" },
+  { "en": "fluid", "de": "(Situation usw.:) instabil", "info": "" },
+  { "en": "poignant", "de": "erschütternd, ergreifend", "info": "" },
+  { "en": "to spark sth", "de": "etw entfachen, etw auslösen", "info": "" },
+  { "en": "to slam sth shut", "de": "etw (Tür usw.) zuschlagen", "info": "" },
+  { "en": "gate", "de": "Tor, Pforte", "info": "" },
+  { "en": "to be faithful to sth", "de": "fest an etw glauben", "info": "" },
+  { "en": "core values", "de": "Grundwerte", "info": "plural" },
+  {
+    "en": "to saddle sb/sth with sth",
+    "de": "jdm/etw etw aufhalsen",
+    "info": ""
+  },
+  { "en": "to degenerate into sth", "de": "in/zu etw ausarten", "info": "" },
+  { "en": "shouting match", "de": "lautstarke Auseinandersetzung", "info": "" },
+  { "en": "terms", "de": "Bedingungen", "info": "plural" },
+  { "en": "duty", "de": "Aufgabe, Pflicht", "info": "" },
+  { "en": "favour", "de": "Gefallen", "info": "" },
+  {
+    "en": "to be obliged to do sth",
+    "de": "gezwungen/verpflichtet sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "to halt sth", "de": "etw anhalten, etw stoppen", "info": "" },
+  { "en": "poverty-stricken", "de": "verarmt, arm", "info": "" },
+  { "en": "to shirk", "de": "sich einer Sache entziehen", "info": "" },
+  { "en": "to stress sth", "de": "etw betonen", "info": "" },
+  { "en": "fence", "de": "Zaun", "info": "" },
+  { "en": "to legalise sth", "de": "etw legalisieren", "info": "" },
+  { "en": "paperless", "de": "ohne Papiere", "info": "" },
+  { "en": "sufficient(ly)", "de": "genügend, hinreichend", "info": "" },
+  { "en": "to flee sth", "de": "vor etw fliehen", "info": "" },
+  { "en": "welfare", "de": "Wohl, Wohlergehen", "info": "" },
+  { "en": "invasion", "de": "Eindringen", "info": "" },
+  { "en": "in return", "de": "als Gegenleistung", "info": "" },
+  { "en": "assimilation", "de": "Anpassung", "info": "" },
+  {
+    "en": "to set the bar high",
+    "de": "die Messlatte/Schwelle hoch legen",
+    "info": ""
+  },
+  { "en": "native population", "de": "einheimische Bevölkerung", "info": "" },
+  { "en": "vibrant", "de": "dynamisch, pulsierend", "info": "" },
+  { "en": "provided that", "de": "unter der Voraussetzung, dass", "info": "" },
+  {
+    "en": "misogyny",
+    "de": "Schwulenhass",
+    "info": "⚠️ seems wrong translation"
+  },
+  { "en": "nature", "de": "Wesen, Art", "info": "" },
+  { "en": "to adhere to sth", "de": "sich an etw halten", "info": "" },
+  { "en": "eventual", "de": "später, letztendlich", "info": "" },
+  { "en": "to be welcome to do sth", "de": "etw gern tun können", "info": "" },
+  { "en": "duty-bound", "de": "verpflichtet", "info": "" },
+  { "en": "probation period", "de": "Bewährungsfrist, Probezeit", "info": "" },
+  { "en": "hostility", "de": "Feindseligkeit, ablehnende Haltung", "info": "" },
+  { "en": "to riot", "de": "randalieren", "info": "" },
+  { "en": "to fail a test", "de": "eine Prüfung nicht bestehen", "info": "" },
+  { "en": "the root issue", "de": "das eigentliche Problem", "info": "" },
+  { "en": "timescale", "de": "Zeitbegriff, Zeitempfinden", "info": "" },
+  {
+    "en": "to come to terms with sth",
+    "de": "sich mit etw abfinden",
+    "info": ""
+  },
+  {
+    "en": "to police sth",
+    "de": "etw überwachen, etw kontrollieren",
+    "info": ""
+  },
+  { "en": "occasional(ly)", "de": "gelegentlich", "info": "" },
+  { "en": "offensive", "de": "beleidigend, anstößig", "info": "" },
+  { "en": "to forge sth", "de": "etw schmieden, etw schaffen", "info": "" },
+  { "en": "cohesive", "de": "einheitlich, geschlossen", "info": "" },
+  { "en": "to ease sth", "de": "etw lindern, etw entschärfen", "info": "" },
+  {
+    "en": "to prevail",
+    "de": "sich durchsetzen, die Oberhand gewinnen",
+    "info": ""
+  },
+  { "en": "disastrous", "de": "katastrophal", "info": "" },
+  { "en": "prosperous", "de": "erfolgreich", "info": "" },
+  { "en": "dire poverty", "de": "äußerste/extreme Armut", "info": "" },
+  { "en": "undocumented", "de": "ohne Papiere", "info": "" },
+  { "en": "guards", "de": "Wachpersonal", "info": "plural" },
+  { "en": "labourer", "de": "(einfache/r) Arbeiter/in", "info": "" },
+  { "en": "employment permit", "de": "Arbeitserlaubnis", "info": "" },
+  { "en": "to deny sth", "de": "etw leugnen, etw bestreiten", "info": "" },
+  { "en": "speedy", "de": "zügig, schnell", "info": "" },
+  { "en": "illiberal", "de": "antiliberal", "info": "" },
+  { "en": "quirk", "de": "(seltsame) Eigenheit, Marotte", "info": "" },
+  { "en": "patriarchal", "de": "patriarchalisch", "info": "" },
+  { "en": "striking", "de": "markant", "info": "" },
+  { "en": "cover picture", "de": "Titelbild", "info": "" },
+  { "en": "editing committee", "de": "Redaktionskomitee", "info": "" },
+  { "en": "issue", "de": "Ausgabe (einer Zeitschrift usw.)", "info": "" },
+  { "en": "editorial meeting", "de": "Redaktionskonferenz", "info": "" },
+  { "en": "apt", "de": "geeignet", "info": "" },
+  { "en": "appealing", "de": "ansprechend, reizvoll", "info": "" },
+  { "en": "to feature sth", "de": "über etw berichten", "info": "" },
+  { "en": "to reclaim sth", "de": "etw zurückverlangen", "info": "" },
+  { "en": "worn", "de": "abgewetzt", "info": "" },
+  { "en": "to outgrow sth", "de": "aus etw herauswachsen", "info": "" },
+  { "en": "subtle", "de": "subtil", "info": "" },
+  {
+    "en": "to make an impression on sb",
+    "de": "einen Eindruck bei jdm hinterlassen",
+    "info": ""
+  },
+  { "en": "to mispronounce sth", "de": "etw falsch aussprechen", "info": "" },
+  { "en": "syllable", "de": "Silbe", "info": "" },
+  {
+    "en": "to roll off (the tongue)",
+    "de": "leicht (von der Zunge) gehen",
+    "info": ""
+  },
+  { "en": "co-worker", "de": "Arbeitskollege/-in", "info": "" },
+  { "en": "to negate sth", "de": "etw zunichtemachen", "info": "" },
+  { "en": "ambivalence", "de": "Zwiespältigkeit", "info": "" },
+  {
+    "en": "to be new territory for sb",
+    "de": "Neuland für jdn sein",
+    "info": ""
+  },
+  {
+    "en": "adjustment (to sth)",
+    "de": "Anpassung (an etw), Einstellung (auf etw)",
+    "info": ""
+  },
+  { "en": "suburb", "de": "Vorort", "info": "" },
+  { "en": "to anglicize sth", "de": "etw anglisieren", "info": "" },
+  {
+    "en": "to mock sb/sth",
+    "de": "sich über jdn/etw lustig machen",
+    "info": ""
+  },
+  {
+    "en": "to come with the territory",
+    "de": "einfach dazugehören",
+    "info": ""
+  },
+  { "en": "roll call", "de": "Namensaufruf", "info": "" },
+  { "en": "bungled", "de": "verkorkst", "info": "" },
+  { "en": "code-switching", "de": "Sprachwechsel", "info": "" },
+  { "en": "to enunciate", "de": "artikulieren", "info": "" },
+  { "en": "in earnest", "de": "ernsthaft", "info": "" },
+  { "en": "to wince", "de": "zusammenzucken", "info": "" },
+  { "en": "sell-out", "de": "Verräter/in", "info": "" },
+  { "en": "Governor", "de": "Gouverneur/in", "info": "" },
+  { "en": "to abbreviate sth", "de": "etw abkürzen", "info": "" },
+  {
+    "en": "with a straight face",
+    "de": "ohne eine Miene zu verziehen",
+    "info": ""
+  },
+  { "en": "to mess sth up", "de": "etw vermurksen, etw versauen", "info": "" },
+  {
+    "en": "to bother to do sth",
+    "de": "sich die Mühe machen, etw zu tun",
+    "info": ""
+  },
+  { "en": "disrespectful(ly)", "de": "unhöflich, respektlos", "info": "" },
+  { "en": "to honor sb/sth", "de": "jdn/etw anerkennen", "info": "" },
+  { "en": "rally", "de": "Kundengebung", "info": "" },
+  { "en": "dismissiveness", "de": "Geringschätzung", "info": "" },
+  { "en": "disdain", "de": "Verachtung", "info": "" },
+  { "en": "thoughtless", "de": "gedankenlos", "info": "" },
+  { "en": "heritage", "de": "Erbe, Geschichte", "info": "" },
+  { "en": "the odd one out", "de": "etw, was nicht dazugehört", "info": "" },
+  {
+    "en": "request (for sth)",
+    "de": "Bitte (um etw), Aufforderung (zu etw)",
+    "info": ""
+  },
+  {
+    "en": "to be supposed to do sth",
+    "de": "etw (eigentlich) tun sollen",
+    "info": ""
+  },
+  {
+    "en": "to link sth with/to sth",
+    "de": "etw mit etw verknüpfen",
+    "info": ""
+  },
+  { "en": "negativity", "de": "negative Aspekte", "info": "" },
+  { "en": "blackness", "de": "Schwarzsein, Schärze", "info": "" },
+  { "en": "positivity", "de": "positive Aspekte", "info": "" },
+  { "en": "whiteness", "de": "Weißsein, Weiße", "info": "" },
+  { "en": "connotations", "de": "Assoziationen, Anklänge", "info": "plural" },
+  { "en": "to reframe sth", "de": "etw umformulieren", "info": "" },
+  { "en": "titled ...", "de": "mit dem Titel ...", "info": "" },
+  { "en": "strong language", "de": "Kraftausdrücke", "info": "" },
+  {
+    "en": "to equip sb with sth",
+    "de": "jdn mit etw ausstatten, jdn mit etw ausrüsten",
+    "info": ""
+  },
+  { "en": "campaigner", "de": "Aktivist/in, Kämpfer/in", "info": "" },
+  { "en": "purity", "de": "Reinheit", "info": "" },
+  { "en": "cleanliness", "de": "Sauberkeit", "info": "" },
+  { "en": "evil", "de": "das Böse", "info": "" },
+  { "en": "to serve to do sth", "de": "dazu dienen, etw zu tun", "info": "" },
+  { "en": "trope", "de": "Motiv, Erzählmuster, Konvention", "info": "" },
+  { "en": "to minorize sb", "de": "jdn minorisieren", "info": "" },
+  { "en": "to blush", "de": "erröten", "info": "" },
+  { "en": "ashen", "de": "aschfahl", "info": "" },
+  {
+    "en": "life-enhancing",
+    "de": "lebensbejahrend, die Lebensqualität verbessernd",
+    "info": ""
+  },
+  { "en": "ethnicity", "de": "ethnische Zugehörigkeit", "info": "" },
+  { "en": "conspiracy theory", "de": "Verschwörungstheorie", "info": "" },
+  { "en": "overuse", "de": "übermäßige Verwendung", "info": "" },
+  { "en": "standalone", "de": "Einzel-, einzeln", "info": "" },
+  { "en": "unavoidable", "de": "unvermeidlich", "info": "" },
+  { "en": "fog", "de": "Nebel", "info": "" },
+  { "en": "latter", "de": "letztere/r/s", "info": "" },
+  { "en": "dehumanising", "de": "entmenschlichend", "info": "" },
+  { "en": "non-profit", "de": "gemeinnützig", "info": "" },
+  { "en": "to be stuck", "de": "festsitzen, feststecken", "info": "" },
+  { "en": "trailblazing", "de": "wegweisend, bahnbrechend", "info": "" },
+  { "en": "upside (to sth)", "de": "Vorteil(e) (von etw)", "info": "" },
+  { "en": "guidance", "de": "Orientierung, Hilfe", "info": "" },
+  { "en": "foundation", "de": "Fundament, Grundlage", "info": "" },
+  { "en": "advocate", "de": "Befürworter/in", "info": "" },
+  {
+    "en": "pitfall",
+    "de": "Fallstrick, Falle, Hauptschwierigkeit",
+    "info": ""
+  },
+  { "en": "hard-working", "de": "fleißig", "info": "" },
+  { "en": "well-meaning", "de": "wohlmeinend", "info": "" },
+  { "en": "sound", "de": "solide, vernünftig", "info": "" },
+  { "en": "principle", "de": "Prinzip", "info": "" },
+  { "en": "robust", "de": "(Argument usw.:) belastbar", "info": "" },
+  {
+    "en": "to compel sb to do sth",
+    "de": "jd zwingen, etw zu tun",
+    "info": ""
+  },
+  { "en": "as a last resort", "de": "als letzten Ausweg", "info": "" },
+  {
+    "en": "armed conflict",
+    "de": "kriegerische Auseinandersetzung",
+    "info": ""
+  },
+  { "en": "humanitarian", "de": "humanitär", "info": "" },
+  { "en": "war-torn", "de": "vom Krieg gezeichnet", "info": "" },
+  { "en": "respectively", "de": "beziehungsweise, jeweils", "info": "" },
+  { "en": "to terrify sb", "de": "jdm Todesangst einflößen", "info": "" },
+  { "en": "to deport sb", "de": "jdn abschieben", "info": "" },
+  { "en": "to persecute sb", "de": "jdn verfolgen", "info": "" },
+  { "en": "smuggler", "de": "Schmuggler/in", "info": "" },
+  { "en": "passage", "de": "Fahrt, Durchreise", "info": "" },
+  { "en": "decrepit", "de": "marode, altersschwach", "info": "" },
+  { "en": "lifeguard", "de": "Seenotretter/in", "info": "" },
+  { "en": "to rescue sb", "de": "jdn retten", "info": "" },
+  { "en": "shelter", "de": "Zufluchtsort", "info": "" },
+  {
+    "en": "to pacify sb",
+    "de": "jdn beschwichtigen, jdn beruhigen",
+    "info": ""
+  },
+  { "en": "deportation", "de": "Abschiebung", "info": "" },
+  { "en": "wire fence", "de": "Drahtzaun", "info": "" },
+  { "en": "to put sth forward", "de": "etw vorbringen", "info": "" },
+  { "en": "processing centre", "de": "Aufnahmezentrum", "info": "" },
+  {
+    "en": "to disperse sb/sth among sth",
+    "de": "jdn/etw auf etw verteilen",
+    "info": ""
+  },
+  { "en": "life-threatening", "de": "lebensbedrohlich", "info": "" },
+  { "en": "seaworthy", "de": "seetüchtig", "info": "" },
+  { "en": "entitled", "de": "mit dem Titel", "info": "" },
+  {
+    "en": "shoplifter",
+    "de": "Ladendieb/in",
+    "info": ""
+  },
+  {
+    "en": "to prosecute sb",
+    "de": "jdn strafrechtlich verfolgen",
+    "info": ""
+  },
+  {
+    "en": "to verify sth",
+    "de": "etw (über)prüfen, etw verifizieren",
+    "info": ""
+  },
+  {
+    "en": "shoplifting",
+    "de": "Ladendiebstahl",
+    "info": ""
+  },
+  {
+    "en": "cybercrime",
+    "de": "Cyberkriminalität",
+    "info": ""
+  },
+  {
+    "en": "underage",
+    "de": "minderjährig",
+    "info": ""
+  },
+  {
+    "en": "vandalism",
+    "de": "Vandalismus",
+    "info": ""
+  },
+  {
+    "en": "(criminal) offence",
+    "de": "Straftat",
+    "info": ""
+  },
+  {
+    "en": "to commit a crime",
+    "de": "ein Verbrechen begehen",
+    "info": ""
+  },
+  {
+    "en": "seriousness",
+    "de": "Ernst, Schwere",
+    "info": ""
+  },
+  {
+    "en": "crimes pl against people",
+    "de": "Straftaten gegen Personen",
+    "info": ""
+  },
+  {
+    "en": "severe punishment",
+    "de": "harte Strafe",
+    "info": ""
+  },
+  {
+    "en": "manslaughter",
+    "de": "Totschlag",
+    "info": ""
+  },
+  {
+    "en": "assault",
+    "de": "Körperverletzung",
+    "info": ""
+  },
+  {
+    "en": "domestic abuse",
+    "de": "häusliche Gewalt",
+    "info": ""
+  },
+  {
+    "en": "sexual offence",
+    "de": "Sexualstraftat",
+    "info": ""
+  },
+  {
+    "en": "hate speech",
+    "de": "Anstachelung zum Hass",
+    "info": ""
+  },
+  {
+    "en": "online stalking",
+    "de": "Stalking im Internet",
+    "info": ""
+  },
+  {
+    "en": "crimes pl against property",
+    "de": "Eigentumsdelikte",
+    "info": ""
+  },
+  {
+    "en": "theft",
+    "de": "Diebstahl",
+    "info": ""
+  },
+  {
+    "en": "criminal damage",
+    "de": "Sachbeschädigung",
+    "info": ""
+  },
+  {
+    "en": "arson",
+    "de": "Brandstiftung",
+    "info": ""
+  },
+  {
+    "en": "burglary",
+    "de": "Einbruchdiebstahl",
+    "info": ""
+  },
+  {
+    "en": "robbery",
+    "de": "Raub",
+    "info": ""
+  },
+  {
+    "en": "legal system",
+    "de": "Rechtssystem",
+    "info": ""
+  },
+  {
+    "en": "prohibited",
+    "de": "verboten, untersagt",
+    "info": ""
+  },
+  {
+    "en": "possession",
+    "de": "Besitz",
+    "info": ""
+  },
+  {
+    "en": "recreational drug use",
+    "de": "gelegentlicher Drogenkonsum",
+    "info": ""
+  },
+  {
+    "en": "medicinal use",
+    "de": "medizinische Verwendung",
+    "info": ""
+  },
+  {
+    "en": "drug-related crimes pl",
+    "de": "Drogendelikte",
+    "info": ""
+  },
+  {
+    "en": "drug smuggling",
+    "de": "Drogenschmuggel",
+    "info": ""
+  },
+  {
+    "en": "drug trafficking",
+    "de": "Rauschgifthandel",
+    "info": ""
+  },
+  {
+    "en": "drug dealing",
+    "de": "Drogenhandel",
+    "info": ""
+  },
+  {
+    "en": "alcohol-related crimes pl",
+    "de": "Straftaten unter Alkoholeinfluss",
+    "info": ""
+  },
+  {
+    "en": "drunk driving",
+    "de": "Trunkenheit am Steuer",
+    "info": ""
+  },
+  {
+    "en": "traffic-related offence",
+    "de": "Verkehrsdelikt",
+    "info": ""
+  },
+  {
+    "en": "hit-and-run accident",
+    "de": "Unfall mit Fahrerflucht",
+    "info": ""
+  },
+  {
+    "en": "criminal record",
+    "de": "Eintrag ins Strafregister, Vorstrafe(n)",
+    "info": ""
+  },
+  {
+    "en": "financial crime",
+    "de": "Finanzdelikt",
+    "info": ""
+  },
+  {
+    "en": "fraud",
+    "de": "Betrug",
+    "info": ""
+  },
+  {
+    "en": "financial gain",
+    "de": "finanzieller Vorteil/Gewinn",
+    "info": ""
+  },
+  {
+    "en": "white-collar crime",
+    "de": "Wirtschaftskriminalität",
+    "info": ""
+  },
+  {
+    "en": "money laundering",
+    "de": "Geldwäsche",
+    "info": ""
+  },
+  {
+    "en": "tax evasion",
+    "de": "Steuerhinterziehung",
+    "info": ""
+  },
+  {
+    "en": "online scam",
+    "de": "Betrug(smasche) im Internet",
+    "info": ""
+  },
+  {
+    "en": "identity theft",
+    "de": "Identitätsdiebstahl",
+    "info": ""
+  },
+  {
+    "en": "to accuse sb of sth",
+    "de": "jdn einer Sache anklagen",
+    "info": ""
+  },
+  {
+    "en": "to try sb",
+    "de": "jdn vor Gericht stellen",
+    "info": ""
+  },
+  {
+    "en": "criminal court",
+    "de": "Strafgericht(shof)",
+    "info": ""
+  },
+  {
+    "en": "jury",
+    "de": "Geschworene pl, Jury",
+    "info": ""
+  },
+  {
+    "en": "to find sb guilty",
+    "de": "jd für schuldig befinden",
+    "info": ""
+  },
+  {
+    "en": "repeat offender",
+    "de": "Wiederholungstäter/in",
+    "info": ""
+  },
+  {
+    "en": "prison sentence",
+    "de": "Freiheitsstrafe",
+    "info": ""
+  },
+  {
+    "en": "judge",
+    "de": "Richter/in",
+    "info": ""
+  },
+  {
+    "en": "victim impact statement",
+    "de": "Erklärung eines Verbrechensopfers über die Folgen der Straftat für das eigene Leben",
+    "info": ""
+  },
+  {
+    "en": "convicted criminal",
+    "de": "verurteilte/r Straftäter/in",
+    "info": ""
+  },
+  {
+    "en": "to release sb on parole",
+    "de": "jdn gegen Kaution auf freien Fuß setzen",
+    "info": ""
+  },
+  {
+    "en": "to serve a sentence",
+    "de": "eine Strafe verbüßen",
+    "info": ""
+  },
+  {
+    "en": "suspended sentence",
+    "de": "Bewährungsstrafe",
+    "info": ""
+  },
+  {
+    "en": "community service",
+    "de": "Sozialstunden",
+    "info": ""
+  },
+  {
+    "en": "first-time offender",
+    "de": "Ersttäter/in, nicht Vorbestrafte/r",
+    "info": ""
+  },
+  {
+    "en": "on probation",
+    "de": "auf/zur Bewährung aussetzen",
+    "info": ""
+  },
+  {
+    "en": "drug offender",
+    "de": "Drogenstraftäter/in",
+    "info": ""
+  },
+  {
+    "en": "reduced sentence",
+    "de": "Strafmilderung",
+    "info": ""
+  },
+  {
+    "en": "drug rehabilitation programme",
+    "de": "Rehabilitationsprogramm für Drogenabhängige",
+    "info": ""
+  },
+  {
+    "en": "counselling session",
+    "de": "Therapiesitzung",
+    "info": ""
+  },
+  {
+    "en": "prison",
+    "de": "Gefängnis",
+    "info": ""
+  },
+  {
+    "en": "deterrent to crime",
+    "de": "Abschreckung(smittel) gegen Verbrechen",
+    "info": ""
+  },
+  {
+    "en": "crime prevention",
+    "de": "Verbrechungsverhütung",
+    "info": ""
+  },
+  {
+    "en": "juvenile delinquency",
+    "de": "Jugendkriminalität",
+    "info": ""
+  },
+  {
+    "en": "young offender",
+    "de": "jugendliche/r Straftätr/in",
+    "info": ""
+  },
+  {
+    "en": "parental supervision",
+    "de": "elterliche Aufsicht",
+    "info": ""
+  },
+  {
+    "en": "boredom",
+    "de": "Langeweile",
+    "info": ""
+  },
+  {
+    "en": "peer pressure",
+    "de": "Gruppenzwang",
+    "info": ""
+  },
+  {
+    "en": "to break the law",
+    "de": "das Gesetz übertreten",
+    "info": ""
+  },
+  {
+    "en": "maturity",
+    "de": "Reife",
+    "info": ""
+  },
+  {
+    "en": "to take risks",
+    "de": "Risiken eingehen",
+    "info": ""
+  },
+  {
+    "en": "to get one's kicks",
+    "de": "sich seinen Kick holen",
+    "info": ""
+  },
+  {
+    "en": "truancy",
+    "de": "Schulschwänzen",
+    "info": ""
+  },
+  {
+    "en": "binge-drinking",
+    "de": "Alkoholexzess",
+    "info": ""
+  },
+  {
+    "en": "petty crime",
+    "de": "Kleinkriminalität",
+    "info": ""
+  },
+  {
+    "en": "hooliganism",
+    "de": "Rowdytum",
+    "info": ""
+  },
+  {
+    "en": "gang violence",
+    "de": "Bandengewalt",
+    "info": ""
+  },
+  {
+    "en": "drug abuse",
+    "de": "Drogenmissbrauch",
+    "info": ""
+  },
+  {
+    "en": "juvenile delinquent",
+    "de": "jugendliche/r Straftäter/in",
+    "info": ""
+  },
+  {
+    "en": "prison service",
+    "de": "Justizvollzugsdienst",
+    "info": ""
+  },
+  {
+    "en": "to impose sth on sb",
+    "de": "jdm etw auferlegen, jdm etw aufzwingen",
+    "info": ""
+  },
+  {
+    "en": "to show sb the error of their ways",
+    "de": "jdm seine Fehler aufzeigen",
+    "info": ""
+  },
+  {
+    "en": "to sentence sb to sth",
+    "de": "jdn zu etw verurteilen",
+    "info": ""
+  },
+  {
+    "en": "prison term",
+    "de": "Haftstrafe, Gefängnisstrafe",
+    "info": ""
+  },
+  {
+    "en": "vaping",
+    "de": "Dampfen, Rauchen von E-Zigaretten",
+    "info": ""
+  },
+  {
+    "en": "to market sth",
+    "de": "etw vermarkten",
+    "info": ""
+  },
+  {
+    "en": "vape",
+    "de": "E-Zigarette",
+    "info": ""
+  },
+  {
+    "en": "to be addictive",
+    "de": "süchtig machen",
+    "info": ""
+  },
+  {
+    "en": "to be addicted to sth",
+    "de": "nach etw süchtig sein",
+    "info": ""
+  },
+  {
+    "en": "to quit (sth)",
+    "de": "(mit etw) aufhören",
+    "info": ""
+  },
+  {
+    "en": "to grapple with sth",
+    "de": "mit etw kämpfen, mit etw zu kämpfen haben",
+    "info": ""
+  },
+  {
+    "en": "general practitioner",
+    "de": "Allgemeinarzt/ärztin",
+    "info": ""
+  },
+  {
+    "en": "tobacco",
+    "de": "Tabak",
+    "info": ""
+  },
+  {
+    "en": "to be at a loss",
+    "de": "ratlos sein",
+    "info": ""
+  },
+  {
+    "en": "(drug) habit",
+    "de": "Sucht, Abhängigkeit",
+    "info": ""
+  },
+  {
+    "en": "to arrest sb",
+    "de": "jdn verhaften",
+    "info": ""
+  },
+  {
+    "en": "caution",
+    "de": "Verweis",
+    "info": ""
+  },
+  {
+    "en": "to reprimand sb",
+    "de": "jdn verwarnen",
+    "info": ""
+  },
+  {
+    "en": "to end up doing sth",
+    "de": "schließlich etw tun",
+    "info": ""
+  },
+  {
+    "en": "to report sb/sth (to sb)",
+    "de": "jdn/etw (bei jdm) anzeigen",
+    "info": ""
+  },
+  {
+    "en": "health department",
+    "de": "Gesundheitsamt",
+    "info": ""
+  },
+  {
+    "en": "to raid sb/sth",
+    "de": "eine Razzia bei jdm/ete durchführen",
+    "info": ""
+  },
+  {
+    "en": "to confiscate sth",
+    "de": "etw beschlagenahmen",
+    "info": ""
+  },
+  {
+    "en": "cravings pl",
+    "de": "(heftiges) Verlangen, Suchtattacken",
+    "info": ""
+  },
+  {
+    "en": "to resort to sth",
+    "de": "auf etw (als letztes Mittel) zurückgreifen",
+    "info": ""
+  },
+  {
+    "en": "federal",
+    "de": "Bundes-",
+    "info": ""
+  },
+  {
+    "en": "public consultation",
+    "de": "öffentliches Anhörungsverfahren",
+    "info": ""
+  },
+  {
+    "en": "ban (on sth)",
+    "de": "Verbot (von etw)",
+    "info": ""
+  },
+  {
+    "en": "plain packaging",
+    "de": "neutrale Verpackung",
+    "info": ""
+  },
+  {
+    "en": "flavoured",
+    "de": "aromatisiert",
+    "info": ""
+  },
+  {
+    "en": "to appeal to sb",
+    "de": "jdn ansprechen",
+    "info": ""
+  },
+  {
+    "en": "unicorn",
+    "de": "Einhorn",
+    "info": ""
+  },
+  {
+    "en": "It's no mystery that ...",
+    "de": "Es ist kein Geheimnis, dass ...",
+    "info": ""
+  },
+  {
+    "en": "to be pitched at sb",
+    "de": "sich an jdn richten",
+    "info": ""
+  },
+  {
+    "en": "adolescent",
+    "de": "Heranwachsende/r",
+    "info": ""
+  },
+  {
+    "en": "to label sth",
+    "de": "etw kennzeichnen",
+    "info": ""
+  },
+  {
+    "en": "ingredient",
+    "de": "Inhaltsstoff",
+    "info": ""
+  },
+  {
+    "en": "prescription",
+    "de": "(ärztliches) Rezept",
+    "info": ""
+  },
+  {
+    "en": "irritable",
+    "de": "gereizt, reizbar",
+    "info": ""
+  },
+  {
+    "en": "to sniff",
+    "de": "die Nase hochziehen",
+    "info": ""
+  },
+  {
+    "en": "to cough",
+    "de": "husten",
+    "info": ""
+  },
+  {
+    "en": "irritation",
+    "de": "Reizung",
+    "info": ""
+  },
+  {
+    "en": "to be verbally abusive",
+    "de": "ausfällig werden",
+    "info": ""
+  },
+  {
+    "en": "tiredness",
+    "de": "Müdigkeit",
+    "info": ""
+  },
+  {
+    "en": "distorted",
+    "de": "verzerrt",
+    "info": ""
+  },
+  {
+    "en": "to be a high academic achiever",
+    "de": "sehr gute schulische Leisungen einbringen",
+    "info": ""
+  },
+  {
+    "en": "(drug) withdrawal",
+    "de": "Entzug",
+    "info": ""
+  },
+  {
+    "en": "to expel sb from school",
+    "de": "jd von der Schule verweisen",
+    "info": ""
+  },
+  {
+    "en": "academically",
+    "de": "in Bezug auf die schulischen Leisungen",
+    "info": ""
+  },
+  {
+    "en": "to detox",
+    "de": "entgiften",
+    "info": ""
+  },
+  {
+    "en": "puff",
+    "de": "Zug",
+    "info": ""
+  },
+  {
+    "en": "service station",
+    "de": "Tankstelle",
+    "info": ""
+  },
+  {
+    "en": "over the counter",
+    "de": "über den Ladentisch",
+    "info": ""
+  },
+  {
+    "en": "tobacconist",
+    "de": "Tabakladen",
+    "info": ""
+  },
+  {
+    "en": "to bother with sth",
+    "de": "sich mit etw aufhalten",
+    "info": ""
+  },
+  {
+    "en": "thriving",
+    "de": "blühend, florierend",
+    "info": ""
+  },
+  {
+    "en": "(drug) user",
+    "de": "(Drogen-) Konsument/in",
+    "info": ""
+  },
+  {
+    "en": "supplier",
+    "de": "Lieferant/in",
+    "info": ""
+  },
+  {
+    "en": "to stand by sb",
+    "de": "zu jdm stehen, zu jdm halten",
+    "info": ""
+  },
+  {
+    "en": "to injure sb/sth",
+    "de": "jdn/etw verletzen",
+    "info": ""
+  },
+  {
+    "en": "to impact sth",
+    "de": "Auswirkungen auf etw haben",
+    "info": ""
+  },
+  {
+    "en": "heartbreaking",
+    "de": "herzzerreißend",
+    "info": ""
+  },
+  {
+    "en": "to soar",
+    "de": "in die Höhe schnellen",
+    "info": ""
+  },
+  {
+    "en": "unstoppable",
+    "de": "unaufhaltsam",
+    "info": ""
+  },
+  {
+    "en": "medical practitioner",
+    "de": "Mediziner/in",
+    "info": ""
+  },
+  {
+    "en": "to wreck sth",
+    "de": "etw zunichtemachen",
+    "info": ""
+  },
+  {
+    "en": "to be subjected to sth",
+    "de": "einer Sache ausgesetzt sein",
+    "info": ""
+  },
+  {
+    "en": "speech",
+    "de": "Ansprache",
+    "info": ""
+  },
+  {
+    "en": "enquiry",
+    "de": "Untersuchung",
+    "info": ""
+  },
+  {
+    "en": "headed by",
+    "de": "unter der Leitung von",
+    "info": ""
+  },
+  {
+    "en": "regulatory body",
+    "de": "Aufsichtsbehörde",
+    "info": ""
+  },
+  {
+    "en": "professional body",
+    "de": "Berufsverband",
+    "info": ""
+  },
+  {
+    "en": "overwhelming",
+    "de": "überwältigend",
+    "info": ""
+  },
+  {
+    "en": "rise in tax",
+    "de": "Steuererhöhung",
+    "info": ""
+  },
+  {
+    "en": "therapeutic",
+    "de": "therapeutisch",
+    "info": ""
+  },
+  {
+    "en": "recreational",
+    "de": "Freizeit-, Entspannungs-",
+    "info": ""
+  },
+  {
+    "en": "highlighter pen",
+    "de": "Textmarker",
+    "info": ""
+  },
+  {
+    "en": "sole aim",
+    "de": "alleiniges Ziel",
+    "info": ""
+  },
+  {
+    "en": "primary school",
+    "de": "Grundschule",
+    "info": ""
+  },
+  {
+    "en": "to inhale",
+    "de": "inhalieren",
+    "info": ""
+  },
+  {
+    "en": "customs",
+    "de": "Zoll",
+    "info": ""
+  },
+  {
+    "en": "loophole",
+    "de": "Schlupfloch",
+    "info": ""
+  },
+  {
+    "en": "pharmaceutical",
+    "de": "Arzneimittel",
+    "info": ""
+  },
+  {
+    "en": "nicotine patch",
+    "de": "Nikotinpflaster",
+    "info": ""
+  },
+  {
+    "en": "single-use",
+    "de": "Einweg-",
+    "info": ""
+  },
+  {
+    "en": "territory",
+    "de": "Territorium",
+    "info": ""
+  },
+  {
+    "en": "retailer",
+    "de": "Einzelhändler/in",
+    "info": ""
+  },
+  {
+    "en": "pharmacy",
+    "de": "Apotheke",
+    "info": ""
+  },
+  {
+    "en": "at the forefront of sth",
+    "de": "an der Spitze von etw",
+    "info": ""
+  },
+  {
+    "en": "full stop",
+    "de": "(und) basta",
+    "info": ""
+  },
+  {
+    "en": "non-prescription",
+    "de": "rezeptfrei",
+    "info": ""
+  },
+  {
+    "en": "public health system",
+    "de": "(öffentliches) Gesundheitsesen",
+    "info": ""
+  },
+  {
+    "en": "matter",
+    "de": "Sache",
+    "info": ""
+  },
+  {
+    "en": "to comment on sth",
+    "de": "zu etw Stellung nehmen",
+    "info": ""
+  },
+  {
+    "en": "to outlaw sth",
+    "de": "etw (gesetzlich) verbieten",
+    "info": ""
+  },
+  {
+    "en": "associate minister NZE",
+    "de": "etwa: Staatssekretär/in",
+    "info": ""
+  },
+  {
+    "en": "passing (of a law)",
+    "de": "Verabschiedung (eines Gesetzes)",
+    "info": ""
+  },
+  {
+    "en": "heart attack",
+    "de": "Herzinfarkt",
+    "info": ""
+  },
+  {
+    "en": "talk",
+    "de": "Vortrag",
+    "info": ""
+  },
+  {
+    "en": "registered nurse",
+    "de": "examinierte/r Krankenpfleger/in",
+    "info": ""
+  },
+  {
+    "en": "to doubt sth",
+    "de": "etw anzweifeln",
+    "info": ""
+  },
+  {
+    "en": "to sprout",
+    "de": "keimen, sprießen",
+    "info": ""
+  },
+  {
+    "en": "breasts pl",
+    "de": "Brüste",
+    "info": ""
+  },
+  {
+    "en": "chest",
+    "de": "Brust, Brustkorb",
+    "info": ""
+  },
+  {
+    "en": "to fuss",
+    "de": "Wirbel machen",
+    "info": ""
+  },
+  {
+    "en": "to shoot sb",
+    "de": "jdn anschießen, jdn erschießen",
+    "info": ""
+  },
+  {
+    "en": "to cuss under one's breath",
+    "de": "leise vor sich hin fluchen",
+    "info": ""
+  },
+  {
+    "en": "to maneuver sth",
+    "de": "etw manövrieren",
+    "info": ""
+  },
+  {
+    "en": "busted",
+    "de": "kaputt",
+    "info": ""
+  },
+  {
+    "en": "fool",
+    "de": "Depp, Idiot",
+    "info": ""
+  },
+  {
+    "en": "to blink",
+    "de": "blinzeln",
+    "info": ""
+  },
+  {
+    "en": "to blind sb",
+    "de": "jdn blenden",
+    "info": ""
+  },
+  {
+    "en": "to crank",
+    "de": "kurbeln",
+    "info": ""
+  },
+  {
+    "en": "handle",
+    "de": "Griff, Hebel",
+    "info": ""
+  },
+  {
+    "en": "to beam",
+    "de": "strahlen, anstrahlen",
+    "info": ""
+  },
+  {
+    "en": "registration",
+    "de": "(Kfz-)Zulassung",
+    "info": ""
+  },
+  {
+    "en": "proof of insurance",
+    "de": "Versicherungsnachweis",
+    "info": ""
+  },
+  {
+    "en": "to plead",
+    "de": "flehen",
+    "info": ""
+  },
+  {
+    "en": "to groan",
+    "de": "stöhnen",
+    "info": ""
+  },
+  {
+    "en": "to pound",
+    "de": "hämmern, pochen",
+    "info": ""
+  },
+  {
+    "en": "instruction",
+    "de": "Anweisung",
+    "info": ""
+  },
+  {
+    "en": "to echo",
+    "de": "widerhallen",
+    "info": ""
+  },
+  {
+    "en": "(police) badge",
+    "de": "Polizeimarke",
+    "info": ""
+  },
+  {
+    "en": "buzz cut",
+    "de": "Bürstenhaarschnitt",
+    "info": ""
+  },
+  {
+    "en": "scar",
+    "de": "Narbe",
+    "info": ""
+  },
+  {
+    "en": "None of your business.",
+    "de": "Das geht Sie/dich nichts an.",
+    "info": ""
+  },
+  {
+    "en": "tail light",
+    "de": "Rücklicht",
+    "info": ""
+  },
+  {
+    "en": "to yank",
+    "de": "zerren",
+    "info": ""
+  },
+  {
+    "en": "to pin sb against sth",
+    "de": "jdn gegen etw drücken",
+    "info": ""
+  },
+  {
+    "en": "dashboard",
+    "de": "Armaturenbrett",
+    "info": ""
+  },
+  {
+    "en": "to bark",
+    "de": "bellen",
+    "info": ""
+  },
+  {
+    "en": "to shake",
+    "de": "zittern",
+    "info": ""
+  },
+  {
+    "en": "to pat sb down",
+    "de": "jdn abtasten",
+    "info": ""
+  },
+  {
+    "en": "patrol car",
+    "de": "Streifenwagen",
+    "info": ""
+  },
+  {
+    "en": "to jerk",
+    "de": "(heftig und ruckartig) zucken",
+    "info": ""
+  },
+  {
+    "en": "to splatter",
+    "de": "spritzen",
+    "info": ""
+  },
+  {
+    "en": "to gasp",
+    "de": "nach Luft ringen",
+    "info": ""
+  },
+  {
+    "en": "stunned",
+    "de": "fassungslos",
+    "info": ""
+  },
+  {
+    "en": "ear-splitting scream",
+    "de": "markerschütternder Schrei",
+    "info": ""
+  },
+  {
+    "en": "to emerge from sth",
+    "de": "aus etw (hervor)kommen",
+    "info": ""
+  },
+  {
+    "en": "gut",
+    "de": "Eingeweide, Darm",
+    "info": ""
+  },
+  {
+    "en": "throat",
+    "de": "Kehle",
+    "info": ""
+  },
+  {
+    "en": "bleeding",
+    "de": "Blutung",
+    "info": ""
+  },
+  {
+    "en": "to utter sth",
+    "de": "etw (Worte) von sich geben",
+    "info": ""
+  },
+  {
+    "en": "to stiffen",
+    "de": "erstarren",
+    "info": ""
+  },
+  {
+    "en": "narrator",
+    "de": "Erzähler/in",
+    "info": ""
+  },
+  {
+    "en": "torch",
+    "de": "Taschenlampe",
+    "info": ""
+  },
+  {
+    "en": "to steady oneself",
+    "de": "Halt finden",
+    "info": ""
+  },
+  {
+    "en": "even so",
+    "de": "und doch, trotz alledem",
+    "info": ""
+  },
+  {
+    "en": "to carry drugs",
+    "de": "Drogen mit sich führen",
+    "info": ""
+  },
+  {
+    "en": "sex education",
+    "de": "Sexualaufklärung",
+    "info": ""
+  },
+  {
+    "en": "nursing profession",
+    "de": "Pflegeberuf(e)",
+    "info": ""
+  },
+  {
+    "en": "to make a fuss",
+    "de": "Wirbel machen, sich aufregen",
+    "info": ""
+  },
+  {
+    "en": "remark",
+    "de": "Bemerkung",
+    "info": ""
+  },
+  {
+    "en": "drunkenness",
+    "de": "Trunkenheit",
+    "info": ""
+  },
+  {
+    "en": "disrespect",
+    "de": "mangelnder Respekt",
+    "info": ""
+  },
+  {
+    "en": "impatience",
+    "de": "Ungeduld",
+    "info": ""
+  },
+  {
+    "en": "hatred",
+    "de": "Hass",
+    "info": ""
+  },
+  {
+    "en": "to mistake sb for sb",
+    "de": "jdn (irrtümlich) für jdn halten",
+    "info": ""
+  },
+  {
+    "en": "concrete",
+    "de": "Beton",
+    "info": ""
+  },
+  {
+    "en": "pavement",
+    "de": "Gehweg",
+    "info": ""
+  },
+  {
+    "en": "witness",
+    "de": "Zeuge",
+    "info": ""
+  },
+  {
+    "en": "to raise sb",
+    "de": "jdn großziehen",
+    "info": ""
+  },
+  {
+    "en": "beating",
+    "de": "Prügelattacke",
+    "info": ""
+  },
+  {
+    "en": "to take sides",
+    "de": "Partei ergreifen",
+    "info": ""
+  },
+  {
+    "en": "to live a charmed life",
+    "de": "ein geborgenes Leben führen",
+    "info": ""
+  },
+  {
+    "en": "to acquit sb",
+    "de": "jdn freisprechen",
+    "info": ""
+  },
+  {
+    "en": "violence",
+    "de": "Gewalt, Unruhen",
+    "info": ""
+  },
+  {
+    "en": "honor student",
+    "de": "Einserschüler/in",
+    "info": ""
+  },
+  {
+    "en": "handcuffs pl",
+    "de": "Handschellen",
+    "info": ""
+  },
+  {
+    "en": "scorn",
+    "de": "Verachtung",
+    "info": ""
+  },
+  {
+    "en": "ridicule",
+    "de": "Spott",
+    "info": ""
+  },
+  {
+    "en": "contemporary",
+    "de": "aktuell, zeitgemäß",
+    "info": ""
+  },
+  {
+    "en": "off duty",
+    "de": "außer Dienst",
+    "info": ""
+  },
+  {
+    "en": "romance",
+    "de": "Liebe(serlebnis), Romantik",
+    "info": ""
+  },
+  {
+    "en": "protester",
+    "de": "Demonstrant/in",
+    "info": ""
+  },
+  {
+    "en": "justice",
+    "de": "Gerechtigkeit",
+    "info": ""
+  },
+  {
+    "en": "grief",
+    "de": "Leid, Kummer, Trauer",
+    "info": ""
+  },
+  {
+    "en": "reserved",
+    "de": "zurückhaltend",
+    "info": ""
+  },
+  {
+    "en": "charismatic",
+    "de": "charismatisch",
+    "info": ""
+  },
+  {
+    "en": "to be consumed by sth",
+    "de": "sich vor etw verzehren",
+    "info": ""
+  },
+  {
+    "en": "absent",
+    "de": "abwesend",
+    "info": ""
+  },
+  {
+    "en": "carefree",
+    "de": "unbeschwert, sorglos",
+    "info": ""
+  },
+  {
+    "en": "darin",
+    "de": "kühn, wagemutig",
+    "info": ""
+  },
+  {
+    "en": "to tag along",
+    "de": "mitkommen, sich anschließen",
+    "info": ""
+  },
+  {
+    "en": "raid",
+    "de": "Razzia",
+    "info": ""
+  },
+  {
+    "en": "sb falls apart",
+    "de": "für jdn bricht eine Welt zusammen",
+    "info": ""
+  },
+  {
+    "en": "allowance",
+    "de": "Taschengeld",
+    "info": ""
+  },
+  {
+    "en": "to co-operate",
+    "de": "kooperieren, zusammenarbeiten",
+    "info": ""
+  },
+  {
+    "en": "excuse",
+    "de": "Vorwand, Ausrede",
+    "info": ""
+  },
+  {
+    "en": "to stunt growth",
+    "de": "das Wachstum hemmen",
+    "info": ""
+  },
+  {
+    "en": "to upload sth",
+    "de": "etw hochladen",
+    "info": ""
+  },
+  { "en": "field of expertise", "de": "Fachgebiet", "info": "" },
+  { "en": "toolbox", "de": "Werkzeugkeiste", "info": "" },
+  {
+    "en": "to distrust sb/sth",
+    "de": "jdm/einer Sache misstrauen",
+    "info": ""
+  },
+  {
+    "en": "disruptive technology",
+    "de": "bahnbrechende Technologie",
+    "info": ""
+  },
+  { "en": "commonplace", "de": "alltäglich", "info": "" },
+  { "en": "prevalent", "de": "vorherrschend, verbreitet", "info": "" },
+  { "en": "energy storage device", "de": "Energiespeicher", "info": "" },
+  {
+    "en": "to be increasing in capacity",
+    "de": "die Kapazität von etw steigt",
+    "info": ""
+  },
+  { "en": "reach", "de": "Reichweite", "info": "" },
+  { "en": "to retain sb/sth", "de": "jdn/etw behalten", "info": "" },
+  { "en": "power outage", "de": "Stromausfall", "info": "" },
+  { "en": "automation", "de": "Automatisierung", "info": "" },
+  { "en": "self-driving vehicle", "de": "selbstfahrendes Auto", "info": "" },
+  { "en": "to perform surgery", "de": "Operationen durchführen", "info": "" },
+  {
+    "en": "to substitute as sb/sth",
+    "de": "die Aufgaben von jdm/etw übernehmen",
+    "info": ""
+  },
+  { "en": "carer", "de": "Pfleger/in", "info": "" },
+  {
+    "en": "Artificial Intelligence (AI)",
+    "de": "Künstliche Intelligenz (KI)",
+    "info": ""
+  },
+  { "en": "huge potential", "de": "riesiges Potenzial", "info": "" },
+  { "en": "genetic engineering", "de": "Gentechnik", "info": "" },
+  { "en": "coupled with", "de": "zusammen mit", "info": "" },
+  {
+    "en": "life-saving drugs and vaccines",
+    "de": "lebensrettende Arzneimittel und Impfstoffe",
+    "info": "pl"
+  },
+  {
+    "en": "to tackle chronic diseases",
+    "de": "chronische Krankheiten bekämpfen",
+    "info": ""
+  },
+  { "en": "neuroscience", "de": "Neurowissenschaft(en)", "info": "" },
+  {
+    "en": "investigation (into sth)",
+    "de": "Untersuchung (von etw)",
+    "info": ""
+  },
+  { "en": "neural", "de": "Nerven", "info": "" },
+  {
+    "en": "neurological disorder",
+    "de": "neurologische Erkrankung",
+    "info": ""
+  },
+  {
+    "en": "generative artificial intelligence system",
+    "de": "generatives KI-System",
+    "info": ""
+  },
+  { "en": "to compute", "de": "rechnen", "info": "" },
+  {
+    "en": "to draw conclusions from sth",
+    "de": "Schlüsse aus etw ziehen",
+    "info": ""
+  },
+  { "en": "pattern", "de": "Muster", "info": "" },
+  { "en": "to detect sth", "de": "etw aufspüren", "info": "" },
+  { "en": "dataset", "de": "Datensatz", "info": "" },
+  {
+    "en": "self-learning computer system",
+    "de": "selbstlernendes (Computer-) System",
+    "info": ""
+  },
+  { "en": "conversationally", "de": "in einem Dialog", "info": "" },
+  {
+    "en": "in unprecedented ways",
+    "de": "auf nie dagewesene Weise",
+    "info": ""
+  },
+  { "en": "to name but a few", "de": "um nur einige zu nennen", "info": "" },
+  { "en": "destructive potential", "de": "Zerstörungspotential", "info": "" },
+  { "en": "to conduct research", "de": "Forschung betreiben", "info": "" },
+  { "en": "reasoning", "de": "logisches Denken", "info": "" },
+  { "en": "observation", "de": "Beobachtung", "info": "" },
+  {
+    "en": "within sb's scientific community",
+    "de": "in jds wissenschaftlichem Umfeld",
+    "info": ""
+  },
+  { "en": "outcome", "de": "Ergebnis", "info": "" },
+  {
+    "en": "highly skilled experts",
+    "de": "hochqualifizierte Fachkräfte",
+    "info": "pl"
+  },
+  { "en": "to put sth to good use", "de": "etw sinnvoll nutzen", "info": "" },
+  {
+    "en": "well-trained professionals",
+    "de": "gut ausgebildete Fachkräfte",
+    "info": "pl"
+  },
+  { "en": "sadly", "de": "leider, bedauerlicherweise", "info": "" },
+  {
+    "en": "noticeable lack of interest in sth",
+    "de": "spürbarer Mangel an Interesse für etw",
+    "info": ""
+  },
+  { "en": "all too often", "de": "allzu oft", "info": "" },
+  {
+    "en": "the survival of mankind",
+    "de": "das Überleben der Menschheit",
+    "info": ""
+  },
+  { "en": "monolingual", "de": "einsprachig", "info": "" },
+  { "en": "justified", "de": "gerechtfertigt", "info": "" },
+  { "en": "to leave traces", "de": "Spuren hinterlassen", "info": "" },
+  { "en": "curable", "de": "heilbar", "info": "" },
+  { "en": "intricate", "de": "komplex, detailreich", "info": "" },
+  { "en": "drawback", "de": "Nachteil", "info": "" },
+  { "en": "science literacy", "de": "wissenschaftliche Bildung", "info": "" },
+  { "en": "emerging", "de": "aufkommend", "info": "" },
+  { "en": "exploration", "de": "Erforschung", "info": "" },
+  { "en": "space", "de": "Weltraum", "info": "" },
+  { "en": "to progress", "de": "vorankommen, Fortschritte machen", "info": "" },
+  { "en": "landmark", "de": "Meilenstein", "info": "" },
+  { "en": "arrival", "de": "Aufkommen", "info": "" },
+  { "en": "arms race", "de": "Wettrüsten", "info": "" },
+  { "en": "mature", "de": "reif", "info": "" },
+  {
+    "en": "theoretical foundation",
+    "de": "theoretische Grundlage",
+    "info": ""
+  },
+  { "en": "to pale", "de": "verblassen", "info": "" },
+  { "en": "computer-assisted", "de": "computergestützt", "info": "" },
+  { "en": "personal computing age", "de": "PC-Zeitalter", "info": "" },
+  {
+    "en": "the disabled",
+    "de": "Behinderte, Menschen mit Behinderung",
+    "info": ""
+  },
+  { "en": "to lead the way", "de": "führend sein", "info": "" },
+  { "en": "proving ground", "de": "Versuchsgelände", "info": "" },
+  { "en": "drive by wire", "de": "Drive-by-Wire", "info": "" },
+  { "en": "spark of fire", "de": "Feuerfunke", "info": "" },
+  {
+    "en": "to engage with sb/sth",
+    "de": "sich mit jdm/etw auseinandersetzen",
+    "info": ""
+  },
+  { "en": "the human race", "de": "die Menschheit", "info": "" },
+  { "en": "to advocate sth", "de": "etw befürworten", "info": "" },
+  {
+    "en": "to be scientifically literate",
+    "de": "kompetent mit Wissenschaft umgehen können",
+    "info": ""
+  },
+  { "en": "advanced", "de": "fortschrittlich", "info": "" },
+  { "en": "application", "de": "Anwendung", "info": "" },
+  {
+    "en": "the thrill and wonder of sth",
+    "de": "die faszinierende Welt von etw",
+    "info": ""
+  },
+  {
+    "en": "to be sb's main priority",
+    "de": "jds Hauptanliegen sein",
+    "info": ""
+  },
+  { "en": "by-product", "de": "Nebenprodukt", "info": "" },
+  { "en": "special needs", "de": "Förderbedarf", "info": "pl" },
+  { "en": "stable", "de": "stabil", "info": "" },
+  { "en": "capable", "de": "kompetent, fähig", "info": "" },
+  { "en": "food for thought", "de": "Denkanstöße", "info": "" },
+  { "en": "to coin a term", "de": "einen Begriff prägen", "info": "" },
+  { "en": "denial", "de": "Leugnung", "info": "" },
+  { "en": "to attribute sth to sb", "de": "jdm etw zuschreiben", "info": "" },
+  { "en": "report card", "de": "(Schul-) Zeugnis", "info": "" },
+  { "en": "representative", "de": "Vertreter/in", "info": "" },
+  { "en": "primarily", "de": "hauptsächlich", "info": "" },
+  { "en": "to memorize sth", "de": "etw auswendig lernen", "info": "" },
+  { "en": "to investigate", "de": "untersuchen", "info": "" },
+  { "en": "curiosity", "de": "Neugier", "info": "" },
+  { "en": "to make sense of sth", "de": "etw verstehen", "info": "" },
+  { "en": "hypothesis", "de": "Hypothese", "info": "" },
+  { "en": "to refine sth", "de": "etw verfeinern", "info": "" },
+  { "en": "to nurture sth", "de": "etw nähren, etw fördern", "info": "" },
+  { "en": "puddle", "de": "Pfütze", "info": "" },
+  { "en": "to measure sth", "de": "etw messen", "info": "" },
+  { "en": "energy transfer", "de": "Energieumwandlung", "info": "" },
+  {
+    "en": "to instruct sb to do sth",
+    "de": "jdn anweisen, etw zu tun",
+    "info": ""
+  },
+  { "en": "vaccination", "de": "Impfung", "info": "" },
+  { "en": "to feature", "de": "vorkommen", "info": "" },
+  { "en": "oil spill", "de": "Ölteppich", "info": "" },
+  { "en": "interdisciplinary", "de": "fachübergreifend", "info": "" },
+  { "en": "assessment", "de": "Bewertung", "info": "" },
+  { "en": "textbook-style", "de": "lehrbuchhaft", "info": "" },
+  { "en": "component", "de": "Bestandteil", "info": "" },
+  { "en": "vicinity", "de": "Nachbarschaft, Nähe", "info": "" },
+  { "en": "to tailor sth to sb", "de": "etw auf jdn zuschneiden", "info": "" },
+  {
+    "en": "to learn sth (off) by heart",
+    "de": "etw auswendiglernen",
+    "info": ""
+  },
+  { "en": "to praise sb/sth", "de": "jdn/etw loben", "info": "" },
+  { "en": "wise(ly)", "de": "klug", "info": "" },
+  { "en": "puzzling", "de": "verwirrend", "info": "" },
+  { "en": "eager(ly)", "de": "eifrig, ungeduldig", "info": "" },
+  { "en": "disruption", "de": "Störung(en), Behinderunge(en)", "info": "" },
+  { "en": "customer service", "de": "Kundendienst", "info": "" },
+  { "en": "role", "de": "Rolle, Aufgabe, Funktion", "info": "" },
+  { "en": "voice synthesis", "de": "Sprachsynthese", "info": "" },
+  { "en": "voice recognition", "de": "Spracherkennung", "info": "" },
+  { "en": "to host sth", "de": "etw (Daten) hosten", "info": "" },
+  { "en": "breakthrough", "de": "Durchbruch", "info": "" },
+  { "en": "to trump sb/sth", "de": "jdn/etw übertrumpfen", "info": "" },
+  { "en": "processing power", "de": "Rechenleistung", "info": "" },
+  { "en": "factual error", "de": "sachlicher Fehler", "info": "" },
+  { "en": "industry jargon", "de": "Fachsprache", "info": "" },
+  { "en": "falsely", "de": "fälschlicherweise", "info": "" },
+  { "en": "sexual harassment", "de": "sexuelle Belästigung", "info": "" },
+  { "en": "to cite sb/sth", "de": "jdn/etw zitieren", "info": "" },
+  { "en": "promotional", "de": "Werbe-", "info": "" },
+  { "en": "inaccurate", "de": "falsch", "info": "" },
+  { "en": "query", "de": "Frage", "info": "" },
+  { "en": "astronomical", "de": "unermesslich", "info": "" },
+  { "en": "predictive text", "de": "automatische Texterkennung", "info": "" },
+  { "en": "prompt", "de": "Stichwort, Texteingabe", "info": "" },
+  {
+    "en": "to trick sb into doing sth",
+    "de": "jdn (mittels einer List) dazu bringen, etw zu tun",
+    "info": ""
+  },
+  { "en": "disinformation", "de": "Falschinformation(en)", "info": "" },
+  { "en": "at a significant scale", "de": "in erheblichem Umfang", "info": "" },
+  { "en": "chief economist", "de": "Chefökonom/in", "info": "" },
+  { "en": "election", "de": "Wahl", "info": "" },
+  { "en": "executive", "de": "Manager/in", "info": "" },
+  { "en": "accountant", "de": "Buchhalter/in", "info": "" },
+  { "en": "lawyer", "de": "Anwalt/Anwältin", "info": "" },
+  {
+    "en": "Human Resources (Department)",
+    "de": "Personal(abteilung)",
+    "info": "pl"
+  },
+  { "en": "parent (company)", "de": "Mutterkonzern", "info": "" },
+  {
+    "en": "sound generator",
+    "de": "Stimmgenerator, Musikgenerator",
+    "info": ""
+  },
+  { "en": "image generator", "de": "Bildgenerator", "info": "" },
+  { "en": "to throw sth open", "de": "etw öffnen", "info": "" },
+  { "en": "potential gains", "de": "potentielle Vorteile", "info": "pl" },
+  { "en": "to release sth", "de": "etw veröffentlichen", "info": "" },
+  {
+    "en": "to scramble into action",
+    "de": "überstüzt tätig werden",
+    "info": ""
+  },
+  { "en": "to unleash sth", "de": "etw entfesseln, etw loslassen", "info": "" },
+  { "en": "launch", "de": "Start, Markteinführung", "info": "" },
+  { "en": "bill", "de": "Gesetz", "info": "" },
+  { "en": "unchecked", "de": "unkontrolliert, hemmungslos", "info": "" },
+  { "en": "act", "de": "Gesetz", "info": "" },
+  { "en": "negotiation", "de": "Verhandlung", "info": "" },
+  { "en": "overt", "de": "unverholen, offen", "info": "" },
+  { "en": "restraint", "de": "Zurückhaltung", "info": "" },
+  { "en": "co-founder", "de": "Mit(be)gründer/in", "info": "" },
+  { "en": "signatory", "de": "Unterzeichner/in", "info": "" },
+  { "en": "nuclear arms", "de": "Kernwaffen, Atomwaffen", "info": "pl" },
+  { "en": "emergence", "de": "Entstehen, Aufkommen", "info": "" },
+  { "en": "framework", "de": "Rahmen, Rahmenbedingungen", "info": "" },
+  { "en": "to moderate sth", "de": "etw mäßigen, etw zügeln", "info": "" },
+  { "en": "pool", "de": "Sammlung, Reservoir", "info": "" },
+  { "en": "considerable(-ly)", "de": "beträchtlich, erheblich", "info": "" },
+  { "en": "urgency", "de": "Dringlichkeit", "info": "" },
+  { "en": "deliberate(ly)", "de": "absichtlich", "info": "" },
+  { "en": "instability", "de": "Instabilität", "info": "" },
+  { "en": "senior", "de": "hochrangig", "info": "" },
+  { "en": "academic", "de": "Akademiker/in", "info": "" },
+  { "en": "giant", "de": "Gigant, Riese", "info": "" },
+  { "en": "prospective", "de": "potenziell, künftig", "info": "" },
+  { "en": "interconnected web", "de": "Netz, vernetzte Welt", "info": "" },
+  { "en": "foam", "de": "Schaum", "info": "" },
+  { "en": "marine creature", "de": "Meereslebewesen", "info": "" },
+  { "en": "adaptation", "de": "Anpassung", "info": "" },
+  { "en": "fabric", "de": "Stoff, Gewebe", "info": "" },
+  { "en": "parachuter", "de": "Fallschirmspringer/in", "info": "" },
+  { "en": "parachute", "de": "Fallschirm", "info": "" },
+  { "en": "property", "de": "Eigenschaft", "info": "" },
+  {
+    "en": "to be composed of sth",
+    "de": "aus etw bestehen, sich aus etw zusammensetzen",
+    "info": ""
+  },
+  { "en": "strand of fibre", "de": "Faserstrang, Faden", "info": "" },
+  { "en": "to weave", "de": "weben", "info": "" },
+  { "en": "a piece of cloth", "de": "ein Stück Stoff", "info": "" },
+  { "en": "filtration", "de": "Filterung", "info": "" },
+  { "en": "activated carbon", "de": "Aktivkohle", "info": "" },
+  { "en": "sodium", "de": "Natrium", "info": "" },
+  { "en": "lesser-known", "de": "weniger bekannt", "info": "" },
+  { "en": "to claim sth", "de": "etw behaupten", "info": "" },
+  {
+    "en": "to rate sb/sth",
+    "de": "jdn/etw einstufen, jdn/etw bewerten",
+    "info": ""
+  },
+  { "en": "to rearrange sth", "de": "etw neu anordnen", "info": "" },
+  { "en": "nuclear fusion", "de": "Kernfusion", "info": "" },
+  { "en": "inexhaustible supply", "de": "unerschöpflicher Vorrat", "info": "" },
+  { "en": "to guard against sth", "de": "sich vor etw schützen", "info": "" },
+  { "en": "to spread sth", "de": "etw verbreiten", "info": "" },
+  { "en": "proposition", "de": "These, Aussage", "info": "" },
+  { "en": "to make a point", "de": "ein Argument vorbringen", "info": "" },
+  {
+    "en": "awareness (of sth)",
+    "de": "Bewusstsein (für etw), Wissen (um etw)",
+    "info": ""
+  },
+  { "en": "compulsory", "de": "zwingend, obligatorisch", "info": "" },
+  { "en": "to sit an exam", "de": "eine Prüfung ablegen", "info": "" },
+  { "en": "animal welfare", "de": "Tierwohl, Tierschutz", "info": "" },
+  { "en": "business management", "de": "Betriebswirtschaft", "info": "" },
+  { "en": "career prospects", "de": "Berufsaussichten", "info": "pl" },
+  { "en": "certificate", "de": "Zeugnis, Nachweis", "info": "" },
+  { "en": "member of staff", "de": "Mitarbeiter/in", "info": "" },
+  { "en": "fulfilment", "de": "Erfüllung, Selbstverwirklichung", "info": "" },
+  { "en": "to allocate sth", "de": "etw zuteilen", "info": "" },
+  {
+    "en": "progress report",
+    "de": "Arbeitsbericht, Zwischenbericht",
+    "info": ""
+  },
+  {
+    "en": "work experience",
+    "de": "(Arbeits-/Berufs-) Praktikum",
+    "info": ""
+  },
+  {
+    "en": "work placement",
+    "de": "Praktikum",
+    "info": ""
+  },
+  {
+    "en": "to gain hands-on experience",
+    "de": "praktische Erfahrung gewinnen",
+    "info": ""
+  },
+  {
+    "en": "field of work",
+    "de": "Fachgebiet, Arbeitsfeld",
+    "info": ""
+  },
+  {
+    "en": "to learn first-hand from sb",
+    "de": "direkt von jdm lernen",
+    "info": ""
+  },
+  {
+    "en": "to develop soft skills",
+    "de": "soziale Kompetenz(en) entwickeln",
+    "info": ""
+  },
+  {
+    "en": "to pursue a career",
+    "de": "einen Beruf ausüben",
+    "info": ""
+  },
+  {
+    "en": "to impress potential employers",
+    "de": "potenzielle Arbeitgeber beeindrucken",
+    "info": ""
+  },
+  {
+    "en": "to showcase one's skills and personal qualities",
+    "de": "die eigenen Fähigkeiten und persönliche Eigenschaften unter Beweis stellen",
+    "info": ""
+  },
+  {
+    "en": "application process",
+    "de": "Bewerbungsverfahren",
+    "info": ""
+  },
+  {
+    "en": "job advert",
+    "de": "Stellenanzeige",
+    "info": ""
+  },
+  {
+    "en": "online application from",
+    "de": "Online-Bewerbungsformular",
+    "info": ""
+  },
+  {
+    "en": "CV",
+    "de": "Lebenslauf",
+    "info": ""
+  },
+  {
+    "en": "letter of motivation",
+    "de": "Motivationsschreiben",
+    "info": ""
+  },
+  {
+    "en": "to shortlist sb",
+    "de": "jdn in die engere Auswahl nehmen",
+    "info": ""
+  },
+  {
+    "en": "applicant",
+    "de": "Bewerber/in",
+    "info": ""
+  },
+  {
+    "en": "job fair",
+    "de": "Jobmesse",
+    "info": ""
+  },
+  {
+    "en": "labour force",
+    "de": "Arbeitskräfte",
+    "info": ""
+  },
+  {
+    "en": "workers's rights pl",
+    "de": "Arbeitnehmerrechte",
+    "info": ""
+  },
+  {
+    "en": "trade union",
+    "de": "Gewerkschaft",
+    "info": ""
+  },
+  {
+    "en": "on sb's behalf",
+    "de": "für jdn, in jds Namen",
+    "info": ""
+  },
+  {
+    "en": "holiday pay",
+    "de": "Urlaubsgeld",
+    "info": ""
+  },
+  {
+    "en": "sick pay",
+    "de": "Krankengeld",
+    "info": ""
+  },
+  {
+    "en": "social security",
+    "de": "Sozialversicherung",
+    "info": ""
+  },
+  {
+    "en": "pension contributions pl",
+    "de": "Arbeitsbedingungen",
+    "info": ""
+  },
+  {
+    "en": "perks pl",
+    "de": "Vergünstigungen",
+    "info": ""
+  },
+  {
+    "en": "childcare",
+    "de": "Kinderbetreuung",
+    "info": ""
+  },
+  {
+    "en": "working from home",
+    "de": "Arbeiten von Zuhause",
+    "info": ""
+  },
+  {
+    "en": "flexitime",
+    "de": "Gleitzeit",
+    "info": ""
+  },
+  {
+    "en": "job security",
+    "de": "sicherer Arbeitsplatz",
+    "info": ""
+  },
+  {
+    "en": "nine-to-five job",
+    "de": "Stelle mit geregeltem Arbeitstag",
+    "info": ""
+  },
+  {
+    "en": "to give way to sth",
+    "de": "einer Sache weichen",
+    "info": ""
+  },
+  {
+    "en": "working life",
+    "de": "Arbeitsleben, Berufsleben",
+    "info": ""
+  },
+  {
+    "en": "blue-collar job",
+    "de": "wenig qualifizierte Arbeit",
+    "info": ""
+  },
+  {
+    "en": "manufacturing industries pl",
+    "de": "verarbeitende Industrie",
+    "info": ""
+  },
+  {
+    "en": "to outsource sth",
+    "de": "etw auslagern",
+    "info": ""
+  },
+  {
+    "en": "low-wage economy",
+    "de": "Niedriglohnland",
+    "info": ""
+  },
+  {
+    "en": "white-collar job",
+    "de": "(qualifizierter) Bürojob",
+    "info": ""
+  },
+  {
+    "en": "gig economy",
+    "de": "Gig-Economy",
+    "info": ""
+  },
+  {
+    "en": "self-employed worker",
+    "de": "selbstständige Arbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "to reduce labour costs",
+    "de": "Arbeitskosten senken",
+    "info": ""
+  },
+  {
+    "en": "menial job",
+    "de": "niedere Tätigkeit, Hilfsarbeit",
+    "info": ""
+  },
+  {
+    "en": "contractor",
+    "de": "Auftragnehmer/in",
+    "info": ""
+  },
+  {
+    "en": "legal protection",
+    "de": "rechtliche Absicherung, Rechtsschutz",
+    "info": ""
+  },
+  {
+    "en": "minimum wage",
+    "de": "Mindestlohn",
+    "info": ""
+  },
+  {
+    "en": "remote working",
+    "de": "mobiles/ortsungebundenes Arbeiten",
+    "info": ""
+  },
+  {
+    "en": "to make savings on sth",
+    "de": "Einsparungen bei etw erzielen",
+    "info": ""
+  },
+  {
+    "en": "airline industry",
+    "de": "Luftfahrtbranche",
+    "info": ""
+  },
+  {
+    "en": "security guard",
+    "de": "Sicherheitsmitarbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "sales(department)",
+    "de": "Verkauf(sabteilung)",
+    "info": ""
+  },
+  {
+    "en": "to stick to sth",
+    "de": "sich an etw halten",
+    "info": ""
+  },
+  {
+    "en": "unskilled worker",
+    "de": "ungelernte/r Arbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "retirement",
+    "de": "Ruhestand, Rente",
+    "info": ""
+  },
+  {
+    "en": "sub-heading",
+    "de": "Unterabschnitt",
+    "info": ""
+  },
+  {
+    "en": "company car",
+    "de": "Firmenwagen",
+    "info": ""
+  },
+  {
+    "en": "job satisfaction",
+    "de": "Arbeitszufriedenheit",
+    "info": ""
+  },
+  {
+    "en": "to commute",
+    "de": "zur Arbeit fahren",
+    "info": ""
+  },
+  {
+    "en": "promotion prospects pl",
+    "de": "Aufstiegschancen",
+    "info": ""
+  },
+  {
+    "en": "snow globe",
+    "de": "Schneekugel",
+    "info": ""
+  },
+  {
+    "en": "driverless",
+    "de": "fahrerlos",
+    "info": ""
+  },
+  {
+    "en": "the professional class",
+    "de": "die Schicht der Facharbeiter und Angestellten",
+    "info": ""
+  },
+  {
+    "en": "thanks to",
+    "de": "dank",
+    "info": ""
+  },
+  {
+    "en": "makeshift",
+    "de": "behelfsmäßig, improvisiert",
+    "info": ""
+  },
+  {
+    "en": "to shake sth up",
+    "de": "etw umkrempeln",
+    "info": ""
+  },
+  {
+    "en": "shifting tectonic plates",
+    "de": "tektonische Verschiebung",
+    "info": ""
+  },
+  {
+    "en": "to grind",
+    "de": "mahlen, sich reiben",
+    "info": ""
+  },
+  {
+    "en": "epic",
+    "de": "monumental, epochal",
+    "info": ""
+  },
+  {
+    "en": "recognition",
+    "de": "Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "astonishment",
+    "de": "Staunen",
+    "info": ""
+  },
+  {
+    "en": "to take hold",
+    "de": "sich breitmachen",
+    "info": ""
+  },
+  {
+    "en": "to lift the lid on sth",
+    "de": "etw ans Licht bringen",
+    "info": ""
+  },
+  {
+    "en": "resignation",
+    "de": "Kündigung",
+    "info": ""
+  },
+  {
+    "en": "to resign",
+    "de": "kündigen",
+    "info": ""
+  },
+  {
+    "en": "en masse",
+    "de": "massenhaft, en masse",
+    "info": ""
+  },
+  {
+    "en": "reduction (in sth)",
+    "de": "Reduzierung",
+    "info": ""
+  },
+  {
+    "en": "corporate property rents pl",
+    "de": "Gewerbemieten",
+    "info": ""
+  },
+  {
+    "en": "office space",
+    "de": "Bürofläche(n)",
+    "info": ""
+  },
+  {
+    "en": "competitor",
+    "de": "Konkurrent/in",
+    "info": ""
+  },
+  {
+    "en": "on a hybrid basis",
+    "de": "gemischt",
+    "info": ""
+  },
+  {
+    "en": "to take sth for granted",
+    "de": "etw als selbstverständlich erachten",
+    "info": ""
+  },
+  {
+    "en": "cobwebs pl",
+    "de": "Spinnweben",
+    "info": ""
+  },
+  {
+    "en": "stale",
+    "de": "abgestanden, muffig",
+    "info": ""
+  },
+  {
+    "en": "presenteeism",
+    "de": "Anwesenheitszwang",
+    "info": ""
+  },
+  {
+    "en": "to be around",
+    "de": "da sein",
+    "info": ""
+  },
+  {
+    "en": "transparent",
+    "de": "transparent",
+    "info": ""
+  },
+  {
+    "en": "case",
+    "de": "Behälter, Hülle",
+    "info": ""
+  },
+  {
+    "en": "enduring",
+    "de": "fortwährend",
+    "info": ""
+  },
+  {
+    "en": "permanence",
+    "de": "Beständigkeit",
+    "info": ""
+  },
+  {
+    "en": "certainty",
+    "de": "Gewissheit",
+    "info": ""
+  },
+  {
+    "en": "distraction",
+    "de": "Ablenkung",
+    "info": ""
+  },
+  {
+    "en": "to swirl around",
+    "de": "herumwirbeln",
+    "info": ""
+  },
+  {
+    "en": "to settle back",
+    "de": "sich wieder beruhigen",
+    "info": ""
+  },
+  {
+    "en": "PA (personal assistant)",
+    "de": "persönliche/r Assistent/in",
+    "info": ""
+  },
+  {
+    "en": "consultant",
+    "de": "Berater/in",
+    "info": ""
+  },
+  {
+    "en": "freelancer",
+    "de": "Selbstständige/r",
+    "info": ""
+  },
+  {
+    "en": "to reset sth",
+    "de": "etw neu einstellen",
+    "info": ""
+  },
+  {
+    "en": "scary",
+    "de": "gruselig, beängstigend",
+    "info": ""
+  },
+  {
+    "en": "mass unemployment",
+    "de": "Massenarbeitslosigkeit",
+    "info": ""
+  },
+  {
+    "en": "dissatisfaction",
+    "de": "Unzufriedenheit",
+    "info": ""
+  },
+  {
+    "en": "managerial",
+    "de": "leitend, Führungs-",
+    "info": ""
+  },
+  {
+    "en": "competitive",
+    "de": "günstig, konkurrenzfähig",
+    "info": ""
+  },
+  {
+    "en": "diversity",
+    "de": "Vielfalt, Diversität",
+    "info": ""
+  },
+  {
+    "en": "to thrive",
+    "de": "gedeihen, aufblühen",
+    "info": ""
+  },
+  {
+    "en": "gross",
+    "de": "brutto",
+    "info": ""
+  },
+  {
+    "en": "hourly earnings pl",
+    "de": "Stundenlohn",
+    "info": ""
+  },
+  {
+    "en": "to widen",
+    "de": "sich weiten",
+    "info": ""
+  },
+  {
+    "en": "rate of progress",
+    "de": "Steigerungsrate",
+    "info": ""
+  },
+  {
+    "en": "gender divide",
+    "de": "Geschlechtergefälle",
+    "info": ""
+  },
+  {
+    "en": "gulf",
+    "de": "Kluft",
+    "info": ""
+  },
+  {
+    "en": "remuneration",
+    "de": "Vergütung",
+    "info": ""
+  },
+  {
+    "en": "maternity leave",
+    "de": "Mutterschutz(urlaub), Elternzeit",
+    "info": ""
+  },
+  {
+    "en": "leave",
+    "de": "Urlaub, Freistellung",
+    "info": ""
+  },
+  {
+    "en": "the bulk of sth",
+    "de": "den größten Teil von etw",
+    "info": ""
+  },
+  {
+    "en": "to take the financial hit",
+    "de": "finanzielle Einbußen erleiden",
+    "info": ""
+  },
+  {
+    "en": "chair",
+    "de": "Vorsitzende/r",
+    "info": ""
+  },
+  {
+    "en": "House of Commons",
+    "de": "Unterhaus (des brit. Parlaments)",
+    "info": ""
+  },
+  {
+    "en": "motherhood",
+    "de": "Mutterschaft",
+    "info": ""
+  },
+  {
+    "en": "penalty",
+    "de": "Nachteil, Preis (für etw)",
+    "info": ""
+  },
+  {
+    "en": "reading",
+    "de": "Lektüre, Lesestoff",
+    "info": ""
+  },
+  {
+    "en": "promotion",
+    "de": "Beförderung",
+    "info": ""
+  },
+  {
+    "en": "disgraceful",
+    "de": "beschämend, erbärmlich",
+    "info": ""
+  },
+  {
+    "en": "glaring",
+    "de": "eklatant, krass",
+    "info": ""
+  },
+  {
+    "en": "to fail sb",
+    "de": "jdn im Stich lassen",
+    "info": ""
+  },
+  {
+    "en": "equivalent",
+    "de": "Gegenwert",
+    "info": ""
+  },
+  {
+    "en": "to dominate sb/sth",
+    "de": "jdn/etw beherrschen",
+    "info": ""
+  },
+  {
+    "en": "to persist",
+    "de": "fortbestehen",
+    "info": ""
+  },
+  {
+    "en": "to comply with sth",
+    "de": "etw befolgen",
+    "info": ""
+  },
+  {
+    "en": "to fine sb",
+    "de": "jdn mit einer Geldstrafe bestrafen",
+    "info": ""
+  },
+  {
+    "en": "founder",
+    "de": "Gründer/in",
+    "info": ""
+  },
+  {
+    "en": "pregnant",
+    "de": "schwanger",
+    "info": ""
+  },
+  {
+    "en": "to screw sb",
+    "de": "jdn verarschen, jdn vögeln",
+    "info": "vulgär (sexuell) / umgangssprachlich"
+  },
+  {
+    "en": "to be uncommitted to sth",
+    "de": "sich nicht hundertprozentig für etw engagieren",
+    "info": ""
+  },
+  {
+    "en": "judging from sth",
+    "de": "nach etw zu urteilen",
+    "info": ""
+  },
+  {
+    "en": "approximately",
+    "de": "ungefähr, zirka",
+    "info": ""
+  },
+  {
+    "en": "childbirth",
+    "de": "Entbindung, Geburt eines Kindes",
+    "info": ""
+  },
+  {
+    "en": "to rejoin the workforce",
+    "de": "in die Arbeitswelt zurückkehren",
+    "info": ""
+  },
+  {
+    "en": "programme",
+    "de": "(Radio-/TV-) Sendung",
+    "info": "BrE"
+  },
+  {
+    "en": "Houses pl of Parliament",
+    "de": "Parlamentsgebäude",
+    "info": ""
+  },
+  {
+    "en": "to commemorate sb",
+    "de": "einer Person gedenken",
+    "info": ""
+  },
+  {
+    "en": "solitary",
+    "de": "einzeln, allein stehend",
+    "info": ""
+  },
+  {
+    "en": "to erect sth",
+    "de": "etw errichten, etw aufstellen",
+    "info": ""
+  },
+  {
+    "en": "to mark an anniversary",
+    "de": "anlässlich eines Jahrestag/Jubiläums",
+    "info": ""
+  },
+  {
+    "en": "to get the vote",
+    "de": "das Wahlrecht bekommen",
+    "info": ""
+  },
+  {
+    "en": "to be central to sth",
+    "de": "allgemeine Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "universal acceptance",
+    "de": "allgemeine Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "to exercise a right",
+    "de": "ein Recht wahrnehmen",
+    "info": ""
+  },
+  {
+    "en": "static",
+    "de": "atatisch",
+    "info": ""
+  },
+  {
+    "en": "to narrow sth",
+    "de": "etw schließen",
+    "info": ""
+  },
+  {
+    "en": "occupational segregation",
+    "de": "geschlechtsspezifische/s Ungleichgewicht im Beruf",
+    "info": ""
+  },
+  {
+    "en": "caring profession",
+    "de": "Pflegeberuf(e)",
+    "info": ""
+  },
+  {
+    "en": "workplace",
+    "de": "Arbeitsplatz",
+    "info": ""
+  },
+  {
+    "en": "prime minister",
+    "de": "Premierminister/in",
+    "info": ""
+  },
+  {
+    "en": "manual labour",
+    "de": "körperliche Arbeit, Handarbeit",
+    "info": ""
+  },
+  {
+    "en": "to prove to be sth",
+    "de": "sich als etw erweisen",
+    "info": ""
+  },
+  {
+    "en": "the Lord",
+    "de": "der Herr",
+    "info": ""
+  },
+  {
+    "en": "division of labour",
+    "de": "Arbeitsteilung",
+    "info": ""
+  },
+  {
+    "en": "rate of pay",
+    "de": "Lohn, Lohnsatz",
+    "info": ""
+  },
+  {
+    "en": "emphasis",
+    "de": "Betonung, Schwerpunkt",
+    "info": ""
+  },
+  {
+    "en": "to set sb free",
+    "de": "jdn befreien",
+    "info": ""
+  },
+  {
+    "en": "ability",
+    "de": "Leistungsfähigkeit",
+    "info": ""
+  },
+  {
+    "en": "board (of directors)",
+    "de": "Vorstand, Geschäftsführung",
+    "info": ""
+  },
+  {
+    "en": "proactive",
+    "de": "in Eigeninitiative",
+    "info": ""
+  },
+  {
+    "en": "binding",
+    "de": "bindend, verpflichtend",
+    "info": ""
+  },
+  {
+    "en": "varied",
+    "de": "abwechslungsreich",
+    "info": ""
+  },
+  {
+    "en": "thought-provoking",
+    "de": "zum Nachdenken anregend",
+    "info": ""
+  },
+  {
+    "en": "gripping",
+    "de": "packend, fesselnd",
+    "info": ""
+  }
 ]

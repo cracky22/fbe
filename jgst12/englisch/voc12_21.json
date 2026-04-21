@@ -1,0 +1,488 @@
+[
+  { "en": "bulletproof", "de": "kugelsicher, schussfest", "info": "" },
+  { "en": "to fool sb", "de": "jdn hereinlegen, jdn täuschen", "info": "" },
+  { "en": "to chase sth", "de": "etw verfolgen, etw (nach)jagen", "info": "" },
+  { "en": "to turn out", "de": "sich herausstellen", "info": "" },
+  { "en": "messed up", "de": "durcheinander, kaputt", "info": "" },
+  { "en": "to waste sth", "de": "etw verschwenden", "info": "" },
+  { "en": "to depict sth", "de": "etw abbilden, etw darstellen", "info": "" },
+  { "en": "communal", "de": "in einer Gemeinschaft", "info": "" },
+  {
+    "en": "to dictate sth",
+    "de": "etw diktieren, etw vorschreiben",
+    "info": ""
+  },
+  { "en": "to be fortunate", "de": "(das) Glück haben", "info": "" },
+  {
+    "en": "to shape one's own lifestyle",
+    "de": "das Leben nach den eigenen Vorstellungen gestalten",
+    "info": ""
+  },
+  { "en": "colleague", "de": "Kollege/-in", "info": "" },
+  {
+    "en": "lifestyle decisions pl",
+    "de": "Entscheidung in Bezug auf di eigene Lebensweise",
+    "info": ""
+  },
+  { "en": "goods pl", "de": "Ware(n), Güter", "info": "" },
+  { "en": "services pl", "de": "Dienstleistungen", "info": "" },
+  {
+    "en": "individual action",
+    "de": "Einzelaktion, individuelle Maßnahme",
+    "info": ""
+  },
+  {
+    "en": "to be conditioned by sth",
+    "de": "durch etw bedingt sein",
+    "info": ""
+  },
+  {
+    "en": "family background",
+    "de": "(familiäre) Herkunft, Familienverhältnisse",
+    "info": ""
+  },
+  { "en": "role model", "de": "Vorbild", "info": "" },
+  {
+    "en": "to inspire sb to do sth",
+    "de": "jdn dazu anregen/inspirieren, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "to rebel against sb/sth",
+    "de": "gegen jdn/etw rebellieren",
+    "info": ""
+  },
+  {
+    "en": "to emancipate oneself from sth",
+    "de": "sich von etw emanzipieren",
+    "info": ""
+  },
+  {
+    "en": "traditional stereotype",
+    "de": "hergebrachtes Rollenbild",
+    "info": ""
+  },
+  { "en": "prejudice", "de": "Vorurteil(e)", "info": "" },
+  { "en": "social norm", "de": "gesellschaftliche Norm", "info": "" },
+  {
+    "en": "to adopt an alternative lifestyle",
+    "de": "anders leben",
+    "info": ""
+  },
+  {
+    "en": "to live up to one's dreams",
+    "de": "nicht den eigenen Wunschvorstellungen gerecht werden",
+    "info": ""
+  },
+  { "en": "belief", "de": "Überzeugung, Glaube", "info": "" },
+  { "en": "family unit", "de": "Familienverbund", "info": "" },
+  { "en": "nuclear family", "de": "Kernfamilie, Kleinfamilie", "info": "" },
+  { "en": "divorce", "de": "Scheidung", "info": "" },
+  { "en": "rare", "de": "selten", "info": "" },
+  { "en": "family model", "de": "Familienmodell", "info": "" },
+  { "en": "separation", "de": "Trennung", "info": "" },
+  { "en": "remarriage", "de": "Wiederheirat, erneutes Heiraten", "info": "" },
+  { "en": "blended family", "de": "Patchworkfamilie", "info": "" },
+  { "en": "step-parents pl", "de": "Stiefeltern", "info": "" },
+  { "en": "halb-siblings pl", "de": "Halbgeschwister", "info": "" },
+  { "en": "single-parent family", "de": "Einelternfamilie", "info": "" },
+  { "en": "same-sex marriage", "de": "gleichgeschlechtliche Ehe", "info": "" },
+  { "en": "generational conflict", "de": "Generationenkonflikt", "info": "" },
+  {
+    "en": "caregiver",
+    "de": "Bezugsperson, Erziehungsberechtigte/r",
+    "info": ""
+  },
+  { "en": "identity", "de": "Identität", "info": "" },
+  {
+    "en": "to be opposed to sth",
+    "de": "einer Sache entgegenstehen, sich nicht mit etw vereinbaren lassen",
+    "info": ""
+  },
+  { "en": "sexuality", "de": "Sexualität", "info": "" },
+  { "en": "in spite of", "de": "trotz", "info": "" },
+  { "en": "close-knit community", "de": "enge Gemeinschaft", "info": "" },
+  { "en": "loyalty", "de": "Loyalität, Bindung", "info": "" },
+  { "en": "solidarity", "de": "Solidarität", "info": "" },
+  { "en": "family ties pl", "de": "Familienbande", "info": "" },
+  { "en": "aim in life", "de": "Lebensziel", "info": "" },
+  {
+    "en": "to live in harmony with sth",
+    "de": "im Einklang mit etw leben",
+    "info": ""
+  },
+  { "en": "to make sth up", "de": "etw ausmachen", "info": "" },
+  {
+    "en": "to be opposed to sth",
+    "de": "sich einer Sache widersetzen, gegen etw sein",
+    "info": ""
+  },
+  { "en": "radical change", "de": "Umbruch, radikaler Wandel", "info": "" },
+  { "en": "as a result", "de": "deshalb, aufgrund dessen", "info": "" },
+  { "en": "pressure to conform", "de": "Anpassungsdruck", "info": "" },
+  { "en": "respectability", "de": "soziales Ansehen", "info": "" },
+  { "en": "to question values", "de": "Werte infrage stellen", "info": "" },
+  { "en": "fulfilling", "de": "erfüllend", "info": "" },
+  { "en": "to leave one's comfort zone", "de": "Neues wagen", "info": "" },
+  {
+    "en": "to struggle with sth",
+    "de": "mit etw zu kämpfen haben",
+    "info": ""
+  },
+  {
+    "en": "to be supportive of sb/sth",
+    "de": "jdn/etw unterstützen",
+    "info": ""
+  },
+  { "en": "well-off", "de": "wohlhabend", "info": "" },
+  { "en": "to step off sth", "de": "aus etw aussteigen", "info": "" },
+  { "en": "hamster wheel", "de": "Hamsterrad", "info": "" },
+  { "en": "by force", "de": "gezwungenermaßen, zwangsweise", "info": "" },
+  { "en": "by choice", "de": "freiwillig, aus freien Stücken", "info": "" },
+  {
+    "en": "to examine sb/sth with great scrutiny",
+    "de": "etw sehr genau überprüfen/untersuchen",
+    "info": ""
+  },
+  { "en": "fancy", "de": "ausgefallen, raffiniert, teuer", "info": "" },
+  { "en": "detour", "de": "Umweg, Abstecher", "info": "" },
+  {
+    "en": "to be on track to do sth",
+    "de": "auf dem besten Weg sein, etw zu tun",
+    "info": ""
+  },
+  {
+    "en": "(school) administrator",
+    "de": "Schulleiter/in, Fachbereichsleiter/in",
+    "info": ""
+  },
+  { "en": "hairdresser", "de": "Friseur/in", "info": "" },
+  { "en": "six-figure", "de": "sechsstellig", "info": "" },
+  {
+    "en": "to question sth",
+    "de": "etw in Frage stellen, etw anzweifeln",
+    "info": ""
+  },
+  { "en": "obligation", "de": "Verpflichtung", "info": "" },
+  { "en": "discontentment", "de": "Unzufriedenheit", "info": "" },
+  { "en": "hollowness", "de": "Leere, Sinnlosigkeit", "info": "" },
+  { "en": "release", "de": "Entspannung, Ventil", "info": "" },
+  { "en": "trajectory", "de": "Bahn, Weg", "info": "" },
+  { "en": "to set sth in motion", "de": "etw in Bewegung setzen", "info": "" },
+  { "en": "stroller", "de": "Buggy, Kinderwagen", "info": "" },
+  { "en": "to scheme", "de": "planen, Pläne schmieden", "info": "" },
+  {
+    "en": "to cling to sth",
+    "de": "sich an etw klammern, an etw festhalten",
+    "info": ""
+  },
+  { "en": "status", "de": "Ansehen, (soziale) Stellung", "info": "" },
+  { "en": "joy", "de": "Freude", "info": "" },
+  { "en": "fragility", "de": "Zerbrechlichkeit, Brüchigkeit", "info": "" },
+  { "en": "to crumble", "de": "zerbröseln, zerbröckeln", "info": "" },
+  { "en": "apocalypse", "de": "Weltuntergang, Apokalypse", "info": "" },
+  {
+    "en": "to connect with sb",
+    "de": "mit jdm in Kontakt kommen, sich mit jdm (intensiv) austauschen",
+    "info": ""
+  },
+  { "en": "to devise a plan", "de": "einen Plan ausarbeiten", "info": "" },
+  { "en": "escape", "de": "Flucht, Entkommen", "info": "" },
+  { "en": "nest egg", "de": "finanzielles Polster, Notgroschen", "info": "" },
+  { "en": "to confront sth", "de": "sich einer Sache stellen", "info": "" },
+  {
+    "en": "to walk away from sth",
+    "de": "sich von etw verabschieden, etw verlassen",
+    "info": ""
+  },
+  {
+    "en": "to set out",
+    "de": "aufbrechen, sich auf den Weg machen",
+    "info": ""
+  },
+  { "en": "budget", "de": "billig, preiswert", "info": "" },
+  { "en": "to camp", "de": "zelten", "info": "" },
+  {
+    "en": "to unlearn sth",
+    "de": "etw (absichtlich) vergessen, sich etw abgewöhnen",
+    "info": ""
+  },
+  { "en": "unease", "de": "Unbehagen", "info": "" },
+  { "en": "revelation", "de": "Offenbarung, Erkenntnis", "info": "" },
+  { "en": "anxiety", "de": "Angst", "info": "" },
+  { "en": "realization", "de": "Erkenntnis, Einsicht", "info": "" },
+  {
+    "en": "to live one's heart's desire",
+    "de": "leben, wie es das Herz begehrt",
+    "info": ""
+  },
+  {
+    "en": "confidence",
+    "de": "Selbstbewusstsein, Selbstvertrauen",
+    "info": ""
+  },
+  { "en": "approval-seeking", "de": "Suche/Jagd nach Anerkennung", "info": "" },
+  { "en": "people-pleasing", "de": "Gefallsucht", "info": "" },
+  { "en": "to wander", "de": "umherstreifen", "info": "" },
+  { "en": "retreat", "de": "Einkehr, Rückzug(sort)", "info": "" },
+  { "en": "ridge", "de": "Gebirgskamm", "info": "" },
+  { "en": "to volunteer", "de": "ehrenamtlich arbeiten", "info": "" },
+  { "en": "to come across sth", "de": "auf etw stoßen", "info": "" },
+  { "en": "to intrigue sb", "de": "jdn faszinieren", "info": "" },
+  { "en": "stunning", "de": "atemberaubend", "info": "" },
+  { "en": "homestead", "de": "Gehöft", "info": "" },
+  { "en": "caked", "de": "verkrustet", "info": "" },
+  { "en": "to forage", "de": "nach Essbarem suchen", "info": "" },
+  { "en": "to knead dough", "de": "Teig kneten", "info": "" },
+  { "en": "cabin", "de": "Hütte", "info": "" },
+  { "en": "to strum", "de": "Gitarre spielen, klampfen", "info": "" },
+  { "en": "to pluck", "de": "(Saiten) zupfen", "info": "" },
+  { "en": "to fiddle", "de": "Geige spielen, fiedeln", "info": "" },
+  { "en": "to fish", "de": "angeln, fischen", "info": "" },
+  { "en": "to fret over sth", "de": "sich über etw aufregen", "info": "" },
+  { "en": "world affairs pl", "de": "Weltgeschehen", "info": "" },
+  { "en": "quarantine", "de": "Quarantäne", "info": "" },
+  { "en": "tangible", "de": "greifbar, konkret, handfest", "info": "" },
+  { "en": "education", "de": "Lernen, Unterricht, Schulbildung", "info": "" },
+  { "en": "confinement", "de": "Eingesperrtsein, Enge", "info": "" },
+  { "en": "abstraction", "de": "Abstraktion", "info": "" },
+  { "en": "reciprocal", "de": "gegenseitig, wechselseitig", "info": "" },
+  { "en": "opposite", "de": "Gegenteil", "info": "" },
+  { "en": "groundedness", "de": "Bodenständigkeit, Erdung", "info": "" },
+  { "en": "connectedness", "de": "Verbundenheit", "info": "" },
+  { "en": "intentional", "de": "absichtsvoll, beabsichtigt", "info": "" },
+  { "en": "to fulfil sth", "de": "etw erfüllen", "info": "" },
+  { "en": "physiotherapist", "de": "Physiotherapeut/in", "info": "" },
+  { "en": "lecturer (in sth)", "de": "Dozent/in (für etw)", "info": "" },
+  {
+    "en": "pursuit (of sth)",
+    "de": "Streben (nach etw), Verfolgung (von etw)",
+    "info": ""
+  },
+  { "en": "to refer to sth", "de": "sich auf etw beziehen", "info": "" },
+  {
+    "en": "to take sb's mind off sth",
+    "de": "jdn von etw ablenken",
+    "info": ""
+  },
+  { "en": "for apart", "de": "weit (voneinander) entfernt", "info": "" },
+  { "en": "joint(ly)", "de": "gemeinsam", "info": "" },
+  {
+    "en": "as sb sees fit",
+    "de": "nach den eigenen Vorstellungen",
+    "info": ""
+  },
+  { "en": "set", "de": "festgelegt, bestimmt", "info": "" },
+  { "en": "upkeep", "de": "Instandhaltung, Pflege", "info": "" },
+  { "en": "residential area", "de": "Wohngegend, Wohngebiet", "info": "" },
+  { "en": "company", "de": "Gesellschaft", "info": "" },
+  {
+    "en": "to apply (to sb for sth)",
+    "de": "sich (bei jdm für/um etw) bewerben",
+    "info": ""
+  },
+  { "en": "studio apartment", "de": "Einzeimmerwohnung", "info": "" },
+  { "en": "lounge", "de": "Wohnzimmer", "info": "" },
+  { "en": "laundry", "de": "Waschküche", "info": "" },
+  { "en": "rooftop", "de": "Dachterrasse", "info": "" },
+  { "en": "up-market", "de": "gehoben, exklusiv", "info": "" },
+  { "en": "housing crisis", "de": "Immobilienkrise", "info": "" },
+  {
+    "en": "let alone",
+    "de": "geschweige denn, ganz zu schweigen von",
+    "info": ""
+  },
+  {
+    "en": "to start on the property ladder",
+    "de": "eine erste Immobilie erwerben",
+    "info": ""
+  },
+  { "en": "collaborative", "de": "gemeinsam, zusammenarbeitend", "info": "" },
+  { "en": "to grow sth", "de": "etw (Pflanzen) anbauen", "info": "" },
+  { "en": "to raise animals", "de": "Tiere züchten, Tiere halten", "info": "" },
+  { "en": "contribution", "de": "Beitrag", "info": "" },
+  { "en": "self-sufficiency", "de": "Autarkie, Selbstversorgung", "info": "" },
+  { "en": "energy preservation", "de": "Energiesparen", "info": "" },
+  { "en": "waste avoidance", "de": "Müllvermeidung", "info": "" },
+  { "en": "to hand sth down to sb", "de": "jdm etw vererben", "info": "" },
+  { "en": "plot of land", "de": "Grundstück, Parzelle", "info": "" },
+  { "en": "to start from scratch", "de": "bei null anfangen", "info": "" },
+  {
+    "en": "to be ready to do sth",
+    "de": "bereit sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "to lend", "de": "(ver)leihen, borgen", "info": "" },
+  { "en": "permission", "de": "Erlaubnis, Genehmigung", "info": "" },
+  { "en": "opposition", "de": "Widerstand", "info": "" },
+  {
+    "en": "to protest sth",
+    "de": "gegen etw protestieren, gegen etw demonstrieren",
+    "info": ""
+  },
+  { "en": "commune", "de": "Kommune", "info": "" },
+  {
+    "en": "to put up with sb/sth",
+    "de": "jdn/etw ertragen, sich mit jdm/etw abfinden",
+    "info": ""
+  },
+  { "en": "argument", "de": "Streit, Auseinandersetzung", "info": "" },
+  {
+    "en": "to be passionate about sth",
+    "de": "sich leidenschaftlich für etw begeisten",
+    "info": ""
+  },
+  { "en": "to starve to death", "de": "verhungern", "info": "" },
+  { "en": "outsider", "de": "Außenseiter/in", "info": "" },
+  { "en": "dignity", "de": "Würde", "info": "" },
+  {
+    "en": "to be endowed with sth",
+    "de": "mit etw ausgestattet sein, etw besitzen",
+    "info": ""
+  },
+  { "en": "reason", "de": "Vernunft, Verstand", "info": "" },
+  { "en": "conscience", "de": "Gewissen", "info": "" },
+  { "en": "spirit", "de": "Geist", "info": "" },
+  { "en": "brotherhood", "de": "Brüderlichkeit", "info": "" },
+  {
+    "en": "to be entitled to sth",
+    "de": "Anspruch auf etw haben, zu etw berechtigt sein",
+    "info": ""
+  },
+  { "en": "to set sth forth", "de": "etw darlegen, etw verkünden", "info": "" },
+  { "en": "distinction", "de": "Unterscheidung, Abgrenzung", "info": "" },
+  { "en": "origin", "de": "Herkunft, Ursprung", "info": "" },
+  { "en": "property", "de": "Eigentum, Besitz", "info": "" },
+  { "en": "unreasonable", "de": "überzogen, unvernünftig", "info": "" },
+  {
+    "en": "dislike (for sb/sth)",
+    "de": "Abneigung (gegen jdn/etw)",
+    "info": ""
+  },
+  { "en": "custom", "de": "Sitte, Brauch", "info": "" },
+  { "en": "boarding school", "de": "Internat", "info": "" },
+  { "en": "grand", "de": "herrschaftlich, stattlich, grandios", "info": "" },
+  { "en": "modest(ly)", "de": "schlicht, bescheiden", "info": "" },
+  { "en": "wreath", "de": "Kranz", "info": "" },
+  { "en": "evergreen", "de": "immergrüne Pflanze", "info": "" },
+  { "en": "Jew", "de": "Jude/Jüdin", "info": "" },
+  { "en": "envy", "de": "Neid", "info": "" },
+  { "en": "villiger", "de": "Dorfbewohner/in", "info": "" },
+  { "en": "gift-wrapped", "de": "als Geschenk verpackt", "info": "" },
+  { "en": "kinky", "de": "(Haar:) kraus, gekräuselt", "info": "" },
+  { "en": "hooked nose", "de": "Hakennase", "info": "" },
+  { "en": "vile", "de": "niederträchtig, abscheulich", "info": "" },
+  { "en": "chancellor", "de": "Kanzler/in", "info": "" },
+  { "en": "candlelight", "de": "Kerzenlicht", "info": "" },
+  { "en": "dressed up", "de": "feingemacht, fein angezogen", "info": "" },
+  {
+    "en": "to sip sth",
+    "de": "an etw nippen, etw in kleinen Schlücken trinken",
+    "info": ""
+  },
+  { "en": "Christmas carol", "de": "Weihnachtslied", "info": "" },
+  { "en": "tablecloth", "de": "Tischdecke", "info": "" },
+  { "en": "china", "de": "Porzellan", "info": "" },
+  { "en": "servant", "de": "Bedienstete/r", "info": "" },
+  { "en": "maid", "de": "Hausangestellte, Hausmädchen", "info": "" },
+  { "en": "to appear", "de": "auftauchen, erscheinen", "info": "" },
+  { "en": "crisp", "de": "(Wäsche:) faltenfrei, gestärkt", "info": "" },
+  { "en": "apron", "de": "Schürze", "info": "" },
+  { "en": "to pause", "de": "innehalten", "info": "" },
+  {
+    "en": "to announce sth",
+    "de": "etw verkünden, etw ankündigen",
+    "info": ""
+  },
+  { "en": "to figure sth out", "de": "etw herausfinden", "info": "" },
+  {
+    "en": "uncomfortable",
+    "de": "unangenehm, unbehaglich, peinlich",
+    "info": ""
+  },
+  { "en": "stage", "de": "Phase, Stadium, Etappe", "info": "" },
+  { "en": "to guess", "de": "vermuten", "info": "" },
+  {
+    "en": "to persist with sth",
+    "de": "etw unbeirrt fortsetzen, mit etw unbeirrt weitermachen",
+    "info": ""
+  },
+  { "en": "to shrug", "de": "mit den Achseln zucken", "info": "" },
+  { "en": "to sigh", "de": "seufzen", "info": "" },
+  { "en": "test tube", "de": "Reagenzglas", "info": "" },
+  {
+    "en": "artificial insemination",
+    "de": "künstliche Befruchtung",
+    "info": ""
+  },
+  {
+    "en": "to get oneself involved in sth",
+    "de": "sich in etw hineinziehen lassen",
+    "info": ""
+  },
+  {
+    "en": "Where do we go from home?",
+    "de": "Was machen wir hier jetzt?",
+    "info": ""
+  },
+  { "en": "to weep", "de": "weinen, schluchzen", "info": "" },
+  { "en": "sympathetic", "de": "mitfühlend, verständnisvoll", "info": "" },
+  { "en": "To be continued.", "de": "Fortsetzung folgt.", "info": "" },
+  {
+    "en": "to become acquainted",
+    "de": "miteinander bekannt werden, sich kennenlernen",
+    "info": ""
+  },
+  { "en": "inexpensive", "de": "günstig, billig", "info": "" },
+  { "en": "tenement building", "de": "Mietshaus", "info": "" },
+  { "en": "out of place", "de": "fehl am Platz", "info": "" },
+  { "en": "to iron", "de": "bügeln", "info": "" },
+  {
+    "en": "to wave sb farewell",
+    "de": "jdm zum Abschied zuwinken",
+    "info": ""
+  },
+  { "en": "disgusting", "de": "ekelhaft, widerlich", "info": "" },
+  { "en": "irony", "de": "Ironie", "info": "" },
+  { "en": "to take sth personally", "de": "etw persönlich nehmen", "info": "" },
+  {
+    "en": "to be delighted",
+    "de": "sich (sehr) freuen, erfreut sein",
+    "info": ""
+  },
+  { "en": "straight", "de": "hetero(sexuell)", "info": "" },
+  { "en": "test-tube baby", "de": "Retortenbaby", "info": "" },
+  { "en": "horrors pl", "de": "Schrecken", "info": "" },
+  { "en": "ethnic minority", "de": "ethnische Minderheit", "info": "" },
+  { "en": "rural", "de": "ländlich", "info": "" },
+  { "en": "sensitivity", "de": "Empfindlichkeit(en)", "info": "" },
+  {
+    "en": "to take sth into account",
+    "de": "etw berücksichtigen, etw beachten",
+    "info": ""
+  },
+  { "en": "cookery course", "de": "Kochkurs", "info": "" },
+  { "en": "to imply sth", "de": "etw nahelegen, etw beinhalten", "info": "" },
+  { "en": "interchangeably", "de": "austauschbar, synonym", "info": "" },
+  {
+    "en": "to be scared for one's life",
+    "de": "Angst um sein Leben haben",
+    "info": ""
+  },
+  { "en": "relief", "de": "(große) Erleichterung", "info": "" },
+  {
+    "en": "to remember sth fondly",
+    "de": "gern an etw zurückdenken, sich gern an etw erinnern",
+    "info": ""
+  },
+  {
+    "en": "to be rife with sth",
+    "de": "voll von etw sein, voller ... sein",
+    "info": ""
+  },
+  { "en": "to pave the way", "de": "den Weg ebnen", "info": "" },
+  { "en": "to manifest", "de": "sich zeigen, sichtbar werden", "info": "" },
+  { "en": "findings pl", "de": "Ergebnisse", "info": "" },
+  { "en": "concise", "de": "prägnant, kurz (und bündig)", "info": "" },
+  { "en": "fluent(ly)", "de": "(Sprache:) fließend", "info": "" }
+]

@@ -1,0 +1,350 @@
+[
+  { "en": "field of expertise", "de": "Fachgebiet", "info": "" },
+  { "en": "toolbox", "de": "Werkzeugkeiste", "info": "" },
+  {
+    "en": "to distrust sb/sth",
+    "de": "jdm/einer Sache misstrauen",
+    "info": ""
+  },
+  {
+    "en": "disruptive technology",
+    "de": "bahnbrechende Technologie",
+    "info": ""
+  },
+  { "en": "commonplace", "de": "alltäglich", "info": "" },
+  { "en": "prevalent", "de": "vorherrschend, verbreitet", "info": "" },
+  { "en": "energy storage device", "de": "Energiespeicher", "info": "" },
+  {
+    "en": "to be increasing in capacity",
+    "de": "die Kapazität von etw steigt",
+    "info": ""
+  },
+  { "en": "reach", "de": "Reichweite", "info": "" },
+  { "en": "to retain sb/sth", "de": "jdn/etw behalten", "info": "" },
+  { "en": "power outage", "de": "Stromausfall", "info": "" },
+  { "en": "automation", "de": "Automatisierung", "info": "" },
+  { "en": "self-driving vehicle", "de": "selbstfahrendes Auto", "info": "" },
+  { "en": "to perform surgery", "de": "Operationen durchführen", "info": "" },
+  {
+    "en": "to substitute as sb/sth",
+    "de": "die Aufgaben von jdm/etw übernehmen",
+    "info": ""
+  },
+  { "en": "carer", "de": "Pfleger/in", "info": "" },
+  {
+    "en": "Artificial Intelligence (AI)",
+    "de": "Künstliche Intelligenz (KI)",
+    "info": ""
+  },
+  { "en": "huge potential", "de": "riesiges Potenzial", "info": "" },
+  { "en": "genetic engineering", "de": "Gentechnik", "info": "" },
+  { "en": "coupled with", "de": "zusammen mit", "info": "" },
+  {
+    "en": "life-saving drugs and vaccines",
+    "de": "lebensrettende Arzneimittel und Impfstoffe",
+    "info": "pl"
+  },
+  {
+    "en": "to tackle chronic diseases",
+    "de": "chronische Krankheiten bekämpfen",
+    "info": ""
+  },
+  { "en": "neuroscience", "de": "Neurowissenschaft(en)", "info": "" },
+  {
+    "en": "investigation (into sth)",
+    "de": "Untersuchung (von etw)",
+    "info": ""
+  },
+  { "en": "neural", "de": "Nerven", "info": "" },
+  {
+    "en": "neurological disorder",
+    "de": "neurologische Erkrankung",
+    "info": ""
+  },
+  {
+    "en": "generative artificial intelligence system",
+    "de": "generatives KI-System",
+    "info": ""
+  },
+  { "en": "to compute", "de": "rechnen", "info": "" },
+  {
+    "en": "to draw conclusions from sth",
+    "de": "Schlüsse aus etw ziehen",
+    "info": ""
+  },
+  { "en": "pattern", "de": "Muster", "info": "" },
+  { "en": "to detect sth", "de": "etw aufspüren", "info": "" },
+  { "en": "dataset", "de": "Datensatz", "info": "" },
+  {
+    "en": "self-learning computer system",
+    "de": "selbstlernendes (Computer-) System",
+    "info": ""
+  },
+  { "en": "conversationally", "de": "in einem Dialog", "info": "" },
+  {
+    "en": "in unprecedented ways",
+    "de": "auf nie dagewesene Weise",
+    "info": ""
+  },
+  { "en": "to name but a few", "de": "um nur einige zu nennen", "info": "" },
+  { "en": "destructive potential", "de": "Zerstörungspotential", "info": "" },
+  { "en": "to conduct research", "de": "Forschung betreiben", "info": "" },
+  { "en": "reasoning", "de": "logisches Denken", "info": "" },
+  { "en": "observation", "de": "Beobachtung", "info": "" },
+  {
+    "en": "within sb's scientific community",
+    "de": "in jds wissenschaftlichem Umfeld",
+    "info": ""
+  },
+  { "en": "outcome", "de": "Ergebnis", "info": "" },
+  {
+    "en": "highly skilled experts",
+    "de": "hochqualifizierte Fachkräfte",
+    "info": "pl"
+  },
+  { "en": "to put sth to good use", "de": "etw sinnvoll nutzen", "info": "" },
+  {
+    "en": "well-trained professionals",
+    "de": "gut ausgebildete Fachkräfte",
+    "info": "pl"
+  },
+  { "en": "sadly", "de": "leider, bedauerlicherweise", "info": "" },
+  {
+    "en": "noticeable lack of interest in sth",
+    "de": "spürbarer Mangel an Interesse für etw",
+    "info": ""
+  },
+  { "en": "all too often", "de": "allzu oft", "info": "" },
+  {
+    "en": "the survival of mankind",
+    "de": "das Überleben der Menschheit",
+    "info": ""
+  },
+  { "en": "monolingual", "de": "einsprachig", "info": "" },
+  { "en": "justified", "de": "gerechtfertigt", "info": "" },
+  { "en": "to leave traces", "de": "Spuren hinterlassen", "info": "" },
+  { "en": "curable", "de": "heilbar", "info": "" },
+  { "en": "intricate", "de": "komplex, detailreich", "info": "" },
+  { "en": "drawback", "de": "Nachteil", "info": "" },
+  { "en": "science literacy", "de": "wissenschaftliche Bildung", "info": "" },
+  { "en": "emerging", "de": "aufkommend", "info": "" },
+  { "en": "exploration", "de": "Erforschung", "info": "" },
+  { "en": "space", "de": "Weltraum", "info": "" },
+  { "en": "to progress", "de": "vorankommen, Fortschritte machen", "info": "" },
+  { "en": "landmark", "de": "Meilenstein", "info": "" },
+  { "en": "arrival", "de": "Aufkommen", "info": "" },
+  { "en": "arms race", "de": "Wettrüsten", "info": "" },
+  { "en": "mature", "de": "reif", "info": "" },
+  {
+    "en": "theoretical foundation",
+    "de": "theoretische Grundlage",
+    "info": ""
+  },
+  { "en": "to pale", "de": "verblassen", "info": "" },
+  { "en": "computer-assisted", "de": "computergestützt", "info": "" },
+  { "en": "personal computing age", "de": "PC-Zeitalter", "info": "" },
+  {
+    "en": "the disabled",
+    "de": "Behinderte, Menschen mit Behinderung",
+    "info": ""
+  },
+  { "en": "to lead the way", "de": "führend sein", "info": "" },
+  { "en": "proving ground", "de": "Versuchsgelände", "info": "" },
+  { "en": "drive by wire", "de": "Drive-by-Wire", "info": "" },
+  { "en": "spark of fire", "de": "Feuerfunke", "info": "" },
+  {
+    "en": "to engage with sb/sth",
+    "de": "sich mit jdm/etw auseinandersetzen",
+    "info": ""
+  },
+  { "en": "the human race", "de": "die Menschheit", "info": "" },
+  { "en": "to advocate sth", "de": "etw befürworten", "info": "" },
+  {
+    "en": "to be scientifically literate",
+    "de": "kompetent mit Wissenschaft umgehen können",
+    "info": ""
+  },
+  { "en": "advanced", "de": "fortschrittlich", "info": "" },
+  { "en": "application", "de": "Anwendung", "info": "" },
+  {
+    "en": "the thrill and wonder of sth",
+    "de": "die faszinierende Welt von etw",
+    "info": ""
+  },
+  {
+    "en": "to be sb's main priority",
+    "de": "jds Hauptanliegen sein",
+    "info": ""
+  },
+  { "en": "by-product", "de": "Nebenprodukt", "info": "" },
+  { "en": "special needs", "de": "Förderbedarf", "info": "pl" },
+  { "en": "stable", "de": "stabil", "info": "" },
+  { "en": "capable", "de": "kompetent, fähig", "info": "" },
+  { "en": "food for thought", "de": "Denkanstöße", "info": "" },
+  { "en": "to coin a term", "de": "einen Begriff prägen", "info": "" },
+  { "en": "denial", "de": "Leugnung", "info": "" },
+  { "en": "to attribute sth to sb", "de": "jdm etw zuschreiben", "info": "" },
+  { "en": "report card", "de": "(Schul-) Zeugnis", "info": "" },
+  { "en": "representative", "de": "Vertreter/in", "info": "" },
+  { "en": "primarily", "de": "hauptsächlich", "info": "" },
+  { "en": "to memorize sth", "de": "etw auswendig lernen", "info": "" },
+  { "en": "to investigate", "de": "untersuchen", "info": "" },
+  { "en": "curiosity", "de": "Neugier", "info": "" },
+  { "en": "to make sense of sth", "de": "etw verstehen", "info": "" },
+  { "en": "hypothesis", "de": "Hypothese", "info": "" },
+  { "en": "to refine sth", "de": "etw verfeinern", "info": "" },
+  { "en": "to nurture sth", "de": "etw nähren, etw fördern", "info": "" },
+  { "en": "puddle", "de": "Pfütze", "info": "" },
+  { "en": "to measure sth", "de": "etw messen", "info": "" },
+  { "en": "energy transfer", "de": "Energieumwandlung", "info": "" },
+  {
+    "en": "to instruct sb to do sth",
+    "de": "jdn anweisen, etw zu tun",
+    "info": ""
+  },
+  { "en": "vaccination", "de": "Impfung", "info": "" },
+  { "en": "to feature", "de": "vorkommen", "info": "" },
+  { "en": "oil spill", "de": "Ölteppich", "info": "" },
+  { "en": "interdisciplinary", "de": "fachübergreifend", "info": "" },
+  { "en": "assessment", "de": "Bewertung", "info": "" },
+  { "en": "textbook-style", "de": "lehrbuchhaft", "info": "" },
+  { "en": "component", "de": "Bestandteil", "info": "" },
+  { "en": "vicinity", "de": "Nachbarschaft, Nähe", "info": "" },
+  { "en": "to tailor sth to sb", "de": "etw auf jdn zuschneiden", "info": "" },
+  {
+    "en": "to learn sth (off) by heart",
+    "de": "etw auswendiglernen",
+    "info": ""
+  },
+  { "en": "to praise sb/sth", "de": "jdn/etw loben", "info": "" },
+  { "en": "wise(ly)", "de": "klug", "info": "" },
+  { "en": "puzzling", "de": "verwirrend", "info": "" },
+  { "en": "eager(ly)", "de": "eifrig, ungeduldig", "info": "" },
+  { "en": "disruption", "de": "Störung(en), Behinderunge(en)", "info": "" },
+  { "en": "customer service", "de": "Kundendienst", "info": "" },
+  { "en": "role", "de": "Rolle, Aufgabe, Funktion", "info": "" },
+  { "en": "voice synthesis", "de": "Sprachsynthese", "info": "" },
+  { "en": "voice recognition", "de": "Spracherkennung", "info": "" },
+  { "en": "to host sth", "de": "etw (Daten) hosten", "info": "" },
+  { "en": "breakthrough", "de": "Durchbruch", "info": "" },
+  { "en": "to trump sb/sth", "de": "jdn/etw übertrumpfen", "info": "" },
+  { "en": "processing power", "de": "Rechenleistung", "info": "" },
+  { "en": "factual error", "de": "sachlicher Fehler", "info": "" },
+  { "en": "industry jargon", "de": "Fachsprache", "info": "" },
+  { "en": "falsely", "de": "fälschlicherweise", "info": "" },
+  { "en": "sexual harassment", "de": "sexuelle Belästigung", "info": "" },
+  { "en": "to cite sb/sth", "de": "jdn/etw zitieren", "info": "" },
+  { "en": "promotional", "de": "Werbe-", "info": "" },
+  { "en": "inaccurate", "de": "falsch", "info": "" },
+  { "en": "query", "de": "Frage", "info": "" },
+  { "en": "astronomical", "de": "unermesslich", "info": "" },
+  { "en": "predictive text", "de": "automatische Texterkennung", "info": "" },
+  { "en": "prompt", "de": "Stichwort, Texteingabe", "info": "" },
+  {
+    "en": "to trick sb into doing sth",
+    "de": "jdn (mittels einer List) dazu bringen, etw zu tun",
+    "info": ""
+  },
+  { "en": "disinformation", "de": "Falschinformation(en)", "info": "" },
+  { "en": "at a significant scale", "de": "in erheblichem Umfang", "info": "" },
+  { "en": "chief economist", "de": "Chefökonom/in", "info": "" },
+  { "en": "election", "de": "Wahl", "info": "" },
+  { "en": "executive", "de": "Manager/in", "info": "" },
+  { "en": "accountant", "de": "Buchhalter/in", "info": "" },
+  { "en": "lawyer", "de": "Anwalt/Anwältin", "info": "" },
+  {
+    "en": "Human Resources (Department)",
+    "de": "Personal(abteilung)",
+    "info": "pl"
+  },
+  { "en": "parent (company)", "de": "Mutterkonzern", "info": "" },
+  {
+    "en": "sound generator",
+    "de": "Stimmgenerator, Musikgenerator",
+    "info": ""
+  },
+  { "en": "image generator", "de": "Bildgenerator", "info": "" },
+  { "en": "to throw sth open", "de": "etw öffnen", "info": "" },
+  { "en": "potential gains", "de": "potentielle Vorteile", "info": "pl" },
+  { "en": "to release sth", "de": "etw veröffentlichen", "info": "" },
+  {
+    "en": "to scramble into action",
+    "de": "überstüzt tätig werden",
+    "info": ""
+  },
+  { "en": "to unleash sth", "de": "etw entfesseln, etw loslassen", "info": "" },
+  { "en": "launch", "de": "Start, Markteinführung", "info": "" },
+  { "en": "bill", "de": "Gesetz", "info": "" },
+  { "en": "unchecked", "de": "unkontrolliert, hemmungslos", "info": "" },
+  { "en": "act", "de": "Gesetz", "info": "" },
+  { "en": "negotiation", "de": "Verhandlung", "info": "" },
+  { "en": "overt", "de": "unverholen, offen", "info": "" },
+  { "en": "restraint", "de": "Zurückhaltung", "info": "" },
+  { "en": "co-founder", "de": "Mit(be)gründer/in", "info": "" },
+  { "en": "signatory", "de": "Unterzeichner/in", "info": "" },
+  { "en": "nuclear arms", "de": "Kernwaffen, Atomwaffen", "info": "pl" },
+  { "en": "emergence", "de": "Entstehen, Aufkommen", "info": "" },
+  { "en": "framework", "de": "Rahmen, Rahmenbedingungen", "info": "" },
+  { "en": "to moderate sth", "de": "etw mäßigen, etw zügeln", "info": "" },
+  { "en": "pool", "de": "Sammlung, Reservoir", "info": "" },
+  { "en": "considerable(-ly)", "de": "beträchtlich, erheblich", "info": "" },
+  { "en": "urgency", "de": "Dringlichkeit", "info": "" },
+  { "en": "deliberate(ly)", "de": "absichtlich", "info": "" },
+  { "en": "instability", "de": "Instabilität", "info": "" },
+  { "en": "senior", "de": "hochrangig", "info": "" },
+  { "en": "academic", "de": "Akademiker/in", "info": "" },
+  { "en": "giant", "de": "Gigant, Riese", "info": "" },
+  { "en": "prospective", "de": "potenziell, künftig", "info": "" },
+  { "en": "interconnected web", "de": "Netz, vernetzte Welt", "info": "" },
+  { "en": "foam", "de": "Schaum", "info": "" },
+  { "en": "marine creature", "de": "Meereslebewesen", "info": "" },
+  { "en": "adaptation", "de": "Anpassung", "info": "" },
+  { "en": "fabric", "de": "Stoff, Gewebe", "info": "" },
+  { "en": "parachuter", "de": "Fallschirmspringer/in", "info": "" },
+  { "en": "parachute", "de": "Fallschirm", "info": "" },
+  { "en": "property", "de": "Eigenschaft", "info": "" },
+  {
+    "en": "to be composed of sth",
+    "de": "aus etw bestehen, sich aus etw zusammensetzen",
+    "info": ""
+  },
+  { "en": "strand of fibre", "de": "Faserstrang, Faden", "info": "" },
+  { "en": "to weave", "de": "weben", "info": "" },
+  { "en": "a piece of cloth", "de": "ein Stück Stoff", "info": "" },
+  { "en": "filtration", "de": "Filterung", "info": "" },
+  { "en": "activated carbon", "de": "Aktivkohle", "info": "" },
+  { "en": "sodium", "de": "Natrium", "info": "" },
+  { "en": "lesser-known", "de": "weniger bekannt", "info": "" },
+  { "en": "to claim sth", "de": "etw behaupten", "info": "" },
+  {
+    "en": "to rate sb/sth",
+    "de": "jdn/etw einstufen, jdn/etw bewerten",
+    "info": ""
+  },
+  { "en": "to rearrange sth", "de": "etw neu anordnen", "info": "" },
+  { "en": "nuclear fusion", "de": "Kernfusion", "info": "" },
+  { "en": "inexhaustible supply", "de": "unerschöpflicher Vorrat", "info": "" },
+  { "en": "to guard against sth", "de": "sich vor etw schützen", "info": "" },
+  { "en": "to spread sth", "de": "etw verbreiten", "info": "" },
+  { "en": "proposition", "de": "These, Aussage", "info": "" },
+  { "en": "to make a point", "de": "ein Argument vorbringen", "info": "" },
+  {
+    "en": "awareness (of sth)",
+    "de": "Bewusstsein (für etw), Wissen (um etw)",
+    "info": ""
+  },
+  { "en": "compulsory", "de": "zwingend, obligatorisch", "info": "" },
+  { "en": "to sit an exam", "de": "eine Prüfung ablegen", "info": "" },
+  { "en": "animal welfare", "de": "Tierwohl, Tierschutz", "info": "" },
+  { "en": "business management", "de": "Betriebswirtschaft", "info": "" },
+  { "en": "career prospects", "de": "Berufsaussichten", "info": "pl" },
+  { "en": "certificate", "de": "Zeugnis, Nachweis", "info": "" },
+  { "en": "member of staff", "de": "Mitarbeiter/in", "info": "" },
+  { "en": "fulfilment", "de": "Erfüllung, Selbstverwirklichung", "info": "" },
+  { "en": "to allocate sth", "de": "etw zuteilen", "info": "" },
+  {
+    "en": "progress report",
+    "de": "Arbeitsbericht, Zwischenbericht",
+    "info": ""
+  }
+]

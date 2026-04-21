@@ -1,0 +1,482 @@
+[
+  { "en": "multiculturalism", "de": "Multikulturalismus", "info": "" },
+  { "en": "untrue", "de": "unzutreffend, unwahr", "info": "" },
+  { "en": "border security", "de": "Grenzschutz", "info": "" },
+  { "en": "House of Representatives", "de": "Repräsentantenhaus", "info": "" },
+  { "en": "Senate", "de": "Senat", "info": "" },
+  { "en": "astonishing", "de": "erstaunlich", "info": "" },
+  { "en": "to found sth", "de": "etw gründen", "info": "" },
+  { "en": "immigrant", "de": "Einwanderer/in", "info": "" },
+  { "en": "lyrics", "de": "Liedtext", "info": "plural" },
+  { "en": "migration", "de": "Auswanderung, Migration", "info": "" },
+  {
+    "en": "multicultural society",
+    "de": "multikulturelle Gesellschaft",
+    "info": ""
+  },
+  { "en": "pluralistic", "de": "pluralistisch", "info": "" },
+  { "en": "driving force", "de": "treibende Kraft", "info": "" },
+  { "en": "to relocate", "de": "umziehen, woanders hinziehen", "info": "" },
+  { "en": "to settle", "de": "sich niederlassen", "info": "" },
+  {
+    "en": "to range from ... to ...",
+    "de": "von ... bis ... reichen",
+    "info": ""
+  },
+  { "en": "consideration", "de": "Überlegung, Aspekt", "info": "" },
+  {
+    "en": "limited job opportunities",
+    "de": "begrenzte Arbeitsmöglichkeiten",
+    "info": "plural"
+  },
+  {
+    "en": "economically affluent country",
+    "de": "wirtschaftlich wohlhabendes Land",
+    "info": ""
+  },
+  {
+    "en": "to line the streets",
+    "de": "die Staße säumen, Spalier stehen",
+    "info": ""
+  },
+  {
+    "en": "to actively recruit foreign workers",
+    "de": "aktiv ausländische Arbeitskräfte anwerben",
+    "info": ""
+  },
+  { "en": "guest worker programme", "de": "Gastarbeiterprogramm", "info": "" },
+  {
+    "en": "to initiate sth",
+    "de": "etw in Gang setzen, etw initiieren",
+    "info": ""
+  },
+  { "en": "migrant worker", "de": "Wanderarbeitnehmer/in", "info": "" },
+  {
+    "en": "to counteract demographic shifts",
+    "de": "dam demographischen Wandel entgegenwirken",
+    "info": ""
+  },
+  { "en": "aging society", "de": "alternde Gesellschaft", "info": "" },
+  {
+    "en": "shrinking workforce",
+    "de": "schrumpfende Erwerbsbevölkerung",
+    "info": ""
+  },
+  { "en": "retiree", "de": "Rentner/in", "info": "" },
+  { "en": "sought-after", "de": "begehrt, gesucht", "info": "" },
+  { "en": "willingness", "de": "Bereitschaft", "info": "" },
+  {
+    "en": "to undertake sth",
+    "de": "etw übernehmen, etw durchführen",
+    "info": ""
+  },
+  { "en": "agriculture", "de": "Landwirtschaft", "info": "" },
+  { "en": "geriatric care", "de": "Altenpflege", "info": "" },
+  { "en": "host country", "de": "Gastland, Aufnahmeland", "info": "" },
+  { "en": "failure", "de": "Unterlassung, Unterlassen", "info": "" },
+  { "en": "to remain untapped", "de": "ungenutzt bleiben", "info": "" },
+  { "en": "mass migration", "de": "Massenmigration", "info": "" },
+  { "en": "to trigger sth", "de": "etw auslösen", "info": "" },
+  { "en": "push factor", "de": "Migrationsursache", "info": "" },
+  { "en": "political turmoil", "de": "politische Unruhen", "info": "" },
+  { "en": "religious persecution", "de": "religiöse Verfolgung", "info": "" },
+  {
+    "en": "political oppression",
+    "de": "politische Unterdrückung",
+    "info": ""
+  },
+  {
+    "en": "large-scale conflicts",
+    "de": "großräumige Konflikte, schwere Kriege",
+    "info": "plural"
+  },
+  { "en": "asylum seeker", "de": "Asylsuchende/r", "info": "" },
+  { "en": "safety", "de": "Sicherheit", "info": "" },
+  { "en": "political freedom", "de": "politische Freiheit", "info": "" },
+  { "en": "compelling", "de": "zwingend, entscheidend", "info": "" },
+  { "en": "pull factor", "de": "Anreiz, Pull-Faktor", "info": "" },
+  { "en": "perilous journey", "de": "(lebens)gefährliche Reise", "info": "" },
+  {
+    "en": "to fall victim to sb/sth",
+    "de": "jdm/etw zum Opfer fallen",
+    "info": ""
+  },
+  { "en": "ruthless", "de": "skrupellos", "info": "" },
+  { "en": "human trafficker", "de": "Menschenhändler/in", "info": "" },
+  { "en": "to exploit sb's plight", "de": "jds Notlage ausnutzen", "info": "" },
+  { "en": "racism", "de": "Rassismus", "info": "" },
+  { "en": "bigotry", "de": "Engstirnigkeit", "info": "" },
+  { "en": "xenophobia", "de": "Fremdenfeindlichkeit", "info": "" },
+  { "en": "resentment", "de": "Feindseligkeit", "info": "" },
+  { "en": "to perpetuate sth", "de": "etw aufrecht erhalten", "info": "" },
+  {
+    "en": "a burden on society",
+    "de": "eine Belastung für die Gesellschaft",
+    "info": ""
+  },
+  { "en": "to overload sth", "de": "etw überlasten", "info": "" },
+  { "en": "entrepreneurial", "de": "unternehmerisch (denkend)", "info": "" },
+  {
+    "en": "to establish a business",
+    "de": "ein Unternehmen gründen",
+    "info": ""
+  },
+  {
+    "en": "to contribute to society's prosperity",
+    "de": "zum Wohlstand der Gesellschaft beitragen",
+    "info": ""
+  },
+  {
+    "en": "to be a drain on public resources",
+    "de": "die Staatskasse belasten",
+    "info": ""
+  },
+  { "en": "open-door policy", "de": "Politik der offenen Tür", "info": "" },
+  {
+    "en": "to curb the influx of migrants",
+    "de": "den Zustrom von Migranten eindämmen",
+    "info": ""
+  },
+  { "en": "quota", "de": "Quote", "info": "" },
+  {
+    "en": "long-established",
+    "de": "alteingesessen, seit Langem bestehend",
+    "info": ""
+  },
+  { "en": "citizenship", "de": "Staatsbürgerschaft", "info": "" },
+  {
+    "en": "to face scrutiny",
+    "de": "genau/kritisch beäugt werden",
+    "info": ""
+  },
+  { "en": "attire", "de": "Kleidung", "info": "" },
+  { "en": "to integrate", "de": "sich integrieren", "info": "" },
+  {
+    "en": "to assimilate",
+    "de": "(sich) assimilieren, sich anpassen",
+    "info": ""
+  },
+  {
+    "en": "to relinquish sth",
+    "de": "etw aufgeben, auf etw verzichten",
+    "info": ""
+  },
+  { "en": "racial tensions", "de": "ethnische Spannungen", "info": "plural" },
+  { "en": "sense of alienation", "de": "Gefühl der Entfremdung", "info": "" },
+  { "en": "uncertainty", "de": "Ungewissheit, Unsicherheit", "info": "" },
+  { "en": "nationalism", "de": "Nationalismus", "info": "" },
+  {
+    "en": "to be rampant",
+    "de": "um sich greifen, an der Tagesordnung sein",
+    "info": ""
+  },
+  { "en": "to be on the rise", "de": "auf dem Vormarsch sein", "info": "" },
+  { "en": "melting pot", "de": "Schmelztiegel", "info": "" },
+  { "en": "outdated", "de": "überholt, veraltet", "info": "" },
+  { "en": "asset", "de": "Pluspunkt, Vorteil", "info": "" },
+  { "en": "to cherish sth", "de": "etw wertschätzen, etw lieben", "info": "" },
+  { "en": "ethnic group", "de": "ethnische Gruppe", "info": "" },
+  {
+    "en": "mixed-race background",
+    "de": "gemischtethnische Herkunft",
+    "info": ""
+  },
+  { "en": "successive", "de": "aufeinanderfolgend", "info": "" },
+  {
+    "en": "call for more inclusivity",
+    "de": "Ruf nach mehr Inklusivität",
+    "info": ""
+  },
+  { "en": "pervasive", "de": "weit verbreitete, allgegenwärtig", "info": "" },
+  { "en": "myth", "de": "Mythos", "info": "" },
+  { "en": "Interior Minister", "de": "Innenminister/in", "info": "" },
+  { "en": "to cut down on sth", "de": "etw reduzieren", "info": "" },
+  { "en": "criminal", "de": "Verbrecher/in", "info": "" },
+  { "en": "deplorable", "de": "beklagenswert, betrüblich", "info": "" },
+  {
+    "en": "to punish sb/sth",
+    "de": "(religiöser) Glaube",
+    "info": "⚠️ seems wrong translation"
+  },
+  { "en": "cruel", "de": "grausam, brutal", "info": "" },
+  { "en": "unpleasant", "de": "unangenehm", "info": "" },
+  { "en": "historian", "de": "Historiker/in", "info": "" },
+  { "en": "to confront sb", "de": "jdm entgegentreten", "info": "" },
+  { "en": "to expel sb", "de": "jdn ausweisen", "info": "" },
+  { "en": "to strain sb/sth", "de": "jdn/etw strapazieren", "info": "" },
+  { "en": "fluid", "de": "(Situation usw.:) instabil", "info": "" },
+  { "en": "poignant", "de": "erschütternd, ergreifend", "info": "" },
+  { "en": "to spark sth", "de": "etw entfachen, etw auslösen", "info": "" },
+  { "en": "to slam sth shut", "de": "etw (Tür usw.) zuschlagen", "info": "" },
+  { "en": "gate", "de": "Tor, Pforte", "info": "" },
+  { "en": "to be faithful to sth", "de": "fest an etw glauben", "info": "" },
+  { "en": "core values", "de": "Grundwerte", "info": "plural" },
+  {
+    "en": "to saddle sb/sth with sth",
+    "de": "jdm/etw etw aufhalsen",
+    "info": ""
+  },
+  { "en": "to degenerate into sth", "de": "in/zu etw ausarten", "info": "" },
+  { "en": "shouting match", "de": "lautstarke Auseinandersetzung", "info": "" },
+  { "en": "terms", "de": "Bedingungen", "info": "plural" },
+  { "en": "duty", "de": "Aufgabe, Pflicht", "info": "" },
+  { "en": "favour", "de": "Gefallen", "info": "" },
+  {
+    "en": "to be obliged to do sth",
+    "de": "gezwungen/verpflichtet sein, etw zu tun",
+    "info": ""
+  },
+  { "en": "to halt sth", "de": "etw anhalten, etw stoppen", "info": "" },
+  { "en": "poverty-stricken", "de": "verarmt, arm", "info": "" },
+  { "en": "to shirk", "de": "sich einer Sache entziehen", "info": "" },
+  { "en": "to stress sth", "de": "etw betonen", "info": "" },
+  { "en": "fence", "de": "Zaun", "info": "" },
+  { "en": "to legalise sth", "de": "etw legalisieren", "info": "" },
+  { "en": "paperless", "de": "ohne Papiere", "info": "" },
+  { "en": "sufficient(ly)", "de": "genügend, hinreichend", "info": "" },
+  { "en": "to flee sth", "de": "vor etw fliehen", "info": "" },
+  { "en": "welfare", "de": "Wohl, Wohlergehen", "info": "" },
+  { "en": "invasion", "de": "Eindringen", "info": "" },
+  { "en": "in return", "de": "als Gegenleistung", "info": "" },
+  { "en": "assimilation", "de": "Anpassung", "info": "" },
+  {
+    "en": "to set the bar high",
+    "de": "die Messlatte/Schwelle hoch legen",
+    "info": ""
+  },
+  { "en": "native population", "de": "einheimische Bevölkerung", "info": "" },
+  { "en": "vibrant", "de": "dynamisch, pulsierend", "info": "" },
+  { "en": "provided that", "de": "unter der Voraussetzung, dass", "info": "" },
+  {
+    "en": "misogyny",
+    "de": "Schwulenhass",
+    "info": "⚠️ seems wrong translation"
+  },
+  { "en": "nature", "de": "Wesen, Art", "info": "" },
+  { "en": "to adhere to sth", "de": "sich an etw halten", "info": "" },
+  { "en": "eventual", "de": "später, letztendlich", "info": "" },
+  { "en": "to be welcome to do sth", "de": "etw gern tun können", "info": "" },
+  { "en": "duty-bound", "de": "verpflichtet", "info": "" },
+  { "en": "probation period", "de": "Bewährungsfrist, Probezeit", "info": "" },
+  { "en": "hostility", "de": "Feindseligkeit, ablehnende Haltung", "info": "" },
+  { "en": "to riot", "de": "randalieren", "info": "" },
+  { "en": "to fail a test", "de": "eine Prüfung nicht bestehen", "info": "" },
+  { "en": "the root issue", "de": "das eigentliche Problem", "info": "" },
+  { "en": "timescale", "de": "Zeitbegriff, Zeitempfinden", "info": "" },
+  {
+    "en": "to come to terms with sth",
+    "de": "sich mit etw abfinden",
+    "info": ""
+  },
+  {
+    "en": "to police sth",
+    "de": "etw überwachen, etw kontrollieren",
+    "info": ""
+  },
+  { "en": "occasional(ly)", "de": "gelegentlich", "info": "" },
+  { "en": "offensive", "de": "beleidigend, anstößig", "info": "" },
+  { "en": "to forge sth", "de": "etw schmieden, etw schaffen", "info": "" },
+  { "en": "cohesive", "de": "einheitlich, geschlossen", "info": "" },
+  { "en": "to ease sth", "de": "etw lindern, etw entschärfen", "info": "" },
+  {
+    "en": "to prevail",
+    "de": "sich durchsetzen, die Oberhand gewinnen",
+    "info": ""
+  },
+  { "en": "disastrous", "de": "katastrophal", "info": "" },
+  { "en": "prosperous", "de": "erfolgreich", "info": "" },
+  { "en": "dire poverty", "de": "äußerste/extreme Armut", "info": "" },
+  { "en": "undocumented", "de": "ohne Papiere", "info": "" },
+  { "en": "guards", "de": "Wachpersonal", "info": "plural" },
+  { "en": "labourer", "de": "(einfache/r) Arbeiter/in", "info": "" },
+  { "en": "employment permit", "de": "Arbeitserlaubnis", "info": "" },
+  { "en": "to deny sth", "de": "etw leugnen, etw bestreiten", "info": "" },
+  { "en": "speedy", "de": "zügig, schnell", "info": "" },
+  { "en": "illiberal", "de": "antiliberal", "info": "" },
+  { "en": "quirk", "de": "(seltsame) Eigenheit, Marotte", "info": "" },
+  { "en": "patriarchal", "de": "patriarchalisch", "info": "" },
+  { "en": "striking", "de": "markant", "info": "" },
+  { "en": "cover picture", "de": "Titelbild", "info": "" },
+  { "en": "editing committee", "de": "Redaktionskomitee", "info": "" },
+  { "en": "issue", "de": "Ausgabe (einer Zeitschrift usw.)", "info": "" },
+  { "en": "editorial meeting", "de": "Redaktionskonferenz", "info": "" },
+  { "en": "apt", "de": "geeignet", "info": "" },
+  { "en": "appealing", "de": "ansprechend, reizvoll", "info": "" },
+  { "en": "to feature sth", "de": "über etw berichten", "info": "" },
+  { "en": "to reclaim sth", "de": "etw zurückverlangen", "info": "" },
+  { "en": "worn", "de": "abgewetzt", "info": "" },
+  { "en": "to outgrow sth", "de": "aus etw herauswachsen", "info": "" },
+  { "en": "subtle", "de": "subtil", "info": "" },
+  {
+    "en": "to make an impression on sb",
+    "de": "einen Eindruck bei jdm hinterlassen",
+    "info": ""
+  },
+  { "en": "to mispronounce sth", "de": "etw falsch aussprechen", "info": "" },
+  { "en": "syllable", "de": "Silbe", "info": "" },
+  {
+    "en": "to roll off (the tongue)",
+    "de": "leicht (von der Zunge) gehen",
+    "info": ""
+  },
+  { "en": "co-worker", "de": "Arbeitskollege/-in", "info": "" },
+  { "en": "to negate sth", "de": "etw zunichtemachen", "info": "" },
+  { "en": "ambivalence", "de": "Zwiespältigkeit", "info": "" },
+  {
+    "en": "to be new territory for sb",
+    "de": "Neuland für jdn sein",
+    "info": ""
+  },
+  {
+    "en": "adjustment (to sth)",
+    "de": "Anpassung (an etw), Einstellung (auf etw)",
+    "info": ""
+  },
+  { "en": "suburb", "de": "Vorort", "info": "" },
+  { "en": "to anglicize sth", "de": "etw anglisieren", "info": "" },
+  {
+    "en": "to mock sb/sth",
+    "de": "sich über jdn/etw lustig machen",
+    "info": ""
+  },
+  {
+    "en": "to come with the territory",
+    "de": "einfach dazugehören",
+    "info": ""
+  },
+  { "en": "roll call", "de": "Namensaufruf", "info": "" },
+  { "en": "bungled", "de": "verkorkst", "info": "" },
+  { "en": "code-switching", "de": "Sprachwechsel", "info": "" },
+  { "en": "to enunciate", "de": "artikulieren", "info": "" },
+  { "en": "in earnest", "de": "ernsthaft", "info": "" },
+  { "en": "to wince", "de": "zusammenzucken", "info": "" },
+  { "en": "sell-out", "de": "Verräter/in", "info": "" },
+  { "en": "Governor", "de": "Gouverneur/in", "info": "" },
+  { "en": "to abbreviate sth", "de": "etw abkürzen", "info": "" },
+  {
+    "en": "with a straight face",
+    "de": "ohne eine Miene zu verziehen",
+    "info": ""
+  },
+  { "en": "to mess sth up", "de": "etw vermurksen, etw versauen", "info": "" },
+  {
+    "en": "to bother to do sth",
+    "de": "sich die Mühe machen, etw zu tun",
+    "info": ""
+  },
+  { "en": "disrespectful(ly)", "de": "unhöflich, respektlos", "info": "" },
+  { "en": "to honor sb/sth", "de": "jdn/etw anerkennen", "info": "" },
+  { "en": "rally", "de": "Kundengebung", "info": "" },
+  { "en": "dismissiveness", "de": "Geringschätzung", "info": "" },
+  { "en": "disdain", "de": "Verachtung", "info": "" },
+  { "en": "thoughtless", "de": "gedankenlos", "info": "" },
+  { "en": "heritage", "de": "Erbe, Geschichte", "info": "" },
+  { "en": "the odd one out", "de": "etw, was nicht dazugehört", "info": "" },
+  {
+    "en": "request (for sth)",
+    "de": "Bitte (um etw), Aufforderung (zu etw)",
+    "info": ""
+  },
+  {
+    "en": "to be supposed to do sth",
+    "de": "etw (eigentlich) tun sollen",
+    "info": ""
+  },
+  {
+    "en": "to link sth with/to sth",
+    "de": "etw mit etw verknüpfen",
+    "info": ""
+  },
+  { "en": "negativity", "de": "negative Aspekte", "info": "" },
+  { "en": "blackness", "de": "Schwarzsein, Schärze", "info": "" },
+  { "en": "positivity", "de": "positive Aspekte", "info": "" },
+  { "en": "whiteness", "de": "Weißsein, Weiße", "info": "" },
+  { "en": "connotations", "de": "Assoziationen, Anklänge", "info": "plural" },
+  { "en": "to reframe sth", "de": "etw umformulieren", "info": "" },
+  { "en": "titled ...", "de": "mit dem Titel ...", "info": "" },
+  { "en": "strong language", "de": "Kraftausdrücke", "info": "" },
+  {
+    "en": "to equip sb with sth",
+    "de": "jdn mit etw ausstatten, jdn mit etw ausrüsten",
+    "info": ""
+  },
+  { "en": "campaigner", "de": "Aktivist/in, Kämpfer/in", "info": "" },
+  { "en": "purity", "de": "Reinheit", "info": "" },
+  { "en": "cleanliness", "de": "Sauberkeit", "info": "" },
+  { "en": "evil", "de": "das Böse", "info": "" },
+  { "en": "to serve to do sth", "de": "dazu dienen, etw zu tun", "info": "" },
+  { "en": "trope", "de": "Motiv, Erzählmuster, Konvention", "info": "" },
+  { "en": "to minorize sb", "de": "jdn minorisieren", "info": "" },
+  { "en": "to blush", "de": "erröten", "info": "" },
+  { "en": "ashen", "de": "aschfahl", "info": "" },
+  {
+    "en": "life-enhancing",
+    "de": "lebensbejahrend, die Lebensqualität verbessernd",
+    "info": ""
+  },
+  { "en": "ethnicity", "de": "ethnische Zugehörigkeit", "info": "" },
+  { "en": "conspiracy theory", "de": "Verschwörungstheorie", "info": "" },
+  { "en": "overuse", "de": "übermäßige Verwendung", "info": "" },
+  { "en": "standalone", "de": "Einzel-, einzeln", "info": "" },
+  { "en": "unavoidable", "de": "unvermeidlich", "info": "" },
+  { "en": "fog", "de": "Nebel", "info": "" },
+  { "en": "latter", "de": "letztere/r/s", "info": "" },
+  { "en": "dehumanising", "de": "entmenschlichend", "info": "" },
+  { "en": "non-profit", "de": "gemeinnützig", "info": "" },
+  { "en": "to be stuck", "de": "festsitzen, feststecken", "info": "" },
+  { "en": "trailblazing", "de": "wegweisend, bahnbrechend", "info": "" },
+  { "en": "upside (to sth)", "de": "Vorteil(e) (von etw)", "info": "" },
+  { "en": "guidance", "de": "Orientierung, Hilfe", "info": "" },
+  { "en": "foundation", "de": "Fundament, Grundlage", "info": "" },
+  { "en": "advocate", "de": "Befürworter/in", "info": "" },
+  {
+    "en": "pitfall",
+    "de": "Fallstrick, Falle, Hauptschwierigkeit",
+    "info": ""
+  },
+  { "en": "hard-working", "de": "fleißig", "info": "" },
+  { "en": "well-meaning", "de": "wohlmeinend", "info": "" },
+  { "en": "sound", "de": "solide, vernünftig", "info": "" },
+  { "en": "principle", "de": "Prinzip", "info": "" },
+  { "en": "robust", "de": "(Argument usw.:) belastbar", "info": "" },
+  {
+    "en": "to compel sb to do sth",
+    "de": "jd zwingen, etw zu tun",
+    "info": ""
+  },
+  { "en": "as a last resort", "de": "als letzten Ausweg", "info": "" },
+  {
+    "en": "armed conflict",
+    "de": "kriegerische Auseinandersetzung",
+    "info": ""
+  },
+  { "en": "humanitarian", "de": "humanitär", "info": "" },
+  { "en": "war-torn", "de": "vom Krieg gezeichnet", "info": "" },
+  { "en": "respectively", "de": "beziehungsweise, jeweils", "info": "" },
+  { "en": "to terrify sb", "de": "jdm Todesangst einflößen", "info": "" },
+  { "en": "to deport sb", "de": "jdn abschieben", "info": "" },
+  { "en": "to persecute sb", "de": "jdn verfolgen", "info": "" },
+  { "en": "smuggler", "de": "Schmuggler/in", "info": "" },
+  { "en": "passage", "de": "Fahrt, Durchreise", "info": "" },
+  { "en": "decrepit", "de": "marode, altersschwach", "info": "" },
+  { "en": "lifeguard", "de": "Seenotretter/in", "info": "" },
+  { "en": "to rescue sb", "de": "jdn retten", "info": "" },
+  { "en": "shelter", "de": "Zufluchtsort", "info": "" },
+  {
+    "en": "to pacify sb",
+    "de": "jdn beschwichtigen, jdn beruhigen",
+    "info": ""
+  },
+  { "en": "deportation", "de": "Abschiebung", "info": "" },
+  { "en": "wire fence", "de": "Drahtzaun", "info": "" },
+  { "en": "to put sth forward", "de": "etw vorbringen", "info": "" },
+  { "en": "processing centre", "de": "Aufnahmezentrum", "info": "" },
+  {
+    "en": "to disperse sb/sth among sth",
+    "de": "jdn/etw auf etw verteilen",
+    "info": ""
+  },
+  { "en": "life-threatening", "de": "lebensbedrohlich", "info": "" },
+  { "en": "seaworthy", "de": "seetüchtig", "info": "" },
+  { "en": "entitled", "de": "mit dem Titel", "info": "" }
+]

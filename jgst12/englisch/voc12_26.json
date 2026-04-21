@@ -1,0 +1,832 @@
+[
+  {
+    "en": "work experience",
+    "de": "(Arbeits-/Berufs-) Praktikum",
+    "info": ""
+  },
+  {
+    "en": "work placement",
+    "de": "Praktikum",
+    "info": ""
+  },
+  {
+    "en": "to gain hands-on experience",
+    "de": "praktische Erfahrung gewinnen",
+    "info": ""
+  },
+  {
+    "en": "field of work",
+    "de": "Fachgebiet, Arbeitsfeld",
+    "info": ""
+  },
+  {
+    "en": "to learn first-hand from sb",
+    "de": "direkt von jdm lernen",
+    "info": ""
+  },
+  {
+    "en": "to develop soft skills",
+    "de": "soziale Kompetenz(en) entwickeln",
+    "info": ""
+  },
+  {
+    "en": "to pursue a career",
+    "de": "einen Beruf ausüben",
+    "info": ""
+  },
+  {
+    "en": "to impress potential employers",
+    "de": "potenzielle Arbeitgeber beeindrucken",
+    "info": ""
+  },
+  {
+    "en": "to showcase one's skills and personal qualities",
+    "de": "die eigenen Fähigkeiten und persönliche Eigenschaften unter Beweis stellen",
+    "info": ""
+  },
+  {
+    "en": "application process",
+    "de": "Bewerbungsverfahren",
+    "info": ""
+  },
+  {
+    "en": "job advert",
+    "de": "Stellenanzeige",
+    "info": ""
+  },
+  {
+    "en": "online application from",
+    "de": "Online-Bewerbungsformular",
+    "info": ""
+  },
+  {
+    "en": "CV",
+    "de": "Lebenslauf",
+    "info": ""
+  },
+  {
+    "en": "letter of motivation",
+    "de": "Motivationsschreiben",
+    "info": ""
+  },
+  {
+    "en": "to shortlist sb",
+    "de": "jdn in die engere Auswahl nehmen",
+    "info": ""
+  },
+  {
+    "en": "applicant",
+    "de": "Bewerber/in",
+    "info": ""
+  },
+  {
+    "en": "job fair",
+    "de": "Jobmesse",
+    "info": ""
+  },
+  {
+    "en": "labour force",
+    "de": "Arbeitskräfte",
+    "info": ""
+  },
+  {
+    "en": "workers's rights pl",
+    "de": "Arbeitnehmerrechte",
+    "info": ""
+  },
+  {
+    "en": "trade union",
+    "de": "Gewerkschaft",
+    "info": ""
+  },
+  {
+    "en": "on sb's behalf",
+    "de": "für jdn, in jds Namen",
+    "info": ""
+  },
+  {
+    "en": "holiday pay",
+    "de": "Urlaubsgeld",
+    "info": ""
+  },
+  {
+    "en": "sick pay",
+    "de": "Krankengeld",
+    "info": ""
+  },
+  {
+    "en": "social security",
+    "de": "Sozialversicherung",
+    "info": ""
+  },
+  {
+    "en": "pension contributions pl",
+    "de": "Arbeitsbedingungen",
+    "info": ""
+  },
+  {
+    "en": "perks pl",
+    "de": "Vergünstigungen",
+    "info": ""
+  },
+  {
+    "en": "childcare",
+    "de": "Kinderbetreuung",
+    "info": ""
+  },
+  {
+    "en": "working from home",
+    "de": "Arbeiten von Zuhause",
+    "info": ""
+  },
+  {
+    "en": "flexitime",
+    "de": "Gleitzeit",
+    "info": ""
+  },
+  {
+    "en": "job security",
+    "de": "sicherer Arbeitsplatz",
+    "info": ""
+  },
+  {
+    "en": "nine-to-five job",
+    "de": "Stelle mit geregeltem Arbeitstag",
+    "info": ""
+  },
+  {
+    "en": "to give way to sth",
+    "de": "einer Sache weichen",
+    "info": ""
+  },
+  {
+    "en": "working life",
+    "de": "Arbeitsleben, Berufsleben",
+    "info": ""
+  },
+  {
+    "en": "blue-collar job",
+    "de": "wenig qualifizierte Arbeit",
+    "info": ""
+  },
+  {
+    "en": "manufacturing industries pl",
+    "de": "verarbeitende Industrie",
+    "info": ""
+  },
+  {
+    "en": "to outsource sth",
+    "de": "etw auslagern",
+    "info": ""
+  },
+  {
+    "en": "low-wage economy",
+    "de": "Niedriglohnland",
+    "info": ""
+  },
+  {
+    "en": "white-collar job",
+    "de": "(qualifizierter) Bürojob",
+    "info": ""
+  },
+  {
+    "en": "gig economy",
+    "de": "Gig-Economy",
+    "info": ""
+  },
+  {
+    "en": "self-employed worker",
+    "de": "selbstständige Arbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "to reduce labour costs",
+    "de": "Arbeitskosten senken",
+    "info": ""
+  },
+  {
+    "en": "menial job",
+    "de": "niedere Tätigkeit, Hilfsarbeit",
+    "info": ""
+  },
+  {
+    "en": "contractor",
+    "de": "Auftragnehmer/in",
+    "info": ""
+  },
+  {
+    "en": "legal protection",
+    "de": "rechtliche Absicherung, Rechtsschutz",
+    "info": ""
+  },
+  {
+    "en": "minimum wage",
+    "de": "Mindestlohn",
+    "info": ""
+  },
+  {
+    "en": "remote working",
+    "de": "mobiles/ortsungebundenes Arbeiten",
+    "info": ""
+  },
+  {
+    "en": "to make savings on sth",
+    "de": "Einsparungen bei etw erzielen",
+    "info": ""
+  },
+  {
+    "en": "airline industry",
+    "de": "Luftfahrtbranche",
+    "info": ""
+  },
+  {
+    "en": "security guard",
+    "de": "Sicherheitsmitarbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "sales(department)",
+    "de": "Verkauf(sabteilung)",
+    "info": ""
+  },
+  {
+    "en": "to stick to sth",
+    "de": "sich an etw halten",
+    "info": ""
+  },
+  {
+    "en": "unskilled worker",
+    "de": "ungelernte/r Arbeiter/in",
+    "info": ""
+  },
+  {
+    "en": "retirement",
+    "de": "Ruhestand, Rente",
+    "info": ""
+  },
+  {
+    "en": "sub-heading",
+    "de": "Unterabschnitt",
+    "info": ""
+  },
+  {
+    "en": "company car",
+    "de": "Firmenwagen",
+    "info": ""
+  },
+  {
+    "en": "job satisfaction",
+    "de": "Arbeitszufriedenheit",
+    "info": ""
+  },
+  {
+    "en": "to commute",
+    "de": "zur Arbeit fahren",
+    "info": ""
+  },
+  {
+    "en": "promotion prospects pl",
+    "de": "Aufstiegschancen",
+    "info": ""
+  },
+  {
+    "en": "snow globe",
+    "de": "Schneekugel",
+    "info": ""
+  },
+  {
+    "en": "driverless",
+    "de": "fahrerlos",
+    "info": ""
+  },
+  {
+    "en": "the professional class",
+    "de": "die Schicht der Facharbeiter und Angestellten",
+    "info": ""
+  },
+  {
+    "en": "thanks to",
+    "de": "dank",
+    "info": ""
+  },
+  {
+    "en": "makeshift",
+    "de": "behelfsmäßig, improvisiert",
+    "info": ""
+  },
+  {
+    "en": "to shake sth up",
+    "de": "etw umkrempeln",
+    "info": ""
+  },
+  {
+    "en": "shifting tectonic plates",
+    "de": "tektonische Verschiebung",
+    "info": ""
+  },
+  {
+    "en": "to grind",
+    "de": "mahlen, sich reiben",
+    "info": ""
+  },
+  {
+    "en": "epic",
+    "de": "monumental, epochal",
+    "info": ""
+  },
+  {
+    "en": "recognition",
+    "de": "Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "astonishment",
+    "de": "Staunen",
+    "info": ""
+  },
+  {
+    "en": "to take hold",
+    "de": "sich breitmachen",
+    "info": ""
+  },
+  {
+    "en": "to lift the lid on sth",
+    "de": "etw ans Licht bringen",
+    "info": ""
+  },
+  {
+    "en": "resignation",
+    "de": "Kündigung",
+    "info": ""
+  },
+  {
+    "en": "to resign",
+    "de": "kündigen",
+    "info": ""
+  },
+  {
+    "en": "en masse",
+    "de": "massenhaft, en masse",
+    "info": ""
+  },
+  {
+    "en": "reduction (in sth)",
+    "de": "Reduzierung",
+    "info": ""
+  },
+  {
+    "en": "corporate property rents pl",
+    "de": "Gewerbemieten",
+    "info": ""
+  },
+  {
+    "en": "office space",
+    "de": "Bürofläche(n)",
+    "info": ""
+  },
+  {
+    "en": "competitor",
+    "de": "Konkurrent/in",
+    "info": ""
+  },
+  {
+    "en": "on a hybrid basis",
+    "de": "gemischt",
+    "info": ""
+  },
+  {
+    "en": "to take sth for granted",
+    "de": "etw als selbstverständlich erachten",
+    "info": ""
+  },
+  {
+    "en": "cobwebs pl",
+    "de": "Spinnweben",
+    "info": ""
+  },
+  {
+    "en": "stale",
+    "de": "abgestanden, muffig",
+    "info": ""
+  },
+  {
+    "en": "presenteeism",
+    "de": "Anwesenheitszwang",
+    "info": ""
+  },
+  {
+    "en": "to be around",
+    "de": "da sein",
+    "info": ""
+  },
+  {
+    "en": "transparent",
+    "de": "transparent",
+    "info": ""
+  },
+  {
+    "en": "case",
+    "de": "Behälter, Hülle",
+    "info": ""
+  },
+  {
+    "en": "enduring",
+    "de": "fortwährend",
+    "info": ""
+  },
+  {
+    "en": "permanence",
+    "de": "Beständigkeit",
+    "info": ""
+  },
+  {
+    "en": "certainty",
+    "de": "Gewissheit",
+    "info": ""
+  },
+  {
+    "en": "distraction",
+    "de": "Ablenkung",
+    "info": ""
+  },
+  {
+    "en": "to swirl around",
+    "de": "herumwirbeln",
+    "info": ""
+  },
+  {
+    "en": "to settle back",
+    "de": "sich wieder beruhigen",
+    "info": ""
+  },
+  {
+    "en": "PA (personal assistant)",
+    "de": "persönliche/r Assistent/in",
+    "info": ""
+  },
+  {
+    "en": "consultant",
+    "de": "Berater/in",
+    "info": ""
+  },
+  {
+    "en": "freelancer",
+    "de": "Selbstständige/r",
+    "info": ""
+  },
+  {
+    "en": "to reset sth",
+    "de": "etw neu einstellen",
+    "info": ""
+  },
+  {
+    "en": "scary",
+    "de": "gruselig, beängstigend",
+    "info": ""
+  },
+  {
+    "en": "mass unemployment",
+    "de": "Massenarbeitslosigkeit",
+    "info": ""
+  },
+  {
+    "en": "dissatisfaction",
+    "de": "Unzufriedenheit",
+    "info": ""
+  },
+  {
+    "en": "managerial",
+    "de": "leitend, Führungs-",
+    "info": ""
+  },
+  {
+    "en": "competitive",
+    "de": "günstig, konkurrenzfähig",
+    "info": ""
+  },
+  {
+    "en": "diversity",
+    "de": "Vielfalt, Diversität",
+    "info": ""
+  },
+  {
+    "en": "to thrive",
+    "de": "gedeihen, aufblühen",
+    "info": ""
+  },
+  {
+    "en": "gross",
+    "de": "brutto",
+    "info": ""
+  },
+  {
+    "en": "hourly earnings pl",
+    "de": "Stundenlohn",
+    "info": ""
+  },
+  {
+    "en": "to widen",
+    "de": "sich weiten",
+    "info": ""
+  },
+  {
+    "en": "rate of progress",
+    "de": "Steigerungsrate",
+    "info": ""
+  },
+  {
+    "en": "gender divide",
+    "de": "Geschlechtergefälle",
+    "info": ""
+  },
+  {
+    "en": "gulf",
+    "de": "Kluft",
+    "info": ""
+  },
+  {
+    "en": "remuneration",
+    "de": "Vergütung",
+    "info": ""
+  },
+  {
+    "en": "maternity leave",
+    "de": "Mutterschutz(urlaub), Elternzeit",
+    "info": ""
+  },
+  {
+    "en": "leave",
+    "de": "Urlaub, Freistellung",
+    "info": ""
+  },
+  {
+    "en": "the bulk of sth",
+    "de": "den größten Teil von etw",
+    "info": ""
+  },
+  {
+    "en": "to take the financial hit",
+    "de": "finanzielle Einbußen erleiden",
+    "info": ""
+  },
+  {
+    "en": "chair",
+    "de": "Vorsitzende/r",
+    "info": ""
+  },
+  {
+    "en": "House of Commons",
+    "de": "Unterhaus (des brit. Parlaments)",
+    "info": ""
+  },
+  {
+    "en": "motherhood",
+    "de": "Mutterschaft",
+    "info": ""
+  },
+  {
+    "en": "penalty",
+    "de": "Nachteil, Preis (für etw)",
+    "info": ""
+  },
+  {
+    "en": "reading",
+    "de": "Lektüre, Lesestoff",
+    "info": ""
+  },
+  {
+    "en": "promotion",
+    "de": "Beförderung",
+    "info": ""
+  },
+  {
+    "en": "disgraceful",
+    "de": "beschämend, erbärmlich",
+    "info": ""
+  },
+  {
+    "en": "glaring",
+    "de": "eklatant, krass",
+    "info": ""
+  },
+  {
+    "en": "to fail sb",
+    "de": "jdn im Stich lassen",
+    "info": ""
+  },
+  {
+    "en": "equivalent",
+    "de": "Gegenwert",
+    "info": ""
+  },
+  {
+    "en": "to dominate sb/sth",
+    "de": "jdn/etw beherrschen",
+    "info": ""
+  },
+  {
+    "en": "to persist",
+    "de": "fortbestehen",
+    "info": ""
+  },
+  {
+    "en": "to comply with sth",
+    "de": "etw befolgen",
+    "info": ""
+  },
+  {
+    "en": "to fine sb",
+    "de": "jdn mit einer Geldstrafe bestrafen",
+    "info": ""
+  },
+  {
+    "en": "founder",
+    "de": "Gründer/in",
+    "info": ""
+  },
+  {
+    "en": "pregnant",
+    "de": "schwanger",
+    "info": ""
+  },
+  {
+    "en": "to screw sb",
+    "de": "jdn verarschen, jdn vögeln",
+    "info": "vulgär (sexuell) / umgangssprachlich"
+  },
+  {
+    "en": "to be uncommitted to sth",
+    "de": "sich nicht hundertprozentig für etw engagieren",
+    "info": ""
+  },
+  {
+    "en": "judging from sth",
+    "de": "nach etw zu urteilen",
+    "info": ""
+  },
+  {
+    "en": "approximately",
+    "de": "ungefähr, zirka",
+    "info": ""
+  },
+  {
+    "en": "childbirth",
+    "de": "Entbindung, Geburt eines Kindes",
+    "info": ""
+  },
+  {
+    "en": "to rejoin the workforce",
+    "de": "in die Arbeitswelt zurückkehren",
+    "info": ""
+  },
+  {
+    "en": "programme",
+    "de": "(Radio-/TV-) Sendung",
+    "info": "BrE"
+  },
+  {
+    "en": "Houses pl of Parliament",
+    "de": "Parlamentsgebäude",
+    "info": ""
+  },
+  {
+    "en": "to commemorate sb",
+    "de": "einer Person gedenken",
+    "info": ""
+  },
+  {
+    "en": "solitary",
+    "de": "einzeln, allein stehend",
+    "info": ""
+  },
+  {
+    "en": "to erect sth",
+    "de": "etw errichten, etw aufstellen",
+    "info": ""
+  },
+  {
+    "en": "to mark an anniversary",
+    "de": "anlässlich eines Jahrestag/Jubiläums",
+    "info": ""
+  },
+  {
+    "en": "to get the vote",
+    "de": "das Wahlrecht bekommen",
+    "info": ""
+  },
+  {
+    "en": "to be central to sth",
+    "de": "allgemeine Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "universal acceptance",
+    "de": "allgemeine Anerkennung",
+    "info": ""
+  },
+  {
+    "en": "to exercise a right",
+    "de": "ein Recht wahrnehmen",
+    "info": ""
+  },
+  {
+    "en": "static",
+    "de": "atatisch",
+    "info": ""
+  },
+  {
+    "en": "to narrow sth",
+    "de": "etw schließen",
+    "info": ""
+  },
+  {
+    "en": "occupational segregation",
+    "de": "geschlechtsspezifische/s Ungleichgewicht im Beruf",
+    "info": ""
+  },
+  {
+    "en": "caring profession",
+    "de": "Pflegeberuf(e)",
+    "info": ""
+  },
+  {
+    "en": "workplace",
+    "de": "Arbeitsplatz",
+    "info": ""
+  },
+  {
+    "en": "prime minister",
+    "de": "Premierminister/in",
+    "info": ""
+  },
+  {
+    "en": "manual labour",
+    "de": "körperliche Arbeit, Handarbeit",
+    "info": ""
+  },
+  {
+    "en": "to prove to be sth",
+    "de": "sich als etw erweisen",
+    "info": ""
+  },
+  {
+    "en": "the Lord",
+    "de": "der Herr",
+    "info": ""
+  },
+  {
+    "en": "division of labour",
+    "de": "Arbeitsteilung",
+    "info": ""
+  },
+  {
+    "en": "rate of pay",
+    "de": "Lohn, Lohnsatz",
+    "info": ""
+  },
+  {
+    "en": "emphasis",
+    "de": "Betonung, Schwerpunkt",
+    "info": ""
+  },
+  {
+    "en": "to set sb free",
+    "de": "jdn befreien",
+    "info": ""
+  },
+  {
+    "en": "ability",
+    "de": "Leistungsfähigkeit",
+    "info": ""
+  },
+  {
+    "en": "board (of directors)",
+    "de": "Vorstand, Geschäftsführung",
+    "info": ""
+  },
+  {
+    "en": "proactive",
+    "de": "in Eigeninitiative",
+    "info": ""
+  },
+  {
+    "en": "binding",
+    "de": "bindend, verpflichtend",
+    "info": ""
+  },
+  {
+    "en": "varied",
+    "de": "abwechslungsreich",
+    "info": ""
+  },
+  {
+    "en": "thought-provoking",
+    "de": "zum Nachdenken anregend",
+    "info": ""
+  },
+  {
+    "en": "gripping",
+    "de": "packend, fesselnd",
+    "info": ""
+  }
+]
